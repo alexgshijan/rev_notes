@@ -1,0 +1,19 @@
+{
+  "obsidian-pandoc:pandoc-export-html": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "E"
+    }
+  ],
+  "markdown:toggle-preview": [],
+  "obsidian-chartsview-plugin:chartsview-wizard": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "A"
+    }
+  ]
+}

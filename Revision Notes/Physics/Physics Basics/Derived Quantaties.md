@@ -1,0 +1,35 @@
+ All other quantities are derived quantities and are based on two or more of the [[Base Quantities]] , derived using an equation. Refer to the [[Rules of Indicies]] 
+
+Derived Quantity Examples : 
+- Velocity
+	- Formula : $\frac{Δl}{t}$
+	- $Δl$ has the units $m$,  $t$ has the units s
+	- Therefore the units becomes $\frac{m}{s}$, which using indice rules, we turn into $ms^{-1}$
+- Acceleration
+	- Formula : $\frac{Δv}{t}$
+	- $Δv$ has the units $ms^{-1}$, $t$ has the units s
+	- Therefore the units becomes $\frac{ms^{-1}}{s}$, then $ms^{-2}$
+- Force
+	- Formula : $F=ma$
+	- $m$ has the units $kg$, $a$ has the units $ms^{-2}$
+	- Therefore the units becomes $kgms^{-2}$
+- Pressure
+	- Formula : $\frac{F}{A}$
+	- $F$ has the units $kgms^{-2}$, $A$ has the units $m^2$
+	- Therefore the units becomes $\frac{kgms^{-2}}{m^2}$, then $kgm^{-1}s^{-2}$
+- Work / Energy
+	- Formula : $W =Fd$
+	- $F$ has the units $kgms^{-2}$, $d$ has the units $m$
+	- Therefore the units becomes $kgm^2s^{-2}$
+- Power
+	- Formula : $\frac{E}{t}$
+	- $E$ has the units $kgm^2s^{-2}$, $t$ has the units s
+	- Therefore the units becomes $\frac{kgm^2s^{-2}}{s}$, then $kgm^2s^{-3}$
+- Voltage
+	- Formula : $\frac{P}{I}$
+	- $P$ has the units $kgm^2s^{-3}$, $I$ has the units $A$
+	- Therefor the units becomes $\frac{kgm^2s^{-3}}{A}$, then $kgm^2s^{-3}A^{-1}$
+- Resistance
+	- Formula : $\frac{V}{I}$
+	- $V$ has the units $kgm^2s^{-3}A^{-1}$, $I$ has the units $A$
+	- Therefore the units becomes $\frac{kgm^2s^{-3}A^{-1}}{A}$, then $kgm^2s^{-3}A^{-2}$

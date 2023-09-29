@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "289d8c219544aaa2",
+    "type": "split",
+    "children": [
+      {
+        "id": "a6fa7399e35ce2a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d86ce2961f40678",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a3e7c6b2b2cec8ba",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ece8e64c0eadb374",
+    "type": "split",
+    "children": [
+      {
+        "id": "a6a45320b00e54c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de7d5c11a53ffbd9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5b419fbe7200b3ff",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "wip",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2017084900b8fd08",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8956f1c226c0ad0f",
+    "type": "split",
+    "children": [
+      {
+        "id": "1da6fb2c83cb3988",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "954b228cadb7096c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d76ccb01d26aa053",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d1b5547b5697cea0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "689e516171c0a313",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "index.md"
+              }
+            }
+          },
+          {
+            "id": "e71d69694f77585d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          },
+          {
+            "id": "31986962dc9ea9e9",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {}
+            }
+          },
+          {
+            "id": "835a28f98d5af43d",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "webpage-html-export:Export Vault to HTML": false
+    }
+  },
+  "active": "0d86ce2961f40678",
+  "lastOpenFiles": [
+    "Physics/Physics Basics/Physics Basics.md",
+    "Physics/Physics.md",
+    "index.md",
+    "Maths/GCSE maths concepts/Turning decimals into fractions.md",
+    "Maths/Algebra/Simultaneous Equations.md",
+    "Maths/Algebra/Quadratics/The nature of roots.md",
+    "Physics/Solids under stress/Topic Keywords.md",
+    "Physics/Solids under stress/Stress and Strain.md",
+    "Physics/Solids under stress/Solids under stress.md",
+    "Physics/Solids under stress/Hooke's Law.md",
+    "Physics/Physics Basics/Vector Composites.md",
+    "Physics/Physics Basics/Unit Prefixes.md",
+    "Physics/Physics Basics/Uncertainty.md",
+    "Physics/Physics Basics/Topic Keywords.md",
+    "Physics/Physics Basics/Moment or Torque.md",
+    "Physics/Physics Basics/Homogeneity.md",
+    "Physics/Physics Basics/Errors.md",
+    "Physics/Physics Basics/Derived Quantaties.md",
+    "Physics/Physics Basics/Base Quantities.md",
+    "Physics/Physics Basics/\"Maths is useless, unless its for physics\".md",
+    "Maths/Maths.md",
+    "Maths/Notation and Proof/Set Theory Symbols.md",
+    "Maths/Notation and Proof/Notation and Proof.md",
+    "Maths/GCSE maths concepts/Trig + Pythagoras.md",
+    "Maths/GCSE maths concepts/GCSE maths concepts.md",
+    "Maths/GCSE maths concepts/Difference of two squares.md",
+    "Image Excercpts/TCPIP-Stack.png",
+    "Image Excercpts/TCPIP-Stack-datatransfer.png",
+    "Computer Science/code_excerpts/tkinter_w_dictionary_savefile.p",
+    "Computer Science/Python Download Files/tkinter_3.py",
+    "Computer Science/Python Download Files/introduction_to_tkinter.py",
+    "Computer Science/Python Download Files/tkinter_w_dictionaries.py",
+    "Computer Science/Python Download Files/tkinter_flashcard_improved.py",
+    "Computer Science/Python Download Files/tkinter_flashcard.py",
+    "Computer Science/Python Download Files/introduction_to_tkinter.png",
+    "Computer Science/tkinter_w_dictionary_savefile.p",
+    "Computer Science/code_excerpts/tkinter_w/_dictionaireies.py",
+    "Computer Science/code_excerpts/tkinter_w",
+    "Physics/Physics Basics",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Computer Science/code_excerpts/import_tkinter.png"
+  ]
+}

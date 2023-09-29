@@ -1,0 +1,15 @@
+- ALU
+	- Arithmetic and logic unit
+	- Deals with mathematical and logical operations
+- Control unit
+	- Sends information to and from the CPU
+	- Controls the different parts of the CPU and decodes instructions before they are executed
+- Registers
+	- Temporary storage for important instruction data during the fetch-execute cycle
+	- Program counter, memory address register, memory data register, accumulator, current instruction register
+- Cache
+	- Extremely fast temporary memory (faster than RAM)
+	- Stores recently used instructions to save repeated retrieval from RAM
+- Buses
+	- Data bus, control bus and address bus
+	- Transfers information between different parts of the PC

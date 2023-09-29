@@ -1,0 +1,15 @@
+- Multiple Cores : 
+	- Having 2 or more cores in a PC allows for double/triple/quadruple the processing power 
+	- This means that more instructions can be processed at any one time
+	- Some programs can be split up to best take advantage of this
+- Faster Clock Speed : 
+	- The more fetch-decode-execute cycles that can happen per second, the faster the CPU will operate
+- More RAM : 
+	- This will allow the PC to have more programs open at any one time by having more room for currently running programs. 
+	- If there wasn’t much RAM, the PC would have to swap programs in and out of RAM and the hard drive which takes a lot of time
+- Parallel Processing :
+	- Another thing that can improve performance is to process things in parallel 
+	- In a computer with 2 or more cores (virtual or physical), it is sometimes possible to split programs up into multiple different “threads” which can be processed at the same time 
+	- A program has to be designed in such a way as to allow for this however which makes it more complicated to code, and not all programs can be split up
+	-  This is partly why having more cores improves performance, as a task could possibly be completed quicker by doing different parts of it at the same time 
+	- It is rarely the case that double the cores means double the speed however, and there are often problems caused by the CPU waiting for the results of calculations to come back from the different threads

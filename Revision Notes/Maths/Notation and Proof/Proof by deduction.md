@@ -1,0 +1,1 @@
+*This is the 'best' type of proof as we can use algebra to prove the statement for all possible values*

@@ -1,0 +1,9 @@
+{
+  "version": "0.6.6",
+  "use_legacy_desmos_api": true,
+  "cache": {
+    "enabled": true,
+    "location": "Filesystem",
+    "directory": "-Excerpts/Graph"
+  }
+}

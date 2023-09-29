@@ -1,0 +1,18 @@
+{
+  "copySettings": {
+    "defaultShow": {
+      "title": false,
+      "author": false
+    },
+    "showMobileButton": false
+  },
+  "index": [
+    {
+      "sourceFile": "-Excerpts/Python/tkinter_3_activity_2.py",
+      "subPath": "",
+      "ranges": [],
+      "refFile": "Computer Science/Prac/Tkinter/Introduction to Tkinter.md",
+      "refIdx": 0
+    }
+  ]
+}
