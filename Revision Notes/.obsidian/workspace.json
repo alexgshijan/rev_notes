@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Physics/Physics Basics/Moments/Center of Gravity.md",
                 "mode": "preview",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Physics/Physics Basics/Moments/Center of Gravity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Physics/Physics Basics/Moments/Center of Gravity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Physics/Physics Basics/Moments/Center of Gravity.md"
               }
             }
           },
@@ -184,12 +184,10 @@
   },
   "active": "0d86ce2961f40678",
   "lastOpenFiles": [
-    "Physics/Physics Basics/Physics Basics.md",
-    "Physics/Physics.md",
+    "Physics/Physics Basics/Moments/Moment or Torque.md",
+    "Physics/Physics Basics/Moments/Moments.md",
     "index.md",
-    "Maths/GCSE maths concepts/Turning decimals into fractions.md",
-    "Maths/Algebra/Simultaneous Equations.md",
-    "Maths/Algebra/Quadratics/The nature of roots.md",
+    "Physics/Physics.md",
     "Physics/Solids under stress/Topic Keywords.md",
     "Physics/Solids under stress/Stress and Strain.md",
     "Physics/Solids under stress/Solids under stress.md",
@@ -198,18 +196,20 @@
     "Physics/Physics Basics/Unit Prefixes.md",
     "Physics/Physics Basics/Uncertainty.md",
     "Physics/Physics Basics/Topic Keywords.md",
-    "Physics/Physics Basics/Moment or Torque.md",
+    "Physics/Physics Basics/Physics Basics.md",
     "Physics/Physics Basics/Homogeneity.md",
     "Physics/Physics Basics/Errors.md",
     "Physics/Physics Basics/Derived Quantaties.md",
     "Physics/Physics Basics/Base Quantities.md",
     "Physics/Physics Basics/\"Maths is useless, unless its for physics\".md",
+    "Physics/Physics Basics/Moments/Center of Gravity.md",
     "Maths/Maths.md",
     "Maths/Notation and Proof/Set Theory Symbols.md",
+    "Maths/Notation and Proof/Proof by exhaustion.md",
+    "Maths/Notation and Proof/Proof by deduction.md",
     "Maths/Notation and Proof/Notation and Proof.md",
+    "Maths/Notation and Proof/Disproof by counter example.md",
     "Maths/GCSE maths concepts/Trig + Pythagoras.md",
-    "Maths/GCSE maths concepts/GCSE maths concepts.md",
-    "Maths/GCSE maths concepts/Difference of two squares.md",
     "Image Excercpts/TCPIP-Stack.png",
     "Image Excercpts/TCPIP-Stack-datatransfer.png",
     "Computer Science/code_excerpts/tkinter_w_dictionary_savefile.p",
