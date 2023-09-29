@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "24e2e60d17bf89c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Theory/Hardware and communication/Hardware and communication.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "a3e7c6b2b2cec8ba",
             "type": "leaf",
             "state": {
@@ -27,7 +39,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Theory/Hardware and communication/Networking/Types of Networks.md",
+                "file": "Computer Science/Theory/Hardware and communication/Hardware and communication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Theory/Hardware and communication/Networking/Types of Networks.md",
+                "file": "Computer Science/Theory/Hardware and communication/Hardware and communication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Theory/Hardware and communication/Networking/Types of Networks.md"
+                "file": "Computer Science/Theory/Hardware and communication/Hardware and communication.md"
               }
             }
           },
@@ -183,11 +196,15 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "0d86ce2961f40678",
+  "active": "24e2e60d17bf89c7",
   "lastOpenFiles": [
+    "Computer Science/Theory/Hardware and communication/Networking/Untitled.md",
+    "Computer Science/Theory/Hardware and communication/Hardware and communication.md",
+    "Computer Science/Theory/Logical Operators/Logical Operators.md",
+    "Computer Science/Prac/Prac.md",
+    "Computer Science/Theory/Hardware and communication/Networking/Types of Networks.md",
     "Computer Science/Theory/Hardware and communication/Networking/TCP-IP Protocol.md",
     "Computer Science/Theory/Hardware and communication/Networking/Networking.md",
-    "Computer Science/Theory/Hardware and communication/Hardware and communication.md",
     "Computer Science/Theory/Theory.md",
     "Computer Science/Computer Science.md",
     "Maths/Maths.md",
@@ -207,10 +224,6 @@
     "Physics/Physics Basics/Unit Prefixes.md",
     "Physics/Physics Basics/Uncertainty.md",
     "Physics/Physics Basics/Topic Keywords.md",
-    "Physics/Physics Basics/Physics Basics.md",
-    "Physics/Physics Basics/Homogeneity.md",
-    "Physics/Physics Basics/Errors.md",
-    "Physics/Physics Basics/Derived Quantaties.md",
     "Image Excercpts/TCPIP-Stack.png",
     "Image Excercpts/TCPIP-Stack-datatransfer.png",
     "Computer Science/code_excerpts/tkinter_w_dictionary_savefile.p",
