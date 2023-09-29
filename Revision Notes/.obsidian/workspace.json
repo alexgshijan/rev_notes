@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Physics Basics/Moments/Center of Gravity.md",
-                "mode": "preview",
+                "file": "Computer Science/Theory/Hardware and communication/Networking/Types of Networks.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Physics Basics/Moments/Center of Gravity.md",
+                "file": "Computer Science/Theory/Hardware and communication/Networking/Types of Networks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/Physics Basics/Moments/Center of Gravity.md",
+                "file": "Computer Science/Theory/Hardware and communication/Networking/Types of Networks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/Physics Basics/Moments/Center of Gravity.md"
+                "file": "Computer Science/Theory/Hardware and communication/Networking/Types of Networks.md"
               }
             }
           },
@@ -179,14 +179,25 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
-      "webpage-html-export:Export Vault to HTML": false
+      "webpage-html-export:Export Vault to HTML": false,
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
   "active": "0d86ce2961f40678",
   "lastOpenFiles": [
-    "Physics/Physics Basics/Moments/Moment or Torque.md",
-    "Physics/Physics Basics/Moments/Moments.md",
+    "Computer Science/Theory/Hardware and communication/Networking/TCP-IP Protocol.md",
+    "Computer Science/Theory/Hardware and communication/Networking/Networking.md",
+    "Computer Science/Theory/Hardware and communication/Hardware and communication.md",
+    "Computer Science/Theory/Theory.md",
+    "Computer Science/Computer Science.md",
+    "Maths/Maths.md",
+    "Maths/Algebra/Algebra.md",
+    "Maths/Algebra/Quadratics/Completing the Square.md",
     "index.md",
+    "z_Excerpts/z_Excerpts.md",
+    "z_Excerpts/Python/Python.md",
+    "z_Excerpts/Image/Image.md",
+    "z_Excerpts/Graph/Graph.md",
     "Physics/Physics.md",
     "Physics/Solids under stress/Topic Keywords.md",
     "Physics/Solids under stress/Stress and Strain.md",
@@ -200,16 +211,6 @@
     "Physics/Physics Basics/Homogeneity.md",
     "Physics/Physics Basics/Errors.md",
     "Physics/Physics Basics/Derived Quantaties.md",
-    "Physics/Physics Basics/Base Quantities.md",
-    "Physics/Physics Basics/\"Maths is useless, unless its for physics\".md",
-    "Physics/Physics Basics/Moments/Center of Gravity.md",
-    "Maths/Maths.md",
-    "Maths/Notation and Proof/Set Theory Symbols.md",
-    "Maths/Notation and Proof/Proof by exhaustion.md",
-    "Maths/Notation and Proof/Proof by deduction.md",
-    "Maths/Notation and Proof/Notation and Proof.md",
-    "Maths/Notation and Proof/Disproof by counter example.md",
-    "Maths/GCSE maths concepts/Trig + Pythagoras.md",
     "Image Excercpts/TCPIP-Stack.png",
     "Image Excercpts/TCPIP-Stack-datatransfer.png",
     "Computer Science/code_excerpts/tkinter_w_dictionary_savefile.p",

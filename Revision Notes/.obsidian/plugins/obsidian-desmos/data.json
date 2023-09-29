@@ -4,6 +4,6 @@
   "cache": {
     "enabled": true,
     "location": "Filesystem",
-    "directory": "-Excerpts/Graph"
+    "directory": "z_Excerpts/Graph"
   }
 }
