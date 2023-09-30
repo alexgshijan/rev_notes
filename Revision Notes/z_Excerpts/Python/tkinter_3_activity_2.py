@@ -71,3 +71,4 @@ Button(wd, text = 'SUBMIT', command = button_click).pack()
 
 # This runs the GUI and acts as a garbage collector for all interactions
 wd.mainloop()
+

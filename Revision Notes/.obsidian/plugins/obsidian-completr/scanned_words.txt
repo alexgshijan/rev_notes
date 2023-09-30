@@ -309,6 +309,7 @@ crZ
 cJ
 cgU
 cpUx
+chords
 Where
 Word
 Work
@@ -1675,6 +1676,7 @@ dRa
 dG
 dAL
 dq
+diameter
 To
 The
 This
@@ -2236,6 +2238,7 @@ bAm
 bGD
 bm
 bp
+bisectors
 applied
 area
 also
@@ -4176,6 +4179,7 @@ paint
 px
 pryd
 pN
+plotted
 value
 values
 volatile
