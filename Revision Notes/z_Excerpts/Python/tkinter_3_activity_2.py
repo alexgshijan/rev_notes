@@ -5,7 +5,7 @@ from tkinter import *
 
 # This function is called when the user clicks on the button. This functions --
 # gives the program a chance to read in the entered values
-def button_click():
+def submit_click():
     hobbies_text = ""
     if reading.get() == 1: hobbies_text += ("Reading, ")
     if sports.get() == 1: hobbies_text += ("Sports, ")
@@ -19,6 +19,13 @@ def button_click():
     output_text_thing = f"Questionaire Values\nName : {name_entry.get()}\nAge : {age.get()}\nGender : {gender_txt}\nHobbies : {hobbies_text[:-2]}"
     output_text.delete(0.0, END)
     output_text.insert(END, output_text_thing)
+
+
+def load_click():
+    return
+
+def save_click():
+    return
 
 
 wd = Tk()
@@ -67,8 +74,8 @@ output_text.pack()
 
 # This creates a button object, when clicked it activates a function --
 # We could also use lamda to add more functionality to the button click
-Button(wd, text = 'SUBMIT', command = button_click).pack()
-
+Button(wd, text = 'SUBMIT', command = submit_click).pack()
+Button(wd, text = 'SAVE', command = save_click).pack()
+Button(wd, text = 'LOAD', command = load_click).pack()
 # This runs the GUI and acts as a garbage collector for all interactions
 wd.mainloop()
-
