@@ -1,4 +1,3 @@
-
 - Hookes Law's  - **The tension in a spring or wire is proportional to its extension from its natural length, provided the extension is not too great**
 - Plastic - **A material deformed after force is applied and then taken away**
 - Elastic - **A material that returns to it's original form after force is applied and then taken away**

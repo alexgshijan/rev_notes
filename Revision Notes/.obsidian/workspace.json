@@ -73,6 +73,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "z_Excerpts/Homework/Homework.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "58999c1d98d2c0ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Maths/Coordinate Geometry/Differentiation/Differentiation from first princples.md",
                 "mode": "source",
                 "source": false
@@ -88,7 +100,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -225,54 +237,55 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "8b80e9aadcc99434",
+  "active": "58999c1d98d2c0ae",
   "lastOpenFiles": [
-    "Maths/Coordinate Geometry/Differentiation/Differentiation from first princples.md",
-    "index.md",
-    "z_Excerpts/z_Excerpts.md",
-    "z_Excerpts/Python/Python.md",
-    "z_Excerpts/Image/Image.md",
+    "Maths/Coordinate Geometry/Differentiation/Differentiation.md",
+    "Maths/Coordinate Geometry/Circles/Touching Circles.md",
+    "Maths/Algebra/Quadratics/Disguised Quadratics.md",
+    "Maths/Algebra/Quadratics/Quadratics.md",
+    "Maths/Algebra/Quadratics/Sketching Curves.md",
     "z_Excerpts/Graph/Graph.md",
-    "Physics/Physics.md",
+    "z_Excerpts/Graph/desmos-graph-67b32271f00ee033d2b88acdc14675f5095ff2e910d75f7b4aebf3be3e488ccc.svg",
+    "z_Excerpts/Graph/desmos-graph-02492d655a36a45a7f11a9a50cbb2ec41f9e14f818b094118658ddb69545812f.svg",
+    "z_Excerpts/Graph/desmos-graph-adf5a9987a6aa513587d5cef97cbfd3a1fd9fccbc7605b263ca620d0a0fc2869.svg",
+    "z_Excerpts/Graph/desmos-graph-ca0d88c04afc49d4b17592bdfbd09a32757be2c1aeff69bd5e555947c07ee3b2.svg",
+    "z_Excerpts/Graph/desmos-graph-e156a3663f302c27a3f7f7def7cc9d18c956a3aab7f89c6032e2b484c575f628.svg",
+    "z_Excerpts/Graph/desmos-graph-f5136915f92e83dd234b0a9949c31dacfe8d54696d77fa1b4e73c68fa1e997ed.svg",
+    "z_Excerpts/Graph/desmos-graph-d5e4f5f9a06ece4e2aa11fa7d7adb4bd20fd59a17503a02e83777c6d068ea9f9.svg",
+    "z_Excerpts/Graph/desmos-graph-47411e058913eeff78c324b711c1a3e67432cacda10ae01f871f5a5221095309.svg",
+    "z_Excerpts/Graph/desmos-graph-17110ca962990bcd754fbeef0196a523322d59479ab3fa1633d883634864853e.svg",
+    "z_Excerpts/Image/TCPIP-Stack.png",
+    "z_Excerpts/Image/Image.md",
+    "Physics/Moments/Center of Gravity.md",
+    "z_Excerpts/Homework/Homework.md",
+    "z_Excerpts/Homework/4Oct - Mr Toye - Moments.md",
     "Physics/Solids under stress/Topic Keywords.md",
-    "Physics/Solids under stress/Stress and Strain.md",
+    "Physics/Moments/Moments.md",
+    "Physics/Moments/Moment or Torque.md",
+    "Maths/Coordinate Geometry/Differentiation/Differentiation from first princples.md",
+    "Physics.pdf",
+    "Physics/Physics Basics/Physics Basics.md",
+    "Physics/Physics Basics/\"Maths is useless, unless its for physics\".md",
     "Physics/Solids under stress/Solids under stress.md",
+    "Maths/Algebra/Quadratics/The nature of roots.md",
+    "z_Excerpts/z_Excerpts.md",
+    "z_Excerpts/Homework",
+    "Physics/Physics.md",
+    "Maths/Maths.md",
+    "index.md",
+    "z_Excerpts/Python/Python.md",
+    "Physics/Solids under stress/Stress and Strain.md",
     "Physics/Solids under stress/Hooke's Law.md",
     "Physics/Physics Basics/Vector Composites.md",
-    "Physics/Physics Basics/Unit Prefixes.md",
-    "Physics/Physics Basics/Uncertainty.md",
-    "Physics/Physics Basics/Topic Keywords.md",
-    "Physics/Physics Basics/Physics Basics.md",
-    "Physics/Physics Basics/Homogeneity.md",
-    "Physics/Physics Basics/Errors.md",
-    "Physics/Physics Basics/Derived Quantaties.md",
-    "Physics/Physics Basics/Base Quantities.md",
-    "Physics/Physics Basics/\"Maths is useless, unless its for physics\".md",
-    "Physics/Physics Basics/Moments/Moments.md",
-    "Physics/Physics Basics/Moments/Moment or Torque.md",
-    "Physics/Physics Basics/Moments/Center of Gravity.md",
-    "Maths/Maths.md",
-    "Maths/Notation and Proof/Set Theory Symbols.md",
-    "z_Excerpts/Image/Screenshot 2023-10-03 at 14.18.17.png",
     "Maths/Coordinate Geometry/Differentiation",
-    "z_Excerpts/Image/banner/def_bannere.jpeg",
-    "z_Excerpts/Image/banner/10-12 Large.jpeg",
-    "z_Excerpts/Image/banner/10-12.jpg",
     "z_Excerpts/Image/banner",
     "Untitled.canvas",
-    "z_Excerpts/Image/Pasted image 20230929224535.png",
     "Maths/Coordinate Geometry/Circles",
-    "Image Excercpts/TCPIP-Stack.png",
-    "Image Excercpts/TCPIP-Stack-datatransfer.png",
     "Computer Science/code_excerpts/tkinter_w_dictionary_savefile.p",
     "Computer Science/Python Download Files/tkinter_3.py",
     "Computer Science/Python Download Files/introduction_to_tkinter.py",
     "Computer Science/Python Download Files/tkinter_w_dictionaries.py",
     "Computer Science/Python Download Files/tkinter_flashcard_improved.py",
-    "Computer Science/Python Download Files/tkinter_flashcard.py",
-    "Computer Science/Python Download Files/introduction_to_tkinter.png",
-    "Computer Science/tkinter_w_dictionary_savefile.p",
-    "Untitled 1.canvas",
-    "Computer Science/code_excerpts/import_tkinter.png"
+    "Untitled 1.canvas"
   ]
 }
