@@ -22,17 +22,45 @@ def submit_click():
 
 
 def load_click():
-    return
+    try:
+        f = open("tkinter_3_activity_2.txt", "r")
+        save_file = eval(f.read())
+        f.close()
+        
+        name_entry.insert(0, str(save_file['name']))
+        walking.set(int(save_file['walking']))
+        age.set(int(save_file['age']))
+        reading.set(save_file['reading'])
+        sports.set(int(save_file['sports']))
+        chess.set(int(save_file['chess']))
+        stamp_collecting.set(int(save_file['stamp_collecting']))
+        gender.set(int(save_file['gender']))
+        country.set(str(save_file['country']))
+        output_text.delete(0.0, END)
+        output_text.insert(END, "Saved files have been loaded in.")
+    except:
+        output_text.delete(0.0, END)
+        output_text.insert(END, "No saved files found.")
+
 
 def save_click():
-    return
+    name_temp = str(name_entry.get()); walking_temp = str(walking.get()); age_temp = str(age.get()); sports_temp = str(sports.get()); reading_temp = str(reading.get())
+    chess_temp = str(chess.get()); stamp_collecting_temp = str(stamp_collecting.get()); gender_temp = str(gender.get()); country_temp = str(country.get())
+
+    save_file = {'name':name_temp, 'walking':walking_temp, 'age':age_temp, 
+    'sports':sports_temp, 'reading':reading_temp, 'chess':chess_temp, 
+    'stamp_collecting':stamp_collecting_temp, 'gender':gender_temp, 'country':country_temp}
+    print(save_file)
+    f = open("tkinter_3_activity_2.txt", "w")
+    f.write(str(save_file))
+    f.close()
+
 
 
 wd = Tk()
 wd.title("Random Questionaire") # Sets the GUI's title
 
 # This creates variables that the tkinter package can use.
-name = IntVar()
 walking = IntVar()
 age = IntVar()
 reading = IntVar()
@@ -40,7 +68,7 @@ sports = IntVar()
 chess = IntVar()
 stamp_collecting = IntVar()
 gender = IntVar()
-country = IntVar()
+country = StringVar()
 
 #This creates a label object, which is essentially a text widget
 Label(text="Questionaire").pack() 
@@ -77,5 +105,7 @@ output_text.pack()
 Button(wd, text = 'SUBMIT', command = submit_click).pack()
 Button(wd, text = 'SAVE', command = save_click).pack()
 Button(wd, text = 'LOAD', command = load_click).pack()
+
 # This runs the GUI and acts as a garbage collector for all interactions
 wd.mainloop()
+

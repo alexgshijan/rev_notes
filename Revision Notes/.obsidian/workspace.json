@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Coordinate Geometry/Differentiation/Differentiation from first princples.md",
+                "file": "Computer Science/Prac/Tkinter/Introduction to Tkinter.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/Coordinate Geometry/Differentiation/Differentiation from first princples.md",
+                "file": "Computer Science/Prac/Tkinter/Introduction to Tkinter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Coordinate Geometry/Differentiation/Differentiation from first princples.md",
+                "file": "Computer Science/Prac/Tkinter/Introduction to Tkinter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Coordinate Geometry/Differentiation/Differentiation from first princples.md"
+                "file": "Computer Science/Prac/Tkinter/Introduction to Tkinter.md"
               }
             }
           },
@@ -239,6 +239,16 @@
   },
   "active": "58999c1d98d2c0ae",
   "lastOpenFiles": [
+    "Computer Science/Prac/Tkinter/Introduction to Tkinter.md",
+    "Computer Science/Prac/Tkinter/Tkinter.md",
+    "Computer Science/Prac/Prac.md",
+    "Computer Science/Computer Science.md",
+    "Maths/Coordinate Geometry/Differentiation/Differentiation from first princples.md",
+    "index.md",
+    "z_Excerpts/z_Excerpts.md",
+    "Physics/Physics.md",
+    "Maths/Maths.md",
+    "tkinter_3_activity_2.txt",
     "Maths/Coordinate Geometry/Differentiation/Differentiation.md",
     "Maths/Coordinate Geometry/Circles/Touching Circles.md",
     "Maths/Algebra/Quadratics/Disguised Quadratics.md",
@@ -262,21 +272,12 @@
     "Physics/Solids under stress/Topic Keywords.md",
     "Physics/Moments/Moments.md",
     "Physics/Moments/Moment or Torque.md",
-    "Maths/Coordinate Geometry/Differentiation/Differentiation from first princples.md",
     "Physics.pdf",
     "Physics/Physics Basics/Physics Basics.md",
     "Physics/Physics Basics/\"Maths is useless, unless its for physics\".md",
     "Physics/Solids under stress/Solids under stress.md",
     "Maths/Algebra/Quadratics/The nature of roots.md",
-    "z_Excerpts/z_Excerpts.md",
     "z_Excerpts/Homework",
-    "Physics/Physics.md",
-    "Maths/Maths.md",
-    "index.md",
-    "z_Excerpts/Python/Python.md",
-    "Physics/Solids under stress/Stress and Strain.md",
-    "Physics/Solids under stress/Hooke's Law.md",
-    "Physics/Physics Basics/Vector Composites.md",
     "Maths/Coordinate Geometry/Differentiation",
     "z_Excerpts/Image/banner",
     "Untitled.canvas",
@@ -285,7 +286,6 @@
     "Computer Science/Python Download Files/tkinter_3.py",
     "Computer Science/Python Download Files/introduction_to_tkinter.py",
     "Computer Science/Python Download Files/tkinter_w_dictionaries.py",
-    "Computer Science/Python Download Files/tkinter_flashcard_improved.py",
     "Untitled 1.canvas"
   ]
 }
