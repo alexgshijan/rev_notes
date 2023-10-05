@@ -1,1 +1,0 @@
-{'name': 'asdasd', 'walking': '0', 'age': '23', 'sports': '0', 'reading': '1', 'chess': '0', 'stamp_collecting': '1', 'gender': '0', 'country': ''}

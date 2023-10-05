@@ -1,0 +1,1 @@
+{'name': 'asds', 'walking': '0', 'age': '0', 'sports': '0', 'reading': '0', 'chess': '0', 'stamp_collecting': '0', 'gender': '0', 'country': ''}

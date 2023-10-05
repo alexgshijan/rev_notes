@@ -6,4 +6,5 @@
 - Network Protocol - **A standard set of rules to ensure proper transfer of information across a network ( Includes : How to start & end communicating, what the packets of data will look like, how to send specific things like images, text, videos etc.)**
 - Handshaking - **The exchange of signals between devices to establish their readiness to communicate. (Includes : printers, messaging and client/server PCs**
 - Volatile - **The data is lost when there is no power supplied**
+- Internet - **The World Wide Communication Infrastructure**
 - 

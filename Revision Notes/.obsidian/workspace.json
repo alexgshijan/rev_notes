@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Prac/Tkinter/Introduction to Tkinter.md",
+                "file": "Computer Science/Theory/Hardware and communication/Networking/Types of Networks.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,12 +95,16 @@
             "id": "a3e7c6b2b2cec8ba",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -166,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Prac/Tkinter/Introduction to Tkinter.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Prac/Tkinter/Introduction to Tkinter.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Prac/Tkinter/Introduction to Tkinter.md"
+                "file": "index.md"
               }
             }
           },
@@ -237,8 +241,16 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "58999c1d98d2c0ae",
+  "active": "a3e7c6b2b2cec8ba",
   "lastOpenFiles": [
+    "z_Excerpts/Python/save_files/tkinter_3_activity_2.txt",
+    "tkinter_3_activity_2.txt",
+    "Computer Science/Theory/Hardware and communication/Networking/Contemporary Protocols.md",
+    "z_Excerpts/Python/save_files/save_files.md",
+    "z_Excerpts/Python/save_files",
+    "Computer Science/Theory/Hardware and communication/Networking/Types of Networks.md",
+    "Computer Science/Theory/Hardware and communication/Topic Keywords.md",
+    "Computer Science/Prac/Tkinter/Introduction to Tkinter.md",
     "Maths/Coordinate Geometry/Circles/Circle Theorem.md",
     "Maths/Coordinate Geometry/Circles/Basics.md",
     "Maths/Algebra/Topic Keywords.md",
@@ -254,18 +266,11 @@
     "Computer Science/Computer Science.md",
     "Computer Science/Theory/Theory.md",
     "Computer Science/Theory/Logical Operators/Logical Operators.md",
-    "Computer Science/Theory/Hardware and communication/Topic Keywords.md",
     "Computer Science/Theory/Hardware and communication/Hardware and communication.md",
     "Computer Science/Theory/Hardware and communication/Secondary storage & IO/Units of Storage.md",
     "Computer Science/Theory/Hardware and communication/Secondary storage & IO/Secondary Storage Examples.md",
     "Computer Science/Theory/Hardware and communication/Secondary storage & IO/Secondary storage & IO.md",
     "Computer Science/Theory/Hardware and communication/Secondary storage & IO/Primary Vs Secondary Storge.md",
-    "Computer Science/Theory/Hardware and communication/Secondary storage & IO/I-O devices.md",
-    "Computer Science/Theory/Hardware and communication/Secondary storage & IO/Fragmentation.md",
-    "Computer Science/Theory/Hardware and communication/RAM, cache, Von Neumann/Von Neumann Vs Harvard Architecture.md",
-    "Computer Science/Theory/Hardware and communication/RAM, cache, Von Neumann/RAM, cache, Von Neumann.md",
-    "Computer Science/Theory/Hardware and communication/RAM, cache, Von Neumann/RAM vs Cache.md",
-    "tkinter_3_activity_2.txt",
     "z_Excerpts/Graph/desmos-graph-67b32271f00ee033d2b88acdc14675f5095ff2e910d75f7b4aebf3be3e488ccc.svg",
     "z_Excerpts/Graph/desmos-graph-02492d655a36a45a7f11a9a50cbb2ec41f9e14f818b094118658ddb69545812f.svg",
     "z_Excerpts/Graph/desmos-graph-adf5a9987a6aa513587d5cef97cbfd3a1fd9fccbc7605b263ca620d0a0fc2869.svg",
@@ -285,7 +290,6 @@
     "Computer Science/code_excerpts/tkinter_w_dictionary_savefile.p",
     "Computer Science/Python Download Files/tkinter_3.py",
     "Computer Science/Python Download Files/introduction_to_tkinter.py",
-    "Computer Science/Python Download Files/tkinter_w_dictionaries.py",
     "Untitled 1.canvas"
   ]
 }

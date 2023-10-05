@@ -23,10 +23,11 @@ def submit_click():
 
 def load_click():
     try:
-        f = open("tkinter_3_activity_2.txt", "r")
+        f = open("z_Excerpts/Python/save_files/tkinter_3_activity_2.txt", "r")
+
         save_file = eval(f.read())
         f.close()
-        
+        name_entry.delete(0, END)
         name_entry.insert(0, str(save_file['name']))
         walking.set(int(save_file['walking']))
         age.set(int(save_file['age']))
@@ -50,11 +51,9 @@ def save_click():
     save_file = {'name':name_temp, 'walking':walking_temp, 'age':age_temp, 
     'sports':sports_temp, 'reading':reading_temp, 'chess':chess_temp, 
     'stamp_collecting':stamp_collecting_temp, 'gender':gender_temp, 'country':country_temp}
-    print(save_file)
-    f = open("tkinter_3_activity_2.txt", "w")
+    f = open("z_Excerpts/Python/save_files/tkinter_3_activity_2.txt", "w")
     f.write(str(save_file))
     f.close()
-
 
 
 wd = Tk()
