@@ -1,6 +1,6 @@
 The gradient function or derivative of the curve $y=f(x)$ is written as $f'(x)$ $or \frac{dy}{dx}$
 
-To calculate the gradient between two points, we can use the formula $\frac{y_1-y_2}{x_1-x_2}$
+To calculate the gradient between two points, we can use the formula : $$\frac{y_1-y_2}{x_1-x_{2}} \text{ which we could represent as :} \frac{f(x_1)-f(x_2)}{x_1-x_{2}}$$
 Using this formula for the coordinates $(x,f(x))$ and $(x+h,f(x+h))$, we get :
 $$y=\frac{f(x+h)-f(x)}{x+h-x}$$
 Consider that the closer the coordinate $(x+h,f(x+h))$ is to $(x,f(x))$, the closer we are to the gradient of just $(x,f(x))$. 
