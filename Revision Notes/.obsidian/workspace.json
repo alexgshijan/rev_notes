@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Theory/Logical Operators/Representing Operations.md",
+                "file": "Maths/Notation and Proof/Proof by exhaustion.md",
                 "mode": "source",
                 "source": false
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "proof",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Theory/Logical Operators/Representing Operations.md",
+                "file": "Maths/Notation and Proof/Proof by exhaustion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Theory/Logical Operators/Representing Operations.md",
+                "file": "Maths/Notation and Proof/Proof by exhaustion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Theory/Logical Operators/Representing Operations.md"
+                "file": "Maths/Notation and Proof/Proof by exhaustion.md"
               }
             }
           },
@@ -253,8 +253,21 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "a951b3da9c1e7c84",
+  "active": "de7d5c11a53ffbd9",
   "lastOpenFiles": [
+    "Maths/Notation and Proof/Notation and Proof.md",
+    "Maths/Notation and Proof/Disproof by counter example.md",
+    "Maths/GCSE maths concepts/GCSE maths concepts.md",
+    "Maths/Coordinate Geometry/Coordinate Geometry.md",
+    "Maths/Algebra/Quadratics/Quadratics.md",
+    "Maths/Maths.md",
+    "Computer Science/Theory/Theory.md",
+    "Computer Science/Theory/Logical Operators/Representing Operations.md",
+    "firmData.txt",
+    "customerData.txt",
+    "Passwords.txt",
+    "z_Excerpts/Python/SIPV Active.py",
+    "z_Excerpts/Python/calculator.py",
     "z_Excerpts/Image/Pasted image 20231005124031.png",
     "z_Excerpts/Image/Pasted image 20231005123805.png",
     "z_Excerpts/Image/Pasted image 20231005123716.png",
@@ -262,7 +275,6 @@
     "z_Excerpts/Image/Pasted image 20231005123527.png",
     "z_Excerpts/Image/Pasted image 20231005123507.png",
     "Computer Science/Theory/Logical Operators/Logical Operators.md",
-    "Computer Science/Theory/Logical Operators/Representing Operations.md",
     "Computer Science/Theory/Hardware and communication/Hardware and communication.md",
     "Computer Science/Theory/Hardware and communication/Networking/Networking.md",
     "Computer Science/Theory/Hardware and communication/Networking/Different Scales of Network.md",
@@ -283,25 +295,13 @@
     "Maths/Algebra/Surds.md",
     "Maths/Algebra/Simultaneous Equations.md",
     "Maths/Algebra/Rules of Indicies.md",
-    "Maths/Algebra/Algebra.md",
-    "Maths/Algebra/Quadratics/The nature of roots.md",
-    "Maths/Algebra/Quadratics/Sketching Curves.md",
-    "Maths/Algebra/Quadratics/Quadratics.md",
-    "Maths/Algebra/Quadratics/Disguised Quadratics.md",
-    "Maths/Algebra/Quadratics/Completing the Square.md",
     "z_Excerpts/Graph/desmos-graph-67b32271f00ee033d2b88acdc14675f5095ff2e910d75f7b4aebf3be3e488ccc.svg",
     "z_Excerpts/Graph/desmos-graph-02492d655a36a45a7f11a9a50cbb2ec41f9e14f818b094118658ddb69545812f.svg",
     "z_Excerpts/Graph/desmos-graph-adf5a9987a6aa513587d5cef97cbfd3a1fd9fccbc7605b263ca620d0a0fc2869.svg",
     "z_Excerpts/Graph/desmos-graph-ca0d88c04afc49d4b17592bdfbd09a32757be2c1aeff69bd5e555947c07ee3b2.svg",
-    "z_Excerpts/Graph/desmos-graph-e156a3663f302c27a3f7f7def7cc9d18c956a3aab7f89c6032e2b484c575f628.svg",
     "Physics.pdf",
     "z_Excerpts/Homework",
-    "Maths/Coordinate Geometry/Differentiation",
-    "z_Excerpts/Image/banner",
     "Untitled.canvas",
-    "Maths/Coordinate Geometry/Circles",
-    "Computer Science/code_excerpts/tkinter_w_dictionary_savefile.p",
-    "Computer Science/Python Download Files/tkinter_3.py",
     "Untitled 1.canvas"
   ]
 }
