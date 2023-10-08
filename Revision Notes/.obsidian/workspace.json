@@ -109,14 +109,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Notation and Proof/Proof by exhaustion.md",
+                "file": "Maths/Algebra/Polynomials/Polynomials.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2d8ed7fac53f8005",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Maths/Algebra/Polynomials/Division - Box Method.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3a53bf27cbf873b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Maths/Algebra/Polynomials/Division - Box Method.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -145,7 +169,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "proof",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -182,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/Notation and Proof/Proof by exhaustion.md",
+                "file": "Maths/Algebra/Polynomials/Division - Box Method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Notation and Proof/Proof by exhaustion.md",
+                "file": "Maths/Algebra/Polynomials/Division - Box Method.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Notation and Proof/Proof by exhaustion.md"
+                "file": "Maths/Algebra/Polynomials/Division - Box Method.md"
               }
             }
           },
@@ -253,16 +277,43 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "de7d5c11a53ffbd9",
+  "active": "3a53bf27cbf873b6",
   "lastOpenFiles": [
-    "Maths/Notation and Proof/Notation and Proof.md",
-    "Maths/Notation and Proof/Disproof by counter example.md",
-    "Maths/GCSE maths concepts/GCSE maths concepts.md",
-    "Maths/Coordinate Geometry/Coordinate Geometry.md",
+    "z_Excerpts/Python/tkinter3.py",
+    "Maths/Algebra/Polynomials/Remainder Theorem.md",
+    "Maths/Algebra/Polynomials/Division - Box Method.md",
+    "Maths/Algebra/Polynomials/Polynomials.md",
+    "Maths/Algebra/Algebra.md",
+    "Maths/Algebra/Polynomials",
     "Maths/Algebra/Quadratics/Quadratics.md",
-    "Maths/Maths.md",
-    "Computer Science/Theory/Theory.md",
-    "Computer Science/Theory/Logical Operators/Representing Operations.md",
+    "Maths/Notation and Proof/Notation and Proof.md",
+    "Maths/Algebra/Quadratics/The nature of roots.md",
+    "z_Excerpts/Python/test_dict.py",
+    "z_Excerpts/Python/dict_temp = {\"one\": 1, \"two\": 2, \"three\".py",
+    "index.md",
+    "z_Excerpts/z_Excerpts.md",
+    "z_Excerpts/Python/Python.md",
+    "z_Excerpts/Python/save_files/save_files.md",
+    "z_Excerpts/Image/Image.md",
+    "z_Excerpts/Homework/Homework.md",
+    "z_Excerpts/Homework/4Oct - Mr Toye - Moments.md",
+    "z_Excerpts/Graph/Graph.md",
+    "Physics/Physics.md",
+    "Physics/Solids under stress/Topic Keywords.md",
+    "Physics/Solids under stress/Stress and Strain.md",
+    "Physics/Solids under stress/Solids under stress.md",
+    "Physics/Solids under stress/Hooke's Law.md",
+    "Physics/Physics Basics/Vector Composites.md",
+    "Physics/Physics Basics/Unit Prefixes.md",
+    "Physics/Physics Basics/Uncertainty.md",
+    "Physics/Physics Basics/Topic Keywords.md",
+    "Physics/Physics Basics/Physics Basics.md",
+    "z_Excerpts/Graph/desmos-graph-f5136915f92e83dd234b0a9949c31dacfe8d54696d77fa1b4e73c68fa1e997ed.svg",
+    "z_Excerpts/Graph/desmos-graph-67b32271f00ee033d2b88acdc14675f5095ff2e910d75f7b4aebf3be3e488ccc.svg",
+    "z_Excerpts/Graph/desmos-graph-adf5a9987a6aa513587d5cef97cbfd3a1fd9fccbc7605b263ca620d0a0fc2869.svg",
+    "z_Excerpts/Graph/desmos-graph-47411e058913eeff78c324b711c1a3e67432cacda10ae01f871f5a5221095309.svg",
+    "z_Excerpts/Graph/desmos-graph-17110ca962990bcd754fbeef0196a523322d59479ab3fa1633d883634864853e.svg",
+    "z_Excerpts/Graph/desmos-graph-e156a3663f302c27a3f7f7def7cc9d18c956a3aab7f89c6032e2b484c575f628.svg",
     "firmData.txt",
     "customerData.txt",
     "Passwords.txt",
@@ -272,35 +323,8 @@
     "z_Excerpts/Image/Pasted image 20231005123805.png",
     "z_Excerpts/Image/Pasted image 20231005123716.png",
     "z_Excerpts/Image/Pasted image 20231005123628.png",
-    "z_Excerpts/Image/Pasted image 20231005123527.png",
-    "z_Excerpts/Image/Pasted image 20231005123507.png",
-    "Computer Science/Theory/Logical Operators/Logical Operators.md",
-    "Computer Science/Theory/Hardware and communication/Hardware and communication.md",
-    "Computer Science/Theory/Hardware and communication/Networking/Networking.md",
-    "Computer Science/Theory/Hardware and communication/Networking/Different Scales of Network.md",
-    "Computer Science/Theory/Hardware and communication/Networking/Contemporary Protocols.md",
-    "z_Excerpts/z_Excerpts.md",
-    "Maths/Coordinate Geometry/Differentiation/Differentiation from first princples.md",
-    "index.md",
     "z_Excerpts/Python/save_files/tkinter_3_activity_2.txt",
     "tkinter_3_activity_2.txt",
-    "z_Excerpts/Python/save_files/save_files.md",
-    "z_Excerpts/Python/save_files",
-    "Computer Science/Theory/Hardware and communication/Networking/Types of Networks.md",
-    "Computer Science/Theory/Hardware and communication/Topic Keywords.md",
-    "Computer Science/Prac/Tkinter/Introduction to Tkinter.md",
-    "Maths/Coordinate Geometry/Circles/Circle Theorem.md",
-    "Maths/Coordinate Geometry/Circles/Basics.md",
-    "Maths/Algebra/Topic Keywords.md",
-    "Maths/Algebra/Surds.md",
-    "Maths/Algebra/Simultaneous Equations.md",
-    "Maths/Algebra/Rules of Indicies.md",
-    "z_Excerpts/Graph/desmos-graph-67b32271f00ee033d2b88acdc14675f5095ff2e910d75f7b4aebf3be3e488ccc.svg",
-    "z_Excerpts/Graph/desmos-graph-02492d655a36a45a7f11a9a50cbb2ec41f9e14f818b094118658ddb69545812f.svg",
-    "z_Excerpts/Graph/desmos-graph-adf5a9987a6aa513587d5cef97cbfd3a1fd9fccbc7605b263ca620d0a0fc2869.svg",
-    "z_Excerpts/Graph/desmos-graph-ca0d88c04afc49d4b17592bdfbd09a32757be2c1aeff69bd5e555947c07ee3b2.svg",
-    "Physics.pdf",
-    "z_Excerpts/Homework",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

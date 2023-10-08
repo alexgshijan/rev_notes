@@ -337,6 +337,7 @@ ck
 cCB
 cNs
 cPZ
+consider
 Where
 Word
 Work
@@ -434,6 +435,8 @@ WY
 WOns
 Wq
 Wkj
+World
+Wide
 Rules
 Rationalising
 Refer
@@ -1321,6 +1324,8 @@ slw
 sTl
 sCJ
 sFO
+slots
+sudoku
 into
 is
 in
@@ -1451,6 +1456,8 @@ iCCPICC
 iTXtXML
 iDOT
 iGW
+inverse
+immediately
 largest
 like
 length
@@ -1573,6 +1580,8 @@ lJZ
 lR
 lfC
 lM
+lowest
+left
 Collect
 CPU
 CIR
@@ -1690,6 +1699,7 @@ Core
 CK
 CjC
 CII
+Communication
 denominator
 done
 deci
@@ -1843,6 +1853,7 @@ dw
 dh
 day
 dQo
+degree
 To
 The
 This
@@ -2449,6 +2460,7 @@ bEL
 bSsk
 bqN
 br
+bottom
 applied
 area
 also
@@ -2722,6 +2734,7 @@ endstream
 eHsV
 exif
 eGw
+exclusive
 Nm
 Note
 Number
@@ -2809,6 +2822,7 @@ Nk
 NnT
 NT
 NWR
+NOT
 gradient
 graph
 giga
@@ -3343,6 +3357,7 @@ PixelYDimension
 PixelXDimension
 Pkc
 Pq
+Picture
 kilo
 known
 kilogram
@@ -3631,6 +3646,7 @@ ItO
 IzO
 IOw
 Ig
+Infrastructure
 quantities
 quantity
 quickly
@@ -3799,6 +3815,7 @@ BoldMT
 BAAAAA
 BrQ
 BIAe
+Bool
 Length
 Law
 Lines
@@ -4069,6 +4086,7 @@ Adobe
 ArialMT
 AexT
 AErE
+AND
 Derived
 Definition
 Distributes
@@ -4428,6 +4446,7 @@ hy
 hOF
 hGg
 hmcS
+highest
 program
 phase
 point
@@ -4576,6 +4595,8 @@ po
 puM
 pRm
 pC
+polynomials
+puzzle
 value
 values
 volatile
@@ -4837,6 +4858,7 @@ HT
 HHLN
 HsD
 HGqG
+Here
 you
 year
 yY
@@ -5411,6 +5433,7 @@ XZg
 XXs
 Xslb
 XWN
+XOR
 Zx
 ZO
 Zb
