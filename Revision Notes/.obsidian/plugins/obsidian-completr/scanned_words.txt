@@ -338,6 +338,10 @@ cCB
 cNs
 cPZ
 consider
+crystalline
+correctly
+cooled
+causing
 Where
 Word
 Work
@@ -520,6 +524,7 @@ Rr
 Ru
 RbWW
 RxY
+Reflect
 of
 original
 other
@@ -631,6 +636,9 @@ oCN
 oqLZ
 oM
 ogW
+occurs
+occur
+observe
 Surds
 Split
 Surd
@@ -750,6 +758,8 @@ Sb
 Syu
 SL
 Sw
+Shift
+Stretch
 General
 GB
 Ghz
@@ -839,6 +849,7 @@ GlY
 GlN
 Gjg
 Gr
+Graph
 rule
 rationalise
 refer
@@ -991,6 +1002,8 @@ rCp
 rgO
 rzJ
 rI
+remainder
+restricts
 for
 factors
 force
@@ -1119,6 +1132,9 @@ fu
 fI
 fXyL
 ff
+factor
+found
+foreign
 solving
 surds
 square
@@ -1326,6 +1342,13 @@ sCJ
 sFO
 slots
 sudoku
+salts
+solid
+slip
+shift
+structure
+strengthened
+smaller
 into
 is
 in
@@ -1458,6 +1481,8 @@ iDOT
 iGW
 inverse
 immediately
+image
+inhibits
 largest
 like
 length
@@ -1700,6 +1725,7 @@ CK
 CjC
 CII
 Communication
+Compress
 denominator
 done
 deci
@@ -1854,6 +1880,11 @@ dh
 day
 dQo
 degree
+divided
+dff
+dislocation
+deformation
+dislocations
 To
 The
 This
@@ -1969,6 +2000,7 @@ TY
 TGW
 TqV
 TK
+Transformation
 we
 which
 what
@@ -2246,6 +2278,10 @@ mK
 mbN
 mc
 mnh
+mistakes
+missing
+movement
+movements
 numerator
 nano
 needs
@@ -2461,6 +2497,9 @@ bSsk
 bqN
 br
 bottom
+bond
+bonded
+below
 applied
 area
 also
@@ -2598,6 +2637,9 @@ about
 aO
 aMO
 aOA
+atomic
+atoms
+another
 extension
 equation
 executed
@@ -2735,6 +2777,11 @@ eHsV
 exif
 eGw
 exclusive
+exerted
+extended
+edge
+essence
+excess
 Nm
 Note
 Number
@@ -2934,6 +2981,7 @@ gmi
 gG
 gVf
 gBK
+grains
 Fx
 Form
 French
@@ -3136,6 +3184,7 @@ umS
 uID
 usU
 udn
+upwards
 Multiplier
 Mass
 MAR
@@ -3251,6 +3300,7 @@ Mö
 MxI
 MvR
 MWI
+Metals
 Prefix
 Pressure
 Power
@@ -3647,6 +3697,7 @@ IzO
 IOw
 Ig
 Infrastructure
+Introducing
 quantities
 quantity
 quickly
@@ -4003,6 +4054,7 @@ Enh
 EbF
 Eb
 EKH
+Edge
 Amount
 All
 Acceleration
@@ -4168,6 +4220,7 @@ DYO
 Dk
 DWRH
 Datagram
+Dislocation
 Quantity
 Quantaties
 Qa
@@ -4447,6 +4500,7 @@ hOF
 hGg
 hmcS
 highest
+horizontally
 program
 phase
 point
@@ -4597,6 +4651,12 @@ pRm
 pC
 polynomials
 puzzle
+patterns
+plane
+plastic
+planes
+position
+permanent
 value
 values
 volatile
@@ -4685,6 +4745,7 @@ vQSP
 veCf
 vdG
 vH
+vertically
 just
 jK
 jE
