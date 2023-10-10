@@ -55,6 +55,7 @@ def save_click():
     print(str(user_data))
     user_data.append(temp_save_file)
     print(str(user_data))
+    
     f = open("tkinter_3_activity_2.txt", "w")
     f.write(str(user_data))
     f.close()

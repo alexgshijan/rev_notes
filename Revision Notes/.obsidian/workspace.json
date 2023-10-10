@@ -8,150 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0d86ce2961f40678",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Theory/Hardware and communication/Networking/Types of Networks.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "24e2e60d17bf89c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maths/Coordinate Geometry/Circles/Circle Theorem.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2873864fccb5c669",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maths/Coordinate Geometry/Circles/Basics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e5f40f78a8ec4632",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maths/Coordinate Geometry/Differentiation/Differentiation.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "630f3d206a2ec04e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maths/GCSE maths concepts/GCSE maths concepts.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8b80e9aadcc99434",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "z_Excerpts/Homework/Homework.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "58999c1d98d2c0ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Theory/Hardware and communication/Networking/Types of Networks.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a3e7c6b2b2cec8ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Theory/Logical Operators/Logical Operators.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a951b3da9c1e7c84",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maths/Algebra/Polynomials/Polynomials.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2d8ed7fac53f8005",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maths/Algebra/Polynomials/Division - Box Method.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3a53bf27cbf873b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maths/Algebra/Graph Transformations/Graph Transformations.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "18a96d5b787125a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physics/Solids under stress/Materials/Materials.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c4603ac171c0187a",
             "type": "leaf",
             "state": {
@@ -186,21 +42,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "b1998b7811cab3d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Prac/Tkinter/Introduction to Tkinter.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 15
+        ]
       }
     ],
     "direction": "vertical"
@@ -229,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "differentiat",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -246,7 +89,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -266,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Prac/Tkinter/Introduction to Tkinter.md",
+                "file": "Physics/Solids under stress/Materials/Crystalline - Polycrystalline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -283,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Prac/Tkinter/Introduction to Tkinter.md",
+                "file": "Physics/Solids under stress/Materials/Crystalline - Polycrystalline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -306,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Prac/Tkinter/Introduction to Tkinter.md"
+                "file": "Physics/Solids under stress/Materials/Crystalline - Polycrystalline.md"
               }
             }
           },
@@ -337,52 +181,52 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "de7d5c11a53ffbd9",
+  "active": "c4603ac171c0187a",
   "lastOpenFiles": [
-    "z_Excerpts/Python/tkinter_3_activity_2.py",
-    "Physics/Physics.md",
-    "tkinter_3_activity_2.txt",
-    "index.md",
-    "z_Excerpts/z_Excerpts.md",
-    "z_Excerpts/Python/Python.md",
-    "z_Excerpts/Python/save_files/save_files.md",
-    "z_Excerpts/Image/Image.md",
-    "z_Excerpts/Homework/Homework.md",
-    "z_Excerpts/Graph/Graph.md",
-    "Physics/Solids under stress/Topic Keywords.md",
-    "Physics/Solids under stress/Stress and Strain.md",
-    "Physics/Solids under stress/Solids under stress.md",
-    "Physics/Solids under stress/Hooke's Law.md",
-    "Physics/Solids under stress/Materials/Polymers.md",
     "Physics/Solids under stress/Materials/Materials.md",
-    "Physics/Solids under stress/Materials/Hysteresis.md",
+    "Maths/Algebra/Graph Transformations/Graph Transformations.md",
+    "Maths/Algebra/Polynomials/Division - Box Method.md",
+    "Maths/Algebra/Polynomials/Polynomials.md",
+    "Computer Science/Theory/Logical Operators/Logical Operators.md",
+    "z_Excerpts/Homework/Homework.md",
+    "Computer Science/Theory/Hardware and communication/Networking/Types of Networks.md",
+    "Maths/Coordinate Geometry/Differentiation/Differentiation.md",
+    "Maths/GCSE maths concepts/GCSE maths concepts.md",
+    "Maths/Coordinate Geometry/Circles/Basics.md",
+    "Maths/Coordinate Geometry/Circles/Circle Theorem.md",
     "Physics/Solids under stress/Materials/Crystalline - Polycrystalline.md",
     "Physics/Solids under stress/Materials/Amorphous.md",
-    "Physics/Physics Basics/Vector Composites.md",
-    "Physics/Physics Basics/Unit Prefixes.md",
-    "Physics/Physics Basics/Uncertainty.md",
-    "Physics/Physics Basics/Topic Keywords.md",
-    "Physics/Physics Basics/Physics Basics.md",
-    "Physics/Physics Basics/Homogeneity.md",
-    "Physics/Physics Basics/Errors.md",
-    "Physics/Physics Basics/Derived Quantaties.md",
+    "Physics/Solids under stress/Materials/Polymers.md",
+    "z_Excerpts/Graph/desmos-graph-e156a3663f302c27a3f7f7def7cc9d18c956a3aab7f89c6032e2b484c575f628.svg",
+    "z_Excerpts/Graph/desmos-graph-adf5a9987a6aa513587d5cef97cbfd3a1fd9fccbc7605b263ca620d0a0fc2869.svg",
+    "z_Excerpts/Graph/desmos-graph-17110ca962990bcd754fbeef0196a523322d59479ab3fa1633d883634864853e.svg",
+    "z_Excerpts/Graph/desmos-graph-47411e058913eeff78c324b711c1a3e67432cacda10ae01f871f5a5221095309.svg",
+    "z_Excerpts/Graph/desmos-graph-67b32271f00ee033d2b88acdc14675f5095ff2e910d75f7b4aebf3be3e488ccc.svg",
+    "z_Excerpts/Graph/desmos-graph-21d7e41c19ea4bf443cba38f56cacbf3468eb1334d0dc0cdeb3798b8a9b36ad8.svg",
+    "Maths/Coordinate Geometry/Differentiation/Differentiation from first princples.md",
+    "Maths/Algebra/Polynomials/Remainder Theorem.md",
+    "Maths/Algebra/Polynomials/Quadratics/The nature of roots.md",
+    "Maths/Algebra/Polynomials/Quadratics/Disguised Quadratics.md",
+    "Maths/Algebra/Polynomials/Quadratics/Completing the Square.md",
+    "Maths/Algebra/Polynomials/Quadratics/Quadratics.md",
+    "Maths/Algebra/Polynomials/Quadratics/Sketching Curves.md",
+    "Maths/Maths.md",
+    "Physics/Physics.md",
+    "Physics/Solids under stress/Stress and Strain.md",
+    "Physics/Solids under stress/Topic Keywords.md",
+    "Physics/Solids under stress/Solids under stress.md",
+    "z_Excerpts/Python/datatypes.py",
+    "z_Excerpts/Python/tkinter_3_activity_2.py",
+    "tkinter_3_activity_2.txt",
     "z_Excerpts/Image/Pasted image 20231009232914.png",
     "Physics/Solids under stress/Materials",
-    "z_Excerpts/Graph/desmos-graph-21d7e41c19ea4bf443cba38f56cacbf3468eb1334d0dc0cdeb3798b8a9b36ad8.svg",
-    "z_Excerpts/Graph/desmos-graph-67b32271f00ee033d2b88acdc14675f5095ff2e910d75f7b4aebf3be3e488ccc.svg",
     "Maths/Algebra/Graph Transformations",
     "z_Excerpts/Python/tkinter3.py",
     "Maths/Algebra/Polynomials",
     "z_Excerpts/Python/test_dict.py",
     "z_Excerpts/Python/dict_temp = {\"one\": 1, \"two\": 2, \"three\".py",
     "z_Excerpts/Graph/desmos-graph-f5136915f92e83dd234b0a9949c31dacfe8d54696d77fa1b4e73c68fa1e997ed.svg",
-    "z_Excerpts/Graph/desmos-graph-adf5a9987a6aa513587d5cef97cbfd3a1fd9fccbc7605b263ca620d0a0fc2869.svg",
-    "z_Excerpts/Graph/desmos-graph-47411e058913eeff78c324b711c1a3e67432cacda10ae01f871f5a5221095309.svg",
-    "z_Excerpts/Graph/desmos-graph-17110ca962990bcd754fbeef0196a523322d59479ab3fa1633d883634864853e.svg",
-    "z_Excerpts/Graph/desmos-graph-e156a3663f302c27a3f7f7def7cc9d18c956a3aab7f89c6032e2b484c575f628.svg",
     "firmData.txt",
-    "customerData.txt",
-    "Passwords.txt",
     "z_Excerpts/Image/Pasted image 20231005124031.png",
     "z_Excerpts/Image/Pasted image 20231005123805.png",
     "Untitled.canvas",
