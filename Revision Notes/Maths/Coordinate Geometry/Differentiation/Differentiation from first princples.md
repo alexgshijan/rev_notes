@@ -7,3 +7,9 @@ Consider that the closer the coordinate $(x+h,f(x+h))$ is to $(x,f(x))$, the clo
 We can represent this with $\lim_{h\to0}$, where h (the difference) tends towards zero
 $$f'(x)=\lim_{h\to 0}\frac{f(x+h)-f(x)}{h}$$
 Once we have simplified the fraction, we can disregard any $+h$ as $h$ has tended to 0. This gives us out gradient at the point $(x, f(x))$
+
+*Power Rule ~ The Cheat Method*
+Where $a\text{, }b\text{ and }c$ are constants
+$$
+y=ax^{n}+bx^1+c \to\frac{dy}{dx} = anx^{n-1}+b
+$$
