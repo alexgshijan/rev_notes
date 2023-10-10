@@ -1,5 +1,5 @@
 ```quoth
-path: [[tkinter_3_activity_2.py]]
+path: [[tkinter_4_part1.py]]
 display: inline
 show: author, title
 ```

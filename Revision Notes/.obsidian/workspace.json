@@ -193,7 +193,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Physics.md",
+                "file": "Computer Science/Prac/Tkinter/Introduction to Tkinter.md",
                 "mode": "preview",
                 "source": false
               }
@@ -266,7 +266,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Physics.md",
+                "file": "Computer Science/Prac/Tkinter/Introduction to Tkinter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -283,7 +283,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/Physics.md",
+                "file": "Computer Science/Prac/Tkinter/Introduction to Tkinter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -306,7 +306,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/Physics.md"
+                "file": "Computer Science/Prac/Tkinter/Introduction to Tkinter.md"
               }
             }
           },
@@ -337,43 +337,44 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "b1998b7811cab3d8",
+  "active": "de7d5c11a53ffbd9",
   "lastOpenFiles": [
-    "Physics/Solids under stress/Materials/Polymers.md",
-    "Physics/Solids under stress/Materials/Materials.md",
-    "Physics/Solids under stress/Materials/Hysteresis.md",
-    "Physics/Solids under stress/Materials/Amorphous.md",
-    "Physics/Solids under stress/Materials/Crystalline - Polycrystalline.md",
-    "z_Excerpts/Image/Pasted image 20231009232914.png",
-    "Physics/Solids under stress/Materials.md",
-    "Physics/Solids under stress/Materials",
-    "Physics/Solids under stress/Stress and Strain.md",
-    "Physics/Physics Basics/Physics Basics.md",
+    "z_Excerpts/Python/tkinter_3_activity_2.py",
     "Physics/Physics.md",
-    "Maths/Maths.md",
-    "z_Excerpts/Graph/desmos-graph-21d7e41c19ea4bf443cba38f56cacbf3468eb1334d0dc0cdeb3798b8a9b36ad8.svg",
-    "z_Excerpts/Homework/4Oct - Mr Toye - Moments.md",
-    "z_Excerpts/Graph/desmos-graph-67b32271f00ee033d2b88acdc14675f5095ff2e910d75f7b4aebf3be3e488ccc.svg",
-    "Maths/Algebra/Graph Transformations/Transformation types.md",
-    "Maths/Algebra/Graph Transformations/Graph Transformations.md",
-    "Physics/Moments/Center of Gravity.md",
-    "Maths/Algebra/Polynomials/Remainder Theorem.md",
-    "Maths/Algebra/Graph Transformations",
-    "Maths/Algebra/Polynomials/Division - Box Method.md",
-    "z_Excerpts/Python/tkinter3.py",
-    "Maths/Algebra/Polynomials/Polynomials.md",
-    "Maths/Algebra/Algebra.md",
-    "Maths/Algebra/Polynomials",
-    "Maths/Algebra/Polynomials/Quadratics/Quadratics.md",
-    "Maths/Notation and Proof/Notation and Proof.md",
-    "Maths/Algebra/Polynomials/Quadratics/The nature of roots.md",
-    "z_Excerpts/Python/test_dict.py",
-    "z_Excerpts/Python/dict_temp = {\"one\": 1, \"two\": 2, \"three\".py",
+    "tkinter_3_activity_2.txt",
     "index.md",
     "z_Excerpts/z_Excerpts.md",
     "z_Excerpts/Python/Python.md",
     "z_Excerpts/Python/save_files/save_files.md",
     "z_Excerpts/Image/Image.md",
+    "z_Excerpts/Homework/Homework.md",
+    "z_Excerpts/Graph/Graph.md",
+    "Physics/Solids under stress/Topic Keywords.md",
+    "Physics/Solids under stress/Stress and Strain.md",
+    "Physics/Solids under stress/Solids under stress.md",
+    "Physics/Solids under stress/Hooke's Law.md",
+    "Physics/Solids under stress/Materials/Polymers.md",
+    "Physics/Solids under stress/Materials/Materials.md",
+    "Physics/Solids under stress/Materials/Hysteresis.md",
+    "Physics/Solids under stress/Materials/Crystalline - Polycrystalline.md",
+    "Physics/Solids under stress/Materials/Amorphous.md",
+    "Physics/Physics Basics/Vector Composites.md",
+    "Physics/Physics Basics/Unit Prefixes.md",
+    "Physics/Physics Basics/Uncertainty.md",
+    "Physics/Physics Basics/Topic Keywords.md",
+    "Physics/Physics Basics/Physics Basics.md",
+    "Physics/Physics Basics/Homogeneity.md",
+    "Physics/Physics Basics/Errors.md",
+    "Physics/Physics Basics/Derived Quantaties.md",
+    "z_Excerpts/Image/Pasted image 20231009232914.png",
+    "Physics/Solids under stress/Materials",
+    "z_Excerpts/Graph/desmos-graph-21d7e41c19ea4bf443cba38f56cacbf3468eb1334d0dc0cdeb3798b8a9b36ad8.svg",
+    "z_Excerpts/Graph/desmos-graph-67b32271f00ee033d2b88acdc14675f5095ff2e910d75f7b4aebf3be3e488ccc.svg",
+    "Maths/Algebra/Graph Transformations",
+    "z_Excerpts/Python/tkinter3.py",
+    "Maths/Algebra/Polynomials",
+    "z_Excerpts/Python/test_dict.py",
+    "z_Excerpts/Python/dict_temp = {\"one\": 1, \"two\": 2, \"three\".py",
     "z_Excerpts/Graph/desmos-graph-f5136915f92e83dd234b0a9949c31dacfe8d54696d77fa1b4e73c68fa1e997ed.svg",
     "z_Excerpts/Graph/desmos-graph-adf5a9987a6aa513587d5cef97cbfd3a1fd9fccbc7605b263ca620d0a0fc2869.svg",
     "z_Excerpts/Graph/desmos-graph-47411e058913eeff78c324b711c1a3e67432cacda10ae01f871f5a5221095309.svg",
@@ -382,7 +383,6 @@
     "firmData.txt",
     "customerData.txt",
     "Passwords.txt",
-    "z_Excerpts/Python/SIPV Active.py",
     "z_Excerpts/Image/Pasted image 20231005124031.png",
     "z_Excerpts/Image/Pasted image 20231005123805.png",
     "Untitled.canvas",
