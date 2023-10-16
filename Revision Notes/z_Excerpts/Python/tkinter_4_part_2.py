@@ -21,6 +21,26 @@ def submit_click():
     output_text.insert(END, output_text_thing)
 
 
+def load_table_format():
+    f = open("tkinter_3_activity_2.txt", "r")
+    lines = f.readlines()
+    f.close()
+
+
+def save_table_format():
+    temp_save_file = []
+    for i in user_data:
+        temp_save_file_var = ''
+        for x in user_data[i].keys():
+            temp_save_file_var += (user_data[i][x] + ' '*5)
+        temp_save_file_var = temp_save_file_variable[:-5]
+        temp_save_file.append(temp_save_file_var)
+
+    f = open("tkinter_3_activity_2.txt", "w")
+    f.writelines(temp_save_file)
+    f.close()
+
+
 def load_click():
     try:
         f = open("tkinter_3_activity_2.txt", "r")
@@ -36,7 +56,6 @@ def load_click():
         chess.set(int(user_data[round_val]['chess']))
         stamp_collecting.set(int(user_data[round_val]['stamp_collecting']))
         gender.set(int(user_data[round_val]['gender']))
-        country.set(str(user_data[round_val]['country']))
         output_text.delete(0.0, END)
         output_text.insert(END, "Saved files have been loaded in.")
     except:
@@ -51,7 +70,7 @@ def save_click():
 
     temp_save_file = {'name':name_temp, 'walking':walking_temp, 'age':age_temp, 
     'sports':sports_temp, 'reading':reading_temp, 'chess':chess_temp, 
-    'stamp_collecting':stamp_collecting_temp, 'gender':gender_temp, 'country':country_temp}
+    'stamp_collecting':stamp_collecting_temp, 'gender':gender_temp}
     print(str(user_data))
     user_data.append(temp_save_file)
     print(str(user_data))
@@ -62,12 +81,22 @@ def save_click():
 
 
 def dict_cycle():
+    global round_val
+    
     try:
-        round_val += 1
-        load_click()
+        f = open("tkinter_3_activity_2.txt", "r")
+        user_data = (eval(f.read()))
+        f.close()
     except:
+        output_text.delete(0.0, END)
+        output_text.insert(END, "No saved files found.")
+
+    round_val += 1
+    if round_val == len(user_data):
         round_val = 0
-        load_click()
+    else:
+        pass
+    load_click()
 
 user_data = []
 round_val = 0
@@ -83,7 +112,6 @@ sports = IntVar()
 chess = IntVar()
 stamp_collecting = IntVar()
 gender = IntVar()
-country = StringVar()
 
 #This creates a label object, which is essentially a text widget
 Label(text="Questionaire").pack() 
@@ -120,6 +148,7 @@ output_text.pack()
 Button(wd, text = 'SUBMIT', command = submit_click).pack()
 Button(wd, text = 'SAVE', command = save_click).pack()
 Button(wd, text = 'LOAD', command = load_click).pack()
+Button(wd, text = 'NEXT', command = dict_cycle).pack()
 
 # This runs the GUI and acts as a garbage collector for all interactions
 wd.mainloop()

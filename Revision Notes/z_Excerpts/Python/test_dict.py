@@ -1,4 +1,6 @@
-dict_temp = {"Alex": 'qw38249234', "Aaron": 'ereerera', "three": 3}
+def do_This(var):
+    var += 10
+    print(var)
+    return var
 
-print(dict_temp[input("Enter Name : ")])
-
+print(do_This(1000))
