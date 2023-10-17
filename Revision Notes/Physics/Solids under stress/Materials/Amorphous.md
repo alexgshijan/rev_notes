@@ -8,4 +8,5 @@ As observed on the brittle curve, these amorphous materials have no plastic regi
 The lack of crystalline structure makes dislocation slip impossible - there isn't enough long or short range order for dislocations to move. This means that stress which builds up on a surface crack is not 'relieved' by the movement of dislocations, as would happen in a ductile material.  Hence, glass may be stiff, but it certainly isn't strong.
 
 *You could increase the strength of these materials by :*
-	Add Fibres / Pre stress the material
+- Add Fibres 
+- Pre stress the material

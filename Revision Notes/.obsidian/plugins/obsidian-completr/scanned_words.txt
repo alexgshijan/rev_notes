@@ -160,6 +160,7 @@ those
 tq
 tF
 tny
+twice
 center
 constant
 could
@@ -361,6 +362,9 @@ cyY
 cyoy
 col
 coordintes
+curves
+certain
+change
 Where
 Word
 Work
@@ -798,6 +802,7 @@ Shift
 Stretch
 SU
 Sxy
+Sometimes
 General
 GB
 Ghz
@@ -1059,6 +1064,9 @@ rT
 rvL
 relate
 rapidly
+released
+reliable
+rate
 for
 factors
 force
@@ -1192,6 +1200,7 @@ found
 foreign
 forming
 formed
+factorise
 solving
 surds
 square
@@ -1416,6 +1425,7 @@ suV
 subbing
 stuck
 strength
+simply
 into
 is
 in
@@ -1557,6 +1567,8 @@ iron
 impossible
 iYYv
 initial
+increasing
+implying
 largest
 like
 length
@@ -1689,6 +1701,7 @@ lCV
 lLM
 lengthened
 lengthening
+lets
 Collect
 CPU
 CIR
@@ -1981,6 +1994,7 @@ dD
 der
 decrease
 detangled
+decreasing
 To
 The
 This
@@ -2497,6 +2511,7 @@ nto
 nnG
 nMYO
 naturally
+negative
 by
 be
 base
@@ -2624,6 +2639,7 @@ balloons
 blow
 been
 breaking
+better
 applied
 area
 also
@@ -2775,6 +2791,7 @@ ayr
 auJ
 azj
 aKUz
+apply
 extension
 equation
 executed
@@ -2925,6 +2942,7 @@ ewb
 ey
 eXQ
 explains
+exams
 Nm
 Note
 Number
@@ -3220,6 +3238,8 @@ Fqn
 FEwb
 FU
 First
+Fibres
+Find
 under
 using
 unit
@@ -3339,6 +3359,7 @@ udn
 upwards
 uOLT
 uEU
+unravelling
 Multiplier
 Mass
 MAR
@@ -3566,6 +3587,7 @@ Pq
 Picture
 Polymers
 PF
+Pre
 kilo
 known
 kilogram
@@ -4320,6 +4342,7 @@ An
 AB
 ADDITIONAL
 Associative
+Add
 Derived
 Definition
 Distributes
@@ -4703,6 +4726,8 @@ hXr
 hV
 he
 hHg
+harder
+heat
 program
 phase
 point

@@ -11,5 +11,5 @@ Once we have simplified the fraction, we can disregard any $+h$ as $h$ has tende
 *Power Rule ~ The Cheat Method*
 Where $a\text{, }b\text{ and }c$ are constants
 $$
-y=ax^{n}+bx^1+c \to\frac{dy}{dx} = anx^{n-1}+b
+y=ax^{n}+bx^1+c... \to\frac{dy}{dx} = anx^{n-1}+b...
 $$
