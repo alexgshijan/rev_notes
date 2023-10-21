@@ -3,5 +3,6 @@
   "cssTheme": "Obsidian Nord",
   "theme": "system",
   "baseFontSize": 20,
-  "baseFontSizeAction": false
+  "baseFontSizeAction": false,
+  "translucency": true
 }

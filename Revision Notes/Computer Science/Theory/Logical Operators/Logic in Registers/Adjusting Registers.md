@@ -1,0 +1,1 @@
+To go from a [[Clearing Registers|cleared register]] to a new value, we can use *0 Or New-Value*, this would always output the New Value.

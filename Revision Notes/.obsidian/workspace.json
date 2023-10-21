@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c4603ac171c0187a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maths/Coordinate Geometry/Differentiation/Differentiation from first princples.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "3810d905868d17c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Solids under stress/Materials/Amorphous.md",
+                "file": "Physics/Moments/Center of Gravity.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,13 +25,98 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Solids under stress/Materials/Polymers.md",
+                "file": "Physics/Kinematics/Kinematics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6ad9310fa88e03c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physics/Kinematics/Displacement.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0c922c4211e0ccdd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physics/Kinematics/XUVAT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c2506ada6048f4ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Theory/Logical Operators/Logic in Registers/Logic in Registers.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f243d30337a7229b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Theory/Logical Operators/Logic in Registers/XOR Encryption.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7e7e396031b0f29a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Theory/Logical Operators/Logic in Registers/Clearing Registers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9b35b355dab3762c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Theory/Logical Operators/Logic in Registers/Adjusting Registers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "785a6de8642acba0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Maths/Coordinate Geometry/Trig + Pythagoras.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -72,7 +145,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "differentia",
+                "query": "desmos",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,8 +162,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -110,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Maths/Coordinate Geometry/Trig + Pythagoras.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Maths/Coordinate Geometry/Trig + Pythagoras.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Maths/Coordinate Geometry/Trig + Pythagoras.md"
               }
             }
           },
@@ -181,59 +253,22 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "floating": {
-    "id": "c925e8386e270230",
-    "type": "floating",
-    "children": [
-      {
-        "id": "6bea8b4cd08ca8ed",
-        "type": "window",
-        "children": [
-          {
-            "id": "9ca5782f6c141cf6",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "95142778c5ed982f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "index.md",
-                    "mode": "preview",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 24,
-        "width": 1680,
-        "height": 1026,
-        "maximize": false,
-        "zoom": -0.5
-      }
-    ]
-  },
-  "active": "95142778c5ed982f",
+  "active": "785a6de8642acba0",
   "lastOpenFiles": [
+    "index.md",
     "z_Excerpts/z_Excerpts.md",
     "z_Excerpts/Python/Python.md",
     "z_Excerpts/Python/save_files/save_files.md",
     "z_Excerpts/Image/Image.md",
-    "z_Excerpts/Homework/Homework.md",
     "z_Excerpts/Graph/Graph.md",
     "Physics/Physics.md",
     "Physics/Solids under stress/Topic Keywords.md",
     "Physics/Solids under stress/Stress and Strain.md",
     "Physics/Solids under stress/Solids under stress.md",
+    "Physics/Solids under stress/Hysteresis.md",
     "Physics/Solids under stress/Hooke's Law.md",
     "Physics/Solids under stress/Materials/Polymers.md",
     "Physics/Solids under stress/Materials/Materials.md",
-    "Physics/Solids under stress/Materials/Hysteresis.md",
     "Physics/Solids under stress/Materials/Crystalline - Polycrystalline.md",
     "Physics/Solids under stress/Materials/Amorphous.md",
     "Physics/Physics Basics/Vector Composites.md",
@@ -246,26 +281,27 @@
     "Physics/Physics Basics/Derived Quantaties.md",
     "Physics/Physics Basics/Base Quantities.md",
     "Physics/Physics Basics/\"Maths is useless, unless its for physics\".md",
-    "z_Excerpts/Graph/desmos-graph-e156a3663f302c27a3f7f7def7cc9d18c956a3aab7f89c6032e2b484c575f628.svg",
-    "z_Excerpts/Graph/desmos-graph-adf5a9987a6aa513587d5cef97cbfd3a1fd9fccbc7605b263ca620d0a0fc2869.svg",
-    "z_Excerpts/Graph/desmos-graph-17110ca962990bcd754fbeef0196a523322d59479ab3fa1633d883634864853e.svg",
-    "z_Excerpts/Graph/desmos-graph-47411e058913eeff78c324b711c1a3e67432cacda10ae01f871f5a5221095309.svg",
+    "Computer Science/Theory/Logical Operators/Boolean Algebra/Logical Operators Recap.canvas",
+    "z_Excerpts/Graph/desmos-graph-a0edf2f7f7234ff3e1a8a0e252ab9674199e7213d0ce96d5b99c626bd7f87d8b.svg",
     "z_Excerpts/Graph/desmos-graph-67b32271f00ee033d2b88acdc14675f5095ff2e910d75f7b4aebf3be3e488ccc.svg",
-    "z_Excerpts/Graph/desmos-graph-21d7e41c19ea4bf443cba38f56cacbf3468eb1334d0dc0cdeb3798b8a9b36ad8.svg",
+    "tkinter_4_activity_2.txt",
+    "Computer Science/Theory/Logical Operators/Logic in Registers",
+    "Computer Science/Theory/Logical Operators/Boolean Algebra",
+    "Physics/Kinematics",
+    "z_Excerpts/Graph/desmos-graph-e636c359e1ee40fa30b20a9fd36fa618478a38d76a9e4d8803b267dae9d89e67.svg",
+    "z_Excerpts/Graph/desmos-graph-f228c81dd884068591e0dfc29c5ea1fc990d1ce7bc80f856b6ca3aa85db16185.svg",
+    "z_Excerpts/Graph/desmos-graph-adf5a9987a6aa513587d5cef97cbfd3a1fd9fccbc7605b263ca620d0a0fc2869.svg",
+    "z_Excerpts/Graph/desmos-graph-f5136915f92e83dd234b0a9949c31dacfe8d54696d77fa1b4e73c68fa1e997ed.svg",
+    "z_Excerpts/Graph/desmos-graph-1ddcfc56ff5109188e13937df31d722384e0761a2751336415159860abdde6f2.svg",
+    "z_Excerpts/Graph/desmos-graph-f978e2a0ee6d8461f80c2a036450a9f4f9daab76cc68174ba8a1612af70e399f.svg",
+    "z_Excerpts/Graph/desmos-graph-242583f8c0dc1b84115fc5f7352833f9694a04ce508107349ac6722f24cce994.svg",
+    "z_Excerpts/Graph/desmos-graph-76573f6458593dbf16cd7f69538e53888c39b4d9353895289032f7128a66421d.svg",
     "z_Excerpts/Python/datatypes.py",
     "z_Excerpts/Python/tkinter_3_activity_2.py",
     "tkinter_3_activity_2.txt",
-    "z_Excerpts/Image/Pasted image 20231009232914.png",
     "Physics/Solids under stress/Materials",
     "Maths/Algebra/Graph Transformations",
     "z_Excerpts/Python/tkinter3.py",
-    "Maths/Algebra/Polynomials",
-    "z_Excerpts/Python/test_dict.py",
-    "z_Excerpts/Python/dict_temp = {\"one\": 1, \"two\": 2, \"three\".py",
-    "z_Excerpts/Graph/desmos-graph-f5136915f92e83dd234b0a9949c31dacfe8d54696d77fa1b4e73c68fa1e997ed.svg",
-    "firmData.txt",
-    "z_Excerpts/Image/Pasted image 20231005124031.png",
-    "z_Excerpts/Image/Pasted image 20231005123805.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

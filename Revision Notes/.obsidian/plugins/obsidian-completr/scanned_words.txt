@@ -161,6 +161,7 @@ tq
 tF
 tny
 twice
+tickmark
 center
 constant
 could
@@ -365,6 +366,9 @@ coordintes
 curves
 certain
 change
+cdc
+contents
+cleared
 Where
 Word
 Work
@@ -679,6 +683,8 @@ oUY
 ofi
 olOK
 oAY
+odd
+origin
 Surds
 Split
 Surd
@@ -803,6 +809,9 @@ Stretch
 SU
 Sxy
 Sometimes
+Sine
+Scrambling
+Symmetric
 General
 GB
 Ghz
@@ -1067,6 +1076,9 @@ rapidly
 released
 reliable
 rate
+rotational
+receiver
+retrieve
 for
 factors
 force
@@ -1426,6 +1438,12 @@ subbing
 stuck
 strength
 simply
+symmetry
+symmetrical
+separately
+secure
+say
+shortest
 into
 is
 in
@@ -1569,6 +1587,9 @@ iYYv
 initial
 increasing
 implying
+intended
+imagine
+interested
 largest
 like
 length
@@ -1826,6 +1847,8 @@ CYh
 CTCc
 CSn
 Commutative
+Cosine
+Compare
 denominator
 done
 deci
@@ -1995,6 +2018,8 @@ der
 decrease
 detangled
 decreasing
+decrypt
+demonstrates
 To
 The
 This
@@ -2114,6 +2139,7 @@ Transformation
 Tu
 Tba
 Then
+Tan
 we
 which
 what
@@ -2251,6 +2277,8 @@ wZV
 wVi
 weak
 well
+wouldn
+wanting
 must
 multiply
 mega
@@ -2640,6 +2668,7 @@ blow
 been
 breaking
 better
+basic
 applied
 area
 also
@@ -2792,6 +2821,8 @@ auJ
 azj
 aKUz
 apply
+algorithm
+anyone
 extension
 equation
 executed
@@ -2943,6 +2974,9 @@ ey
 eXQ
 explains
 exams
+even
+encryption
+encrypted
 Nm
 Note
 Number
@@ -3035,6 +3069,7 @@ NDY
 NvcA
 Nex
 Normals
+New
 gradient
 graph
 giga
@@ -3148,6 +3183,10 @@ gVf
 gBK
 grains
 glass
+gate
+gets
+give
+graphs
 Fx
 Form
 French
@@ -3240,6 +3279,7 @@ FU
 First
 Fibres
 Find
+Final
 under
 using
 unit
@@ -3360,6 +3400,8 @@ upwards
 uOLT
 uEU
 unravelling
+understood
+usually
 Multiplier
 Mass
 MAR
@@ -3478,6 +3520,7 @@ MWI
 Metals
 MdXa
 MJ
+MSB
 Prefix
 Pressure
 Power
@@ -3588,6 +3631,7 @@ Picture
 Polymers
 PF
 Pre
+Physics
 kilo
 known
 kilogram
@@ -3888,6 +3932,8 @@ IoAX
 IABY
 IYA
 IVL
+Identities
+Initial
 quantities
 quantity
 quickly
@@ -4065,6 +4111,7 @@ BB
 Boolean
 Blow
 BANG
+Being
 Length
 Law
 Lines
@@ -4151,6 +4198,7 @@ LiU
 Ljs
 LxF
 LR
+Let
 Electric
 Examples
 Energy
@@ -4254,6 +4302,8 @@ EbF
 Eb
 EKH
 Edge
+Encryption
+EQUATIONS
 Amount
 All
 Acceleration
@@ -4343,6 +4393,7 @@ AB
 ADDITIONAL
 Associative
 Add
+Accelaration
 Derived
 Definition
 Distributes
@@ -4433,6 +4484,9 @@ DS
 DeL
 DdWi
 DISTRIBUTIVE
+Displacement
+Displacemnt
+Deriving
 Quantity
 Quantaties
 Qa
@@ -4611,6 +4665,7 @@ VSH
 VLF
 VVL
 Van
+Value
 has
 held
 holds
@@ -4890,6 +4945,8 @@ pnJ
 pZi
 pzX
 party
+particularly
+principles
 value
 values
 volatile
@@ -5757,6 +5814,8 @@ XWN
 XOR
 Xgy
 XSO
+XUVAT
+XUVATS
 Zx
 ZO
 Zb

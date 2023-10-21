@@ -21,72 +21,73 @@ def submit_click():
     output_text.insert(END, output_text_thing)
 
 
-def load_table_format():
-    f = open("tkinter_3_activity_2.txt", "r")
-    lines = f.readlines()
-    f.close()
+def save_click():
+    user_data = []
+    try:
+        f = open("tkinter_4_activity_2.txt", "r")
+        lines = f.readlines()
+        print(lines)
+        for x in lines:
+            user_data.append(x.split(split_var))
+            print(x.split(split_var))
+        f.close()
 
+    except:
+        pass
+    
+    name_temp = str(name_entry.get()); walking_temp = str(walking.get()); age_temp = str(age.get()); 
+    sports_temp = str(sports.get()); reading_temp = str(reading.get()); chess_temp = str(chess.get()); 
+    stamp_collecting_temp = str(stamp_collecting.get()); gender_temp = str(gender.get())
 
-def save_table_format():
+    temp_save_file = [name_temp, age_temp, walking_temp, sports_temp, reading_temp, chess_temp, stamp_collecting_temp, gender_temp]
+    user_data.append(temp_save_file)
+    
     temp_save_file = []
     for i in user_data:
         temp_save_file_var = ''
-        for x in user_data[i].keys():
-            temp_save_file_var += (user_data[i][x] + ' '*5)
-        temp_save_file_var = temp_save_file_variable[:-5]
+        for x in i:
+            temp_save_file_var += (x + split_var)
+        temp_save_file_var = temp_save_file_var[:-(len(split_var))]
         temp_save_file.append(temp_save_file_var)
 
-    f = open("tkinter_3_activity_2.txt", "w")
+    f = open("tkinter_4_activity_2.txt", "w")
     f.writelines(temp_save_file)
     f.close()
 
 
 def load_click():
+    user_data = []
     try:
-        f = open("tkinter_3_activity_2.txt", "r")
-        user_data = (eval(f.read()))
+        f = open("tkinter_4_activity_2.txt", "r")
+        lines = f.readlines()
+        print(lines)
+        for x in lines:
+            user_data.append(x.split(split_var))
+            print(x.split(split_var))
         f.close()
 
         name_entry.delete(0, END)
-        name_entry.insert(0, str(user_data[round_val]['name']))
-        walking.set(int(user_data[round_val]['walking']))
-        age.set(int(user_data[round_val]['age']))
-        reading.set(user_data[round_val]['reading'])
-        sports.set(int(user_data[round_val]['sports']))
-        chess.set(int(user_data[round_val]['chess']))
-        stamp_collecting.set(int(user_data[round_val]['stamp_collecting']))
-        gender.set(int(user_data[round_val]['gender']))
+        name_entry.insert(0, str(user_data[round_val][0]))
+        walking.set(int(user_data[round_val][2]))
+        age.set(int(user_data[round_val][1]))
+        reading.set(user_data[round_val][4])
+        sports.set(int(user_data[round_val][3]))
+        chess.set(int(user_data[round_val][5]))
+        stamp_collecting.set(int(user_data[round_val][6]))
+        gender.set(int(user_data[round_val][7]))
         output_text.delete(0.0, END)
         output_text.insert(END, "Saved files have been loaded in.")
+
     except:
         output_text.delete(0.0, END)
         output_text.insert(END, "No saved files found.")
-
-
-def save_click():
-    name_temp = str(name_entry.get()); walking_temp = str(walking.get()); age_temp = str(age.get()); 
-    sports_temp = str(sports.get()); reading_temp = str(reading.get()); chess_temp = str(chess.get()); 
-    stamp_collecting_temp = str(stamp_collecting.get()); gender_temp = str(gender.get()); country_temp = str(country.get())
-
-    temp_save_file = {'name':name_temp, 'walking':walking_temp, 'age':age_temp, 
-    'sports':sports_temp, 'reading':reading_temp, 'chess':chess_temp, 
-    'stamp_collecting':stamp_collecting_temp, 'gender':gender_temp}
-    print(str(user_data))
-    user_data.append(temp_save_file)
-    print(str(user_data))
-    
-    f = open("tkinter_3_activity_2.txt", "w")
-    f.write(str(user_data))
-    f.close()
 
 
 def dict_cycle():
     global round_val
     
     try:
-        f = open("tkinter_3_activity_2.txt", "r")
-        user_data = (eval(f.read()))
-        f.close()
+        load_click()
     except:
         output_text.delete(0.0, END)
         output_text.insert(END, "No saved files found.")
@@ -96,10 +97,11 @@ def dict_cycle():
         round_val = 0
     else:
         pass
-    load_click()
+
 
 user_data = []
 round_val = 0
+split_var = '     '
 
 wd = Tk()
 wd.title("Random Questionaire") # Sets the GUI's title
@@ -152,4 +154,3 @@ Button(wd, text = 'NEXT', command = dict_cycle).pack()
 
 # This runs the GUI and acts as a garbage collector for all interactions
 wd.mainloop()
-
