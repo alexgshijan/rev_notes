@@ -1,8 +1,16 @@
 **Sine Rule :** $$\frac{\text{side a}}{\text{sine(angle A)}}=\frac{\text{side b}}{{sine(angle B)}}$$
+*Note that when using sine rule, there are alternative answers.*
+**Cosine Rule :**$$a^{2}=b^{2}+c^{2}-2bc\cos(A)$$*And for finding the angle :*$$A = \arccos\left(\frac{b^{2}+c^{2}-a^{2}}{2bc}\right)$$
+
+
 **Identities :** 
 $\tan\theta = \sin\theta \div \cos\theta$
 $\sin^{2}\theta+\cos^{2}\theta=1$
 $\cos\theta =\sin(90-\theta)$
+
+$\sin(-\theta)=-\sin\theta$
+$\cos(-\theta)=\cos\theta$
+$\tan(-\theta)=-\tan\theta$
 
 **Sine Graph :** 
 ```desmos-graph

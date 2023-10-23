@@ -13,5 +13,5 @@
 	- Definition : **The ration of stress to strain, can be used to identify and compare the stiffness of different materials, regardless of dimensions of the spring**
 	- Units : $σ= \frac{F}{A}$
 	- Formula = $\frac{σ}{ε}$
-	- Take note : This only applies until the elastic limit of the material, as referred to in [[Physics/Solids under stress/Topic Keywords|Hooke's Law]]
+	- Take note : This only applies until the elastic limit of the material, as referred to in [[Physics/Solids under stress 1.5/Topic Keywords|Hooke's Law]]
 	- 

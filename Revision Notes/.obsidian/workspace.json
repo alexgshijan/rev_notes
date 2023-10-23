@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Moments/Center of Gravity.md",
+                "file": "Physics/Physics Basics - 1.1/Moments/Center of Gravity.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Kinematics/Kinematics.md",
+                "file": "Physics/Kinematics - 1.2/Kinematics - 1.2.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Kinematics/Displacement.md",
+                "file": "Physics/Kinematics - 1.2/Displacement.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Kinematics/XUVAT.md",
+                "file": "Physics/Kinematics - 1.2/XUVAT.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,14 +109,98 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Coordinate Geometry/Trig + Pythagoras.md",
+                "file": "Physics/Energy Concepts - 1.4/Energy Concepts - 1.4.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "57b8420e55271837",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physics/Using Radiation to Investigate Stars - 1.6/Using Radiation to Investigate Stars - 1.6.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a961ad52b14b41f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physics/Using Radiation to Investigate Stars - 1.6/Spectra.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "74fc54bb7741e693",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physics/Using Radiation to Investigate Stars - 1.6/Surface of Stars.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6746134ed8035784",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physics/Using Radiation to Investigate Stars - 1.6/Electromagnetic Spectrum.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ed57c7f90566af4f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physics/Using Radiation to Investigate Stars - 1.6/Sun's Temperature.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "592b8f564e65101b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physics/Using Radiation to Investigate Stars - 1.6/Sun's Temperature.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d8b87910b53674ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Maths/Trigonometry/GCSE - Trigonometry.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -145,7 +229,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "desmos",
+                "query": "trig",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -182,7 +266,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/Coordinate Geometry/Trig + Pythagoras.md",
+                "file": "Maths/Trigonometry/GCSE - Trigonometry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +283,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Coordinate Geometry/Trig + Pythagoras.md",
+                "file": "Maths/Trigonometry/GCSE - Trigonometry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +306,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Coordinate Geometry/Trig + Pythagoras.md"
+                "file": "Maths/Trigonometry/GCSE - Trigonometry.md"
               }
             }
           },
@@ -253,41 +337,44 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "785a6de8642acba0",
+  "active": "d8b87910b53674ea",
   "lastOpenFiles": [
-    "index.md",
-    "z_Excerpts/z_Excerpts.md",
-    "z_Excerpts/Python/Python.md",
-    "z_Excerpts/Python/save_files/save_files.md",
-    "z_Excerpts/Image/Image.md",
-    "z_Excerpts/Graph/Graph.md",
-    "Physics/Physics.md",
-    "Physics/Solids under stress/Topic Keywords.md",
-    "Physics/Solids under stress/Stress and Strain.md",
-    "Physics/Solids under stress/Solids under stress.md",
-    "Physics/Solids under stress/Hysteresis.md",
-    "Physics/Solids under stress/Hooke's Law.md",
-    "Physics/Solids under stress/Materials/Polymers.md",
-    "Physics/Solids under stress/Materials/Materials.md",
-    "Physics/Solids under stress/Materials/Crystalline - Polycrystalline.md",
-    "Physics/Solids under stress/Materials/Amorphous.md",
-    "Physics/Physics Basics/Vector Composites.md",
-    "Physics/Physics Basics/Unit Prefixes.md",
-    "Physics/Physics Basics/Uncertainty.md",
-    "Physics/Physics Basics/Topic Keywords.md",
-    "Physics/Physics Basics/Physics Basics.md",
-    "Physics/Physics Basics/Homogeneity.md",
-    "Physics/Physics Basics/Errors.md",
-    "Physics/Physics Basics/Derived Quantaties.md",
-    "Physics/Physics Basics/Base Quantities.md",
-    "Physics/Physics Basics/\"Maths is useless, unless its for physics\".md",
+    "Physics/Physics Basics - 1.1/Vector Composites.md",
+    "Physics/Physics Basics - 1.1/Moments/Moment or Torque.md",
+    "Physics/Using Radiation to Investigate Stars - 1.6/Absolute Temperature.md",
+    "Physics/Using Radiation to Investigate Stars - 1.6/Sun's Temperature.md",
+    "Physics/Using Radiation to Investigate Stars - 1.6/Electromagnetic Spectrum.md",
+    "Physics/Using Radiation to Investigate Stars - 1.6/Black Body.md",
+    "Physics/Using Radiation to Investigate Stars - 1.6/Surface of Stars.md",
+    "Physics/Using Radiation to Investigate Stars - 1.6/Spectra.md",
+    "Physics/Using Radiation to Investigate Stars - 1.6/Using Radiation to Investigate Stars - 1.6.md",
+    "Physics/Solids under stress 1.5/Solids under stress 1.5.md",
+    "Physics/Physics Basics - 1.1/Physics Basics - 1.1.md",
+    "Physics/Kinematics - 1.2/Kinematics - 1.2.md",
+    "Physics/Physics Basics - 1.1/\"Maths is useless, unless its for physics\".md",
+    "Physics/Energy Concepts - 1.4/Work Done.md",
+    "Physics/Using Radiation to Investigate Stars - 1.6",
+    "Physics/Energy Concepts - 1.4/Energy Concepts - 1.4.md",
+    "Maths/Trigonometry/GCSE - Trigonometry.md",
+    "Physics/Energy Concepts - 1.4",
+    "Maths/Trigonometry/Trigonometry.md",
+    "Maths/Coordinate Geometry/Coordinate Geometry.md",
+    "Maths/Trigonometry",
+    "Maths/Algebra/Polynomials/Quadratics/Quadratics.md",
+    "Maths/Coordinate Geometry/Differentiation/Differentiation.md",
+    "Maths/Coordinate Geometry/Differentiation/Differentiation from first principles.md",
+    "Maths/Algebra/Surds.md",
+    "Maths/Algebra/Simultaneous Equations.md",
+    "Maths/Algebra/Rules of Indicies.md",
+    "Maths/Algebra/Polynomials/Remainder Theorem.md",
+    "Maths/Algebra/Polynomials/Polynomials.md",
     "Computer Science/Theory/Logical Operators/Boolean Algebra/Logical Operators Recap.canvas",
     "z_Excerpts/Graph/desmos-graph-a0edf2f7f7234ff3e1a8a0e252ab9674199e7213d0ce96d5b99c626bd7f87d8b.svg",
     "z_Excerpts/Graph/desmos-graph-67b32271f00ee033d2b88acdc14675f5095ff2e910d75f7b4aebf3be3e488ccc.svg",
     "tkinter_4_activity_2.txt",
     "Computer Science/Theory/Logical Operators/Logic in Registers",
     "Computer Science/Theory/Logical Operators/Boolean Algebra",
-    "Physics/Kinematics",
+    "Physics/Kinematics - 1.2",
     "z_Excerpts/Graph/desmos-graph-e636c359e1ee40fa30b20a9fd36fa618478a38d76a9e4d8803b267dae9d89e67.svg",
     "z_Excerpts/Graph/desmos-graph-f228c81dd884068591e0dfc29c5ea1fc990d1ce7bc80f856b6ca3aa85db16185.svg",
     "z_Excerpts/Graph/desmos-graph-adf5a9987a6aa513587d5cef97cbfd3a1fd9fccbc7605b263ca620d0a0fc2869.svg",
@@ -299,9 +386,6 @@
     "z_Excerpts/Python/datatypes.py",
     "z_Excerpts/Python/tkinter_3_activity_2.py",
     "tkinter_3_activity_2.txt",
-    "Physics/Solids under stress/Materials",
-    "Maths/Algebra/Graph Transformations",
-    "z_Excerpts/Python/tkinter3.py",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

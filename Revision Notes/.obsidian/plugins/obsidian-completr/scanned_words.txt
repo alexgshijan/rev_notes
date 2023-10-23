@@ -473,6 +473,7 @@ Wqc
 WPV
 Waals
 Waal
+Wavelength
 Rules
 Rationalising
 Refer
@@ -563,6 +564,7 @@ RG
 RNX
 Rt
 RNf
+Radio
 of
 original
 other
@@ -903,6 +905,7 @@ Gjg
 Gr
 Graph
 GiZ
+Gamma
 rule
 rationalise
 refer
@@ -2436,6 +2439,7 @@ move
 mLs
 minimal
 molecule
+memorise
 numerator
 nano
 needs
@@ -3521,6 +3525,8 @@ Metals
 MdXa
 MJ
 MSB
+Metres
+Microwave
 Prefix
 Pressure
 Power
@@ -3821,6 +3827,7 @@ UKz
 UserComment
 UjG
 UAb
+Ultraviolet
 International
 Instructions
 It
@@ -3934,6 +3941,7 @@ IYA
 IVL
 Identities
 Initial
+Infrared
 quantities
 quantity
 quickly
@@ -4666,6 +4674,7 @@ VLF
 VVL
 Van
 Value
+Visible
 has
 held
 holds
@@ -5816,6 +5825,7 @@ Xgy
 XSO
 XUVAT
 XUVATS
+Xray
 Zx
 ZO
 Zb
