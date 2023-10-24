@@ -162,6 +162,7 @@ tF
 tny
 twice
 tickmark
+transferred
 center
 constant
 could
@@ -369,6 +370,10 @@ change
 cdc
 contents
 cleared
+continuous
+cloud
+characteristic
+colour
 Where
 Word
 Work
@@ -814,6 +819,8 @@ Sometimes
 Sine
 Scrambling
 Symmetric
+Spectra
+Stars
 General
 GB
 Ghz
@@ -1082,6 +1089,7 @@ rate
 rotational
 receiver
 retrieve
+rainbow
 for
 factors
 force
@@ -1216,6 +1224,7 @@ foreign
 forming
 formed
 factorise
+frequencies
 solving
 surds
 square
@@ -1447,6 +1456,10 @@ separately
 secure
 say
 shortest
+spectra
+separated
+spectrometer
+star
 into
 is
 in
@@ -1593,6 +1606,7 @@ implying
 intended
 imagine
 interested
+insight
 largest
 like
 length
@@ -1852,6 +1866,7 @@ CSn
 Commutative
 Cosine
 Compare
+Continuous
 denominator
 done
 deci
@@ -2023,6 +2038,7 @@ detangled
 decreasing
 decrypt
 demonstrates
+definite
 To
 The
 This
@@ -2282,6 +2298,7 @@ weak
 well
 wouldn
 wanting
+wavelengths
 must
 multiply
 mega
@@ -2440,6 +2457,7 @@ mLs
 minimal
 molecule
 memorise
+makeup
 numerator
 nano
 needs
@@ -2827,6 +2845,7 @@ aKUz
 apply
 algorithm
 anyone
+absorb
 extension
 equation
 executed
@@ -2981,6 +3000,12 @@ exams
 even
 encryption
 encrypted
+energy
+energised
+excited
+electron
+emit
+emitted
 Nm
 Note
 Number
@@ -3191,6 +3216,8 @@ gate
 gets
 give
 graphs
+gas
+gaseous
 Fx
 Form
 French
@@ -4207,6 +4234,7 @@ Ljs
 LxF
 LR
 Let
+Light
 Electric
 Examples
 Energy
@@ -4312,6 +4340,7 @@ EKH
 Edge
 Encryption
 EQUATIONS
+Emission
 Amount
 All
 Acceleration
@@ -4402,6 +4431,9 @@ ADDITIONAL
 Associative
 Add
 Accelaration
+Also
+Absorption
+Atoms
 Derived
 Definition
 Distributes
@@ -4495,6 +4527,8 @@ DISTRIBUTIVE
 Displacement
 Displacemnt
 Deriving
+Direction
+Done
 Quantity
 Quantaties
 Qa
@@ -4792,6 +4826,7 @@ he
 hHg
 harder
 heat
+hot
 program
 phase
 point
@@ -4956,6 +4991,9 @@ pzX
 party
 particularly
 principles
+produced
+producing
+photosphere
 value
 values
 volatile

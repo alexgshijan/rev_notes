@@ -1,0 +1,1 @@
+*Power = Force $\cdot$ Velocity in the direction of the force*

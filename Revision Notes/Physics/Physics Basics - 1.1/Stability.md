@@ -1,0 +1,1 @@
+In relation to [[Center of Gravity]], an object will topple over if the line of action of its weight lies outside the base of the object. An object is more stable if it has a low centre of mass
