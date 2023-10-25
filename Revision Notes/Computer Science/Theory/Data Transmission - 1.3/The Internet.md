@@ -1,0 +1,1 @@
+The internet is a *global communications infrastructure* - allows for the sending and receiving of data via wired or wireless communications
