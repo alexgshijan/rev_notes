@@ -163,6 +163,10 @@ tny
 twice
 tickmark
 transferred
+topple
+theoretical
+tH
+tcY
 center
 constant
 could
@@ -374,6 +378,8 @@ continuous
 cloud
 characteristic
 colour
+cold
+colours
 Where
 Word
 Work
@@ -479,6 +485,7 @@ WPV
 Waals
 Waal
 Wavelength
+WH
 Rules
 Rationalising
 Refer
@@ -570,6 +577,7 @@ RNX
 Rt
 RNf
 Radio
+Range
 of
 original
 other
@@ -692,6 +700,10 @@ olOK
 oAY
 odd
 origin
+obviously
+oxo
+oX
+ogggo
 Surds
 Split
 Surd
@@ -821,6 +833,8 @@ Scrambling
 Symmetric
 Spectra
 Stars
+SAA
+SA
 General
 GB
 Ghz
@@ -913,6 +927,7 @@ Gr
 Graph
 GiZ
 Gamma
+GPx
 rule
 rationalise
 refer
@@ -1090,6 +1105,10 @@ rotational
 receiver
 retrieve
 rainbow
+relation
+radiation
+rn
+rAJL
 for
 factors
 force
@@ -1225,6 +1244,10 @@ forming
 formed
 factorise
 frequencies
+falls
+fyX
+fr
+fPitw
 solving
 surds
 square
@@ -1460,6 +1483,11 @@ spectra
 separated
 spectrometer
 star
+should
+spectrum
+stars
+sss
+srb
 into
 is
 in
@@ -1607,6 +1635,10 @@ intended
 imagine
 interested
 insight
+intensity
+ii
+iOeJ
+iZvc
 largest
 like
 length
@@ -1740,6 +1772,9 @@ lLM
 lengthened
 lengthening
 lets
+lies
+low
+leads
 Collect
 CPU
 CIR
@@ -1867,6 +1902,9 @@ Commutative
 Cosine
 Compare
 Continuous
+Curve
+Celsius
+Cp
 denominator
 done
 deci
@@ -2039,6 +2077,8 @@ decreasing
 decrypt
 demonstrates
 definite
+dv
+dSR
 To
 The
 This
@@ -2159,6 +2199,8 @@ Tu
 Tba
 Then
 Tan
+Temperature
+Things
 we
 which
 what
@@ -2299,6 +2341,9 @@ well
 wouldn
 wanting
 wavelengths
+wavelength
+wAr
+wqs
 must
 multiply
 mega
@@ -2458,6 +2503,7 @@ minimal
 molecule
 memorise
 makeup
+mass
 numerator
 nano
 needs
@@ -2691,6 +2737,8 @@ been
 breaking
 better
 basic
+bodies
+begins
 applied
 area
 also
@@ -2846,6 +2894,13 @@ apply
 algorithm
 anyone
 absorb
+action
+absorbs
+approximation
+appears
+ah
+ad
+aB
 extension
 equation
 executed
@@ -3006,6 +3061,9 @@ excited
 electron
 emit
 emitted
+emitter
+emitters
+et
 Nm
 Note
 Number
@@ -3099,6 +3157,9 @@ NvcA
 Nex
 Normals
 New
+Nt
+NJ
+Nö
 gradient
 graph
 giga
@@ -3311,6 +3372,7 @@ First
 Fibres
 Find
 Final
+FoJJ
 under
 using
 unit
@@ -3665,6 +3727,8 @@ Polymers
 PF
 Pre
 Physics
+Pxd
+Pf
 kilo
 known
 kilogram
@@ -3761,6 +3825,9 @@ kYu
 kF
 kBm
 keep
+kK
+ktW
+kvF
 Units
 USB
 Using
@@ -3969,6 +4036,8 @@ IVL
 Identities
 Initial
 Infrared
+Intensity
+IOro
 quantities
 quantity
 quickly
@@ -4050,6 +4119,7 @@ qiG
 qJ
 qRrs
 qXK
+qbL
 Base
 Both
 Bluray
@@ -4147,6 +4217,9 @@ Boolean
 Blow
 BANG
 Being
+Black
+Body
+Bl
 Length
 Law
 Lines
@@ -4235,6 +4308,7 @@ LxF
 LR
 Let
 Light
+LJM
 Electric
 Examples
 Energy
@@ -4434,6 +4508,7 @@ Accelaration
 Also
 Absorption
 Atoms
+AiD
 Derived
 Definition
 Distributes
@@ -4615,6 +4690,7 @@ QRd
 QgDH
 QME
 Qgx
+QAT
 Velocity
 Von
 Vector
@@ -4709,6 +4785,9 @@ VVL
 Van
 Value
 Visible
+VxV
+VScb
+Vub
 has
 held
 holds
@@ -4827,6 +4906,7 @@ hHg
 harder
 heat
 hot
+heats
 program
 phase
 point
@@ -4994,6 +5074,11 @@ principles
 produced
 producing
 photosphere
+peak
+particles
+perfect
+pc
+pdk
 value
 values
 volatile
@@ -5085,6 +5170,9 @@ vH
 vertically
 vwV
 van
+various
+vHOM
+vM
 just
 jK
 jE
@@ -5166,6 +5254,7 @@ joints
 jGr
 jj
 jHP
+jXj
 However
 How
 Hookes
@@ -5265,6 +5354,11 @@ HGqG
 Here
 Hence
 HKE
+HKK
+HlV
+HxFw
+HdOU
+HdOQ
 you
 year
 yY
@@ -5352,6 +5446,8 @@ ylb
 ye
 yeX
 ytl
+yBfG
+yoL
 You
 Young
 Yg
@@ -5430,6 +5526,8 @@ Ygs
 YPVv
 YGye
 YQcS
+Yc
+Yyyy
 Keywords
 KXv
 Ki
@@ -5523,6 +5621,7 @@ KWq
 KCz
 KT
 KPY
+Kelvin
 Optical
 One
 OXv
@@ -5627,6 +5726,7 @@ Oie
 OnW
 Oo
 Opx
+Osw
 John
 JL
 Jk
@@ -5704,6 +5804,7 @@ JGD
 JeX
 JvZ
 JY
+JH
 zl
 zs
 zw
@@ -5864,6 +5965,9 @@ XSO
 XUVAT
 XUVATS
 Xray
+XJq
+XNQ
+XXE
 Zx
 ZO
 Zb
@@ -5934,6 +6038,7 @@ Zq
 Zssi
 ZXO
 ZZTN
+Zero
 xaF
 xb
 xSg
@@ -6020,7 +6125,9 @@ xZ
 xox
 xY
 xgf
+xcc
 öm
 ög
 ös
 äMa
+ÜK
