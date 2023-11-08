@@ -1,0 +1,1 @@
+If there are both negative and positive areas within our [[Integration Notation||Integration]] bounds, we need to work out the positive and negative areas separately, then add the absolute values. 

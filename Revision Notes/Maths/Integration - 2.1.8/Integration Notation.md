@@ -1,0 +1,11 @@
+**Integrating the equation of a line gives us the area under the graph**
+
+Indefinite Integration - *Where the $+c$ is unknown*
+$\int ax \text{ dx}$ $\to$ *Integrate ax with respect to x*
+*Worked Example :*
+$$\int 4x^{3}\text{ dx}= \frac{4}{3+1}x^{3+1}+c=x^4+c$$
+
+Definite Integration - *finds you the area between the graph and x axis*
+$\int_\text{a}^\text{b} ax \text{ dx}$ $\to$ *Integrate ax with respect to x, within the bounds a and b*
+*Worked Example :*
+$$\int_1^5 4x^3 \text{ dx} = [x^4+c]_1^5=(5^4+c)-(1^4+c)=625+c-(1+c)=624$$

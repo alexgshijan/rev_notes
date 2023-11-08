@@ -19,7 +19,7 @@ def submit_click():
     else:gender_txt = "Female"
 
     output_text_thing = f"Questionaire Values\nName : {name_entry.get()}\nAge : {age.get()}\nGender : {gender_txt}\nHobbies : {hobbies_text[:-2]}"
-    output_text.delete(0.0, END)
+    output_text.delete(END)
     output_text.insert(END, output_text_thing)
 
 

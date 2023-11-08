@@ -1,5 +1,5 @@
 **Absolute Uncertainty :**
-If you've taken a single reading, it can calucated as the resolution of the instrument, if multiple readings were taken, it is equal to half the range of results 
+If you've taken a single reading, it can calculated as the resolution of the instrument, if multiple readings were taken, it is equal to half the range of results 
 This can also be expressed as a percentage of the measured value
 
 **Percentage Uncertainty :**

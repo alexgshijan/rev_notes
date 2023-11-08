@@ -23,16 +23,46 @@
             "id": "19539454de5c5fc3",
             "type": "leaf",
             "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Maths/Integration - 2.1.8/Integration recap.canvas",
+                "viewState": {
+                  "x": -31.619999999999997,
+                  "y": 50.55890624999998,
+                  "zoom": 0
+                }
+              }
+            }
+          },
+          {
+            "id": "1cf44b1846c6ceb0",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Maths/Integration - 2.1.8/Integration recap.canvas",
+                "viewState": {
+                  "x": 682.8246691857431,
+                  "y": -32.4182768846865,
+                  "zoom": -0.45207457387095873
+                }
+              }
+            }
+          },
+          {
+            "id": "43743181835a3c39",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Maths/Integration - 2.1.8/Integration Notation.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -61,7 +91,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "desmos",
+                "query": "wip",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Maths/Integration - 2.1.8/Integration recap.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Maths/Integration - 2.1.8/Integration recap.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Maths/Integration - 2.1.8/Integration recap.canvas"
               }
             }
           },
@@ -169,11 +199,46 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "19539454de5c5fc3",
+  "floating": {
+    "id": "e287de0726e94dd2",
+    "type": "floating",
+    "children": [
+      {
+        "id": "c648c4f24a374b82",
+        "type": "window",
+        "children": [
+          {
+            "id": "27f2668787792928",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3255f87d59b58bfe",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "index.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 24,
+        "width": 1680,
+        "height": 1026,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "1cf44b1846c6ceb0",
   "lastOpenFiles": [
-    "z_Excerpts/z_Excerpts.md",
-    "z_Excerpts/Python/Python.md",
-    "z_Excerpts/Python/save_files/save_files.md",
+    "Maths/Integration - 2.1.8/Integration Notation.md",
     "z_Excerpts/Image/Image.md",
     "z_Excerpts/Graph/Graph.md",
     "Physics/Physics.md",
@@ -197,7 +262,14 @@
     "Physics/Physics Basics - 1.1/Unit Prefixes.md",
     "Physics/Physics Basics - 1.1/Uncertainty.md",
     "Physics/Physics Basics - 1.1/Topic Keywords.md",
+    "Physics/Physics Basics - 1.1/Stability.md",
+    "Physics/Physics Basics - 1.1/Physics Basics - 1.1.md",
+    "Maths/Integration - 2.1.8/Integration recap.canvas",
     "Computer Science/Theory/Logical Operators - 1.2/Boolean Algebra/Logical Operators Recap.canvas",
+    "z_Excerpts/Image/Screenshot 2023-11-06 at 11.53.52.png",
+    "z_Excerpts/Image/Screenshot 2023-11-06 at 11.52.50.png",
+    "z_Excerpts/Image/Screenshot 2023-11-06 at 11.47.35.png",
+    "Maths/Integration - 2.1.8",
     "Maths/Exponentials and Logarithms - 2.1.6",
     "Passwords.txt",
     "z_Excerpts/Image/Pasted image 20231025120048.png",
@@ -213,12 +285,7 @@
     "Physics/Energy Concepts - 1.4",
     "Maths/Trigonometry - 2.1.5",
     "z_Excerpts/Graph/desmos-graph-a0edf2f7f7234ff3e1a8a0e252ab9674199e7213d0ce96d5b99c626bd7f87d8b.svg",
-    "z_Excerpts/Graph/desmos-graph-67b32271f00ee033d2b88acdc14675f5095ff2e910d75f7b4aebf3be3e488ccc.svg",
     "tkinter_4_activity_2.txt",
-    "Computer Science/Theory/Logical Operators - 1.2/Logic in Registers",
-    "z_Excerpts/Graph/desmos-graph-e636c359e1ee40fa30b20a9fd36fa618478a38d76a9e4d8803b267dae9d89e67.svg",
-    "z_Excerpts/Graph/desmos-graph-f228c81dd884068591e0dfc29c5ea1fc990d1ce7bc80f856b6ca3aa85db16185.svg",
-    "Untitled.canvas",
     "Untitled 1.canvas"
   ]
 }
