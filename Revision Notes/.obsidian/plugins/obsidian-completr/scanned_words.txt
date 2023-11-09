@@ -180,6 +180,10 @@ twisted
 travelling
 transmitting
 turns
+taking
+think
+table
+tables
 center
 constant
 could
@@ -421,6 +425,12 @@ connections
 cables
 collisions
 chosen
+combining
+costs
+circumstances
+constructed
+components
+cost
 Where
 Word
 Work
@@ -538,6 +548,7 @@ WB
 WSW
 WNW
 Wnc
+Whenever
 Rules
 Rationalising
 Refer
@@ -638,6 +649,8 @@ RNh
 RoR
 RpP
 RlZ
+Routes
+Routing
 of
 original
 other
@@ -1018,6 +1031,7 @@ GcD
 GdE
 GRd
 GndFF
+Good
 rule
 rationalise
 refer
@@ -1218,6 +1232,10 @@ rDNRb
 respect
 receive
 robin
+reaches
+reverse
+routers
+resources
 for
 factors
 force
@@ -1376,6 +1394,7 @@ fUy
 forth
 full
 flow
+firewalls
 solving
 surds
 square
@@ -1640,6 +1659,8 @@ skewing
 satellite
 simplex
 switch
+streams
+switches
 into
 is
 in
@@ -1950,6 +1971,7 @@ lHh
 lmN
 lQB
 lEp
+linking
 Collect
 CPU
 CIR
@@ -2283,6 +2305,8 @@ dzh
 distances
 dishes
 duplex
+demux
+delivered
 To
 The
 This
@@ -2743,6 +2767,8 @@ mode
 methods
 mitigate
 machine
+mux
+multiplexing
 numerator
 nano
 needs
@@ -2860,6 +2886,7 @@ nek
 nDl
 nUy
 nQG
+needing
 by
 be
 base
@@ -2998,6 +3025,7 @@ bHq
 bLB
 bounds
 byte
+bridges
 applied
 area
 also
@@ -3176,6 +3204,7 @@ aAO
 agL
 absolute
 allowed
+ato
 extension
 equation
 executed
@@ -3353,6 +3382,7 @@ ewt
 eoT
 eQvy
 eight
+ensuring
 Nm
 Note
 Number
@@ -3591,6 +3621,7 @@ gGZ
 gjw
 gAy
 going
+gateways
 Fx
 Form
 French
@@ -3952,6 +3983,7 @@ MWp
 MyN
 Mzu
 MPFpG
+Multiplexing
 Prefix
 Pressure
 Power
@@ -5597,6 +5629,7 @@ pair
 priorities
 policy
 perhaps
+paths
 value
 values
 volatile
