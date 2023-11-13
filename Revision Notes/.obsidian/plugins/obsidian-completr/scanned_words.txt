@@ -184,6 +184,8 @@ taking
 think
 table
 tables
+total
+travelled
 center
 constant
 could
@@ -431,6 +433,7 @@ circumstances
 constructed
 components
 cost
+cover
 Where
 Word
 Work
@@ -549,6 +552,7 @@ WSW
 WNW
 Wnc
 Whenever
+Wien
 Rules
 Rationalising
 Refer
@@ -651,6 +655,7 @@ RpP
 RlZ
 Routes
 Routing
+Radiation
 of
 original
 other
@@ -926,6 +931,8 @@ SAD
 SfBYT
 Serial
 Simplex
+Stefan
+Surface
 General
 GB
 Ghz
@@ -1661,6 +1668,7 @@ simplex
 switch
 streams
 switches
+spreads
 into
 is
 in
@@ -1823,6 +1831,8 @@ indefinite
 int
 interfere
 implement
+inversely
+instead
 largest
 like
 length
@@ -1972,6 +1982,8 @@ lmN
 lQB
 lEp
 linking
+luminosity
+lowers
 Collect
 CPU
 CIR
@@ -2113,6 +2125,7 @@ CRd
 Cx
 CQDOM
 CAT
+Constant
 denominator
 done
 deci
@@ -2445,6 +2458,7 @@ TIN
 TJ
 Traditional
 TVs
+Total
 we
 which
 what
@@ -2594,6 +2608,7 @@ wwy
 wrB
 wZx
 wires
+watch
 must
 multiply
 mega
@@ -3383,6 +3398,9 @@ eoT
 eQvy
 eight
 ensuring
+electromagnetic
+emission
+emits
 Nm
 Note
 Number
@@ -3622,6 +3640,7 @@ gjw
 gAy
 going
 gateways
+growth
 Fx
 Form
 French
@@ -4114,6 +4133,7 @@ Pva
 Pel
 PuH
 Pev
+Proof
 kilo
 known
 kilogram
@@ -4335,6 +4355,7 @@ Uva
 UpW
 UoB
 Use
+Unit
 International
 Instructions
 It
@@ -4773,6 +4794,9 @@ LdC
 LTNgx
 LcQO
 Lo
+Luminosity
+Log
+Laws
 Electric
 Examples
 Energy
@@ -4995,6 +5019,7 @@ ANd
 AC
 Aft
 AI
+Area
 Derived
 Definition
 Distributes

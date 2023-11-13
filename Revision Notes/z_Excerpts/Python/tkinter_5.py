@@ -96,10 +96,33 @@ def dict_cycle():
 
 
 def recall_click():
-    load_click()
+    user_data = []
+    try:
+        f = open("tkinter_5", "r")
+        lines = f.readlines()
+        for x in lines:
+            user_data.append(x.split(split_var))
+        f.close()
+
+    except:
+        messagebox.showerror('Error', 'save file not found')
+        return
+
+
+    if (name_entry.get() == '') or ((reading.get() == 0) and (sports.get() == 0) and (chess.get() == 0) and (stamp_collecting.get() == 0) and (walking.get() == 0)):
+        messagebox.showerror('Error', 'Please Enter Name and Atleast One Hobby')
+        return
+
+    name_temp = str(name_entry.get()); walking_temp = str(walking.get()); age_temp = str(age.get()); 
+    sports_temp = str(sports.get()); reading_temp = str(reading.get()); chess_temp = str(chess.get()); 
+    stamp_collecting_temp = str(stamp_collecting.get()); gender_temp = str(gender.get())
+
+    temp_save_file = [name_temp, age_temp, walking_temp, sports_temp, reading_temp, chess_temp, stamp_collecting_temp, gender_temp]
+
+    load_click()    
     accum = 0
     for i in user_data:
-        if i[int(recall.get)] == 1:
+        if i == temp_save_file:
             accum += 1
     output_text.delete(0.0, END)
     output_text.insert(END, f"{accum} instances recalled")
@@ -147,14 +170,6 @@ Checkbutton(text = 'Chess', variable = chess).pack()
 Checkbutton(text = 'Reading', variable = reading).pack()
 Checkbutton(text = 'Sports', variable = sports).pack()
 Checkbutton(text = 'Walking', variable = walking).pack()
-
-#Recall function, find how many times a data point has been saved
-Label(text="\nRecall ... : ").pack()
-Radiobutton(text = 'Stamp Collecting', variable = recall, value = 0).pack()
-Radiobutton(text = 'Chess', variable = recall, value = 5).pack()
-Radiobutton(text = 'Reading', variable = recall, value = 4).pack()
-Radiobutton(text = 'Sports', variable = recall, value = 3).pack()
-Radiobutton(text = 'Walking', variable = recall, value = 2).pack()
 
 # Summary Box, this is a text widget that can be updated while the code is running
 output_text = Text()

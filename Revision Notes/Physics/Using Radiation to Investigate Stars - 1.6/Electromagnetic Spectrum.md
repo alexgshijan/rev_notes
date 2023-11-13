@@ -1,5 +1,3 @@
-*Note : You need to memorise these*
-
 |Name | Wavelength (Metres)|
 | --- | --- |
 |Gamma| $10^{-12}$|
