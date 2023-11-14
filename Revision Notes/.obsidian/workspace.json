@@ -13,24 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
-                "mode": "preview",
+                "file": "Computer Science/Theory/Hardware and communication - 1.1/Networking/Contemporary Protocols.md",
+                "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "19539454de5c5fc3",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Maths/Integration - 2.1.8/Integration recap.canvas",
-                "viewState": {
-                  "x": -31.619999999999997,
-                  "y": 50.55890624999998,
-                  "zoom": 0
-                }
               }
             }
           },
@@ -38,31 +23,30 @@
             "id": "1cf44b1846c6ceb0",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Maths/Integration - 2.1.8/Integration recap.canvas",
-                "viewState": {
-                  "x": -29.632863540946165,
-                  "y": 288.1876128423238,
-                  "zoom": -0.45207457387095873
-                }
+                "file": "Maths/Maths.md",
+                "mode": "preview",
+                "source": false
               }
             }
           },
           {
-            "id": "43743181835a3c39",
+            "id": "17d1d146031bafd5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Maths/Integration - 2.1.8/Integration Notation.md",
-                "mode": "source",
-                "source": false
+                "file": "Maths/Integration - 2.1.8/Integration recap.canvas",
+                "viewState": {
+                  "x": -309,
+                  "y": 198.5,
+                  "zoom": -0.9224713494081134
+                }
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/Integration - 2.1.8/Integration recap.canvas",
+                "file": "Computer Science/Theory/Hardware and communication - 1.1/Networking/Contemporary Protocols.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Integration - 2.1.8/Integration recap.canvas",
+                "file": "Computer Science/Theory/Hardware and communication - 1.1/Networking/Contemporary Protocols.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Integration - 2.1.8/Integration recap.canvas"
+                "file": "Computer Science/Theory/Hardware and communication - 1.1/Networking/Contemporary Protocols.md"
               }
             }
           },
@@ -199,15 +183,29 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "1cf44b1846c6ceb0",
+  "active": "f0c6fc4b9c4a86b6",
   "lastOpenFiles": [
     "index.md",
+    "Maths/Maths.md",
+    "Maths/Integration - 2.1.8/Integration recap.canvas",
+    "Maths/Integration - 2.1.8/Negative Areas.md",
+    "Maths/Integration - 2.1.8/Area between integrals.md",
+    "z_Excerpts/Image/Screenshot 2023-11-14 at 14.48.33.png",
+    "Maths/Integration - 2.1.8/Integration Notation.md",
+    "Maths/Integration - 2.1.8/Integration - 2.1.8.md",
+    "Maths/Exponentials and Logarithms - 2.1.6/Exponentials and Logarithms - 2.1.6.md",
+    "Maths/Notation and Proof - 2.1.1/Notation and Proof - 2.1.1.md",
+    "Maths/Sequences and Series - 2.3.4/Sequences and Series - 2.3.4.md",
+    "Maths/Sequences and Series - 2.3.4/Binomial Expansion.md",
+    "z_Excerpts/Image/Pasted image 20231114132152.png",
+    "Maths/Sequences and Series - 2.3.4",
+    "Physics/Physics.md",
+    "Physics/Energy Concepts - 1.4/Energy Concepts - 1.4.md",
     "z_Excerpts/z_Excerpts.md",
     "z_Excerpts/Python/Python.md",
     "z_Excerpts/Python/save_files/save_files.md",
     "z_Excerpts/Image/Image.md",
     "z_Excerpts/Graph/Graph.md",
-    "Physics/Physics.md",
     "Physics/Using Radiation to Investigate Stars - 1.6/Wien's Displacement Law.md",
     "Physics/Using Radiation to Investigate Stars - 1.6/Using Radiation to Investigate Stars - 1.6.md",
     "Physics/Using Radiation to Investigate Stars - 1.6/Surface of Stars.md",
@@ -216,18 +214,6 @@
     "Physics/Using Radiation to Investigate Stars - 1.6/Spectra.md",
     "Physics/Using Radiation to Investigate Stars - 1.6/Multiwavelength Astronomy.md",
     "Physics/Using Radiation to Investigate Stars - 1.6/Measuring Stellar Distances.md",
-    "Physics/Using Radiation to Investigate Stars - 1.6/Luminosity of a star.md",
-    "Physics/Using Radiation to Investigate Stars - 1.6/Inverse Square Law.md",
-    "Physics/Using Radiation to Investigate Stars - 1.6/Electromagnetic Spectrum.md",
-    "Physics/Using Radiation to Investigate Stars - 1.6/Black Body.md",
-    "Physics/Using Radiation to Investigate Stars - 1.6/Absolute Temperature.md",
-    "Physics/Using Radiation to Investigate Stars - 1.6/Radio Astronomy/Synchrotron Radiation.md",
-    "Physics/Using Radiation to Investigate Stars - 1.6/Radio Astronomy/Radio Astronomy.md",
-    "Physics/Using Radiation to Investigate Stars - 1.6/Radio Astronomy/CMBR.md",
-    "Physics/Using Radiation to Investigate Stars - 1.6/Radio Astronomy/21cm Hydrogen.md",
-    "Physics/Solids under stress 1.5/Topic Keywords.md",
-    "Physics/Solids under stress 1.5/Stress and Strain.md",
-    "Maths/Integration - 2.1.8/Integration recap.canvas",
     "Computer Science/Theory/Logical Operators - 1.2/Boolean Algebra/Logical Operators Recap.canvas",
     "z_Excerpts/Image/Screenshot 2023-11-06 at 11.53.52.png",
     "z_Excerpts/Image/Screenshot 2023-11-06 at 11.52.50.png",
@@ -241,14 +227,11 @@
     "z_Excerpts/Image/Pasted image 20231016101225.png",
     "z_Excerpts/Image/Pasted image 20231024190007.png",
     "z_Excerpts/Graph/desmos-graph-aa4cb8ce14a399dc5eacb7d9bd9b41ac4762f57501d09fb1299f115aa18fd302.svg",
-    "z_Excerpts/Graph/desmos-graph-020f564c52a9deaa7158463307984dc5bc19fce6281db3fde4b2962f53f9a13b.svg",
     "z_Excerpts/Python/tkinter_5.py",
     "z_Excerpts/Python/tkinter_4_part_2 copy.py",
     "Physics/Using Radiation to Investigate Stars - 1.6",
     "Physics/Energy Concepts - 1.4",
     "Maths/Trigonometry - 2.1.5",
-    "z_Excerpts/Graph/desmos-graph-a0edf2f7f7234ff3e1a8a0e252ab9674199e7213d0ce96d5b99c626bd7f87d8b.svg",
-    "tkinter_4_activity_2.txt",
     "Untitled 1.canvas"
   ]
 }

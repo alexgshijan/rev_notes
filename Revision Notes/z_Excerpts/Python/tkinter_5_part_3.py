@@ -1,151 +1,212 @@
-# Only works in Python 3 (Created in 3.4.2)
-# tkinter comes as part of the standard install - messagebox has to be imported explicitly
-
-#. . . means missing or incomplete code
-
 from tkinter import *
 from tkinter import messagebox
 
-def saveClient() :
-    ClientIDSave = ClientIDVar.get()
-    ClientIDSave = ClientIDSave.ljust(50)
-    
-    TitleSave=TitleVar.get()
-    TitleSave = TitleSave.ljust(50)
-    
-    FirstnameSave = FirstnameVar.get()
-    FirstnameSave = FirstnameSave.ljust(50)
-    
-    SurnameSave = SurnameVar.get()
-    SurnameSave = SurnameSave.ljust(50)
-    
-    AddressSave = AddressVar.get()
-    AddressSave = AddressSave.ljust(50)
-    
-
-    
-    fileObject = open("clients.txt","a")
-    fileObject.write(ClientIDSave + TitleSave + FirstnameSave + SurnameSave + AddressSave + "\n")
-    fileObject.close()
-    
-    return
-
-def countClient() :
-    ClientCount=0
-    CountNeeded=0
-
-    ClientIDSave = ClientIDVar.get()
-    
-    TitleSave=TitleVar.get()
-    
-    FirstnameSave = FirstnameVar.get()
-    
-    SurnameSave = SurnameVar.get()
-    
-    AddressSave = AddressVar.get()
-    
-    
-    
-    if not ClientIDSave == "" :
-        CountNeeded +=1
-    if not TitleSave == "" :
-        CountNeeded +=1
-    if not FirstnameSave == "" :
-        CountNeeded +=1
-    if not SurnameSave == "" :
-        CountNeeded +=1
-    if not AddressSave == "" :
-        CountNeeded +=1
-    
-
-    if CountNeeded == 0 :
-        messagebox.showerror("Error","Please enter something to count!")
+# This function is called when the user clicks on the button. This functions --
+# gives the program a chance to read in the entered values
+def submit_click():
+    if (name_entry.get() == '') or ((reading.get() == 0) and (sports.get() == 0) and (chess.get() == 0) and (stamp_collecting.get() == 0) and (walking.get() == 0)):
+        messagebox.showerror('Error', 'Please Enter Name and Atleast One Hobby')
         return
+
+    hobbies_text = ""
+    if reading.get() == 1: hobbies_text += ("Reading, ")
+    if sports.get() == 1: hobbies_text += ("Sports, ")
+    if chess.get() == 1: hobbies_text += ("Chess, ")
+    if stamp_collecting.get() == 1: hobbies_text += ("Stamp Collecting, ")
+    if walking.get() == 1: hobbies_text += ("Walking, ")
+
+    if gender.get() == 0: gender_txt = "Male"
+    else:gender_txt = "Female"
+
+    output_text_thing = f"Questionaire Values\nName : {name_entry.get()}\nAge : {age.get()}\nGender : {gender_txt}\nHobbies : {hobbies_text[:-2]}"
+    output_text.delete(END)
+    output_text.insert(END, output_text_thing)
+
+
+def save_click():
+    user_data = []
     try:
-        fileObject=open("save_file.txt","r")
-        print()
-        
-    except IOError:
-        messagebox.showerror("Error","No file to read")
+        f = open(filename_txt, "r")
+        lines = f.readlines()
+        for x in lines:
+            user_data.append(x.split(split_var))
+        f.close()
 
-    else:
-        while True:
-            CountGot=0
-            recordVar=fileObject.read()
-            if recordVar=="":
-                fileObject.close()
-                break
-         
-            if ClientIDSave in recordVar[0:50] and not ClientIDSave=="" :
-                CountGot +=1
-            if .... in recordVar[50:100] and not TitleSave=="" :
-                CountGot +=1
-            if .... in recordVar[100:150] and not FirstnameSave=="":
-                CountGot +=1
-            if .... in recordVar[150:200] and not SurnameSave =="":
-                CountGot +=1
-            if .... in recordVar[200:250] and not AddressSave=="":
-                CountGot +=1
-          
-            if CountGot == CountNeeded:
-                ClientCount += ....
-                
-        messagebox.showinfo("Found: ",str(ClientCount))    
+    except:
+        pass
     
-    return
+    name_temp = str(name_entry.get()); walking_temp = str(walking.get()); age_temp = str(age.get()); 
+    sports_temp = str(sports.get()); reading_temp = str(reading.get()); chess_temp = str(chess.get()); 
+    stamp_collecting_temp = str(stamp_collecting.get()); gender_temp = str(gender.get())
 
-
-def makeWindow():
-
-
+    temp_save_file = [name_temp, age_temp, walking_temp, sports_temp, reading_temp, chess_temp, stamp_collecting_temp, gender_temp]
+    user_data.append(temp_save_file)
     
-    global ClientIDVar, TitleVar, FirstnameVar, SurnameVar, AddressVar
+    temp_save_file = []
+    for i in user_data:
+        temp_save_file_var = ''
+        for x in i:
+            temp_save_file_var += (x + split_var)
+        temp_save_file_var = temp_save_file_var[:-(len(split_var))]
+        temp_save_file.append(temp_save_file_var)
 
-    #Create a window/form
-    win = Tk()
+    f = open(filename_txt, "w")
+    f.writelines(temp_save_file)
+    f.close()
+
+
+def load_click():
+    user_data = []
+    try:
+        f = open(filename_txt, "r")
+        lines = f.readlines()
+        for x in lines:
+            user_data.append(x.split(split_var))
+        f.close()
+
+        name_entry.delete(0, END)
+        name_entry.insert(0, str(user_data[round_val][0]))
+        walking.set(int(user_data[round_val][2]))
+        age.set(int(user_data[round_val][1]))
+        reading.set(user_data[round_val][4])
+        sports.set(int(user_data[round_val][3]))
+        chess.set(int(user_data[round_val][5]))
+        stamp_collecting.set(int(user_data[round_val][6]))
+        gender.set(int(user_data[round_val][7]))
+        output_text.delete(0.0, END)
+        output_text.insert(END, "Saved files have been loaded in.")
+
+    except:
+        output_text.delete(0.0, END)
+        output_text.insert(END, "No saved files found.")
+
+
+def dict_cycle():
+    global round_val
     
-    frame1=Frame(win)
-    frame1.pack()
+    try:
+        load_click()
+    except:
+        output_text.delete(0.0, END)
+        output_text.insert(END, "No saved files found.")
 
-    Label(frame1, text="Clients", font=("Helvetica 12 bold")).grid(row=0, column=0)
-    
-    Label(frame1, text="ClientID").grid(row=1, column=0, sticky=W)
-    ClientIDVar=StringVar()
-    ClientID= Entry(frame1, textvariable=ClientIDVar)
-    ClientID.grid(row=1,column=1,sticky=W)
-
-    Label(frame1, text="Title").grid(row=2, column=0, sticky=W)
-    TitleVar=StringVar()
-    Title= Entry(frame1, textvariable=TitleVar)
-    Title.grid(row=2,column=1,sticky=W)
-
-    Label(frame1, text="Firstname").grid(row=3, column=0, sticky=W)
-    FirstnameVar=StringVar()
-    Firstname= Entry(frame1, textvariable=FirstnameVar)
-    Firstname.grid(row=3,column=1,sticky=W)
-    
-    Label(frame1, text="Surname").grid(row=4, column=0, sticky=W)
-    SurnameVar=StringVar()
-    Surname= Entry(frame1, textvariable=SurnameVar)
-    Surname.grid(row=4,column=1,sticky=W)
-    
-    Label(frame1, text="Address").grid(row=5, column=0, sticky=W)
-    AddressVar=StringVar()
-    Address= Entry(frame1, textvariable=AddressVar)
-    Address.grid(row=5,column=1,sticky=W)
-    
-   
-  
-
-    frame2 = Frame(win)
-    frame2.pack()
-    b1= Button(frame2, text=" Save ", command=saveClient)
-    b2= Button(frame2, text=" Count ", command=countClient)
-    b1.pack(side=LEFT); b2.pack(side=LEFT)
-    
-    return win
+    round_val += 1
+    if round_val == len(user_data):
+        round_val = 0
 
 
-#this is the main program!
-win = makeWindow()
-win.mainloop()
+def recall_click():
+    user_data = []
+    try:
+        f = open(filename_txt, "r")
+        lines = f.readlines()
+        for x in lines:
+            user_data.append(x.split(split_var))
+        f.close()
+
+    except:
+        messagebox.showerror('Error', 'save file not found')
+        return
+
+
+    if (name_entry.get() == '') or ((reading.get() == 0) and (sports.get() == 0) and (chess.get() == 0) and (stamp_collecting.get() == 0) and (walking.get() == 0)):
+        messagebox.showerror('Error', 'Please Enter Name and Atleast One Hobby')
+        return
+
+    name_temp = str(name_entry.get()); walking_temp = str(walking.get()); age_temp = str(age.get()); 
+    sports_temp = str(sports.get()); reading_temp = str(reading.get()); chess_temp = str(chess.get()); 
+    stamp_collecting_temp = str(stamp_collecting.get()); gender_temp = str(gender.get())
+
+    temp_save_file = [name_temp, age_temp, walking_temp, sports_temp, reading_temp, chess_temp, stamp_collecting_temp, gender_temp]
+
+    load_click()    
+    accum = 0
+    for i in user_data:
+        if i == temp_save_file:
+            accum += 1
+    output_text.delete(0.0, END)
+    output_text.insert(END, f"{accum} matches recalled")
+
+
+def name_search_click():
+    temp_name = str(name_entry.get())
+    user_data = []
+    temp_out_text = 'Name Matches :\n'
+    try:
+        f = open(filename_txt, "r")
+        lines = f.readlines()
+        for x in lines:
+            user_data.append(x.split(split_var))
+        f.close()
+
+    except:
+        pass
+    for i in user_data:
+        if i[0] == temp_name:
+            temp_out_text += f'{str(i)} + \n'
+    if temp_out_text == 'Name Matches :\n':
+        temp_out_text = 'No Name Matches'
+    output_text.delete(0.0, END)
+    output_text.insert(END, f"{temp_out_text}")
+
+
+
+user_data = []
+round_val = 0
+split_var = '  |  '
+filename_txt = 'filename.txt'
+
+wd = Tk()
+wd.title("Random Questionaire") # Sets the GUI's title
+
+# This creates variables that the tkinter package can use.
+walking = IntVar()
+age = IntVar()
+reading = IntVar()
+sports = IntVar()
+chess = IntVar()
+stamp_collecting = IntVar()
+gender = IntVar()
+recall = IntVar()
+
+#This creates a label object, which is essentially a text widget
+Label(text="Questionaire").pack() 
+
+Label(text="Enter Your Name : ").pack()
+
+# This cretes an entry object, which we can reference later and get the value
+name_entry = Entry()
+name_entry.pack()
+
+Label(text="Select Your Age : ").pack()
+# Spinboxes are essentially a slider widget
+Spinbox(wd, textvariable = age, from_=0, to=100, width=5).pack()
+
+Label(text="Select Your Gender : ").pack()
+# Radiobuttons are essentially a single choice widget
+Radiobutton(text = 'Male', variable = gender, value = 0).pack()
+Radiobutton(text = 'Female', variable = gender, value = 1).pack()
+
+Label(text="Select Your Hobbies : ").pack()
+# Checkbuttons are essentially a multiple choice widgets
+Checkbutton(text = 'Stamp Collecting', variable = stamp_collecting).pack()
+Checkbutton(text = 'Chess', variable = chess).pack()
+Checkbutton(text = 'Reading', variable = reading).pack()
+Checkbutton(text = 'Sports', variable = sports).pack()
+Checkbutton(text = 'Walking', variable = walking).pack()
+
+# Summary Box, this is a text widget that can be updated while the code is running
+output_text = Text()
+output_text.pack()
+
+# This creates a button object, when clicked it activates a function --
+# We could also use lamda to add more functionality to the button click
+Button(wd, text = 'SUBMIT', command = submit_click).pack()
+Button(wd, text = 'SAVE', command = save_click).pack()
+Button(wd, text = 'LOAD', command = load_click).pack()
+Button(wd, text = 'NEXT', command = dict_cycle).pack()
+Button(wd, text = 'RECALL', command = recall_click).pack()
+Button(wd, text = 'NAME SEARCH', command = name_search_click).pack()
+
+# This runs the GUI and acts as a garbage collector for all interactions
+wd.mainloop()

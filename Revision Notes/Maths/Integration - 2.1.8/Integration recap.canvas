@@ -11,10 +11,16 @@
 		{"id":"a2859a3bdef94398","type":"text","text":"$f'(x)=\\frac{4}{x^{0.5}} = 4x^{-0.5}$\n$f(x)=8x^{0.5}+c$","x":-540,"y":54,"width":240,"height":81,"color":"4"},
 		{"id":"fc6f94267ef566c5","type":"text","text":"$\\int_1^5 4x^3 \\text{ dx} = [x^4+c]_1^5=(5^4+c)-(1^4+c)=625+c-(1+c)=624$ ","x":-828,"y":181,"width":660,"height":50,"color":"6"},
 		{"id":"970e900c55c80ec8","type":"text","text":"$\\int_{-3}^3 x^2+1\\text{ dx} = [\\frac{1}{3}x^3+x+c]_3^3$\n$=(\\frac{1}{3}3^3+3+c)-(\\frac{1}{3}(-3)^3-3+c)$\n$=12--12=24$\n\n","x":-828,"y":269,"width":360,"height":117,"color":"6"},
-		{"id":"8146d66d409b575a","type":"text","text":"$\\int_1^5 2Px+7\\text{ dx}=4P^2$\n$=[\\frac{P}{2}x^{2}+7x]_1^5$\n$=\\frac{25P}{2}+35-(\\frac{P}{2}+7)$\n$=\\frac{P}{2}25+28-\\frac{P}{2}$\n$=12P+28=4P^{2}$\n$4P^{2}-12P+28=0$\n$P^{2}-3P+7=0$\n\n","x":-428,"y":269,"width":260,"height":288,"color":"6"}
+		{"id":"8146d66d409b575a","type":"text","text":"$\\int_1^5 2Px+7\\text{ dx}=4P^2$\n$=[\\frac{P}{2}x^{2}+7x]_1^5$\n$=\\frac{25P}{2}+35-(\\frac{P}{2}+7)$\n$=\\frac{P}{2}25+28-\\frac{P}{2}$\n$=12P+28=4P^{2}$\n$4P^{2}-12P+28=0$\n$P^{2}-3P+7=0$\n\n","x":-428,"y":269,"width":260,"height":288,"color":"6"},
+		{"id":"0a3b82a466e9156c","type":"text","text":"$\\int(\\frac{5}{x^3}-2x^{\\frac{1}{3}}-4)\\text{ dx}$\n$\\int(5x^{-3}-2x^{\\frac{1}{3}}-4)\\text{ dx}$\n$\\frac{-5}{4}x^{-4}-\\frac{6}{4}x^{4}{3}-4x+c$\n$\\frac{-5}{4}6^{-4}-\\frac{6}{4}6^{4}{3}-4\\cdot6+c-(\\frac{-5}{4}2^{-4}-\\frac{6}{4}2^{4}{3}-4\\cdot2+c)$\n$=128$\n","x":-1005,"y":420,"width":544,"height":205,"color":"6"},
+		{"id":"171d3a25244734cb","type":"file","file":"Maths/Integration - 2.1.8/Integration Notation.md","x":-1260,"y":-352,"width":680,"height":495},
+		{"id":"de834f34b417576c","type":"file","file":"Maths/Integration - 2.1.8/Negative Areas.md","x":-1460,"y":180,"width":583,"height":213},
+		{"id":"907bbad2bb62dd7e","type":"file","file":"z_Excerpts/Image/Screenshot 2023-11-14 at 14.48.33.png","x":340,"y":-200,"width":502,"height":146},
+		{"id":"9845da889c521ae8","type":"text","text":"$10-x=10x-x^2-8$\n$x^2-11x+18=(x-2)(x-9)$\na : $(2,8) \\text{ or }(9,1)$\nb : find the difference between the integral of the straight line and the integral of the curve","x":460,"y":6,"width":348,"height":230,"color":"5"}
 	],
 	"edges":[
 		{"id":"a81afd82e0fcdc2e","fromNode":"974c1ce1255565e1","fromSide":"bottom","toNode":"6d5607d26641c855","toSide":"top"},
-		{"id":"a4eaf2947cf2b73e","fromNode":"d926601524459d77","fromSide":"bottom","toNode":"47f9376437e7adb5","toSide":"top"}
+		{"id":"a4eaf2947cf2b73e","fromNode":"d926601524459d77","fromSide":"bottom","toNode":"47f9376437e7adb5","toSide":"top"},
+		{"id":"ea15a231c2b5a8d2","fromNode":"907bbad2bb62dd7e","fromSide":"bottom","toNode":"9845da889c521ae8","toSide":"top"}
 	]
 }
