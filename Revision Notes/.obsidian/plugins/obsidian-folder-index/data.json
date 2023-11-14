@@ -16,5 +16,7 @@
   "useBulletPoints": true,
   "excludeFolders": [
     ""
-  ]
+  ],
+  "recursionLimit": -1,
+  "headlineLimit": 6
 }

@@ -109,7 +109,9 @@ var MarkdownTextRenderer = class {
         } else {
           markdownText += this.buildMarkdownLinkString(file.name, null, indentLevel, true);
         }
-        markdownText += this.buildStructureMarkdownText(this.buildFileTree(children), indentLevel + 1);
+        if (this.plugin.settings.recursionLimit === -1 || indentLevel < this.plugin.settings.recursionLimit) {
+          markdownText += this.buildStructureMarkdownText(this.buildFileTree(children), indentLevel + 1);
+        }
       }
       if (file instanceof import_obsidian.TFile) {
         if (isIndexFile(file.path)) {
@@ -121,24 +123,28 @@ var MarkdownTextRenderer = class {
     return markdownText;
   }
   buildContentMarkdownText(file, indentLevel, isFolder = false) {
-    var _a;
+    var _a, _b;
     let markdownText = "";
     markdownText += this.buildMarkdownLinkString(this.getTitleFromPath(file.path), encodeURI(file.path), indentLevel, isFolder);
-    const headers = (_a = this.app.metadataCache.getFileCache(file)) == null ? void 0 : _a.headings;
+    const headers = (_b = (_a = this.app.metadataCache.getFileCache(file)) == null ? void 0 : _a.headings) != null ? _b : [];
     if (headers && !this.plugin.settings.disableHeadlines) {
       const headerTree = this.buildHeaderTree(headers);
-      markdownText += this.buildHeaderMarkdownText(file, headerTree, indentLevel + 1);
+      if (this.plugin.settings.headlineLimit !== 0) {
+        markdownText += this.buildHeaderMarkdownText(file, headerTree, indentLevel + 1, 1);
+      }
     }
     return markdownText;
   }
-  buildHeaderMarkdownText(file, headerTree, indentLevel) {
+  buildHeaderMarkdownText(file, headerTree, indentLevel, headlineLevel) {
     let markdownText = "";
     if (this.plugin.settings.sortHeadersAlphabetically) {
       headerTree.sort((a, b) => a.header.heading.localeCompare(b.header.heading));
     }
     for (const headerWrapper of headerTree) {
       markdownText += this.buildMarkdownLinkString(headerWrapper.header.heading, encodeURI(file.path) + this.buildHeaderChain(headerWrapper), indentLevel);
-      markdownText += this.buildHeaderMarkdownText(file, headerWrapper.children, indentLevel + 1);
+      if (headlineLevel < this.plugin.settings.headlineLimit) {
+        markdownText += this.buildHeaderMarkdownText(file, headerWrapper.children, indentLevel + 1, headlineLevel + 1);
+      }
     }
     return markdownText;
   }
@@ -289,10 +295,11 @@ var IndexContentProcessorModule = class extends import_obsidian2.MarkdownRenderC
   }
   render() {
     return __async(this, null, function* () {
+      var _a, _b;
       this.container.empty();
       const folder = this.app.vault.getAbstractFileByPath(this.filePath);
       if (folder instanceof import_obsidian2.TFile) {
-        const files = folder.parent.children;
+        const files = (_b = (_a = folder.parent) == null ? void 0 : _a.children) != null ? _b : [];
         const renderer = new MarkdownTextRenderer(this.plugin, this.app);
         yield import_obsidian2.MarkdownRenderer.renderMarkdown(renderer.buildMarkdownText(files), this.container, this.filePath, this);
       }
@@ -308,6 +315,8 @@ var GraphManipulatorModule = class {
     this.plugin = plugin;
     this.app = app;
     this.plugin = plugin;
+    this.graphsLeafs = [];
+    this.oldGraphOverwrite = this.plugin.settings.graphOverwrite;
     this.load();
   }
   onLayoutChange() {
@@ -323,7 +332,8 @@ var GraphManipulatorModule = class {
           if (this.plugin.settings.graphOverwrite) {
             this.render(engine);
           } else {
-            engine.oldRender();
+            if (engine.oldRender)
+              engine.oldRender();
           }
         };
         if (this.plugin.settings.graphOverwrite) {
@@ -365,13 +375,14 @@ var GraphManipulatorModule = class {
     const renderSettings = engine.getOptions();
     const graph = {};
     this.app.vault.getFiles().forEach((file) => __async(this, null, function* () {
+      var _a, _b, _c;
       if (Object.keys(engine.fileFilter).length > 0 && !engine.fileFilter[file.path]) {
         return;
       }
       const edges = {};
       const cache = this.app.metadataCache.getFileCache(file);
-      if (file.parent.name + ".md" == file.name || file.name == this.plugin.settings.rootIndexFile) {
-        file.parent.children.forEach((otherFile) => {
+      if (((_a = file.parent) == null ? void 0 : _a.name) + ".md" == file.name || file.name == this.plugin.settings.rootIndexFile) {
+        (_b = file.parent) == null ? void 0 : _b.children.forEach((otherFile) => {
           if (otherFile instanceof import_obsidian3.TFile && file.path != otherFile.path) {
             edges[otherFile.path] = true;
           }
@@ -405,7 +416,7 @@ var GraphManipulatorModule = class {
         }
         if (cache.frontmatter != null) {
           const frontMatterTags = (0, import_obsidian3.parseFrontMatterTags)(cache.frontmatter);
-          if (frontMatterTags != null && renderSettings.showTags == true) {
+          if (frontMatterTags != null && renderSettings.showTags) {
             frontMatterTags.forEach((tag) => {
               graph[tag] = {
                 links: {},
@@ -415,7 +426,7 @@ var GraphManipulatorModule = class {
             });
           }
         }
-        if (cache.tags != null && renderSettings.showTags == true) {
+        if (cache.tags != null && renderSettings.showTags) {
           cache.tags.forEach((tag) => {
             graph[tag.tag] = {
               links: {},
@@ -440,7 +451,7 @@ var GraphManipulatorModule = class {
         }
       }
       let type = "";
-      if (this.app.workspace.getActiveFile() != null && this.app.workspace.getActiveFile().path == file.path) {
+      if (this.app.workspace.getActiveFile() != null && ((_c = this.app.workspace.getActiveFile()) == null ? void 0 : _c.path) == file.path) {
         type = "focused";
       } else if (file.extension != "md") {
         type = "attachment";
@@ -527,7 +538,9 @@ var DEFAULT_SETTINGS = {
   renderFolderBold: true,
   renderFolderItalic: false,
   useBulletPoints: false,
-  excludeFolders: []
+  excludeFolders: [],
+  recursionLimit: -1,
+  headlineLimit: 6
 };
 var PluginSettingsTab = class extends import_obsidian4.PluginSettingTab {
   constructor(app, plugin) {
@@ -550,7 +563,7 @@ var PluginSettingsTab = class extends import_obsidian4.PluginSettingTab {
     let textFeld = null;
     new import_obsidian4.Setting(containerEl).setName("Initial Content").setDesc("Set the initial content for new folder indexes.").addButton((component) => component.setButtonText("Reset").setWarning().setTooltip("Reset to default").onClick(() => __async(this, null, function* () {
       this.plugin.settings.indexFileInitText = DEFAULT_SETTINGS.indexFileInitText;
-      textFeld.setValue(this.plugin.settings.indexFileInitText);
+      textFeld == null ? void 0 : textFeld.setValue(this.plugin.settings.indexFileInitText);
       yield this.plugin.saveSettings();
     }))).addTextArea((component) => {
       textFeld = component;
@@ -590,6 +603,20 @@ var PluginSettingsTab = class extends import_obsidian4.PluginSettingTab {
       this.plugin.settings.disableHeadlines = value;
       yield this.plugin.saveSettings();
     })));
+    new import_obsidian4.Setting(containerEl).setName("Headline Limit").setDesc("Limit the Depth of Headlines Displayed").addText((component) => component.setValue(this.plugin.settings.headlineLimit.toString()).setPlaceholder("6").onChange((value) => __async(this, null, function* () {
+      let numValue = Number.parseInt(value);
+      if (!isNaN(numValue)) {
+        if (numValue < 0) {
+          numValue = 0;
+        } else if (numValue > 6) {
+          numValue = 6;
+        }
+      } else {
+        numValue = 6;
+      }
+      this.plugin.settings.headlineLimit = numValue;
+      yield this.plugin.saveSettings();
+    })));
     new import_obsidian4.Setting(containerEl).setName("Automatic Preview mode").setDesc("This will automatically swap to preview mode when opening an index file").addToggle((component) => component.setValue(this.plugin.settings.autoPreviewMode).onChange((value) => __async(this, null, function* () {
       this.plugin.settings.autoPreviewMode = value;
       yield this.plugin.saveSettings();
@@ -604,6 +631,14 @@ var PluginSettingsTab = class extends import_obsidian4.PluginSettingTab {
     })));
     new import_obsidian4.Setting(containerEl).setName("Build IndexFiles Recursively").setDesc("This will show all files within a folder and its subfolders").addToggle((component) => component.setValue(this.plugin.settings.recursiveIndexFiles).onChange((value) => __async(this, null, function* () {
       this.plugin.settings.recursiveIndexFiles = value;
+      yield this.plugin.saveSettings();
+    })));
+    new import_obsidian4.Setting(containerEl).setName("Subfolder Limit").setDesc("Limit the Depth of Subfolders(-1 for no limit)").addText((component) => component.setValue(this.plugin.settings.recursionLimit.toString()).setPlaceholder("-1").onChange((value) => __async(this, null, function* () {
+      let numValue = Number.parseInt(value);
+      if (isNaN(numValue) || numValue < 0) {
+        numValue = -1;
+      }
+      this.plugin.settings.recursionLimit = numValue;
       yield this.plugin.saveSettings();
     })));
     new import_obsidian4.Setting(containerEl).setName("Render Folders Bold").setDesc("This will render folders in **bold**").addToggle((component) => component.setValue(this.plugin.settings.renderFolderBold).onChange((value) => __async(this, null, function* () {
@@ -644,17 +679,18 @@ var FolderNoteModule = class {
   unload() {
   }
   getTargetFromEvent(event) {
+    var _a, _b, _c, _d, _e;
     if (!(event.target instanceof HTMLElement)) {
-      return;
+      return null;
     }
     const target = event.target;
     const activePlugins = this.app.plugins.enabledPlugins;
     if (activePlugins.has("file-tree-alternative")) {
       if (target.classList.contains("oz-folder-name")) {
-        return target.parentElement.parentElement.parentElement;
+        return (_c = (_b = (_a = target.parentElement) == null ? void 0 : _a.parentElement) == null ? void 0 : _b.parentElement) != null ? _c : null;
       }
       if (target.classList.contains("oz-folder-block")) {
-        return target.parentElement.parentElement;
+        return (_e = (_d = target.parentElement) == null ? void 0 : _d.parentElement) != null ? _e : null;
       }
     }
     if (target.classList.contains("nav-folder-title"))
@@ -711,6 +747,8 @@ var FolderNoteModule = class {
       if (this.plugin.settings.autoCreateIndexFile) {
         const name = path.split(/\//).last();
         try {
+          if (!name)
+            return false;
           const file = yield this.app.vault.create(path, this.plugin.settings.indexFileInitText.replace("{{folder}}", name));
           new import_obsidian5.Notice(`Created index file ${file.basename}`);
           return true;
@@ -762,7 +800,7 @@ var FolderNoteModule = class {
         }
         if (currentState.state.file == this.previousState.state.file)
           return;
-        const currentFile = yield this.app.vault.getAbstractFileByPath(currentState.state.file);
+        const currentFile = this.app.vault.getAbstractFileByPath(currentState.state.file);
         if (!isIndexFile(currentFile.path)) {
           if (this.viewModeByPlugin) {
             this.viewModeByPlugin = false;
@@ -813,7 +851,7 @@ var FolderIndexPlugin = class extends import_obsidian6.Plugin {
       this.app.workspace.onLayoutReady(this.onLayoutReady.bind(this));
       this.registerEvent(this.app.workspace.on("layout-change", this.onLayoutChange.bind(this)));
       this.eventManager.on("settingsUpdate", this.onSettingsUpdate.bind(this));
-      this.registerMarkdownCodeBlockProcessor("folder-index-content", (source, el, ctx) => {
+      this.registerMarkdownCodeBlockProcessor("folder-index-content", (_source, el, ctx) => {
         ctx.addChild(new IndexContentProcessorModule(this.app, this, ctx.sourcePath, el));
       });
       this.folderNodeModule = new FolderNoteModule(this.app, this);
@@ -827,7 +865,8 @@ var FolderIndexPlugin = class extends import_obsidian6.Plugin {
       if (this.settings.graphOverwrite) {
         this.graphManipulator = new GraphManipulatorModule(this.app, this);
       } else {
-        this.graphManipulator.unload();
+        if (this.graphManipulator)
+          this.graphManipulator.unload();
       }
       this.oldGraphSetting = this.settings.graphOverwrite;
     }

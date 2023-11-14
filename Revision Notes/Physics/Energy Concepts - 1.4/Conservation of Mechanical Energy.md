@@ -1,0 +1,2 @@
+In a system where the only forces that are acting are associated with potential energy, the sum of the kinetic and potential energies is constant.
+*This does not apply when frictional forces are present*

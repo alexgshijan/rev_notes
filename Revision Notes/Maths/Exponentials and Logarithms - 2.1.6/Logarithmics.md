@@ -8,8 +8,22 @@ $$\text{let }b^{y}=x\text{, }\log_bx=y$$
 - $\log_{10}x=\log x$
 
 **Log Laws :**
-$$\log_{x}a+\log_{x}b=\log_x(ab)$$ *Proof :*
+$$\log_{a}b+\log_{a}c=\log_x(bc)$$ *Proof :*
 $\text{Let }x=\log_{a}b\rightarrow a^{x}=b$
 $\text{Let }y=\log_{a}c\rightarrow a^{y}=c$
-
-#wip 
+$bc = a^{x}\cdot a^{y}=a^{x+y}$
+$\log_{a}bc=x+y$
+$\log_{a}bc=\log_{a}b+\log_{a}c$
+$$\log_{a}b-\log_{a}c=\log_x(\frac{b}{c})$$ *Proof :*
+$\text{Let }x=\log_{a}b\rightarrow a^{x}=b$
+$\text{Let }y=\log_{a}c\rightarrow a^{y}=c$
+$\frac{b}{c} = a^{x}\divsymbol a^{y}=a^{x-y}$
+$\log_{a}\frac{b}{c}=x-y$
+$\log_{a}\frac{b}{c}=\log_{a}b-\log_{a}c$
+$$\log_{a}b^{n}=n\log_{a}b$$
+ *Proof :*
+$\text{Let }x=\log_{a}b^{n}\rightarrow a^{x}=b^{n}$
+$a^{x}=b^{n}\rightarrow a^{\frac{x}{n}}=b$
+$\frac{x}{n}=\log_{a}b$
+$x=n\log_{a}b$
+$\log_{a}b^{n}=n\log_{a}b$
