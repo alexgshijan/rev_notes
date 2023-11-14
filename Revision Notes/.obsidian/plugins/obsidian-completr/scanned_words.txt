@@ -1402,6 +1402,7 @@ forth
 full
 flow
 firewalls
+frictional
 solving
 surds
 square
@@ -3223,6 +3224,8 @@ agL
 absolute
 allowed
 ato
+acting
+associated
 extension
 equation
 executed
@@ -3404,6 +3407,7 @@ ensuring
 electromagnetic
 emission
 emits
+energies
 Nm
 Note
 Number
@@ -4251,6 +4255,7 @@ kD
 kxt
 ks
 kby
+kinetic
 Units
 USB
 Using
@@ -5658,6 +5663,8 @@ priorities
 policy
 perhaps
 paths
+potential
+present
 value
 values
 volatile

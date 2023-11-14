@@ -26,7 +26,7 @@ def submit_click():
 def save_click():
     user_data = []
     try:
-        f = open("tkinter_4_activity_2.txt", "r")
+        f = open(filename_txt, "r")
         lines = f.readlines()
         for x in lines:
             user_data.append(x.split(split_var))
@@ -50,7 +50,7 @@ def save_click():
         temp_save_file_var = temp_save_file_var[:-(len(split_var))]
         temp_save_file.append(temp_save_file_var)
 
-    f = open("tkinter_4_activity_2.txt", "w")
+    f = open(filename_txt, "w")
     f.writelines(temp_save_file)
     f.close()
 
@@ -58,7 +58,7 @@ def save_click():
 def load_click():
     user_data = []
     try:
-        f = open("tkinter_4_activity_2.txt", "r")
+        f = open(filename_txt, "r")
         lines = f.readlines()
         for x in lines:
             user_data.append(x.split(split_var))
@@ -98,7 +98,7 @@ def dict_cycle():
 def recall_click():
     user_data = []
     try:
-        f = open("tkinter_5", "r")
+        f = open(filename_txt, "r")
         lines = f.readlines()
         for x in lines:
             user_data.append(x.split(split_var))
@@ -125,12 +125,36 @@ def recall_click():
         if i == temp_save_file:
             accum += 1
     output_text.delete(0.0, END)
-    output_text.insert(END, f"{accum} instances recalled")
+    output_text.insert(END, f"{accum} matches recalled")
+
+
+def name_search_click():
+    temp_name = str(name_entry.get())
+    user_data = []
+    temp_out_text = 'Name Matches :\n'
+    try:
+        f = open(filename_txt, "r")
+        lines = f.readlines()
+        for x in lines:
+            user_data.append(x.split(split_var))
+        f.close()
+
+    except:
+        pass
+    for i in user_data:
+        if i[0] == temp_name:
+            temp_out_text += f'{str(i)} + \n'
+    if temp_out_text == 'Name Matches :\n':
+        temp_out_text = 'No Name Matches'
+    output_text.delete(0.0, END)
+    output_text.insert(END, f"{temp_out_text}")
+
 
 
 user_data = []
 round_val = 0
 split_var = '  |  '
+filename_txt = 'filename.txt'
 
 wd = Tk()
 wd.title("Random Questionaire") # Sets the GUI's title
@@ -182,6 +206,7 @@ Button(wd, text = 'SAVE', command = save_click).pack()
 Button(wd, text = 'LOAD', command = load_click).pack()
 Button(wd, text = 'NEXT', command = dict_cycle).pack()
 Button(wd, text = 'RECALL', command = recall_click).pack()
+Button(wd, text = 'NAME SEARCH', command = name_search_click).pack()
 
 # This runs the GUI and acts as a garbage collector for all interactions
 wd.mainloop()

@@ -42,8 +42,8 @@
               "state": {
                 "file": "Maths/Integration - 2.1.8/Integration recap.canvas",
                 "viewState": {
-                  "x": 682.8246691857431,
-                  "y": -32.4182768846865,
+                  "x": -29.632863540946165,
+                  "y": 288.1876128423238,
                   "zoom": -0.45207457387095873
                 }
               }
@@ -199,71 +199,34 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "floating": {
-    "id": "e287de0726e94dd2",
-    "type": "floating",
-    "children": [
-      {
-        "id": "c648c4f24a374b82",
-        "type": "window",
-        "children": [
-          {
-            "id": "27f2668787792928",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "3255f87d59b58bfe",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "index.md",
-                    "mode": "preview",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 24,
-        "width": 1680,
-        "height": 1026,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "1cf44b1846c6ceb0",
   "lastOpenFiles": [
-    "Maths/Integration - 2.1.8/Integration Notation.md",
+    "index.md",
+    "z_Excerpts/z_Excerpts.md",
+    "z_Excerpts/Python/Python.md",
+    "z_Excerpts/Python/save_files/save_files.md",
     "z_Excerpts/Image/Image.md",
     "z_Excerpts/Graph/Graph.md",
     "Physics/Physics.md",
+    "Physics/Using Radiation to Investigate Stars - 1.6/Wien's Displacement Law.md",
     "Physics/Using Radiation to Investigate Stars - 1.6/Using Radiation to Investigate Stars - 1.6.md",
     "Physics/Using Radiation to Investigate Stars - 1.6/Surface of Stars.md",
     "Physics/Using Radiation to Investigate Stars - 1.6/Sun's Temperature.md",
+    "Physics/Using Radiation to Investigate Stars - 1.6/Stefan's Law.md",
     "Physics/Using Radiation to Investigate Stars - 1.6/Spectra.md",
+    "Physics/Using Radiation to Investigate Stars - 1.6/Multiwavelength Astronomy.md",
+    "Physics/Using Radiation to Investigate Stars - 1.6/Measuring Stellar Distances.md",
+    "Physics/Using Radiation to Investigate Stars - 1.6/Luminosity of a star.md",
+    "Physics/Using Radiation to Investigate Stars - 1.6/Inverse Square Law.md",
     "Physics/Using Radiation to Investigate Stars - 1.6/Electromagnetic Spectrum.md",
     "Physics/Using Radiation to Investigate Stars - 1.6/Black Body.md",
     "Physics/Using Radiation to Investigate Stars - 1.6/Absolute Temperature.md",
+    "Physics/Using Radiation to Investigate Stars - 1.6/Radio Astronomy/Synchrotron Radiation.md",
+    "Physics/Using Radiation to Investigate Stars - 1.6/Radio Astronomy/Radio Astronomy.md",
+    "Physics/Using Radiation to Investigate Stars - 1.6/Radio Astronomy/CMBR.md",
+    "Physics/Using Radiation to Investigate Stars - 1.6/Radio Astronomy/21cm Hydrogen.md",
     "Physics/Solids under stress 1.5/Topic Keywords.md",
     "Physics/Solids under stress 1.5/Stress and Strain.md",
-    "Physics/Solids under stress 1.5/Solids under stress 1.5.md",
-    "Physics/Solids under stress 1.5/Hysteresis.md",
-    "Physics/Solids under stress 1.5/Hooke's Law.md",
-    "Physics/Solids under stress 1.5/Materials/Polymers.md",
-    "Physics/Solids under stress 1.5/Materials/Materials.md",
-    "Physics/Solids under stress 1.5/Materials/Crystalline - Polycrystalline.md",
-    "Physics/Solids under stress 1.5/Materials/Amorphous.md",
-    "Physics/Physics Basics - 1.1/Vector Composites.md",
-    "Physics/Physics Basics - 1.1/Unit Prefixes.md",
-    "Physics/Physics Basics - 1.1/Uncertainty.md",
-    "Physics/Physics Basics - 1.1/Topic Keywords.md",
-    "Physics/Physics Basics - 1.1/Stability.md",
-    "Physics/Physics Basics - 1.1/Physics Basics - 1.1.md",
     "Maths/Integration - 2.1.8/Integration recap.canvas",
     "Computer Science/Theory/Logical Operators - 1.2/Boolean Algebra/Logical Operators Recap.canvas",
     "z_Excerpts/Image/Screenshot 2023-11-06 at 11.53.52.png",
