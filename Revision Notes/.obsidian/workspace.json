@@ -8,26 +8,41 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f0c6fc4b9c4a86b6",
+            "id": "1cf44b1846c6ceb0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Theory/Hardware and communication - 1.1/Networking/Contemporary Protocols.md",
+                "file": "Computer Science/Theory/Data Transmission - 1.3/Method of Transmission.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1cf44b1846c6ceb0",
+            "id": "d3ae11fe7c347219",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Maths.md",
+                "file": "Computer Science/Theory/Data representation and data types - 1.4/Data representation and data types - 1.4.md",
                 "mode": "preview",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "abc95eaac4a7dde0",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Computer Science/Theory/Data representation and data types - 1.4/Data representation and data types recap.canvas",
+                "viewState": {
+                  "x": -1437.903533055031,
+                  "y": 431.5380544669721,
+                  "zoom": -0.13924197832743326
+                }
               }
             }
           },
@@ -46,7 +61,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -75,7 +91,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "wip",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -112,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Theory/Hardware and communication - 1.1/Networking/Contemporary Protocols.md",
+                "file": "Computer Science/Theory/Data representation and data types - 1.4/Data representation and data types recap.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Theory/Hardware and communication - 1.1/Networking/Contemporary Protocols.md",
+                "file": "Computer Science/Theory/Data representation and data types - 1.4/Data representation and data types recap.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Theory/Hardware and communication - 1.1/Networking/Contemporary Protocols.md"
+                "file": "Computer Science/Theory/Data representation and data types - 1.4/Data representation and data types recap.canvas"
               }
             }
           },
@@ -183,15 +199,30 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "f0c6fc4b9c4a86b6",
+  "active": "abc95eaac4a7dde0",
   "lastOpenFiles": [
-    "index.md",
+    "Computer Science/Theory/Logical Operators - 1.2/Logical Operators - 1.2.md",
+    "Computer Science/Theory/Data Transmission - 1.3/Data Transmission - 1.3.md",
     "Maths/Maths.md",
+    "Maths/Integration - 2.1.8/Integration Notation.md",
     "Maths/Integration - 2.1.8/Integration recap.canvas",
+    "Computer Science/Theory/Data representation and data types - 1.4/Data representation and data types recap.canvas",
+    "Computer Science/Theory/Logical Operators - 1.2/Boolean Algebra/Logical Operators Recap.canvas",
+    "Computer Science/Theory/Logical Operators - 1.2/Boolean Algebra/Representing Logic Operations.md",
+    "Computer Science/Theory/Hardware and communication - 1.1/Hardware and communication - 1.1.md",
+    "Computer Science/Theory/Data representation and data types - 1.4/Data representation and data types - 1.4.md",
+    "Computer Science/Theory/Data representation and data types - 1.4/Basics, character sets, data types.md",
+    "Computer Science/Theory/Data Transmission - 1.3/Packets.md",
+    "Computer Science/Theory/Data representation and data types - 1.4",
+    "Computer Science/Theory/Data Transmission - 1.3/Multiplexing.md",
+    "Computer Science/Theory/Data Transmission - 1.3/Method of Transmission.md",
+    "Computer Science/Theory/Data Transmission - 1.3/Mode of Transmission.md",
+    "Physics/Physics.md",
+    "Computer Science/Theory/Hardware and communication - 1.1/Networking/Contemporary Protocols.md",
+    "index.md",
     "Maths/Integration - 2.1.8/Negative Areas.md",
     "Maths/Integration - 2.1.8/Area between integrals.md",
     "z_Excerpts/Image/Screenshot 2023-11-14 at 14.48.33.png",
-    "Maths/Integration - 2.1.8/Integration Notation.md",
     "Maths/Integration - 2.1.8/Integration - 2.1.8.md",
     "Maths/Exponentials and Logarithms - 2.1.6/Exponentials and Logarithms - 2.1.6.md",
     "Maths/Notation and Proof - 2.1.1/Notation and Proof - 2.1.1.md",
@@ -199,22 +230,9 @@
     "Maths/Sequences and Series - 2.3.4/Binomial Expansion.md",
     "z_Excerpts/Image/Pasted image 20231114132152.png",
     "Maths/Sequences and Series - 2.3.4",
-    "Physics/Physics.md",
     "Physics/Energy Concepts - 1.4/Energy Concepts - 1.4.md",
     "z_Excerpts/z_Excerpts.md",
     "z_Excerpts/Python/Python.md",
-    "z_Excerpts/Python/save_files/save_files.md",
-    "z_Excerpts/Image/Image.md",
-    "z_Excerpts/Graph/Graph.md",
-    "Physics/Using Radiation to Investigate Stars - 1.6/Wien's Displacement Law.md",
-    "Physics/Using Radiation to Investigate Stars - 1.6/Using Radiation to Investigate Stars - 1.6.md",
-    "Physics/Using Radiation to Investigate Stars - 1.6/Surface of Stars.md",
-    "Physics/Using Radiation to Investigate Stars - 1.6/Sun's Temperature.md",
-    "Physics/Using Radiation to Investigate Stars - 1.6/Stefan's Law.md",
-    "Physics/Using Radiation to Investigate Stars - 1.6/Spectra.md",
-    "Physics/Using Radiation to Investigate Stars - 1.6/Multiwavelength Astronomy.md",
-    "Physics/Using Radiation to Investigate Stars - 1.6/Measuring Stellar Distances.md",
-    "Computer Science/Theory/Logical Operators - 1.2/Boolean Algebra/Logical Operators Recap.canvas",
     "z_Excerpts/Image/Screenshot 2023-11-06 at 11.53.52.png",
     "z_Excerpts/Image/Screenshot 2023-11-06 at 11.52.50.png",
     "z_Excerpts/Image/Screenshot 2023-11-06 at 11.47.35.png",
@@ -231,7 +249,6 @@
     "z_Excerpts/Python/tkinter_4_part_2 copy.py",
     "Physics/Using Radiation to Investigate Stars - 1.6",
     "Physics/Energy Concepts - 1.4",
-    "Maths/Trigonometry - 2.1.5",
     "Untitled 1.canvas"
   ]
 }
