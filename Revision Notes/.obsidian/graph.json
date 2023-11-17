@@ -11,14 +11,14 @@
       "query": "index",
       "color": {
         "a": 1,
-        "rgb": 3072100
+        "rgb": 11690740
       }
     },
     {
       "query": "#wip",
       "color": {
         "a": 1,
-        "rgb": 16711680
+        "rgb": 15884127
       }
     }
   ],
@@ -32,6 +32,6 @@
   "repelStrength": 12.3147901694615,
   "linkStrength": 0.59670836660456,
   "linkDistance": 101,
-  "scale": 0.30380036515210435,
+  "scale": 0.7473581059811943,
   "close": false
 }

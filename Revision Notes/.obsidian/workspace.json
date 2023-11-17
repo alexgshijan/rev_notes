@@ -23,11 +23,53 @@
             "id": "d3ae11fe7c347219",
             "type": "leaf",
             "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Computer Science/Theory/Data representation and data types - 1.4/Data representation and data types recap.canvas",
+                "viewState": {
+                  "x": -307,
+                  "y": 214,
+                  "zoom": -0.3094562065392299
+                }
+              }
+            }
+          },
+          {
+            "id": "916a325fe3629abd",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Theory/Data representation and data types - 1.4/Data representation and data types - 1.4.md",
-                "mode": "preview",
+                "file": "Computer Science/Theory/Data representation and data types - 1.4/Basics, character sets, data types/Characters and Codes in Binary.md",
+                "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "92e6ef31c9eecaa2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Theory/Data representation and data types - 1.4/Binary Arithmetic/Binary Arithmetic.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dd655ef08b8dcbbb",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Computer Science/Theory/Data representation and data types - 1.4/Data representation and data types recap.canvas",
+                "viewState": {
+                  "x": 297.9313845013545,
+                  "y": -41.06926166388069,
+                  "zoom": -0.7780721468074274
+                }
               }
             }
           },
@@ -35,14 +77,23 @@
             "id": "abc95eaac4a7dde0",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Computer Science/Theory/Data representation and data types - 1.4/Data representation and data types recap.canvas",
-                "viewState": {
-                  "x": -1437.903533055031,
-                  "y": 431.5380544669721,
-                  "zoom": -0.13924197832743326
-                }
+                "file": "Maths/Sequences and Series - 2.3.4/Binomial Expansion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "682fd1b0bba1d191",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Maths/Algebra and Functions - 2.1.2/Rules of Indicies.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -62,7 +113,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -91,7 +142,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "word length",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -192,47 +243,52 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "abc95eaac4a7dde0",
+  "active": "dd655ef08b8dcbbb",
   "lastOpenFiles": [
-    "Computer Science/Theory/Logical Operators - 1.2/Logical Operators - 1.2.md",
-    "Computer Science/Theory/Data Transmission - 1.3/Data Transmission - 1.3.md",
-    "Maths/Maths.md",
-    "Maths/Integration - 2.1.8/Integration Notation.md",
-    "Maths/Integration - 2.1.8/Integration recap.canvas",
-    "Computer Science/Theory/Data representation and data types - 1.4/Data representation and data types recap.canvas",
-    "Computer Science/Theory/Logical Operators - 1.2/Boolean Algebra/Logical Operators Recap.canvas",
-    "Computer Science/Theory/Logical Operators - 1.2/Boolean Algebra/Representing Logic Operations.md",
-    "Computer Science/Theory/Hardware and communication - 1.1/Hardware and communication - 1.1.md",
+    "Computer Science/Theory/Data representation and data types - 1.4/Binary Arithmetic/Overflow and Underflow.md",
+    "Computer Science/Theory/Data representation and data types - 1.4/Binary Arithmetic/Binary Arithmetic.md",
+    "Computer Science/Theory/Data representation and data types - 1.4/Basics, character sets, data types/Characters and Codes in Binary.md",
+    "Computer Science/Theory/Data representation and data types - 1.4/Basics, character sets, data types/Data Types.md",
+    "Computer Science/Theory/Data representation and data types - 1.4/Basics, character sets, data types/Basics, character sets, data types.md",
     "Computer Science/Theory/Data representation and data types - 1.4/Data representation and data types - 1.4.md",
+    "Computer Science/Theory/Data representation and data types - 1.4/Data representation and data types recap.canvas",
+    "Computer Science/Theory/Data Transmission - 1.3/Data Transmission - 1.3.md",
+    "Computer Science/Theory/Hardware and communication - 1.1/PC architecture and fetch-decode-execute cycle/Processor Variations.md",
+    "Computer Science/Theory/Data representation and data types - 1.4/Negative Numbers/Negative Numbers.md",
+    "Computer Science/Theory/Data representation and data types - 1.4/Negative Numbers",
+    "Computer Science/Theory/Data representation and data types - 1.4/Binary Arithmetic",
+    "z_Excerpts/Image/Screenshot 2023-11-17 at 09.23.15.png",
+    "z_Excerpts/Image/Pasted image 20231117092252.png",
+    "Computer Science/Theory/Hardware and communication - 1.1/Networking/Networking.md",
+    "Computer Science/Theory/Hardware and communication - 1.1/PC architecture and fetch-decode-execute cycle/PC architecture and fetch-decode-execute cycle.md",
+    "Computer Science/Theory/Hardware and communication - 1.1/Hardware and communication - 1.1.md",
     "Computer Science/Theory/Data representation and data types - 1.4/Basics, character sets, data types.md",
-    "Computer Science/Theory/Data Transmission - 1.3/Packets.md",
-    "Computer Science/Theory/Data representation and data types - 1.4",
-    "Computer Science/Theory/Data Transmission - 1.3/Multiplexing.md",
-    "Computer Science/Theory/Data Transmission - 1.3/Method of Transmission.md",
-    "Computer Science/Theory/Data Transmission - 1.3/Mode of Transmission.md",
-    "Physics/Physics.md",
-    "Computer Science/Theory/Hardware and communication - 1.1/Networking/Contemporary Protocols.md",
-    "index.md",
-    "Maths/Integration - 2.1.8/Negative Areas.md",
-    "Maths/Integration - 2.1.8/Area between integrals.md",
-    "z_Excerpts/Image/Screenshot 2023-11-14 at 14.48.33.png",
-    "Maths/Integration - 2.1.8/Integration - 2.1.8.md",
-    "Maths/Exponentials and Logarithms - 2.1.6/Exponentials and Logarithms - 2.1.6.md",
-    "Maths/Notation and Proof - 2.1.1/Notation and Proof - 2.1.1.md",
-    "Maths/Sequences and Series - 2.3.4/Sequences and Series - 2.3.4.md",
+    "Computer Science/Theory/Data representation and data types - 1.4/Basics, character sets, data types",
+    "Maths/Integration - 2.1.8/Integration recap.canvas",
+    "Maths/Algebra and Functions - 2.1.2/Rules of Indicies.md",
+    "Physics/Using Radiation to Investigate Stars - 1.6/Absolute Temperature.md",
+    "Physics/Kinematics - 1.2/XUVAT.md",
+    "Computer Science/Theory/Theory.md",
+    "Computer Science/Computer Science.md",
+    "Maths/Maths.md",
+    "Maths/Sequences and Series - 2.3.4/Manipulating polynomials.md",
     "Maths/Sequences and Series - 2.3.4/Binomial Expansion.md",
+    "Maths/Sequences and Series - 2.3.4/Sequences and Series - 2.3.4.md",
+    "Maths/Integration - 2.1.8/Integration - 2.1.8.md",
+    "Maths/Integration - 2.1.8/Area between integrals.md",
+    "Computer Science/Theory/Logical Operators - 1.2/Logical Operators - 1.2.md",
+    "Computer Science/Theory/Logical Operators - 1.2/Boolean Algebra/Logical Operators Recap.canvas",
+    "Computer Science/Theory/Data representation and data types - 1.4",
+    "z_Excerpts/Image/Screenshot 2023-11-14 at 14.48.33.png",
     "z_Excerpts/Image/Pasted image 20231114132152.png",
     "Maths/Sequences and Series - 2.3.4",
-    "Physics/Energy Concepts - 1.4/Energy Concepts - 1.4.md",
-    "z_Excerpts/z_Excerpts.md",
-    "z_Excerpts/Python/Python.md",
     "z_Excerpts/Image/Screenshot 2023-11-06 at 11.53.52.png",
     "z_Excerpts/Image/Screenshot 2023-11-06 at 11.52.50.png",
     "z_Excerpts/Image/Screenshot 2023-11-06 at 11.47.35.png",
@@ -243,12 +299,7 @@
     "Computer Science/Theory/Data Transmission - 1.3",
     "z_Excerpts/Image/Pasted image 20231024220339.png",
     "z_Excerpts/Image/Pasted image 20231016101225.png",
-    "z_Excerpts/Image/Pasted image 20231024190007.png",
-    "z_Excerpts/Graph/desmos-graph-aa4cb8ce14a399dc5eacb7d9bd9b41ac4762f57501d09fb1299f115aa18fd302.svg",
     "z_Excerpts/Python/tkinter_5.py",
-    "z_Excerpts/Python/tkinter_4_part_2 copy.py",
-    "Physics/Using Radiation to Investigate Stars - 1.6",
-    "Physics/Energy Concepts - 1.4",
     "Untitled 1.canvas"
   ]
 }
