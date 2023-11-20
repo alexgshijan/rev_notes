@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1cf44b1846c6ceb0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Theory/Data Transmission - 1.3/Method of Transmission.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d3ae11fe7c347219",
             "type": "leaf",
             "state": {
@@ -27,75 +15,57 @@
               "state": {
                 "file": "Computer Science/Theory/Data representation and data types - 1.4/Data representation and data types recap.canvas",
                 "viewState": {
-                  "x": -307,
-                  "y": 214,
-                  "zoom": -0.3094562065392299
+                  "x": 436.1943204836314,
+                  "y": 39.76842185347186,
+                  "zoom": -0.8030438371290329
                 }
               }
             }
           },
           {
-            "id": "916a325fe3629abd",
+            "id": "17d1d146031bafd5",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Computer Science/Theory/Logical Operators - 1.2/Boolean Algebra/Logical Operators Recap.canvas",
+                "viewState": {
+                  "x": 403.2557057591179,
+                  "y": -229.3995343769223,
+                  "zoom": -0.6699615070309081
+                }
+              }
+            }
+          },
+          {
+            "id": "bbe31ad6275c9bdc",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Maths/Integration - 2.1.8/Integration recap.canvas",
+                "viewState": {
+                  "x": -309,
+                  "y": 310,
+                  "zoom": -0.9224713494081134
+                }
+              }
+            }
+          },
+          {
+            "id": "fa77ff25dee40751",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Theory/Data representation and data types - 1.4/Basics, character sets, data types/Characters and Codes in Binary.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "92e6ef31c9eecaa2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Theory/Data representation and data types - 1.4/Binary Arithmetic/Binary Arithmetic.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dd655ef08b8dcbbb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Prac/Prac.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a3fbf483ed7b6ced",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Theory/Data representation and data types - 1.4/Data representation and data types - 1.4.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "adaf3119fea3b06b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Theory/Data representation and data types - 1.4/Signed Negatives.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0adb6ace3f68ff80",
+            "id": "de4034eb1a92c8a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -107,58 +77,34 @@
             }
           },
           {
-            "id": "59511887bb279fe6",
+            "id": "f0a17b6f188c987c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Probability 2.2.3/Venn Diagrams.md",
+                "file": "Maths/Probability 2.2.3/Mutually Exclusive Events.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "abc95eaac4a7dde0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maths/Sequences and Series - 2.3.4/Binomial Expansion.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "682fd1b0bba1d191",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maths/Algebra and Functions - 2.1.2/Rules of Indicies.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "17d1d146031bafd5",
+            "id": "868a5d15fadbac4f",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Maths/Integration - 2.1.8/Integration recap.canvas",
+                "file": "Maths/Probability 2.2.3/Probability Recap.canvas",
                 "viewState": {
-                  "x": -309,
-                  "y": 198.5,
-                  "zoom": -0.9224713494081134
+                  "x": -248.68081413836248,
+                  "y": -77.28229085814746,
+                  "zoom": -0.72502436876297
                 }
               }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -187,7 +133,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "word length",
+                "query": "canv",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -224,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/Probability 2.2.3/Venn Diagrams.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Probability 2.2.3/Venn Diagrams.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -264,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Probability 2.2.3/Venn Diagrams.md"
+                "file": "index.md"
               }
             }
           },
@@ -295,37 +241,43 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "59511887bb279fe6",
+  "active": "fa77ff25dee40751",
   "lastOpenFiles": [
-    "index.md",
-    "z_Excerpts/z_Excerpts.md",
-    "z_Excerpts/Python/Python.md",
-    "z_Excerpts/Python/save_files/save_files.md",
-    "z_Excerpts/Image/Image.md",
-    "z_Excerpts/Graph/Graph.md",
-    "Physics/Physics.md",
     "Physics/Using Radiation to Investigate Stars - 1.6/Wien's Displacement Law.md",
-    "Physics/Using Radiation to Investigate Stars - 1.6/Using Radiation to Investigate Stars - 1.6.md",
-    "Physics/Using Radiation to Investigate Stars - 1.6/Surface of Stars.md",
-    "Physics/Using Radiation to Investigate Stars - 1.6/Sun's Temperature.md",
+    "Computer Science/Theory/Data representation and data types - 1.4/Data representation and data types recap.canvas",
+    "Maths/Probability 2.2.3/Probability Recap.canvas",
+    "z_Excerpts/Image/Pasted image 20231120114728.png",
+    "z_Excerpts/Image/Pasted image 20231120114640.png",
+    "z_Excerpts/Image/Pasted image 20231120114441.png",
+    "Maths/Probability 2.2.3/Independent Events.md",
+    "Maths/Probability 2.2.3/Mutually Exclusive Events.md",
+    "z_Excerpts/Image/Screenshot 2023-11-20 at 11.31.55.png",
+    "Maths/Probability 2.2.3/Probability 2.2.3.md",
+    "Maths/Probability 2.2.3/Venn Diagrams.md",
+    "Maths/Maths.md",
+    "Physics/Physics.md",
     "Physics/Using Radiation to Investigate Stars - 1.6/Stefan's Law.md",
-    "Physics/Using Radiation to Investigate Stars - 1.6/Spectra.md",
-    "Physics/Using Radiation to Investigate Stars - 1.6/Multiwavelength Astronomy.md",
-    "Physics/Using Radiation to Investigate Stars - 1.6/Measuring Stellar Distances.md",
+    "Physics/Using Radiation to Investigate Stars - 1.6/Electromagnetic Spectrum.md",
     "Physics/Using Radiation to Investigate Stars - 1.6/Luminosity of a star.md",
     "Physics/Using Radiation to Investigate Stars - 1.6/Inverse Square Law.md",
-    "Physics/Using Radiation to Investigate Stars - 1.6/Electromagnetic Spectrum.md",
-    "Physics/Using Radiation to Investigate Stars - 1.6/Black Body.md",
     "Physics/Using Radiation to Investigate Stars - 1.6/Absolute Temperature.md",
+    "Physics/Using Radiation to Investigate Stars - 1.6/Spectra.md",
+    "Physics/Using Radiation to Investigate Stars - 1.6/Measuring Stellar Distances.md",
+    "Physics/Using Radiation to Investigate Stars - 1.6/Radio Astronomy/Multiwavelength Astronomy.md",
+    "Physics/Using Radiation to Investigate Stars - 1.6/Radio Astronomy/Telescopes.md",
     "Physics/Using Radiation to Investigate Stars - 1.6/Radio Astronomy/Synchrotron Radiation.md",
     "Physics/Using Radiation to Investigate Stars - 1.6/Radio Astronomy/Radio Astronomy.md",
     "Physics/Using Radiation to Investigate Stars - 1.6/Radio Astronomy/CMBR.md",
     "Physics/Using Radiation to Investigate Stars - 1.6/Radio Astronomy/21cm Hydrogen.md",
-    "Physics/Solids under stress 1.5/Topic Keywords.md",
-    "Physics/Solids under stress 1.5/Stress and Strain.md",
     "Maths/Integration - 2.1.8/Integration recap.canvas",
     "Computer Science/Theory/Logical Operators - 1.2/Boolean Algebra/Logical Operators Recap.canvas",
-    "Computer Science/Theory/Data representation and data types - 1.4/Data representation and data types recap.canvas",
+    "Physics/Using Radiation to Investigate Stars - 1.6/Black Body.md",
+    "Maths/Algebra and Functions - 2.1.2/Rules of Indicies.md",
+    "Maths/Sequences and Series - 2.3.4/Binomial Expansion.md",
+    "Computer Science/Theory/Data representation and data types - 1.4/Signed Negatives.md",
+    "Computer Science/Theory/Data representation and data types - 1.4/Data representation and data types - 1.4.md",
+    "z_Excerpts/Python/tkinter_6_activity_1_+_2.py",
+    "z_Excerpts/Python/tkinter_6_activity_1.py",
     "z_Excerpts/Image/Screenshot 2023-11-17 at 14.40.51.png",
     "z_Excerpts/Image/Screenshot 2023-11-17 at 14.36.36.png",
     "Maths/Probability 2.2.3",
@@ -338,14 +290,8 @@
     "z_Excerpts/Image/Screenshot 2023-11-14 at 14.48.33.png",
     "z_Excerpts/Image/Pasted image 20231114132152.png",
     "Maths/Sequences and Series - 2.3.4",
-    "z_Excerpts/Image/Screenshot 2023-11-06 at 11.53.52.png",
-    "z_Excerpts/Image/Screenshot 2023-11-06 at 11.52.50.png",
-    "z_Excerpts/Image/Screenshot 2023-11-06 at 11.47.35.png",
     "Maths/Integration - 2.1.8",
     "Maths/Exponentials and Logarithms - 2.1.6",
-    "Passwords.txt",
-    "z_Excerpts/Image/Pasted image 20231025120048.png",
-    "Computer Science/Theory/Data Transmission - 1.3",
     "Untitled 1.canvas"
   ]
 }

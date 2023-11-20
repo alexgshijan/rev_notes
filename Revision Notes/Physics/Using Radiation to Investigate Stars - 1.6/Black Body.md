@@ -8,3 +8,4 @@ Stars obviously aren't black but there are almost perfect emitters so when we lo
 They are a good approximation of a black body. When it is cold, it appears black and when it heats up, it begins to emit various wavelengths of light.
 
 This also leads into the why different stars have different colours $\to$ [[Sun's Temperature]] 
+

@@ -1,0 +1,2 @@
+The higher the temperature of the object the shorter the wavelength it emits, so we need to choose what wavelength is most suitable to use. 
+Our atmosphere absorbs gamma, X Ray and most UV, It also absorbs certain wavelengths of IR wavelengths.

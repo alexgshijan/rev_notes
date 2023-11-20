@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"58a9fb13a60a8eb4","x":-860,"y":-719,"width":400,"height":158,"color":"6","type":"file","file":"z_Excerpts/Image/Pasted image 20231120114441.png"},
+		{"id":"d235416bd9c66fd1","x":-860,"y":-1000,"width":819,"height":206,"color":"4","type":"text","text":"\nEvents A and B are\nmutually exclusive and P(A) = 0.2 and P(B) = 0.4.\na)  P(A or B) = $0.2+0.4=0.6$\nb) Find P(A but not B) $=P(A)$ This is because A and B are [[Mutually Exclusive Events]] \nc) Find P(neither A nor B) = $P'(A+B)='0.6=0.4$\n"},
+		{"id":"b3b162387b3ff338","x":-241,"y":-731,"width":400,"height":340,"color":"3","type":"file","file":"Maths/Probability 2.2.3/Venn Diagrams.md"},
+		{"id":"b3026847de0c0350","x":-720,"y":-520,"width":400,"height":80,"color":"4","type":"text","text":"$x=0.3*0.2=0.06$\n$y='(0.3+0.2+0.06)='(0.56)=0.44$"},
+		{"id":"2f3a7e5a1ca92ce1","x":-860,"y":-391,"width":400,"height":194,"type":"file","file":"z_Excerpts/Image/Pasted image 20231120114640.png"},
+		{"id":"66e258eb11a44ec0","x":-652,"y":-159,"width":192,"height":59,"color":"4","type":"text","text":"They are not"},
+		{"id":"32290fc14d647dd8","x":-852,"y":-60,"width":400,"height":222,"type":"file","file":"z_Excerpts/Image/Pasted image 20231120114728.png"},
+		{"id":"eed4f702b35491ed","x":-720,"y":200,"width":343,"height":50,"color":"4","type":"text","text":"$P'(0.1+0.6)='(0.7)=0.3$"}
+	],
+	"edges":[
+		{"id":"40bd96fa6bc5fbd7","fromNode":"58a9fb13a60a8eb4","fromSide":"bottom","toNode":"b3026847de0c0350","toSide":"top"},
+		{"id":"b71c74066928faf0","fromNode":"2f3a7e5a1ca92ce1","fromSide":"bottom","toNode":"66e258eb11a44ec0","toSide":"top"},
+		{"id":"88ef2d69117ad666","fromNode":"32290fc14d647dd8","fromSide":"bottom","toNode":"eed4f702b35491ed","toSide":"top"}
+	]
+}
