@@ -30,8 +30,8 @@
               "state": {
                 "file": "Computer Science/Theory/Logical Operators - 1.2/Boolean Algebra/Logical Operators Recap.canvas",
                 "viewState": {
-                  "x": 403.2557057591179,
-                  "y": -229.3995343769223,
+                  "x": 515.7097426435782,
+                  "y": 264.80636456268127,
                   "zoom": -0.6699615070309081
                 }
               }
@@ -41,13 +41,37 @@
             "id": "bbe31ad6275c9bdc",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Maths/Sequences and Series - 2.3.4/Binomial Expansion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "147916c38f694909",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Maths/Sequences and Series - 2.3.4/Binomial Expansion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "40401d313d6ebae9",
+            "type": "leaf",
+            "state": {
               "type": "canvas",
               "state": {
-                "file": "Maths/Integration - 2.1.8/Integration recap.canvas",
+                "file": "Maths/Probability 2.2.3/Probability Recap.canvas",
                 "viewState": {
-                  "x": -309,
-                  "y": 310,
-                  "zoom": -0.9224713494081134
+                  "x": -308,
+                  "y": -375,
+                  "zoom": -0.5364726544011252
                 }
               }
             }
@@ -56,11 +80,14 @@
             "id": "fa77ff25dee40751",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
+                "file": "Maths/Probability 2.2.3/Probability Recap.canvas",
+                "viewState": {
+                  "x": -330.7279861715225,
+                  "y": -219.574992135804,
+                  "zoom": -0.8198855047015963
+                }
               }
             }
           },
@@ -104,7 +131,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -170,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Maths/Sequences and Series - 2.3.4/Binomial Expansion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +214,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Maths/Sequences and Series - 2.3.4/Binomial Expansion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +237,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Maths/Sequences and Series - 2.3.4/Binomial Expansion.md"
               }
             }
           },
@@ -241,41 +268,48 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "fa77ff25dee40751",
+  "active": "bbe31ad6275c9bdc",
   "lastOpenFiles": [
-    "Physics/Using Radiation to Investigate Stars - 1.6/Wien's Displacement Law.md",
-    "Computer Science/Theory/Data representation and data types - 1.4/Data representation and data types recap.canvas",
     "Maths/Probability 2.2.3/Probability Recap.canvas",
+    "Maths/Probability 2.2.3/Venn Diagrams.md",
+    "Maths/Probability 2.2.3/Mutually Exclusive Events.md",
+    "Maths/Probability 2.2.3/Probability 2.2.3.md",
+    "Maths/Sequences and Series - 2.3.4/Binomial Expansion.md",
+    "z_Excerpts/Python/tkinter_6_4.py",
+    "z_Excerpts/Python/tkinter_6_3.py",
+    "z_Excerpts/Python/tkinter_6_2.py",
+    "z_Excerpts/Python/tkinter_6_1.py",
+    "z_Excerpts/Python/tkinter_6.py",
+    "Maths/Sequences and Series - 2.3.4/Combinations.md",
+    "Maths/Sequences and Series - 2.3.4/Finding Equations of Exponential Curves.md",
+    "Maths/Sequences and Series - 2.3.4/Manipulating polynomials.md",
+    "Maths/Sequences and Series - 2.3.4/Sequences and Series - 2.3.4.md",
+    "Maths/Differentiation - 2.1.7/Differentiation - 2.1.7.md",
+    "Maths/Integration - 2.1.8/Integration - 2.1.8.md",
+    "z_Excerpts/Image/Screenshot 2023-11-20 at 12.09.33.png",
+    "Maths/Maths.md",
+    "Physics/Physics.md",
+    "Physics/Using Radiation to Investigate Stars - 1.6/Sun's Temperature.md",
+    "Physics/Using Radiation to Investigate Stars - 1.6/Stefan's Law.md",
+    "Physics/Using Radiation to Investigate Stars - 1.6/Spectra.md",
+    "Physics/Using Radiation to Investigate Stars - 1.6/Measuring Stellar Distances.md",
+    "Physics/Using Radiation to Investigate Stars - 1.6/Luminosity of a star.md",
+    "Physics/Using Radiation to Investigate Stars - 1.6/Radio Astronomy/Radio Astronomy.md",
+    "Physics/Using Radiation to Investigate Stars - 1.6/Radio Astronomy/Multiwavelength Astronomy.md",
+    "Physics/Using Radiation to Investigate Stars - 1.6/Radio Astronomy/CMBR.md",
+    "Physics/Using Radiation to Investigate Stars - 1.6/Radio Astronomy/21cm Hydrogen.md",
+    "Computer Science/Computer Science.md",
+    "Maths/Integration - 2.1.8/Integration recap.canvas",
+    "Maths/Integration - 2.1.8/Integration Notation.md",
+    "Maths/Integration - 2.1.8/Area between integrals.md",
+    "Computer Science/Theory/Logical Operators - 1.2/Boolean Algebra/Logical Operators Recap.canvas",
+    "Computer Science/Theory/Data representation and data types - 1.4/Data representation and data types recap.canvas",
+    "z_Excerpts/Image/Screenshot 2023-11-20 at 12.03.38.png",
+    "index.md",
     "z_Excerpts/Image/Pasted image 20231120114728.png",
     "z_Excerpts/Image/Pasted image 20231120114640.png",
     "z_Excerpts/Image/Pasted image 20231120114441.png",
-    "Maths/Probability 2.2.3/Independent Events.md",
-    "Maths/Probability 2.2.3/Mutually Exclusive Events.md",
     "z_Excerpts/Image/Screenshot 2023-11-20 at 11.31.55.png",
-    "Maths/Probability 2.2.3/Probability 2.2.3.md",
-    "Maths/Probability 2.2.3/Venn Diagrams.md",
-    "Maths/Maths.md",
-    "Physics/Physics.md",
-    "Physics/Using Radiation to Investigate Stars - 1.6/Stefan's Law.md",
-    "Physics/Using Radiation to Investigate Stars - 1.6/Electromagnetic Spectrum.md",
-    "Physics/Using Radiation to Investigate Stars - 1.6/Luminosity of a star.md",
-    "Physics/Using Radiation to Investigate Stars - 1.6/Inverse Square Law.md",
-    "Physics/Using Radiation to Investigate Stars - 1.6/Absolute Temperature.md",
-    "Physics/Using Radiation to Investigate Stars - 1.6/Spectra.md",
-    "Physics/Using Radiation to Investigate Stars - 1.6/Measuring Stellar Distances.md",
-    "Physics/Using Radiation to Investigate Stars - 1.6/Radio Astronomy/Multiwavelength Astronomy.md",
-    "Physics/Using Radiation to Investigate Stars - 1.6/Radio Astronomy/Telescopes.md",
-    "Physics/Using Radiation to Investigate Stars - 1.6/Radio Astronomy/Synchrotron Radiation.md",
-    "Physics/Using Radiation to Investigate Stars - 1.6/Radio Astronomy/Radio Astronomy.md",
-    "Physics/Using Radiation to Investigate Stars - 1.6/Radio Astronomy/CMBR.md",
-    "Physics/Using Radiation to Investigate Stars - 1.6/Radio Astronomy/21cm Hydrogen.md",
-    "Maths/Integration - 2.1.8/Integration recap.canvas",
-    "Computer Science/Theory/Logical Operators - 1.2/Boolean Algebra/Logical Operators Recap.canvas",
-    "Physics/Using Radiation to Investigate Stars - 1.6/Black Body.md",
-    "Maths/Algebra and Functions - 2.1.2/Rules of Indicies.md",
-    "Maths/Sequences and Series - 2.3.4/Binomial Expansion.md",
-    "Computer Science/Theory/Data representation and data types - 1.4/Signed Negatives.md",
-    "Computer Science/Theory/Data representation and data types - 1.4/Data representation and data types - 1.4.md",
     "z_Excerpts/Python/tkinter_6_activity_1_+_2.py",
     "z_Excerpts/Python/tkinter_6_activity_1.py",
     "z_Excerpts/Image/Screenshot 2023-11-17 at 14.40.51.png",
@@ -285,13 +319,6 @@
     "Computer Science/Theory/Data representation and data types - 1.4/Binary Arithmetic",
     "z_Excerpts/Image/Screenshot 2023-11-17 at 09.23.15.png",
     "z_Excerpts/Image/Pasted image 20231117092252.png",
-    "Computer Science/Theory/Data representation and data types - 1.4/Basics, character sets, data types",
-    "Computer Science/Theory/Data representation and data types - 1.4",
-    "z_Excerpts/Image/Screenshot 2023-11-14 at 14.48.33.png",
-    "z_Excerpts/Image/Pasted image 20231114132152.png",
-    "Maths/Sequences and Series - 2.3.4",
-    "Maths/Integration - 2.1.8",
-    "Maths/Exponentials and Logarithms - 2.1.6",
     "Untitled 1.canvas"
   ]
 }

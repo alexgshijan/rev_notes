@@ -14,12 +14,25 @@ def save_click():
         pass
     #Add data from the entry boxes to the data variable
     temp_var = ([PlumberID_var.get(), firstname_var.get(), surname_var.get(), gassafe_var.get(), 
-    hourlyrate_var.get(), callout_var.get(), years_var.get(), experience_var.get()])
+    hourlyrate_var.get(), callout_var.get(), years_var.get(), specialism_var.get()])
 
     if (temp_var[0] == "") : messagebox.showerror('Error', 'Enter a Plumber ID'); return
-    if (len(temp_var[1]) > 50) : messagebox.showerror('Error', 'Name is too long'); return
-    if () :
-        pass
+    if (len(temp_var[1]) > 50) : messagebox.showerror('Error', 'First Name is too long'); return
+    if (len(temp_var[2]) > 50) : messagebox.showerror('Error', 'Surame is too long'); return
+    #No Validation for gassafe_var since input is already restricted
+    try: 
+        x =float(temp_var[4])
+        if ((x < 0) or (x > 100)): messagebox.showerror('Error', 'Hourly rate must be between 0 and 100'); return
+    except ValueError: messagebox.showerror('Error', 'Hourly rate must be a number'); return
+    try: 
+        x =float(temp_var[5])
+        if ((x < 0) or (x > 200)): messagebox.showerror('Error', 'Callout rate must be between 0 and 200'); return
+    except ValueError: messagebox.showerror('Error', 'Callout rate must be a number'); return
+    try: 
+        x =str(temp_var[6])
+        if ((x < 0) or (x > 100)): messagebox.showerror('Error', 'Callout rate must be between 0 and 100'); return
+    except ValueError: messagebox.showerror('Error', 'Years Experience must be a Number'); return
+    if (len(temp_var[7]) > 100) : messagebox.showerror('Error', 'Specialism Name is too long'); return
 
     user_data.append(temp_var)
 
@@ -49,7 +62,7 @@ def count_click():
         user_data = []
 
     temp_save_file = [PlumberID_var.get(), firstname_var.get(), surname_var.get(), gassafe_var.get(), 
-    hourlyrate_var.get(), callout_var.get(), years_var.get(), experience_var.get()]
+    hourlyrate_var.get(), callout_var.get(), years_var.get(), specialism_var.get()]
 
     accum = 0 #See if there are any exact matches in the data
     for i in user_data:
@@ -97,9 +110,9 @@ Label(text="Years Experience").pack()
 years_var = Entry()
 years_var.pack()
 
-Label(text="Experience").pack()
-experience_var = Entry()
-experience_var.pack()
+Label(text="Specialism").pack()
+specialism_var = Entry()
+specialism_var.pack()
 
 Button(text = 'SAVE', command = save_click).pack()
 Button(text = 'COUNT', command = count_click).pack()
