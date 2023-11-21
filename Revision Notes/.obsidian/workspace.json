@@ -63,11 +63,14 @@
             "id": "2deeb046adf39e68",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Maths/Probability 2.2.3/Notes.md",
-                "mode": "source",
-                "source": false
+                "file": "Maths/Probability 2.2.3/Probability Recap.canvas",
+                "viewState": {
+                  "x": 397.4808404391013,
+                  "y": -74.55992278628375,
+                  "zoom": -0.13333878830504647
+                }
               }
             }
           },
@@ -219,7 +222,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/Probability 2.2.3/Notes.md",
+                "file": "Maths/Probability 2.2.3/Probability Recap.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -236,7 +239,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Probability 2.2.3/Notes.md",
+                "file": "Maths/Probability 2.2.3/Probability Recap.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -259,7 +262,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Probability 2.2.3/Notes.md"
+                "file": "Maths/Probability 2.2.3/Probability Recap.canvas"
               }
             }
           },
@@ -292,8 +295,10 @@
   },
   "active": "2deeb046adf39e68",
   "lastOpenFiles": [
-    "Maths/Probability 2.2.3/Venn Diagrams.md",
+    "z_Excerpts/Image/Screenshot 2023-11-21 at 14.54.51.png",
+    "z_Excerpts/Image/Screenshot 2023-11-21 at 14.53.17.png",
     "Maths/Probability 2.2.3/Notes.md",
+    "Maths/Probability 2.2.3/Venn Diagrams.md",
     "Maths/Probability 2.2.3/Probability Booklet - Answers&Notes.pdf",
     "Maths/Probability 2.2.3/Probability 2.2.3.md",
     "Maths/Probability 2.2.3/Probability Recap.canvas",
@@ -319,7 +324,6 @@
     "Physics/Using Radiation to Investigate Stars - 1.6/Absolute Temperature.md",
     "Physics/Using Radiation to Investigate Stars - 1.6/Radio Astronomy/Telescopes.md",
     "Physics/Using Radiation to Investigate Stars - 1.6/Radio Astronomy/Synchrotron Radiation.md",
-    "Physics/Using Radiation to Investigate Stars - 1.6/Radio Astronomy/Radio Astronomy.md",
     "Maths/Integration - 2.1.8/Integration recap.canvas",
     "Computer Science/Theory/Logical Operators - 1.2/Boolean Algebra/Logical Operators Recap.canvas",
     "Computer Science/Theory/Data representation and data types - 1.4/Data representation and data types recap.canvas",
@@ -341,7 +345,6 @@
     "Maths/Probability 2.2.3",
     "Computer Science/Theory/Data representation and data types - 1.4/Negative Numbers",
     "z_Excerpts/Image/Screenshot 2023-11-17 at 09.23.15.png",
-    "z_Excerpts/Image/Pasted image 20231117092252.png",
     "Untitled 1.canvas"
   ]
 }
