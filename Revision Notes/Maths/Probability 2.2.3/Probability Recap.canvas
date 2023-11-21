@@ -11,7 +11,8 @@
 		{"id":"01d0a265c1b703b2","type":"file","file":"z_Excerpts/Image/Screenshot 2023-11-20 at 12.03.38.png","x":-420,"y":-327,"width":664,"height":130},
 		{"id":"7346406ea0d45906","type":"text","text":"$x=1-(0.4+0.3+0.05)=1-0.75=0.25$","x":-208,"y":-147,"width":430,"height":60,"color":"4"},
 		{"id":"f41465ea8e961b83","type":"file","file":"z_Excerpts/Image/Screenshot 2023-11-20 at 12.09.33.png","x":-420,"y":-25,"width":459,"height":152},
-		{"id":"539853e97fae77ce","type":"text","text":"","x":-240,"y":180,"width":435,"height":60,"color":"4"}
+		{"id":"539853e97fae77ce","type":"text","text":"","x":-240,"y":180,"width":435,"height":60,"color":"4"},
+		{"id":"7f7db7188ac15ac5","type":"file","file":"Maths/Probability 2.2.3/Probability Booklet - Answers&Notes.pdf","x":222,"y":-994,"width":1178,"height":603,"color":"3"}
 	],
 	"edges":[
 		{"id":"40bd96fa6bc5fbd7","fromNode":"58a9fb13a60a8eb4","fromSide":"bottom","toNode":"b3026847de0c0350","toSide":"top"},
