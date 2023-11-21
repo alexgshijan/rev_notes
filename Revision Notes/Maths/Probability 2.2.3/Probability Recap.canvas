@@ -13,10 +13,12 @@
 		{"id":"f41465ea8e961b83","type":"file","file":"z_Excerpts/Image/Screenshot 2023-11-20 at 12.09.33.png","x":-420,"y":-25,"width":459,"height":152},
 		{"id":"539853e97fae77ce","type":"text","text":"","x":-240,"y":180,"width":435,"height":60,"color":"4"},
 		{"id":"7f7db7188ac15ac5","type":"file","file":"Maths/Probability 2.2.3/Probability Booklet - Answers&Notes.pdf","x":222,"y":-994,"width":1178,"height":603,"color":"3"},
-		{"id":"c7f2148873fd3936","x":280,"y":-327,"width":531,"height":138,"type":"file","file":"z_Excerpts/Image/Screenshot 2023-11-21 at 14.53.17.png"},
-		{"id":"52a3324358d55e91","x":620,"y":-143,"width":120,"height":113,"color":"4","type":"text","text":"a) 0.5\nb) 0.5\nc) 0.3"},
-		{"id":"8a1e536ed97a2171","x":280,"y":-6,"width":553,"height":115,"type":"file","file":"z_Excerpts/Image/Screenshot 2023-11-21 at 14.54.51.png"},
-		{"id":"2f9f4a9be9147fd8","x":613,"y":161,"width":135,"height":98,"color":"4","type":"text","text":"a) 0.7\nb) 0.7"}
+		{"id":"c7f2148873fd3936","type":"file","file":"z_Excerpts/Image/Screenshot 2023-11-21 at 14.53.17.png","x":280,"y":-327,"width":531,"height":138},
+		{"id":"52a3324358d55e91","type":"text","text":"a) 0.5\nb) 0.5\nc) 0.3","x":620,"y":-143,"width":120,"height":113,"color":"4"},
+		{"id":"8a1e536ed97a2171","type":"file","file":"z_Excerpts/Image/Screenshot 2023-11-21 at 14.54.51.png","x":280,"y":-6,"width":553,"height":115},
+		{"id":"2f9f4a9be9147fd8","type":"text","text":"a) 0.7\nb) 0.7","x":613,"y":161,"width":135,"height":98,"color":"4"},
+		{"id":"bfe8751f8f49d52e","type":"file","file":"z_Excerpts/Image/Screenshot 2023-11-21 at 15.03.46.png","x":833,"y":-327,"width":532,"height":107,"color":"3"},
+		{"id":"9588d891b8446e22","type":"text","text":"a) 0.15","x":1200,"y":-173,"width":134,"height":60,"color":"4"}
 	],
 	"edges":[
 		{"id":"40bd96fa6bc5fbd7","fromNode":"58a9fb13a60a8eb4","fromSide":"bottom","toNode":"b3026847de0c0350","toSide":"top"},
@@ -25,6 +27,7 @@
 		{"id":"a35a7511967a529f","fromNode":"01d0a265c1b703b2","fromSide":"bottom","toNode":"7346406ea0d45906","toSide":"top"},
 		{"id":"17cb6fd71766ad47","fromNode":"f41465ea8e961b83","fromSide":"bottom","toNode":"539853e97fae77ce","toSide":"top"},
 		{"id":"761017d358b0541d","fromNode":"c7f2148873fd3936","fromSide":"bottom","toNode":"52a3324358d55e91","toSide":"top"},
-		{"id":"cd8b925180a5e8b0","fromNode":"8a1e536ed97a2171","fromSide":"bottom","toNode":"2f9f4a9be9147fd8","toSide":"top"}
+		{"id":"cd8b925180a5e8b0","fromNode":"8a1e536ed97a2171","fromSide":"bottom","toNode":"2f9f4a9be9147fd8","toSide":"top"},
+		{"id":"c3a1f2a93b776943","fromNode":"bfe8751f8f49d52e","fromSide":"bottom","toNode":"9588d891b8446e22","toSide":"top"}
 	]
 }
