@@ -6,7 +6,7 @@
   "autoRenameIndexFile": true,
   "includeFileContent": false,
   "hideIndexFiles": false,
-  "indexFileInitText": "```folder-index-content\n```",
+  "indexFileInitText": "**Contents :** (View in app only)\n```folder-index-content\n```",
   "autoPreviewMode": true,
   "sortIndexFilesAlphabetically": true,
   "sortHeadersAlphabetically": false,

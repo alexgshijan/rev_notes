@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"ce24eaf8a090e16a","type":"file","file":"z_Excerpts/Image/Pasted image 20231121220605.png","x":-300,"y":-280,"width":819,"height":495,"color":"3"},
+		{"id":"94ff3de3cdd82bf2","type":"text","text":"*At Equilibrium, the net clockwise moments are equal to the net anticlockwise moments*\nClockwise Moment = $2.4m \\cdot 8kg \\cdot 9.81ms^{-1} + 1.2m\\cdot 1.4kg\\cdot 9.81ms^{-1} = 205Nm$\nTherefore Anticlockwise Moment also $=205Nm$\nSince there is only one force being applied on the anticlockwise (the cable), we can work out the Force applied on the vertical using $\\frac{205Nm}{2.4m}=85.4N$\n\nWe can now use trigonometry to resolve the vector, using the SINE rule to find out the tension\n\n$\\frac{85.4}{\\sin30}*\\sin90=170.8N$\n","x":-20,"y":300,"width":800,"height":360,"color":"6"}
+	],
+	"edges":[
+		{"id":"f6b9f5568c9d3488","fromNode":"ce24eaf8a090e16a","fromSide":"bottom","toNode":"94ff3de3cdd82bf2","toSide":"top"}
+	]
+}
