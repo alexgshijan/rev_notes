@@ -13,13 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Kinematics - 1.2/XUVAT.md",
+                "file": "Maths/Sequences and Series - 2.3.4/Binomial Expansion.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "325358f7b79b2f6d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Kinematics - 1.2/XUVAT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/Kinematics - 1.2/XUVAT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Physics/Kinematics - 1.2/XUVAT.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,18 +161,26 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "84e57823f7169f2d",
+  "active": "325358f7b79b2f6d",
   "lastOpenFiles": [
-    "Physics/Kinematics - 1.2/XUVAT examples.md",
+    "Maths/Sequences and Series - 2.3.4/Binomial Expansion.md",
+    "Physics/Physics NOV test response.canvas",
+    "Computer Science/Theory/Data representation and data types - 1.4/Data representation and data types recap.canvas",
+    "index.md",
     "Physics/Kinematics - 1.2/Displacement.md",
-    "Physics/Kinematics - 1.2/XUVAT.md",
     "Physics/Kinematics - 1.2/Graphs.md",
+    "Physics/Kinematics - 1.2/XUVAT.md",
     "Physics/Kinematics - 1.2/Kinematics - 1.2.md",
-    "Physics/Solids under stress 1.5/Solids under stress 1.5.md",
     "Physics/Physics.md",
     "Maths/Maths.md",
-    "Maths/Trigonometry - 2.1.5/Trigonometry - 2.1.5.md",
+    "Maths/Algebra and Functions - 2.1.2/Polynomials/Polynomials.md",
+    "Maths/Sequences and Series - 2.3.4/Approximation.md",
+    "Maths/Sequences and Series - 2.3.4/Combinations.md",
+    "Maths/Sequences and Series - 2.3.4/Finding Equations of Exponential Curves.md",
     "Maths/Sequences and Series - 2.3.4/Sequences and Series - 2.3.4.md",
+    "Physics/Kinematics - 1.2/XUVAT examples.md",
+    "Physics/Solids under stress 1.5/Solids under stress 1.5.md",
+    "Maths/Trigonometry - 2.1.5/Trigonometry - 2.1.5.md",
     "Maths/Probability 2.2.3/Probability 2.2.3.md",
     "Maths/Notation and Proof - 2.1.1/Notation and Proof - 2.1.1.md",
     "Maths/Integration - 2.1.8/Integration - 2.1.8.md",
@@ -176,20 +189,11 @@
     "Maths/Differentiation - 2.1.7/Differentiation - 2.1.7.md",
     "Maths/Coordinate Geometry - 2.1.3/Coordinate Geometry - 2.1.3.md",
     "Maths/Algebra and Functions - 2.1.2/Algebra and Functions - 2.1.2.md",
-    "Maths/Algebra and Functions - 2.1.2/Polynomials/Polynomials.md",
     "Computer Science/Computer Science.md",
-    "Computer Science/Theory/Logical Operators - 1.2/Logical Operators - 1.2.md",
-    "Computer Science/Theory/Hardware and communication - 1.1/Hardware and communication - 1.1.md",
-    "Computer Science/Theory/Data Transmission - 1.3/Data Transmission - 1.3.md",
-    "Computer Science/Theory/Data representation and data types - 1.4/Data representation and data types - 1.4.md",
-    "Computer Science/Theory/Data representation and data types - 1.4/Basics, character sets, data types/Basics, character sets, data types.md",
-    "Maths/Coordinate Geometry - 2.1.3/Circles/Circles.md",
-    "Physics/Physics NOV test response.canvas",
     "z_Excerpts/Image/Pasted image 20231121220605.png",
     "Maths/Probability 2.2.3/Probability Recap.canvas",
     "Computer Science/Theory/Logical Operators - 1.2/Boolean Algebra/Logical Operators Recap.canvas",
     "Maths/Probability 2.2.3/Probability Booklet - Answers&Notes.pdf",
-    "Computer Science/Theory/Data representation and data types - 1.4/Data representation and data types recap.canvas",
     "z_Excerpts/Image/Screenshot 2023-11-21 at 15.03.46.png",
     "z_Excerpts/Image/Screenshot 2023-11-21 at 14.54.51.png",
     "z_Excerpts/Image/Screenshot 2023-11-21 at 14.53.17.png",
