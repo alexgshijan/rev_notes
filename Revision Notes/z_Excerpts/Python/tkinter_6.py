@@ -50,6 +50,7 @@ def save_click():
 
 
 def count_click():
+    user_data = []
     try:
         f = open(filename_txt, "r")
         lines = f.readlines() #Stores the text file as a list of lines.
@@ -75,46 +76,22 @@ def count_click():
 win = Tk()
 win.title("Tkinter 6 Activity 1")
 GasSafe_var = IntVar() 
-user_data = []
-round_val = 0
 split_var = '  |  ' #This will be used to split up variables in the text file
 filename_txt = 'tkinter_6_activity_1.txt' #This is the file location of the save file
 
-Label(text="Plumbers\n", font=('Comic Sans', 25)).pack()
+Label(text="Plumbers\n", font=('Comic Sans', 25)).pack() #Title, font makes it larger.
 
-Label(text="PlumberID").pack() #The 'Question' label
-PlumberID_var = Entry() #Text entry box
-PlumberID_var.pack() #Formater
+Label(text="PlumberID").pack(); PlumberID_var = Entry(); PlumberID_var.pack()  #The 'Question' label; txt entry box and formatter
+Label(text="First Name").pack(); firstname_var = Entry(); firstname_var.pack()
+Label(text="Surname").pack(); surname_var = Entry(); surname_var.pack()
+Label(text="Gas Safe").pack(); Radiobutton(text="Yes", variable=gassafe_var, value= 1).pack(); Radiobutton(text="No", variable= gassafe_var, value= 0).pack()
+Label(text="Hourly Rate").pack(); hourlyrate_var = Entry(); hourlyrate_var.pack()
+Label(text="Call Out Price").pack(); callout_var = Entry(); callout_var.pack()
+Label(text="Years Experience").pack(); years_var = Entry(); years_var.pack()
+Label(text="Specialism").pack(); specialism_var = Entry(); specialism_var.pack()
 
-Label(text="First Name").pack()
-firstname_var = Entry()
-firstname_var.pack()
-
-Label(text="Surname").pack()
-surname_var = Entry()
-surname_var.pack()
-
-Label(text="Gas Safe").pack()
-Radiobutton(text="Yes", variable=gassafe_var, value= 1).pack()
-Radiobutton(text="No", variable= gassafe_var, value= 0).pack()
-
-Label(text="Hourly Rate").pack()
-hourlyrate_var = Entry()
-hourlyrate_var.pack()
-
-Label(text="Call Out Price").pack()
-callout_var = Entry()
-callout_var.pack()
-
-Label(text="Years Experience").pack()
-years_var = Entry()
-years_var.pack()
-
-Label(text="Specialism").pack()
-specialism_var = Entry()
-specialism_var.pack()
-
-Button(text = 'SAVE', command = save_click).pack() # Buttons call functions when clicked
+# Buttons call functions when clicked
+Button(text = 'SAVE', command = save_click).pack() 
 Button(text = 'COUNT', command = count_click).pack()
 
 win.mainloop() # Runs the window
