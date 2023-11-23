@@ -1,0 +1,6 @@
+- Convert the real number such as 26.375 to a 10 bit fixed point binary  011010.0110 
+- ‘Float’ the binary point to _between the leftmost 0 and 1_ – this is called [[Normalising]]  and gives us 0.110100110 as a mantissa
+- Count how many times the binary point was moved (5 in this case), and whether it was moved left (positive) or right (negative) – this gives us a denary exponent of 5
+- Convert this exponent to binary, 000101 in our case 
+- Our mantissa is 0.110100110 and the exponent is 000101 
+- Our final floating point number is 0110100110 000101

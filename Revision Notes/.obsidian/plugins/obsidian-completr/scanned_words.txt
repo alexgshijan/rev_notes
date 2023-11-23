@@ -303,6 +303,7 @@ ttk
 tUX
 tSK
 tAz
+times
 center
 constant
 could
@@ -636,6 +637,8 @@ cUT
 cQR
 ciW
 cql
+convert
+complement
 Where
 Word
 Work
@@ -1243,6 +1246,7 @@ oZp
 oCE
 oCs
 ofLGm
+overcomes
 Surds
 Split
 Surd
@@ -2214,6 +2218,8 @@ fff
 fji
 fhX
 frw
+follows
+final
 solving
 surds
 square
@@ -2584,6 +2590,8 @@ sIR
 sgN
 sCCCu
 sCw
+specify
+section
 into
 is
 in
@@ -2846,6 +2854,9 @@ iIV
 iSs
 iEk
 iHi
+itself
+illustrate
+imitated
 largest
 like
 length
@@ -3095,6 +3106,8 @@ lRY
 lNs
 lOFd
 lkw
+later
+longer
 Collect
 CPU
 CIR
@@ -3343,6 +3356,7 @@ Cnt
 Cbn
 CCK
 Cof
+Convert
 denominator
 done
 deci
@@ -3640,6 +3654,9 @@ dZIi
 dZVS
 dZC
 derive
+digit
+digits
+denary
 To
 The
 This
@@ -4090,6 +4107,7 @@ wEj
 wHa
 wzZl
 wvqF
+whilst
 must
 multiply
 mega
@@ -4350,6 +4368,10 @@ mSe
 mZY
 maIa
 mZr
+maths
+mantissa
+magnitude
+moved
 numerator
 nano
 needs
@@ -4533,6 +4555,8 @@ nPc
 nTN
 nUQ
 nsK
+numerous
+normalising
 by
 be
 base
@@ -5014,6 +5038,9 @@ aGb
 aoo
 app
 acceleration
+assumed
+accurately
+accurate
 extension
 equation
 executed
@@ -5277,6 +5304,7 @@ eJPF
 ezg
 eMM
 egvgg
+exponent
 Nm
 Note
 Number
@@ -5458,6 +5486,7 @@ NxT
 NSX
 NgPe
 NLE
+Negatives
 gradient
 graph
 giga
@@ -8961,6 +8990,7 @@ hPi
 happening
 hfi
 hGJ
+halves
 program
 phase
 point
@@ -9250,6 +9280,8 @@ pSb
 pmU
 pqu
 pDj
+programmer
+performing
 value
 values
 volatile
