@@ -8,62 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "84e57823f7169f2d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Theory/Data representation and data types - 1.4/Fixed & Floating Point Numbers/Fixed & Floating Point Numbers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8cf1402c74b337f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Theory/Data representation and data types - 1.4/Fixed & Floating Point Numbers/Fixed Point representation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fe07fa1246529c2e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Theory/Data representation and data types - 1.4/Fixed & Floating Point Numbers/Floating Point Representation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "26047f3098fe47c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Theory/Data representation and data types - 1.4/Fixed & Floating Point Numbers/Converting a positive real number to floating point.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "7e07ca644a0d70f4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Maths/Maths.md",
-                "mode": "preview",
-                "source": false
+                "file": "Physics/Using Radiation to Investigate Stars - 1.6/Using Radiation to Investigate Stars recap.canvas",
+                "viewState": {
+                  "x": 412.6946892836519,
+                  "y": 903.0258586797004,
+                  "zoom": -1.5266861073531324
+                }
               }
             }
           },
@@ -71,12 +26,27 @@
             "id": "325358f7b79b2f6d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Physics/Using Radiation to Investigate Stars - 1.6/Measuring Stellar Distances.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f7c12db2d2900485",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physics/Using Radiation to Investigate Stars - 1.6/Sun's Temperature.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "21 c",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -142,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/Maths.md",
+                "file": "Physics/Using Radiation to Investigate Stars - 1.6/Using Radiation to Investigate Stars recap.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Maths.md",
+                "file": "Physics/Using Radiation to Investigate Stars - 1.6/Using Radiation to Investigate Stars recap.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Maths.md"
+                "file": "Physics/Using Radiation to Investigate Stars - 1.6/Using Radiation to Investigate Stars recap.canvas"
               }
             }
           },
@@ -213,42 +183,43 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "de7d5c11a53ffbd9",
+  "active": "7e07ca644a0d70f4",
   "lastOpenFiles": [
-    "Maths/Vectors - 2.1.9/Vectors - 2.1.9.md",
-    "Maths/Vectors - 2.1.9",
+    "Physics/Using Radiation to Investigate Stars - 1.6/Wien's Displacement Law.md",
+    "Physics/Using Radiation to Investigate Stars - 1.6/Black Body.md",
+    "Physics/Using Radiation to Investigate Stars - 1.6/Absolute Temperature.md",
+    "Physics/Using Radiation to Investigate Stars - 1.6/Using Radiation to Investigate Stars recap.canvas",
+    "Physics/Using Radiation to Investigate Stars - 1.6/Radio Astronomy/Radio Astronomy.md",
+    "Physics/Using Radiation to Investigate Stars - 1.6/Using Radiation to Investigate Stars - 1.6.md",
+    "Physics/Using Radiation to Investigate Stars - 1.6/Measuring Stellar Distances.md",
+    "Physics/Using Radiation to Investigate Stars - 1.6/Sun's Temperature.md",
+    "Physics/Using Radiation to Investigate Stars - 1.6/Stefan's Law.md",
+    "Physics/Using Radiation to Investigate Stars - 1.6/Spectra.md",
+    "Physics/Using Radiation to Investigate Stars - 1.6/Luminosity of a star.md",
+    "Physics/Using Radiation to Investigate Stars - 1.6/Inverse Square Law.md",
+    "Physics/Using Radiation to Investigate Stars - 1.6/Electromagnetic Spectrum.md",
+    "z_Excerpts/Image/Pasted image 20231123142223.png",
+    "Physics/Kinematics - 1.2/XUVAT.md",
+    "Physics/Kinematics - 1.2/Kinematics - 1.2.md",
+    "Physics/Kinematics - 1.2/XUVAT examples.md",
     "Computer Science/Computer Science.md",
-    "Computer Science/Theory/Data representation and data types - 1.4/Data representation and data types recap.canvas",
+    "Maths/Maths.md",
     "Computer Science/Theory/Data representation and data types - 1.4/Fixed & Floating Point Numbers/Converting a positive real number to floating point.md",
     "Computer Science/Theory/Data representation and data types - 1.4/Fixed & Floating Point Numbers/Floating Point Representation.md",
+    "Computer Science/Theory/Data representation and data types - 1.4/Fixed & Floating Point Numbers/Fixed Point representation.md",
+    "Computer Science/Theory/Data representation and data types - 1.4/Fixed & Floating Point Numbers/Fixed & Floating Point Numbers.md",
+    "Physics/Physics.md",
+    "Maths/Vectors - 2.1.9/Vectors - 2.1.9.md",
+    "Maths/Vectors - 2.1.9",
+    "Computer Science/Theory/Data representation and data types - 1.4/Data representation and data types recap.canvas",
     "Computer Science/Theory/Data representation and data types - 1.4/Fixed & Floating Point Numbers/Normalising.md",
     "z_Excerpts/Image/Pasted image 20231123092901.png",
     "z_Excerpts/Image/Screenshot 2023-11-23 at 09.27.43.png",
     "z_Excerpts/Image/Pasted image 20231123092729.png",
-    "Computer Science/Theory/Data representation and data types - 1.4/Fixed & Floating Point Numbers/Fixed Point representation.md",
     "z_Excerpts/Image/Screenshot 2023-11-23 at 09.24.34.png",
-    "Computer Science/Theory/Data representation and data types - 1.4/Fixed & Floating Point Numbers/Fixed & Floating Point Numbers.md",
     "Computer Science/Theory/Data representation and data types - 1.4/Fixed & Floating Point Numbers",
     "Computer Science/Theory/Data representation and data types - 1.4/Data representation and data types - 1.4.md",
-    "Physics/Physics.md",
-    "Maths/Maths.md",
-    "Maths/Sequences and Series - 2.3.4/Binomial Expansion.md",
     "Physics/Physics NOV test response.canvas",
-    "index.md",
-    "Physics/Kinematics - 1.2/Displacement.md",
-    "Physics/Kinematics - 1.2/Graphs.md",
-    "Physics/Kinematics - 1.2/XUVAT.md",
-    "Physics/Kinematics - 1.2/Kinematics - 1.2.md",
-    "Maths/Algebra and Functions - 2.1.2/Polynomials/Polynomials.md",
-    "Maths/Sequences and Series - 2.3.4/Approximation.md",
-    "Maths/Sequences and Series - 2.3.4/Combinations.md",
-    "Maths/Sequences and Series - 2.3.4/Finding Equations of Exponential Curves.md",
-    "Maths/Sequences and Series - 2.3.4/Sequences and Series - 2.3.4.md",
-    "Physics/Kinematics - 1.2/XUVAT examples.md",
-    "Physics/Solids under stress 1.5/Solids under stress 1.5.md",
-    "Maths/Trigonometry - 2.1.5/Trigonometry - 2.1.5.md",
-    "Maths/Probability 2.2.3/Probability 2.2.3.md",
-    "Maths/Notation and Proof - 2.1.1/Notation and Proof - 2.1.1.md",
     "z_Excerpts/Image/Pasted image 20231121220605.png",
     "Maths/Probability 2.2.3/Probability Recap.canvas",
     "Computer Science/Theory/Logical Operators - 1.2/Boolean Algebra/Logical Operators Recap.canvas",
@@ -263,7 +234,6 @@
     "z_Excerpts/Python/tkinter_6_1.py",
     "z_Excerpts/Python/tkinter_6.py",
     "z_Excerpts/Image/Screenshot 2023-11-20 at 12.09.33.png",
-    "z_Excerpts/Image/Screenshot 2023-11-20 at 12.03.38.png",
     "z_Excerpts/Python/tkinter_6_activity_1_+_2.py",
     "z_Excerpts/Python/tkinter_6_activity_1.py",
     "Untitled 1.canvas"
