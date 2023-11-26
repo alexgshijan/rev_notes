@@ -1,19 +1,19 @@
 {
-  "disableHeadlines": true,
+  "disableHeadlines": false,
   "graphOverwrite": true,
   "rootIndexFile": "index.md",
   "autoCreateIndexFile": true,
   "autoRenameIndexFile": true,
   "includeFileContent": false,
   "hideIndexFiles": false,
-  "indexFileInitText": "**Contents :** (View in app only)\n```folder-index-content\n```",
-  "autoPreviewMode": true,
+  "indexFileInitText": "Contents:\n```folder-index-content\n```",
+  "autoPreviewMode": false,
   "sortIndexFilesAlphabetically": true,
   "sortHeadersAlphabetically": false,
   "recursiveIndexFiles": true,
   "renderFolderBold": true,
   "renderFolderItalic": false,
-  "useBulletPoints": true,
+  "useBulletPoints": false,
   "excludeFolders": [
     "z_Excerpts",
     ""

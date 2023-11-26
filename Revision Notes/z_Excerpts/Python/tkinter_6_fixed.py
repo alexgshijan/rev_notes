@@ -2,13 +2,13 @@ from tkinter import *
 from tkinter import messagebox
 
 def save_click():
-    user_data = []
+    user_data = [] #Creates an empty list
     try:
         f = open(filename_txt, "r") #Tries to read in any existing data
-        lines = f.readlines()
-        for x in lines:
-            user_data.append(x.split(split_var))
-        f.close()
+        lines = f.readlines() #saves a list of lines as the variable 'lines'
+        for x in lines: #loops through the list
+            user_data.append(x.split(split_var)) #adds list values to the 'user data' variable
+        f.close() # closes the file
 
     except: #If an error occured while trying to read the file, then just ignore
         pass
@@ -29,23 +29,23 @@ def save_click():
         if ((x < 0) or (x > 200)): messagebox.showerror('Error', 'Callout rate must be between 0 and 200'); return
     except ValueError: messagebox.showerror('Error', 'Callout rate must be a number'); return
     try: 
-        x =str(temp_var[6])
+        x =float(temp_var[6])
         if ((x < 0) or (x > 100)): messagebox.showerror('Error', 'Callout rate must be between 0 and 100'); return
     except ValueError: messagebox.showerror('Error', 'Years Experience must be a Number'); return
     if (len(temp_var[7]) > 100) : messagebox.showerror('Error', 'Specialism Name is too long'); return
 
-    user_data.append(temp_var) 
+    user_data.append(temp_var) #If it passes all the validation, then add it to user_data
 
-    temp_save_file = []
+    temp_save_file = [] 
     for i in user_data: #Formats the data variable to be saved as txt
         temp_save_file_var = ''
         for x in i:
-            temp_save_file_var += (x + split_var)
-        temp_save_file_var = temp_save_file_var[:-(len(split_var))]
-        temp_save_file.append(temp_save_file_var)
+            temp_save_file_var += (x + split_var) 
+        temp_save_file_var = temp_save_file_var[:-(len(split_var))] #removes the last split_var
+        temp_save_file.append(temp_save_file_var) 
 
     f = open(filename_txt, "w") #Saves the formatted data variable 
-    f.writelines(temp_save_file)
+    f.writelines(temp_save_file) #write the list line by line
     f.close()
 
 
@@ -55,7 +55,7 @@ def count_click():
         f = open(filename_txt, "r")
         lines = f.readlines() #Stores the text file as a list of lines.
         for x in lines:
-            user_data.append(x.split(split_var))
+            user_data.append(x.split(split_var)) #splits the text back into a list based on the split var
         f.close()
 
     except:
@@ -67,15 +67,14 @@ def count_click():
 
     accum = 0 #See if there are any exact matches in the data
     for i in user_data:
-        if i == temp_save_file:
+        if temp_save_file in i:
             accum += 1
-    output_text.delete(0.0, END)
-    output_text.insert(END, f"{accum} matches recalled")
+    messagebox.showerror('Matches Found :', f"{accum} matches recalled")
 
 
 win = Tk()
 win.title("Tkinter 6 Activity 1")
-GasSafe_var = IntVar() 
+gassafe_var = IntVar() #Creatse the gas safe variable
 split_var = '  |  ' #This will be used to split up variables in the text file
 filename_txt = 'tkinter_6_activity_1.txt' #This is the file location of the save file
 
