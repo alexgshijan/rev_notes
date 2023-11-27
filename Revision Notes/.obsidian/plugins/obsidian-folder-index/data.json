@@ -13,7 +13,7 @@
   "recursiveIndexFiles": true,
   "renderFolderBold": true,
   "renderFolderItalic": false,
-  "useBulletPoints": false,
+  "useBulletPoints": true,
   "excludeFolders": [
     "z_Excerpts",
     ""
