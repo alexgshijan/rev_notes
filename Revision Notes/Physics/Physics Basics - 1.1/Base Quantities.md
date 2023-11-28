@@ -11,4 +11,4 @@ The SI system defines 7 base quantities :
 | Thermodynamic temperature  	| T      	| kelvin      	| K      	|
 |    Amount of substance     	| n      	| mole        	| mol    	|
 
-From these we can create [[Derived Quantaties]]
+From these we can create [[Derived Quantities]]

@@ -1,0 +1,1 @@
+There are many additional formulas we can gain by combining [[Kinetic Energy]] , [[Work Done]] and [[Conservation of Mechanical Energy]] . Each is situational and can be derived without too much effort. One to remember is this : $$Fx=\frac{1}{2}mv^{2}-\frac{1}{2}mu^{2}$$

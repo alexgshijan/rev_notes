@@ -8,139 +8,67 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7e07ca644a0d70f4",
+            "id": "f255a9d83da93ee4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Kinematics - 1.2/Kinematics - 1.2.md",
+                "file": "Maths/Quantities and units in mechanics - 2.2.6/Basics.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f7c12db2d2900485",
+            "id": "d131fb670a085f38",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Using Radiation to Investigate Stars - 1.6/Sun's Temperature.md",
+                "file": "Maths/Statistical Sampling - 2.2.1/Statistical Sampling - 2.2.1.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a1a45af9eaa45df0",
+            "id": "4682de1c35b3738e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Particles and Nuclear Structure - 1.7/Particles and Nuclear Structure - 1.7.md",
+                "file": "Maths/Statistical Sampling - 2.2.1/Keywords.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f5992bb0dda69ba8",
+            "id": "93b8f66eea7f10c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Particles and Nuclear Structure - 1.7/Standard Model.md",
+                "file": "Maths/Statistical Sampling - 2.2.1/Populations vs Samples.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9b48428fd5038ee8",
+            "id": "61e754ef175adf2d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Particles and Nuclear Structure - 1.7/Particle Composition/Leptons.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "95c57dd3762f6906",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physics/Particles and Nuclear Structure - 1.7/Particle Composition/Antiparticles.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cdafa586a7fb9aee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physics/Particles and Nuclear Structure - 1.7/Particle Composition/Quarks.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9930f228efeb20fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physics/Particles and Nuclear Structure - 1.7/Particle Composition/Baryons.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6aa8abe6809a9653",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maths/Vectors - 2.1.9/Vectors - 2.1.9.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b9de4952011fbda7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maths/Vectors - 2.1.9/Introduction to Vectors.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4a011026999294e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maths/Vectors - 2.1.9/Introduction to Vectors.md",
+                "file": "Maths/Statistical Sampling - 2.2.1/Types of Sampling.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -186,8 +114,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -207,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/Vectors - 2.1.9/Introduction to Vectors.md",
+                "file": "Maths/Statistical Sampling - 2.2.1/Types of Sampling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Vectors - 2.1.9/Introduction to Vectors.md",
+                "file": "Maths/Statistical Sampling - 2.2.1/Types of Sampling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -247,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Vectors - 2.1.9/Introduction to Vectors.md"
+                "file": "Maths/Statistical Sampling - 2.2.1/Types of Sampling.md"
               }
             }
           },
@@ -279,44 +206,50 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "5b419fbe7200b3ff",
+  "active": "61e754ef175adf2d",
   "lastOpenFiles": [
+    "Maths/Statistical Sampling - 2.2.1/Populations vs Samples.md",
+    "Maths/Statistical Sampling - 2.2.1/Types of Sampling.md",
+    "Maths/Statistical Sampling - 2.2.1/Keywords.md",
+    "Maths/Statistical Sampling - 2.2.1/Statistical Sampling - 2.2.1.md",
+    "Maths/Probability 2.2.3/Probability Recap.canvas",
+    "Maths/Statistical Sampling - 2.2.1",
+    "Maths/Probability 2.2.3/Probability Booklet - Answers&Notes.pdf",
+    "Maths/Probability 2.2.3/Probability Notation.md",
+    "Maths/Probability 2.2.3/Probability 2.2.3.md",
+    "Maths/Trigonometry - 2.1.5/Trigonometry - 2.1.5.md",
     "Maths/Vectors - 2.1.9/Vectors - 2.1.9.md",
+    "Physics/Kinematics - 1.2/Graphs.md",
+    "Maths/Quantities and units in mechanics - 2.2.6/Basics.md",
+    "Maths/Quantities and units in mechanics - 2.2.6/Quantities and units in mechanics - 2.2.6.md",
+    "Physics/Energy Concepts - 1.4/Energy stored per unit volume.md",
+    "Physics/Energy Concepts - 1.4/Strain Energy.md",
+    "Physics/Energy Concepts - 1.4/Elastic Objects.md",
+    "Physics/Energy Concepts - 1.4/Adjusting for friction.md",
+    "Physics/Energy Concepts - 1.4/Work-Energy Relationship.md",
+    "Physics/Energy Concepts - 1.4/Kinetic Energy.md",
+    "Physics/Energy Concepts - 1.4/Conservation of Mechanical Energy.md",
     "Maths/Vectors - 2.1.9/Introduction to Vectors.md",
-    "Maths/Vectors - 2.1.9/Unit Vector.md",
-    "Maths/Vectors - 2.1.9/Untitled.md",
-    "Maths/Sequences and Series - 2.3.4/Sequences and Series - 2.3.4.md",
-    "Maths/Sequences and Series - 2.3.4/Approximation.md",
-    "Maths/Sequences and Series - 2.3.4/Binomial Expansion.md",
-    "Physics/Using Radiation to Investigate Stars - 1.6/Using Radiation to Investigate Stars recap.canvas",
-    "index.md",
-    "Maths/Maths.md",
-    "Physics/Physics.md",
-    "Physics/Kinematics - 1.2/Kinematics - 1.2.md",
-    "Physics/Particles and Nuclear Structure - 1.7/Particles and Nuclear Structure - 1.7.md",
-    "Physics/Kinematics - 1.2/XUVAT.md",
-    "Physics/Kinematics - 1.2/XUVAT examples.md",
-    "Physics/Particles and Nuclear Structure - 1.7/Standard Model.md",
-    "Physics/Particles and Nuclear Structure - 1.7/Particle Composition/Quarks.md",
-    "Physics/Particles and Nuclear Structure - 1.7/Particle Composition/Particle Composition.md",
-    "Physics/Particles and Nuclear Structure - 1.7/Particle Composition/Meson.md",
-    "Physics/Particles and Nuclear Structure - 1.7/Particle Composition/Leptons.md",
     "Physics/Particles and Nuclear Structure - 1.7/Particle Composition/Baryons.md",
+    "Physics/Particles and Nuclear Structure - 1.7/Particle Composition/Quarks.md",
     "Physics/Particles and Nuclear Structure - 1.7/Particle Composition/Antiparticles.md",
-    "Maths/Sequences and Series - 2.3.4/Finding Equations of Exponential Curves.md",
-    "Maths/Sequences and Series - 2.3.4/Combinations.md",
-    "Maths/GCSE maths concepts/Difference of two squares.md",
-    "Maths/GCSE maths concepts/GCSE maths concepts.md",
-    "Maths/Sequences and Series - 2.3.4/Untitled.md",
+    "Physics/Particles and Nuclear Structure - 1.7/Particle Composition/Leptons.md",
+    "Physics/Particles and Nuclear Structure - 1.7/Standard Model.md",
+    "Physics/Particles and Nuclear Structure - 1.7/Particles and Nuclear Structure - 1.7.md",
+    "Physics/Using Radiation to Investigate Stars - 1.6/Sun's Temperature.md",
+    "Maths/Quantities and units in mechanics - 2.2.6",
+    "Applied Maths",
+    "Pure Maths",
+    "Computer Science/Theory/Data representation and data types - 1.4/Data representation and data types recap.canvas",
+    "z_Excerpts/Image/Screenshot 2023-11-28 at 09.18.10.png",
+    "Physics/Using Radiation to Investigate Stars - 1.6/Using Radiation to Investigate Stars recap.canvas",
     "z_Excerpts/Image/Screenshot 2023-11-27 at 09.57.52.png",
     "Physics/Particles and Nuclear Structure - 1.7/Particle Composition",
     "z_Excerpts/Image/Pasted image 20231127093754.png",
     "Physics/Physics NOV test response.canvas",
     "Physics/Particles and Nuclear Structure - 1.7",
-    "Maths/Probability 2.2.3/Probability Recap.canvas",
     "Maths/Integration - 2.1.8/Integration recap.canvas",
     "Computer Science/Theory/Logical Operators - 1.2/Boolean Algebra/Logical Operators Recap.canvas",
-    "Computer Science/Theory/Data representation and data types - 1.4/Data representation and data types recap.canvas",
     "z_Excerpts/Python/tkinter_6_fixed.py",
     "z_Excerpts/Image/Pasted image 20231123142223.png",
     "Maths/Vectors - 2.1.9",
@@ -326,13 +259,7 @@
     "z_Excerpts/Image/Screenshot 2023-11-23 at 09.24.34.png",
     "Computer Science/Theory/Data representation and data types - 1.4/Fixed & Floating Point Numbers",
     "z_Excerpts/Image/Pasted image 20231121220605.png",
-    "Maths/Probability 2.2.3/Probability Booklet - Answers&Notes.pdf",
     "z_Excerpts/Image/Screenshot 2023-11-21 at 15.03.46.png",
-    "z_Excerpts/Image/Screenshot 2023-11-21 at 14.54.51.png",
-    "z_Excerpts/Python/tkinter_6_4.py",
-    "z_Excerpts/Python/tkinter_6_3.py",
-    "z_Excerpts/Python/tkinter_6_2.py",
-    "z_Excerpts/Python/tkinter_6_1.py",
     "Untitled 1.canvas"
   ]
 }

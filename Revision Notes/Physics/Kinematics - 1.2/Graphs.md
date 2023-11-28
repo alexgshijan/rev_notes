@@ -1,5 +1,11 @@
 #wip 
+**Displacement-Time :**
+- The gradient of the graph gives velocity 
+- A straight line indicates a constant velocity 
+- A horizontal line indicates that the displacement is not changing
 
-Displacemnt time graphs 
-Velocity time graphs 
-Accelaration time graphs - Compare net positive and negative areas to find net accelaration 
+**Velocity-Time :**
+- 
+**Acceleration-Time :** 
+- 
+~Compare net positive and negative areas to find net acceleration 

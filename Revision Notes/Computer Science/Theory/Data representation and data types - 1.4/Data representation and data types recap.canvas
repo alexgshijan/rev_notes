@@ -35,12 +35,21 @@
 		{"id":"621aca549319de77","type":"text","text":"-11\n111110101","x":913,"y":208,"width":168,"height":78,"color":"5"},
 		{"id":"1ffed27dfd6d8187","type":"text","text":"123-23\n01111011-00010111\n01111011+11101001\n101100100\n01100100\n100\n","x":868,"y":320,"width":252,"height":240,"color":"6"},
 		{"id":"afd834db39ee9795","type":"file","file":"Computer Science/Theory/Data representation and data types - 1.4/Signed Negatives.md","x":57,"y":120,"width":259,"height":400,"color":"3"},
-		{"id":"94e478e2e983d4dc","x":1183,"y":292,"width":200,"height":148,"color":"2","type":"text","text":"1 : $10100111_{2}$\n2 : 6DCA\n3 : 00101101"},
-		{"id":"fc29e1e8d29f9035","type":"text","text":"# 128 64 32 16 8 4 2 1","x":1183,"y":217,"width":400,"height":60,"color":"6"}
+		{"id":"94e478e2e983d4dc","type":"text","text":"1 : $10100111_{2}$\n2 : 6DCA\n3 : 00101101","x":1183,"y":292,"width":200,"height":148,"color":"2"},
+		{"id":"fc29e1e8d29f9035","type":"text","text":"# 128 64 32 16 8 4 2 1","x":1183,"y":217,"width":400,"height":60,"color":"6"},
+		{"id":"7d29829fa128b7cc","type":"file","file":"Computer Science/Theory/Data representation and data types - 1.4/Fixed & Floating Point Numbers/Floating Point Representation.md","x":-1020,"y":-1220,"width":754,"height":860,"color":"3"},
+		{"id":"6ec28bcd9a5e975b","type":"text","text":"Converting to Standard Form","x":-226,"y":-990,"width":340,"height":50,"color":"5"},
+		{"id":"e0f074389f30ae1a","type":"text","text":"-13.825\n*Two's Complement it:*\n1110010.001\n*Normalise it:*\n1.001000100 with 4 shifts / 000100\n1.001000100 000100","x":-210,"y":-913,"width":390,"height":233,"color":"5"},
+		{"id":"e1f8f17ae30fe0ff","type":"text","text":"-5.25\n*Two's Complement it:*\n1010.110000\n*Normalise it:*\n1.010110000 with with 3 shifts / 000011\n1010110000 000011","x":215,"y":-1037,"width":428,"height":249,"color":"5"},
+		{"id":"2a605bb1ba7934b1","type":"text","text":"21.25\n*Two's Complement it:*\n00010101.01\n*Normalise it:*\n0.1010101 with 5 shifts / 000101\n0101010100 000101","x":214,"y":-760,"width":346,"height":231,"color":"5"},
+		{"id":"f84c41c9bea6e9eb","type":"text","text":"0.125\n*Two's Complement it:*\n00.001\n*Normalise it*\n0.1000 with -2 shifts / 110\n01000 110","x":-155,"y":-649,"width":335,"height":240,"color":"5"},
+		{"id":"a84ff8d3d68f8df6","type":"file","file":"Computer Science/Theory/Data representation and data types - 1.4/Fixed & Floating Point Numbers/Normalising.md","x":-237,"y":-1480,"width":602,"height":417,"color":"3"}
 	],
 	"edges":[
 		{"id":"838ae9ab7edb8a70","fromNode":"73ec5f90caa41c4d","fromSide":"top","toNode":"dd4b05b2b93f9210","toSide":"left","color":"3"},
 		{"id":"ec6afad8b61fca16","fromNode":"f803e2ffc6333b61","fromSide":"right","toNode":"987608ce97110a43","toSide":"left","color":"3"},
-		{"id":"d71067331ddb971d","fromNode":"2480708cc4c91759","fromSide":"left","toNode":"afd834db39ee9795","toSide":"right","color":"3"}
+		{"id":"d71067331ddb971d","fromNode":"2480708cc4c91759","fromSide":"left","toNode":"afd834db39ee9795","toSide":"right","color":"3"},
+		{"id":"3170961732ab1df0","fromNode":"7d29829fa128b7cc","fromSide":"right","toNode":"6ec28bcd9a5e975b","toSide":"left","color":"3"},
+		{"id":"c2472da2321594f0","fromNode":"a84ff8d3d68f8df6","fromSide":"bottom","toNode":"6ec28bcd9a5e975b","toSide":"top","color":"3"}
 	]
 }
