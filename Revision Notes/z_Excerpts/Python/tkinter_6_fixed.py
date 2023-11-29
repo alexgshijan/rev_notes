@@ -10,7 +10,7 @@ def save_click(): #Save click function
             user_data.append(x.split(split_var)) #adds list values to the 'user data' variable
         f.close() # closes the file
 
-    except: #If an error occured while trying to read the file, then just ignore
+    except: #If an error occured while trying to read the file, then just ignore----------------––--
         pass 
     #Add data from the entry boxes to the data variable
     temp_var = ([PlumberID_var.get(), firstname_var.get(), surname_var.get(), gassafe_var.get(), #reads in the data variables

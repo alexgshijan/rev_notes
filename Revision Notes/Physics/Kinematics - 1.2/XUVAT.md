@@ -12,9 +12,9 @@ $v^2=u^2+2as$
 $s=vt−\frac{1}{2}at^2$
 
 **Deriving XUVATS :**
-$v=u+at \to$ Final velocity = Initial velocity + acceleration $\cdot$ time (derive from [[Graph|velocity-time graph]])
+$v=u+at \to$ Final velocity = Initial velocity + acceleration $\cdot$ time (derive from [[Graphs|velocity-time graph]])
 
-$s=\frac{1}{2}(u+v)t \to$ Area under the curve (derive from a [[Graph|velocity-time graph]] )
+$s=\frac{1}{2}(u+v)t \to$ Area under the curve (derive from a [[Graphs|velocity-time graph]] )
 $s=ut+\frac{1}{2}at^2\to s=\frac{1}{2}(u+v)t=\frac{1}{2}(u+(u+at))t=\frac{1}{2}(u+u+at)t$$=\frac{1}{2}2ut+\frac{1}{2}at^{2}=ut+\frac{1}{2}at^{2}$ 
 
 $v=u+at\to t=\frac{v-u}{a}$
