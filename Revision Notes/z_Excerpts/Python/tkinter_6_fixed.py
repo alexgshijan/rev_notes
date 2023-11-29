@@ -1,9 +1,9 @@
-from tkinter import *
-from tkinter import messagebox
+from tkinter import * #Import tkinter as a native package
+from tkinter import messagebox #Import messagebox from tkinter
 
-def save_click():
+def save_click(): #Save click function
     user_data = [] #Creates an empty list
-    try:
+    try: #try to run the following code, if an error is encountered then pass and run th following except code
         f = open(filename_txt, "r") #Tries to read in any existing data
         lines = f.readlines() #saves a list of lines as the variable 'lines'
         for x in lines: #loops through the list
@@ -11,9 +11,9 @@ def save_click():
         f.close() # closes the file
 
     except: #If an error occured while trying to read the file, then just ignore
-        pass
+        pass 
     #Add data from the entry boxes to the data variable
-    temp_var = ([PlumberID_var.get(), firstname_var.get(), surname_var.get(), gassafe_var.get(), 
+    temp_var = ([PlumberID_var.get(), firstname_var.get(), surname_var.get(), gassafe_var.get(), #reads in the data variables
     hourlyrate_var.get(), callout_var.get(), years_var.get(), specialism_var.get()])
 
     if (temp_var[0] == "") : messagebox.showerror('Error', 'Enter a Plumber ID'); return #Make sure that Plumber ID isn't empty
@@ -39,7 +39,7 @@ def save_click():
     temp_save_file = [] 
     for i in user_data: #Formats the data variable to be saved as txt
         temp_save_file_var = ''
-        for x in i:
+        for x in i: #runs through all the variables in i within userdata
             temp_save_file_var += (x + split_var) 
         temp_save_file_var = temp_save_file_var[:-(len(split_var))] #removes the last split_var
         temp_save_file.append(temp_save_file_var) 
