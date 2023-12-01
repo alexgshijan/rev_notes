@@ -1,0 +1,3 @@
+- This involves removing the right most bit(s) from the number 
+- Effectively this is always rounding down
+- Also sacrifices precision for storage space – more so than rounding

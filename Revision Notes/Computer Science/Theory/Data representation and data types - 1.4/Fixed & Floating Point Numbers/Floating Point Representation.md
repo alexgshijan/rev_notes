@@ -6,6 +6,11 @@ The **mantissa** section is represented as a fixed point binary number, which co
 
 The **exponent** - (The Power) section is represented as a separate binary number, again either with sign/magnitude or two’s complement. The number of bits allocated to this determines the **range** of the number – the maximum and minimum numbers that can be represented in a given amount of memory.
 
+
+The number of bits allocated to the mantissa determines the precision of the number – that is, how many bits are available after the point. This allows us to more accurately represent very small numbers of numbers requiring a high degree of precision. 
+
+The numbers of bits allocated to the exponent determine the magnitude of the number – that is, the more bits assigned to the exponent, the bigger the number can be and vice versa.
+
 **Converting back to a real number :**
 Option 1:  
 - Convert the mantissa and exponent into denary and work out the answer 
