@@ -124,6 +124,9 @@ CCt
 Core
 CreateDate
 CreationDate
+Census
+Cheaper
+Converting
 View
 VOIP
 Voice
@@ -363,6 +366,9 @@ iL
 iDa
 iIFSJJ
 iIV
+identifying
+introduce
+individual
 app
 adding
 are
@@ -937,6 +943,10 @@ rm
 rH
 rlH
 rdf
+representative
+researcher
+rightmost
+rounding
 bank
 be
 but
@@ -1068,6 +1078,7 @@ bi
 bU
 bw
 begin
+bias
 that
 throughout
 the
@@ -1251,6 +1262,8 @@ tGB
 tGBh
 tGGi
 tGDt
+testing
+tenth
 ll
 lot
 languages
@@ -1384,6 +1397,8 @@ lDn
 lDE
 lb
 lDR
+lottery
+list
 working
 when
 wip
@@ -1791,6 +1806,15 @@ sW
 srk
 sa
 sdq
+sample
+selected
+sampling
+starting
+samples
+study
+sampled
+subtracting
+sacrifices
 It
 Identities
 Information
@@ -1897,6 +1921,7 @@ IRe
 IRUit
 Ici
 InstanceID
+Inexpensive
 currently
 contain
 co
@@ -2114,6 +2139,12 @@ cv
 cq
 cmB
 cIR
+carry
+chance
+cheap
+criteria
+completely
+consuming
 doesn
 determined
 data
@@ -2304,6 +2335,8 @@ ddc
 dBO
 dtGY
 dtGT
+dependent
+destruction
 many
 mailto
 main
@@ -2634,6 +2667,8 @@ phA
 pmj
 pDtGQ
 pDum
+population
+populations
 expand
 even
 each
@@ -3004,6 +3039,7 @@ Pnnn
 PhD
 PYS
 Pages
+Population
 Sine
 Stands
 Standard
@@ -3123,6 +3159,10 @@ SWj
 Ss
 SM
 SAkz
+Sampling
+Suitable
+Sample
+Should
 Rule
 Real
 Routes
@@ -3214,6 +3254,8 @@ RBf
 Rb
 RmE
 RDF
+Required
+RContents
 Note
 Negatives
 Normalising
@@ -3298,6 +3340,7 @@ NF
 Nr
 Nj
 Nw
+Non
 And
 ASCII
 American
@@ -3394,6 +3437,7 @@ Aaj
 ADXlQ
 AT
 Adobe
+Advantages
 for
 finding
 function
@@ -3520,6 +3564,9 @@ fFb
 fG
 ffq
 fdb
+frame
+free
+float
 Graph
 Good
 Graphics
@@ -3791,6 +3838,8 @@ hDDDDz
 hDZI
 hDDDDDP
 hPi
+hat
+hundredth
 Every
 EBCDIC
 Each
@@ -3901,6 +3950,8 @@ Eo
 EvGM
 EiV
 EU
+Easy
+Effectively
 key
 know
 keyboard
@@ -3982,6 +4033,7 @@ kU
 kT
 kwI
 khG
+kth
 Do
 Decimal
 Depends
@@ -4222,6 +4274,7 @@ DYC
 DDDDD
 DtGA
 DocumentID
+Disadvantages
 Unicode
 Used
 UCS
@@ -4313,6 +4366,7 @@ UDx
 UZn
 Uf
 Uwo
+Unlikely
 Binary
 Boolean
 Bluetooth
@@ -4424,6 +4478,7 @@ BGDt
 Bxj
 BuFB
 BefHA
+Bias
 needs
 needed
 number
@@ -4512,6 +4567,10 @@ nNq
 ndv
 nj
 nw
+names
+named
+numbered
+nearest
 Many
 More
 Mail
@@ -4712,6 +4771,8 @@ gMr
 gTT
 gTq
 gd
+generator
+groups
 Floats
 Float
 Full
@@ -4789,6 +4850,7 @@ FZ
 FGDtGDtGD
 FuEJ
 Fv
+Frame
 Long
 Layer
 LTE
@@ -4875,6 +4937,8 @@ Lo
 LEl
 LWk
 Lu
+Large
+Less
 You
 Yottabyte
 Young
@@ -4992,6 +5056,7 @@ jtg
 jeY
 jk
 jRoI
+jerk
 Overflow
 One
 Our
@@ -5068,6 +5133,8 @@ Osa
 OGf
 OHN
 OMwi
+Opportunity
+Option
 value
 very
 valued
@@ -5155,6 +5222,7 @@ vGD
 vP
 vGDtGDtGM
 vGDtGP
+volume
 We
 When
 Where
@@ -5370,6 +5438,7 @@ HiV
 HHzBy
 HYNQ
 Häa
+Highly
 KB
 Keyboard
 Kilobyte
@@ -5516,6 +5585,7 @@ qgDG
 qhD
 qDt
 qJ
+quick
 John
 Joystick
 JP
@@ -5841,6 +5911,7 @@ Qy
 QU
 Qmm
 Qa
+Quicker
 xref
 xgR
 xA
