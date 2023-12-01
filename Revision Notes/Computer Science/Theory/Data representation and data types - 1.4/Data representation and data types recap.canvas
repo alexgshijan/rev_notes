@@ -43,13 +43,25 @@
 		{"id":"e1f8f17ae30fe0ff","type":"text","text":"-5.25\n*Two's Complement it:*\n1010.110000\n*Normalise it:*\n1.010110000 with with 3 shifts / 000011\n1010110000 000011","x":215,"y":-1037,"width":428,"height":249,"color":"5"},
 		{"id":"2a605bb1ba7934b1","type":"text","text":"21.25\n*Two's Complement it:*\n00010101.01\n*Normalise it:*\n0.1010101 with 5 shifts / 000101\n0101010100 000101","x":214,"y":-760,"width":346,"height":231,"color":"5"},
 		{"id":"f84c41c9bea6e9eb","type":"text","text":"0.125\n*Two's Complement it:*\n00.001\n*Normalise it*\n0.1000 with -2 shifts / 110\n01000 110","x":-155,"y":-649,"width":335,"height":240,"color":"5"},
-		{"id":"a84ff8d3d68f8df6","type":"file","file":"Computer Science/Theory/Data representation and data types - 1.4/Fixed & Floating Point Numbers/Normalising.md","x":-237,"y":-1480,"width":602,"height":417,"color":"3"}
+		{"id":"a84ff8d3d68f8df6","type":"file","file":"Computer Science/Theory/Data representation and data types - 1.4/Fixed & Floating Point Numbers/Normalising.md","x":-237,"y":-1480,"width":602,"height":417,"color":"3"},
+		{"id":"89fcd9300e3ac766","x":401,"y":-1469,"width":484,"height":301,"color":"3","type":"file","file":"Computer Science/Theory/Data representation and data types - 1.4/Number ranges, truncation & rounding/Truncation.md"},
+		{"id":"de41dcead427d1c7","x":673,"y":-1144,"width":560,"height":356,"color":"3","type":"file","file":"Computer Science/Theory/Data representation and data types - 1.4/Number ranges, truncation & rounding/Rounding.md"},
+		{"id":"b75a4a3f595fa477","x":953,"y":-1469,"width":751,"height":90,"type":"file","file":"z_Excerpts/Image/Screenshot 2023-12-01 at 12.07.54.png"},
+		{"id":"118dacf75a009475","x":967,"y":-1340,"width":637,"height":172,"color":"6","type":"text","text":"Truncation removes bits to the right of the decimal, would turn 26.8_10 into 26_10, which gives us an error of 0.8\nRounding rounds to the closest unit, would turn 26.8_10 into 27, which gives us an error of 0.2"},
+		{"id":"333dd708a80144e0","x":967,"y":-1579,"width":800,"height":80,"type":"file","file":"z_Excerpts/Image/Screenshot 2023-12-01 at 12.14.57.png"},
+		{"id":"9a8cb45cec145bb3","x":1440,"y":-1144,"width":453,"height":281,"color":"6","type":"text","text":"111.10110_2=7.6875_10\n\nTruncation gives us 111.10_2 = 7.5_10, with an error of 0.00110_2 or 0.1875\nRounding gives us 111.11_2 = 7.75_10, with an error of 0.00010_2 or 0.0625\n\nRounding is more accurate"}
 	],
 	"edges":[
 		{"id":"838ae9ab7edb8a70","fromNode":"73ec5f90caa41c4d","fromSide":"top","toNode":"dd4b05b2b93f9210","toSide":"left","color":"3"},
 		{"id":"ec6afad8b61fca16","fromNode":"f803e2ffc6333b61","fromSide":"right","toNode":"987608ce97110a43","toSide":"left","color":"3"},
 		{"id":"d71067331ddb971d","fromNode":"2480708cc4c91759","fromSide":"left","toNode":"afd834db39ee9795","toSide":"right","color":"3"},
 		{"id":"3170961732ab1df0","fromNode":"7d29829fa128b7cc","fromSide":"right","toNode":"6ec28bcd9a5e975b","toSide":"left","color":"3"},
-		{"id":"c2472da2321594f0","fromNode":"a84ff8d3d68f8df6","fromSide":"bottom","toNode":"6ec28bcd9a5e975b","toSide":"top","color":"3"}
+		{"id":"c2472da2321594f0","fromNode":"a84ff8d3d68f8df6","fromSide":"bottom","toNode":"6ec28bcd9a5e975b","toSide":"top","color":"3"},
+		{"id":"23e524fb31ed9b28","fromNode":"89fcd9300e3ac766","fromSide":"right","toNode":"b75a4a3f595fa477","toSide":"left","color":"3"},
+		{"id":"4d75d6ff7f2d3f9b","fromNode":"de41dcead427d1c7","fromSide":"top","toNode":"b75a4a3f595fa477","toSide":"left","color":"3"},
+		{"id":"4bb8c0ca7bdffc7c","fromNode":"118dacf75a009475","fromSide":"top","toNode":"b75a4a3f595fa477","toSide":"bottom","color":"6"},
+		{"id":"841e6df4671b4642","fromNode":"89fcd9300e3ac766","fromSide":"right","toNode":"333dd708a80144e0","toSide":"left","color":"3"},
+		{"id":"571e64a460348804","fromNode":"de41dcead427d1c7","fromSide":"top","toNode":"333dd708a80144e0","toSide":"left","color":"3"},
+		{"id":"4c650fe825375645","fromNode":"9a8cb45cec145bb3","fromSide":"top","toNode":"333dd708a80144e0","toSide":"right","color":"6"}
 	]
 }

@@ -8,43 +8,55 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f255a9d83da93ee4",
+            "id": "7d3f9342b5984c6a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Theory/Data representation and data types - 1.4/Number ranges, truncation & rounding/Number ranges, truncation & rounding.md",
+                "file": "Maths/Statistical Sampling - 2.2.1/Types of Diagrams - 1 Variabl.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "93c5d97044b961f1",
+            "id": "1b6f3a0c5495d654",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Theory/Data representation and data types - 1.4/Number ranges, truncation & rounding/Rounding.md",
+                "file": "Maths/Statistical Sampling - 2.2.1/Finding Median & Quartiles of Listed Data.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "377c744501a5b0f9",
+            "id": "3781092ed12f4a97",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Theory/Data representation and data types - 1.4/Number ranges, truncation & rounding/Truncation.md",
+                "file": "Maths/Statistical Sampling - 2.2.1/Types of Diagrams - 1 Variabl.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fb81d501349dc2a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Maths/Statistical Sampling - 2.2.1/Skew.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Theory/Data representation and data types - 1.4/Number ranges, truncation & rounding/Truncation.md",
+                "file": "Maths/Statistical Sampling - 2.2.1/Skew.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Theory/Data representation and data types - 1.4/Number ranges, truncation & rounding/Truncation.md",
+                "file": "Maths/Statistical Sampling - 2.2.1/Skew.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Theory/Data representation and data types - 1.4/Number ranges, truncation & rounding/Truncation.md"
+                "file": "Maths/Statistical Sampling - 2.2.1/Skew.md"
               }
             }
           },
@@ -182,11 +194,26 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "377c744501a5b0f9",
+  "active": "fb81d501349dc2a5",
   "lastOpenFiles": [
+    "Maths/Statistical Sampling - 2.2.1/Considering Averages.md",
+    "Maths/Statistical Sampling - 2.2.1/Finding Median & Quartiles of Listed Data.md",
+    "Maths/Statistical Sampling - 2.2.1/Skew.md",
+    "Maths/Statistical Sampling - 2.2.1/Types of Diagrams - 1 Variabl.md",
+    "Maths/Statistical Sampling - 2.2.1/Types of Data.md",
+    "Maths/Statistical Sampling - 2.2.1/Types of Sampling.md",
     "Computer Science/Theory/Data representation and data types - 1.4/Number ranges, truncation & rounding/Rounding.md",
-    "Computer Science/Theory/Data representation and data types - 1.4/Number ranges, truncation & rounding/Truncation.md",
     "Computer Science/Theory/Data representation and data types - 1.4/Number ranges, truncation & rounding/Number ranges, truncation & rounding.md",
+    "Maths/Quantities and units in mechanics - 2.2.6/Quantities and units in mechanics - 2.2.6.md",
+    "Maths/Maths.md",
+    "Physics/Physics.md",
+    "Computer Science/Computer Science.md",
+    "Computer Science/Theory/Theory.md",
+    "Computer Science/Theory/Data representation and data types - 1.4/Data representation and data types recap.canvas",
+    "z_Excerpts/Image/Screenshot 2023-12-01 at 12.16.54.png",
+    "z_Excerpts/Image/Screenshot 2023-12-01 at 12.14.57.png",
+    "z_Excerpts/Image/Screenshot 2023-12-01 at 12.07.54.png",
+    "Computer Science/Theory/Data representation and data types - 1.4/Number ranges, truncation & rounding/Truncation.md",
     "Computer Science/Theory/Data representation and data types - 1.4/Fixed & Floating Point Numbers/Floating Point Representation.md",
     "Computer Science/Theory/Data representation and data types - 1.4/Fixed & Floating Point Numbers/Fixed Point representation.md",
     "Computer Science/Theory/Data representation and data types - 1.4/Fixed & Floating Point Numbers/Fixed & Floating Point Numbers.md",
@@ -194,29 +221,17 @@
     "Computer Science/Theory/Data representation and data types - 1.4/Negative Numbers/Negative Numbers.md",
     "Computer Science/Theory/Data representation and data types - 1.4/Negative Numbers/Signed Negatives.md",
     "Computer Science/Theory/Data representation and data types - 1.4/Negative Numbers/Two's Complement.md",
-    "Computer Science/Theory/Data representation and data types - 1.4/Data representation and data types recap.canvas",
     "Computer Science/Theory/Data representation and data types - 1.4/Number ranges, truncation & rounding",
     "Maths/Quantities and units in mechanics - 2.2.6/Basics.md",
     "Physics/Physics Revision.canvas",
-    "Maths/Maths.md",
     "Physics/Kinematics - 1.2/SUVAT - The Equations of Constant Acceleration.md",
     "Physics/Kinematics - 1.2/SUVAT examples.md",
     "Physics/Kinematics - 1.2/Graphs.md",
     "z_Excerpts/Graph/Graph.md",
-    "Physics/Kinematics - 1.2/Displacement.md",
-    "Physics/Kinematics - 1.2/Kinematics - 1.2.md",
-    "Physics/Physics Basics - 1.1/Physics Basics - 1.1.md",
-    "Physics/Physics.md",
-    "Maths/Statistical Sampling - 2.2.1/Statistical Sampling - 2.2.1.md",
-    "Maths/Statistical Sampling - 2.2.1/Keywords.md",
-    "Maths/Statistical Sampling - 2.2.1/Populations vs Samples.md",
-    "Maths/Statistical Sampling - 2.2.1/Types of Sampling.md",
     "z_Excerpts/Python/Activities.py",
-    "Maths/Probability 2.2.3/Probability 2.2.3.md",
     "Maths/Probability 2.2.3/Probability Recap.canvas",
     "Maths/Statistical Sampling - 2.2.1",
     "Maths/Probability 2.2.3/Probability Booklet - Answers&Notes.pdf",
-    "Maths/Probability 2.2.3/Probability Notation.md",
     "Maths/Quantities and units in mechanics - 2.2.6",
     "Applied Maths",
     "Pure Maths",
@@ -234,9 +249,6 @@
     "z_Excerpts/Image/Pasted image 20231123092901.png",
     "z_Excerpts/Image/Screenshot 2023-11-23 at 09.27.43.png",
     "z_Excerpts/Image/Pasted image 20231123092729.png",
-    "z_Excerpts/Image/Screenshot 2023-11-23 at 09.24.34.png",
-    "z_Excerpts/Image/Pasted image 20231121220605.png",
-    "z_Excerpts/Image/Screenshot 2023-11-21 at 15.03.46.png",
     "Untitled 1.canvas"
   ]
 }
