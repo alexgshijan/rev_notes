@@ -1,3 +1,17 @@
+**Vectors are directions to get from one point to another**
+
+**Notes :**
+- If two vectors have the same magnitude and direction, then they're equal
+- Vectors are parallel if one is a multiple of the other
+- If two vectors are different signs but otherwise identical, they are parallel and the same length but in the opposite direction
+- $|A^{\to}B|$ allows you to calculate the distance of the Vector, you do Pythagoras on the coefficients of the vector units (*eg. 10 from 10a*)
+- Collinear points are 3 or more points that are on a single straight line
+	- To prove, show the points are parallel and share a common point
+
+**Formulas :**
+- The point dividing AB in the ratio $\lambda : \mu$ is $$\frac{\mu a+\lambda b}{\mu +\lambda}$$
+- General Formula to find a Vectors unit vector (*magnitude 1*):$$\frac{A^{\to}B}{|A^{\to}B|}$$
+
 **Contents :** (View in app only)
 ```folder-index-content
 ```
