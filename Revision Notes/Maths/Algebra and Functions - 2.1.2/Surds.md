@@ -8,4 +8,4 @@
 - Collect like terms
 
 **Rationalising the denominator** : 
-To rationalise the denominator of $\frac{1}{a\sqrt{b}+c\sqrt{d}}$, we must multiply the numerator + denominator by $a\sqrt{b}-c\sqrt{d}$, refer to the [[Difference of two squares]]
+To rationalise the denominator of $\frac{1}{a\sqrt{b}+c\sqrt{d}}$, we must multiply the fraction by $\frac{a\sqrt{b}-c\sqrt{d}}{a\sqrt{b}-c\sqrt{d}}$ -  *difference of two squares*
