@@ -1,4 +1,4 @@
-This is a skill that requires some [[GCSE maths concepts]] such as [[GCSE - Trigonometry]] 
+This is a skill that requires some [[Trigonometry - 2.1.5]] 
 
 **A Negative Vector is the same as a positive vector in the opposite direction**
 
