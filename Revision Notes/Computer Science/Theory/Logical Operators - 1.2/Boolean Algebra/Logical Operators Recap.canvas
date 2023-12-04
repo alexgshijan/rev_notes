@@ -25,7 +25,9 @@
 		{"id":"2b87157b92658672","type":"text","text":"(A+B)(A+C)+~BB\n(A+B)(A+C)+0\n(A+B)(A+C)\nAA+AC+AB+BC\nA+AC+AB+BC\nA(1+C)+AB+BC\nA+AB+BC\nA(1+B)+BC\nA+BC","x":325,"y":640,"width":250,"height":326,"color":"4"},
 		{"id":"db5cbd4d2d99eff0","type":"text","text":"Q(P+Q)+~P(1+R)+Q(~P.P)\nQ(P+Q)+~P(1+R)+Q(0)\nQ(P+Q)+~P(1+R)\nQ(P+Q)+~P(1)\nQ(P+Q)+~P\nQP+QQ+~P\nQP+Q+~P\nQ(P+1)+~P\nQ+~P","x":612,"y":803,"width":425,"height":324,"color":"4"},
 		{"id":"baf46c909d3eddd6","type":"file","file":"Computer Science/Theory/Logical Operators - 1.2/Boolean Algebra/Representing Logic Operations.md","x":-547,"y":20,"width":640,"height":783},
-		{"id":"16e618d2d0a4ad9a","type":"text","text":"~CF+F(A+~B)+C\n~CF+FA+F~B+C\nC+~CF+FA+F~B\nC + F+FA+F~B\nC + F(1+A)+F~B\nC + F + F~B\nC + F (1+~B)\nC + F","x":612,"y":20,"width":220,"height":300,"color":"4"}
+		{"id":"16e618d2d0a4ad9a","type":"text","text":"~CF+F(A+~B)+C\n~CF+FA+F~B+C\nC+~CF+FA+F~B\nC + F+FA+F~B\nC + F(1+A)+F~B\nC + F + F~B\nC + F (1+~B)\nC + F","x":612,"y":20,"width":220,"height":300,"color":"4"},
+		{"id":"7a86f69b8c0fcf32","x":856,"y":0,"width":308,"height":195,"color":"4","type":"text","text":"Q(P+Q)+~P(1+R)+Q(~P.P)\nQP+QQ+~P+Q0\nQP+Q+~P\nQ(P+1)+~P\nQ+~P"},
+		{"id":"ebfc55d086ea7499","x":885,"y":-220,"width":279,"height":195,"color":"4","type":"text","text":"(A+~A).A+A.B+B+B~B\n1.A+AB+B+0\nA+AB+B\nA(1+B)+B\nA+B"}
 	],
 	"edges":[
 		{"id":"51fda77f7d47254b","fromNode":"486d18528d893526","fromSide":"bottom","toNode":"89b8190941fbfe5b","toSide":"top"},

@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Statistical Sampling - 2.2.1/Populations vs Samples.md",
+                "file": "Computer Science/Theory/Data representation and data types - 1.4/Negative Numbers/Two's Complement.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,14 +61,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Probability 2.2.3/Independent Events.md",
+                "file": "Physics/Particles and Nuclear Structure - 1.7/Particles and Nuclear Structure - 1.7.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "9ed75674e3ff215d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Maths/Probability 2.2.3/Probability Booklet - Answers&Notes.pdf"
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/Probability 2.2.3/Independent Events.md",
+                "file": "Maths/Probability 2.2.3/Probability Booklet - Answers&Notes.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Probability 2.2.3/Independent Events.md",
+                "file": "Maths/Probability 2.2.3/Probability Booklet - Answers&Notes.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Probability 2.2.3/Independent Events.md"
+                "file": "Maths/Probability 2.2.3/Probability Booklet - Answers&Notes.pdf"
               }
             }
           },
@@ -206,47 +216,50 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "f433c05387e42587",
+  "active": "de7d5c11a53ffbd9",
   "lastOpenFiles": [
-    "Maths/Probability 2.2.3/Mutually Exclusive Events.md",
     "Maths/Probability 2.2.3/Probability 2.2.3.md",
-    "Maths/Probability 2.2.3/Probability Booklet - Answers&Notes.pdf",
+    "Maths/Probability 2.2.3/Mutually Exclusive Events.md",
+    "Maths/Trigonometry - 2.1.5/Trigonometry - 2.1.5.md",
     "Maths/Probability 2.2.3/Probability Notation.md",
+    "Maths/Probability 2.2.3/Independent Events.md",
+    "Maths/Probability 2.2.3/Probability Booklet - Answers&Notes.pdf",
+    "Maths/Maths.md",
+    "Physics/Physics.md",
+    "Physics/Particles and Nuclear Structure - 1.7/Conservation of Numbers.md",
+    "Physics/Particles and Nuclear Structure - 1.7/Particle Composition/Leptons.md",
+    "Physics/Particles and Nuclear Structure - 1.7/Particle Composition/Baryons.md",
+    "Physics/Particles and Nuclear Structure - 1.7/Particle Composition/Meson.md",
+    "Physics/Particles and Nuclear Structure - 1.7/Particle Composition/Particle Composition.md",
+    "Physics/Particles and Nuclear Structure - 1.7/Particles and Nuclear Structure - 1.7.md",
+    "Physics/Particles and Nuclear Structure - 1.7/Particles and Nuclear Structure.canvas",
+    "Physics/Particles and Nuclear Structure - 1.7/Particle Composition/Antiparticles.md",
+    "Physics/Particles and Nuclear Structure - 1.7/Particle Composition/Quarks.md",
+    "Computer Science/Computer Science.md",
+    "Computer Science/Theory/Theory.md",
+    "Computer Science/Theory/Data representation and data types - 1.4/Data representation and data types recap.canvas",
+    "Computer Science/Theory/Data representation and data types - 1.4/Negative Numbers/Two's Complement.md",
+    "Computer Science/Theory/Data representation and data types - 1.4/Fixed & Floating Point Numbers/Fixed Point representation.md",
+    "Computer Science/Theory/Data representation and data types - 1.4/Fixed & Floating Point Numbers/Floating Point Representation.md",
+    "Computer Science/Theory/Data representation and data types - 1.4/Negative Numbers/Signed Negatives.md",
+    "Computer Science/Theory/Data representation and data types - 1.4/Negative Numbers/Negative Numbers.md",
+    "Maths/Statistical Sampling - 2.2.1/Populations vs Samples.md",
+    "Computer Science/Theory/Data representation and data types - 1.4/Data representation and data types - 1.4.md",
+    "Computer Science/Theory/Logical Operators - 1.2/Boolean Algebra/Logical Operators Recap.canvas",
+    "Computer Science/Theory/Logical Operators - 1.2/Logical Operators - 1.2.md",
     "Maths/Probability 2.2.3/Venn Diagrams.md",
     "Maths/Probability 2.2.3/Probability Recap.canvas",
-    "Maths/Probability 2.2.3/Independent Events.md",
-    "Maths/Probability 2.2.3/Notes.md",
     "z_Excerpts/Python/advent_of_code/day2.txt",
     "z_Excerpts/Python/advent_of_code/day2.py",
     "z_Excerpts/Python/advent_of_code/day1.txt",
-    "z_Excerpts/Python/advent_of_code/day1.txt/day1.txt.md",
-    "z_Excerpts/Python/advent_of_code/day1.txt/txt.md",
-    "z_Excerpts/Python/advent_of_code/txt/txt.md",
     "z_Excerpts/Python/advent_of_code/txt",
     "z_Excerpts/Python/advent_of_code/day1.py",
-    "z_Excerpts/Python/advent_of_code/advent_of_code.md",
     "z_Excerpts/Python/advent_of_code",
     "Physics/Physics Revision.canvas",
     "Physics/Physics NOV test response.canvas",
-    "Physics/Physics Basics - 1.1/Physics Basics - 1.1.md",
-    "Physics/Physics Basics - 1.1/GCSE - Trigonometry.md",
-    "Physics/Physics Basics - 1.1/Vector Composites.md",
-    "Maths/Trigonometry - 2.1.5/Trigonometry - 2.1.5.md",
-    "Physics/Physics Basics - 1.1/Moment or Torque.md",
-    "Maths/Notation and Proof - 2.1.1/Notation and Proof - 2.1.1.md",
-    "Maths/Integration - 2.1.8/Integration - 2.1.8.md",
-    "Maths/Exponentials and Logarithms - 2.1.6/Exponentials and Logarithms - 2.1.6.md",
-    "Maths/Differentiation - 2.1.7/Differentiation - 2.1.7.md",
-    "Maths/Coordinate Geometry - 2.1.3/Coordinate Geometry - 2.1.3.md",
-    "Maths/Algebra and Functions - 2.1.2/Algebra and Functions - 2.1.2.md",
-    "Maths/Sequences and Series - 2.3.4/Sequences and Series - 2.3.4.md",
-    "Maths/Vectors - 2.1.9/Vectors - 2.1.9.md",
-    "Maths/Statistical Sampling - 2.2.1/Statistical Sampling - 2.2.1.md",
-    "Maths/Statistical Sampling - 2.2.1/Answering Exam Questions.md",
     "Maths/Integration - 2.1.8/Integration recap.canvas",
     "z_Excerpts/Python/mock.py",
     "Physics/Using Radiation to Investigate Stars - 1.6/Using Radiation to Investigate Stars recap.canvas",
-    "Computer Science/Theory/Data representation and data types - 1.4/Data representation and data types recap.canvas",
     "z_Excerpts/Image/Screenshot 2023-12-01 at 12.16.54.png",
     "z_Excerpts/Image/Screenshot 2023-12-01 at 12.14.57.png",
     "z_Excerpts/Image/Screenshot 2023-12-01 at 12.07.54.png",
@@ -255,7 +268,6 @@
     "z_Excerpts/Image/Screenshot 2023-11-28 at 09.18.10.png",
     "z_Excerpts/Image/Screenshot 2023-11-27 at 09.57.52.png",
     "z_Excerpts/Image/Pasted image 20231127093754.png",
-    "Computer Science/Theory/Logical Operators - 1.2/Boolean Algebra/Logical Operators Recap.canvas",
     "z_Excerpts/Image/Pasted image 20231123142223.png",
     "z_Excerpts/Image/Pasted image 20231123092901.png",
     "z_Excerpts/Image/Screenshot 2023-11-23 at 09.27.43.png",
