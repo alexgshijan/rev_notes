@@ -5,5 +5,6 @@
 - When the instruction is fetched, it is sent along the data bus, and held in the current instruction register (CIR) . 
 - The address that the instruction involves (e.g. load from address 99) is held in the memory address register (MAR).
 - Takes a copy of the CIR, then the data involved in the instruction (e.g. the data loaded from address 99) is held in the memory data register (MDR).
-Note : Throughout this process, the accumulator register holds data values of whatever the CPU is working on
+
+*Note : Throughout this process, the accumulator register holds data values of whatever the CPU is working on*
 The speed of this process is determined by the clock speed on the CPU  The process starts as soon as the computer is turned on, and doesn’t stop until the computer is turned off. 
