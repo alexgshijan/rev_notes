@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/2.1 - Statistical Sampling/Skew.md",
+                "file": "Physics/1.6 - Using Radiation to Investigate Stars/Sun's Temperature.md",
                 "mode": "source",
                 "source": false
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "SKEW",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -158,8 +158,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -179,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/2.1 - Statistical Sampling/Skew.md",
+                "file": "Physics/1.6 - Using Radiation to Investigate Stars/Sun's Temperature.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/2.1 - Statistical Sampling/Skew.md",
+                "file": "Physics/1.6 - Using Radiation to Investigate Stars/Sun's Temperature.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/2.1 - Statistical Sampling/Skew.md"
+                "file": "Physics/1.6 - Using Radiation to Investigate Stars/Sun's Temperature.md"
               }
             }
           },
@@ -253,37 +252,37 @@
   },
   "active": "d6c6cbcd0439034e",
   "lastOpenFiles": [
+    "Physics/1.6 - Using Radiation to Investigate Stars/Using Radiation to Investigate Stars recap.canvas",
+    "Physics/1.6 - Using Radiation to Investigate Stars/Wien's Displacement Law.md",
+    "Physics/1.6 - Using Radiation to Investigate Stars/Surface of Stars.md",
+    "Physics/1.6 - Using Radiation to Investigate Stars/Radio Astronomy/Telescopes.md",
+    "Physics/1.6 - Using Radiation to Investigate Stars/Radio Astronomy/Synchrotron Radiation.md",
+    "Physics/1.6 - Using Radiation to Investigate Stars/Radio Astronomy/Radio Astronomy.md",
+    "Physics/1.6 - Using Radiation to Investigate Stars/Radio Astronomy/Multiwavelength Astronomy.md",
+    "Physics/1.6 - Using Radiation to Investigate Stars/Black Body.md",
+    "Physics/1.6 - Using Radiation to Investigate Stars/Electromagnetic Spectrum.md",
+    "Physics/1.6 - Using Radiation to Investigate Stars/Inverse Square Law.md",
+    "Physics/1.6 - Using Radiation to Investigate Stars/Measuring Stellar Distances.md",
+    "Physics/1.6 - Using Radiation to Investigate Stars/Luminosity of a star.md",
+    "Physics/1.6 - Using Radiation to Investigate Stars/Stefan's Law.md",
+    "Physics/1.6 - Using Radiation to Investigate Stars/1.6 - Using Radiation to Investigate Stars.md",
+    "Physics/Physics.md",
+    "Maths/Maths.md",
+    "Physics/1.2 - Kinematics/SUVAT - The Equations of Constant Acceleration.md",
+    "Maths/2.6 - Quantities and units in mechanics/2.6 - Quantities and units in mechanics.md",
+    "Maths/2.6 - Quantities and units in mechanics/Motion Under Gravity.md",
+    "Computer Science/Computer Science.md",
+    "z_Excerpts/Python/example_mock.py",
+    "Computer Science/Theory/Theory.md",
+    "Maths/2.1 - Statistical Sampling/Skew.md",
     "Computer Science/Theory/1.3 - Data Transmission/Mode of Transmission.md",
     "Maths/2.1 - Statistical Sampling/Considering Averages.md",
     "Computer Science/Theory/1.4 - Data representation and data types/Basics, character sets, data types/Characters and Codes in Binary.md",
     "Computer Science/Theory/1.4 - Data representation and data types/Basics, character sets, data types/Basics, character sets, data types.md",
-    "Computer Science/Theory/1.3 - Data Transmission/1.3 - Data Transmission.md",
-    "Computer Science/Theory/1.3 - Data Transmission/The Internet.md",
-    "Computer Science/Theory/1.4 - Data representation and data types/1.4 - Data representation and data types.md",
-    "Computer Science/Theory/1.3 - Data Transmission/Routing Traffic.md",
-    "Computer Science/Theory/1.3 - Data Transmission/Packets.md",
-    "Computer Science/Theory/1.3 - Data Transmission/Packet Switching.md",
-    "Computer Science/Theory/1.2 - Logical Operators/1.2 - Logical Operators.md",
-    "Computer Science/Theory/1.2 - Logical Operators/Boolean Algebra/Boolean Algebra.md",
-    "Computer Science/Theory/1.2 - Logical Operators/Logic in Registers/Logic in Registers.md",
-    "Computer Science/Theory/1.2 - Logical Operators/Logic in Registers/Masking - Checking Bits.md",
-    "Computer Science/Theory/1.1 - Hardware and communication/1.1 - Hardware and communication.md",
-    "Computer Science/Theory/1.1 - Hardware and communication/PC architecture and fetch-decode-execute cycle/Fetch Decode Execute Cycle In-depth.md",
-    "Computer Science/Practical/Practical.md",
-    "Computer Science/Practical/Untitled.md",
-    "Computer Science/Practical/Python/Python.md",
     "Computer Science/Practical/Python",
     "Computer Science/Prac/Untitled.canvas",
-    "Computer Science/Prac/Python reference.md",
-    "Computer Science/Theory/Theory.md",
-    "Computer Science/Computer Science.md",
-    "Maths/Maths.md",
-    "Maths/2.6 - Quantities and units in mechanics/2.6 - Quantities and units in mechanics.md",
-    "Maths/2.6 - Quantities and units in mechanics/Motion Under Gravity.md",
-    "Computer Science/Theory/1.1 - Hardware and communication/PC architecture and fetch-decode-execute cycle/PC architecture and fetch-decode-execute cycle.md",
     "Computer Science/Theory/1.2 - Logical Operators/Boolean Algebra/Logical Operators Recap.canvas",
     "Physics/1.7 - Particles and Nuclear Structure/Particles and Nuclear Structure.canvas",
-    "Physics/1.6 - Using Radiation to Investigate Stars/Using Radiation to Investigate Stars recap.canvas",
     "Maths/2.3 - Probability/Probability Recap.canvas",
     "Maths/1.8 - Integration/Integration recap.canvas",
     "Computer Science/Theory/1.4 - Data representation and data types/Data representation and data types recap.canvas",
@@ -295,7 +294,6 @@
     "Maths/1.2 - Algebra and Functions",
     "z_Excerpts/Python/advent_of_code/tet.py",
     "Maths/2.3 - Probability/Probability Booklet - Answers&Notes.pdf",
-    "z_Excerpts/Python/advent_of_code/day2.txt",
     "Physics/Physics Revision.canvas",
     "Physics/Physics NOV test response.canvas",
     "z_Excerpts/Image/Screenshot 2023-12-01 at 12.16.54.png",
