@@ -11,7 +11,6 @@ $v=u+at$
 $s=\frac{1}{2}(u+v)t$
 $s=ut+\frac{1}{2}at^2$
 $v^2=u^2+2as$
-$s=vt−\frac{1}{2}at^2$
 
 **Deriving XUVATS :**
 $v=u+at \to$ 

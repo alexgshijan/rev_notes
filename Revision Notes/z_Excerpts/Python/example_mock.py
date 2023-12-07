@@ -61,6 +61,7 @@ def search_click():
 win = Tk()
 filename_txt = 'customerdetails.txt'
 split_var = '   |   '
+win.title = 'Customer Details'
 
 Label(text='Fitness Leisure Centre', font=('arial', 20)).pack()
 
