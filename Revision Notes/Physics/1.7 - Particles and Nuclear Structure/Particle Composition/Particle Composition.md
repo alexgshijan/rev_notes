@@ -1,6 +1,4 @@
-*Where ~ represents an anti*
-
-|Name|Composition|[[Baryons]] /[[Meson]] / [[Leptons]] |Charge|Baryon No. | Lepton No.|
+|Name|Composition|[[Hadron]]/ [[Leptons]] |Charge|Baryon No. | Lepton No.|
 | --- | --- | --- | --- | --- | --- |
 |Electron|$e^{-}$|Lepton|-1|0|1
 |Proton|uud|Baryon|+1|1|0|
@@ -8,12 +6,13 @@
 |$\Delta^{++}$|uuu|Baryon|+2|1|0|
 |$\Delta^{+}$|uud|Baryon|+1|1|0|
 |$\Delta^{0}$|udd|Baryon|0|1|0|
-|$\pi^{+}$|u(~d)|Meson|+1|0|0|
-|$\pi^{-}$|(~u)d|Meson|-1|0|0|
-|$\pi^{0}$|(~u)u / (~d)d|Meson|0|0|0|
-|Anti-Electron|$~e^{-}$|Lepton|+1|0|-1|
-|Anti-Proton|~u~u~d|Baryon|-1|-1|0|
-|Anti-Neutron|~u~d~d|Baryon|0|-1|0|
+|$\Delta^{-}$|ddd|Baryon|0|1|0|
+|$\pi^{+}$|$u\bar{d}$|Meson|+1|0|0|
+|$\pi^{-}$|$\bar{u}d$|Meson|-1|0|0|
+|$\pi^{0}$|$\bar{u}u / \bar{d}d$|Meson|0|0|0|
+|Anti-Electron|$\bar{e^{-}}$|Lepton|+1|0|-1|
+|Anti-Proton|$\bar{u}\bar{u}\bar{d}$|Baryon|-1|-1|0|
+|Anti-Neutron|$\bar{u}\bar{d}\bar{d}$|Baryon|0|-1|0|
 
 | |[[Leptons]]| |[[Quarks]] | |
 | --- | --- | --- | --- | --- |

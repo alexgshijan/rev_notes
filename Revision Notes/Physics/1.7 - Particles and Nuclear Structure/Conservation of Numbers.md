@@ -2,7 +2,5 @@ Anytime there are interactions betwen particles, there are certain rules about c
 - Momentum
 - Mass-energy
 - Charge
-- [[Baryons]]  Number
+- Baryon Number
 - [[Quarks]] Number
-
-#wip anwering conservation of numbers quesitons
