@@ -5,4 +5,4 @@ The Work done over one extension-contraction cycle is released as heat, and its 
 
 **They Sometimes require you to find the area in between the curves**
 
-#wip  - We could [[Integration - 2.1.8||Integrate]] the two lines are find the difference.
+#wip  - We could [[1.8 - Integration||Integrate]] the two lines are find the difference.

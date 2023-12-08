@@ -8,67 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7d3f9342b5984c6a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maths/2.1 - Statistical Sampling/Types of Diagrams - 1 Variabl.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1b6f3a0c5495d654",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maths/2.1 - Statistical Sampling/Finding Median & Quartiles of Listed Data.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3781092ed12f4a97",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maths/2.1 - Statistical Sampling/Types of Diagrams - 1 Variabl.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fb81d501349dc2a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Theory/1.4 - Data representation and data types/Negative Numbers/Two's Complement.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f433c05387e42587",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physics/1.7 - Particles and Nuclear Structure/1.7 - Particles and Nuclear Structure.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9ed75674e3ff215d",
+            "id": "41a7a546b8e3777d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -80,12 +20,12 @@
             }
           },
           {
-            "id": "41a7a546b8e3777d",
+            "id": "091dc5a76e4a2f16",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/1.7 - Particles and Nuclear Structure/Nuclear Interactions - A Comparison.md",
+                "file": "Maths/1.8 - Integration/1.8 - Integration.md",
                 "mode": "source",
                 "source": false
               }
@@ -124,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -262,35 +202,36 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "41a7a546b8e3777d",
+  "active": "f71809d96ad0d836",
   "lastOpenFiles": [
+    "Maths/1.8 - Integration/1.8 - Integration.md",
+    "Maths/1.7 - Differentiation/1.7 - Differentiation.md",
+    "Maths/1.4 - Sequences and Series/1.4 - Sequences and Series.md",
+    "Maths/2.6 - Quantities and units in mechanics/Variable Acceleration.md",
+    "Physics/1.2 - Kinematics/Graphs.md",
+    "z_Excerpts/Graph/Graph.md",
+    "Maths/2.6 - Quantities and units in mechanics/2.6 - Quantities and units in mechanics.md",
+    "Physics/1.7 - Particles and Nuclear Structure/1.7 - Particles and Nuclear Structure.md",
+    "Computer Science/Theory/1.4 - Data representation and data types/Negative Numbers/Two's Complement.md",
+    "Maths/2.1 - Statistical Sampling/Types of Diagrams - 1 Variabl.md",
+    "Maths/2.1 - Statistical Sampling/Finding Median & Quartiles of Listed Data.md",
+    "Maths/1.8 - Integration/Negative Areas.md",
+    "Maths/1.8 - Integration/Integration Notation.md",
+    "Physics/1.5 - Solids under stress/Hysteresis.md",
+    "Maths/1.7 - Differentiation/Differentiation from first principles.md",
+    "Maths/2.6 - Quantities and units in mechanics/Integration - 2.1.8.md",
+    "Physics/1.7 - Particles and Nuclear Structure/Nuclear Interactions - A Comparison.md",
+    "Maths/1.4 - Sequences and Series/Binomial Expansion.md",
+    "Maths/Maths.md",
+    "Physics/Physics.md",
     "Physics/1.7 - Particles and Nuclear Structure/Particle Composition/Particle Composition.md",
     "Physics/1.7 - Particles and Nuclear Structure/Particle Composition/Quarks.md",
-    "Physics/1.7 - Particles and Nuclear Structure/1.7 - Particles and Nuclear Structure.md",
     "Physics/1.7 - Particles and Nuclear Structure/Conservation of Numbers.md",
-    "Physics/1.7 - Particles and Nuclear Structure/Nuclear Interactions - A Comparison.md",
     "Physics/1.7 - Particles and Nuclear Structure/Particles and Nuclear Structure.canvas",
     "Physics/1.7 - Particles and Nuclear Structure/Particle Composition/Leptons.md",
     "Physics/1.7 - Particles and Nuclear Structure/Particle Composition/Hadron.md",
     "Physics/1.7 - Particles and Nuclear Structure/Particle Composition/Antiparticles.md",
-    "Maths/2.6 - Quantities and units in mechanics/2.6 - Quantities and units in mechanics.md",
-    "Physics/1.7 - Particles and Nuclear Structure/Particle Composition/Meson.md",
-    "Physics/1.7 - Particles and Nuclear Structure/Particle Composition/Baryons.md",
-    "Physics/1.7 - Particles and Nuclear Structure/Standard Model.md",
-    "Physics/1.6 - Using Radiation to Investigate Stars/1.6 - Using Radiation to Investigate Stars.md",
-    "Physics/1.6 - Using Radiation to Investigate Stars/Sun's Temperature.md",
     "Physics/1.6 - Using Radiation to Investigate Stars/Using Radiation to Investigate Stars recap.canvas",
-    "Physics/1.6 - Using Radiation to Investigate Stars/Wien's Displacement Law.md",
-    "Physics/1.6 - Using Radiation to Investigate Stars/Surface of Stars.md",
-    "Physics/1.6 - Using Radiation to Investigate Stars/Radio Astronomy/Telescopes.md",
-    "Physics/1.6 - Using Radiation to Investigate Stars/Radio Astronomy/Synchrotron Radiation.md",
-    "Physics/1.6 - Using Radiation to Investigate Stars/Radio Astronomy/Radio Astronomy.md",
-    "Physics/1.6 - Using Radiation to Investigate Stars/Radio Astronomy/Multiwavelength Astronomy.md",
-    "Physics/1.6 - Using Radiation to Investigate Stars/Black Body.md",
-    "Physics/1.6 - Using Radiation to Investigate Stars/Electromagnetic Spectrum.md",
-    "Physics/1.6 - Using Radiation to Investigate Stars/Inverse Square Law.md",
-    "Physics/1.6 - Using Radiation to Investigate Stars/Measuring Stellar Distances.md",
-    "Physics/1.6 - Using Radiation to Investigate Stars/Luminosity of a star.md",
     "z_Excerpts/Python/example_mock.py",
     "Computer Science/Practical/Python",
     "Computer Science/Prac/Untitled.canvas",
