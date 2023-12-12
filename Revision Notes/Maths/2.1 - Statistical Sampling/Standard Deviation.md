@@ -1,5 +1,5 @@
 **Variance is a measure of spread that takes all values into account.**
-It is the average squared distance from the mean.
+*It is the average squared distance from the mean.*
 
 **Formula for Variation:**$$\sigma^{2} = \frac{\Sigma(x-\bar{x})^{2}}{n}=\frac{\Sigma (x^{2})}{n}-\bar{x}^{2}$$
 *Where :*

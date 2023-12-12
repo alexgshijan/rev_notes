@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Theory/1.6 - Organisation of data/File Design/Master and Transaction Files.md",
+                "file": "Maths/2.6 - Quantities and units in mechanics/2.6 - Quantities and units in mechanics.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,14 +73,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/2.1 - Conduction of Electricity/Drift Velocity.md",
+                "file": "Maths/2.1 - Statistical Sampling/Types of Diagrams - 1 Variable.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7c2b2da70ddec2b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Maths/2.1 - Statistical Sampling/Types of Diagrams - 1 Variable.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "10ad1fd238f9527f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Maths/2.1 - Statistical Sampling/2.1 - Statistical Sampling.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -109,7 +133,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\\",
+                "query": "wip",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -146,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/2.1 - Conduction of Electricity/Drift Velocity.md",
+                "file": "Maths/2.1 - Statistical Sampling/Types of Diagrams - 1 Variable.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/2.1 - Conduction of Electricity/Drift Velocity.md",
+                "file": "Maths/2.1 - Statistical Sampling/Types of Diagrams - 1 Variable.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/2.1 - Conduction of Electricity/Drift Velocity.md"
+                "file": "Maths/2.1 - Statistical Sampling/Types of Diagrams - 1 Variable.md"
               }
             }
           },
@@ -218,35 +242,35 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "d35e88a277fed4ac",
+  "active": "7c2b2da70ddec2b9",
   "lastOpenFiles": [
-    "Physics/2.1 - Conduction of Electricity/Electron charge.md",
-    "Physics/2.1 - Conduction of Electricity/Drift Velocity.md",
+    "Maths/2.1 - Statistical Sampling/Populations vs Samples.md",
+    "Maths/2.1 - Statistical Sampling/Outlier.md",
+    "Maths/2.1 - Statistical Sampling/2.1 - Statistical Sampling.md",
+    "Maths/2.1 - Statistical Sampling/Extrapolating and Intrapolating.md",
+    "Maths/2.1 - Statistical Sampling/Finding Median & Quartiles of Listed Data.md",
+    "Maths/2.1 - Statistical Sampling/Standard Deviation.md",
+    "Maths/2.1 - Statistical Sampling/Skew.md",
+    "Maths/2.1 - Statistical Sampling/Types of Sampling.md",
+    "Maths/2.1 - Statistical Sampling/Types of Diagrams - 1 Variable.md",
+    "Maths/2.1 - Statistical Sampling/Types of Data.md",
+    "Maths/2.1 - Statistical Sampling/Answering Exam Questions.md",
+    "Maths/2.1 - Statistical Sampling/Considering Averages.md",
+    "Maths/2.1 - Statistical Sampling/Keywords.md",
+    "Physics/1.2 - Kinematics/SUVAT examples.md",
+    "Maths/2.1 - Statistical Sampling/Outliers.md",
+    "Maths/2.8 - Forces and Newton's Laws/Newton's Laws of Motion.md",
     "Physics/2.1 - Conduction of Electricity/2.1 - Conduction of Electricity.md",
-    "Maths/1.5 - Trigonometry/1.5 - Trigonometry.md",
-    "Physics/1.3 - Dynamics/1.3 - Dynamics.md",
-    "Physics/1.1 - Physics Basics/1.1 - Physics Basics.md",
-    "Physics/1.3 - Dynamics/Stability.md",
-    "Physics/1.3 - Dynamics/Moment or Torque.md",
-    "Physics/1.3 - Dynamics/Center of Gravity.md",
-    "Physics/1.2 - Kinematics/1.2 - Kinematics.md",
-    "Physics/1.3 - Dynamics",
-    "Physics/2.1 - Conduction of Electricity/Coulomb Meter.md",
-    "Physics/1.4 - Energy Concepts/1.4 - Energy Concepts.md",
-    "Physics/1.4 - Energy Concepts/Work Done.md",
-    "Physics/1.4 - Energy Concepts/Energy stored per unit volume.md",
-    "Physics/1.4 - Energy Concepts/Strain Energy.md",
-    "Physics/1.4 - Energy Concepts/Power.md",
-    "Physics/1.4 - Energy Concepts/Kinetic Energy.md",
-    "Physics/1.4 - Energy Concepts/Elastic Objects.md",
-    "Physics/1.4 - Energy Concepts/Conservation of Mechanical Energy.md",
-    "Physics/1.4 - Energy Concepts/Adjusting for friction.md",
-    "Physics/1.4 - Energy Concepts/Efficiency.md",
-    "Physics/Physics.md",
-    "Computer Science/Computer Science.md",
+    "Maths/2.6 - Quantities and units in mechanics/2.6 - Quantities and units in mechanics.md",
     "Computer Science/Theory/1.6 - Organisation of data/File Design/Master and Transaction Files.md",
-    "Computer Science/Theory/1.6 - Organisation of data/File Design/Generations of files.md",
-    "Computer Science/Theory/1.6 - Organisation of data/File Design/File Design.md",
+    "Maths/2.6 - Quantities and units in mechanics/Variable Acceleration.md",
+    "Maths/Maths.md",
+    "Physics/Physics.md",
+    "Physics/2.1 - Conduction of Electricity/Drift Velocity.md",
+    "Physics/2.1 - Conduction of Electricity/Electron charge.md",
+    "Physics/1.7 - Particles and Nuclear Structure/Nuclear Interactions - A Comparison.md",
+    "Physics/1.7 - Particles and Nuclear Structure/Conservation of Numbers.md",
+    "Physics/1.3 - Dynamics",
     "Computer Science/Theory/1.6 - Organisation of data/File Design",
     "Computer Science/Theory/1.6 - Organisation of data",
     "Computer Science/Theory/1.5 - Data structures",

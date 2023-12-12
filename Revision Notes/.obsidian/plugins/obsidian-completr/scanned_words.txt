@@ -1157,6 +1157,9 @@ rest
 resultant
 record
 records
+restore
+routine
+rid
 bank
 be
 but
@@ -2347,6 +2350,8 @@ IKP
 Interaction
 Infinite
 Instead
+IQRs
+Inter
 currently
 contain
 co
@@ -2618,6 +2623,8 @@ complete
 characters
 cause
 conductor
+copying
+clearouts
 doesn
 determined
 data
@@ -2848,6 +2855,7 @@ date
 delimiters
 day
 drift
+delete
 many
 mailto
 main
@@ -3552,6 +3560,7 @@ udd
 uuu
 unless
 update
+upper
 Page
 Please
 Preferred
@@ -4220,6 +4229,7 @@ AVs
 After
 Anytime
 Average
+Archiving
 for
 finding
 function
@@ -5719,6 +5729,7 @@ Master
 Meter
 Movement
 Multiply
+Methods
 give
 generally
 get
@@ -5963,6 +5974,7 @@ FLOw
 Files
 Fields
 Fixed
+Finding
 Long
 Layer
 LTE
@@ -6074,6 +6086,7 @@ LVk
 LyJ
 Line
 Lepton
+Listed
 You
 Yottabyte
 Young
@@ -6343,6 +6356,7 @@ OCR
 OWmg
 Only
 Object
+Outliers
 value
 very
 valued
@@ -6911,6 +6925,7 @@ qq
 qN
 qpf
 quesitons
+quartiles
 John
 Joystick
 JP
@@ -7368,6 +7383,8 @@ QNyZ
 QLc
 Qualitative
 Quantitive
+Quartile
+Quartiles
 xref
 xgR
 xA
