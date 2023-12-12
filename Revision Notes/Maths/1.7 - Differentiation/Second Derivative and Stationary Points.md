@@ -1,3 +1,3 @@
-To find the second derivative we apply the same method as [[Differentiation from first principles]], we just do it twice. This lets us find the rate of change for the rate of change. This can be represented as $f''(x)$ or $\frac{d^{2}y}{yx^{2}}$
+To find the second derivative we apply the same method as , we just do it twice. This lets us find the rate of change for the rate of change. This can be represented as $f''(x)$ or $\frac{d^{2}y}{yx^{2}}$
 
 A positive second derivative means that the gradient is increasing, implying a minimum point. The opposite is also true, a negative second derivative means that the gradient is decreasing, implying a maximum point.

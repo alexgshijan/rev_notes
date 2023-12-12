@@ -3,4 +3,4 @@
 
 A function can also be increasing and decreasing in certain intervals
 
-To find where a function is decreasing or increasing, we first [[Differentiation from first principles|Differentiate]] then factorise the gradient to find the ranges of x at which the gradient is negative/ positive.
+To find where a function is decreasing or increasing, we first [[1.7 - Differentiation|Differentiate]] then factorise the gradient to find the ranges of x at which the gradient is negative/ positive.

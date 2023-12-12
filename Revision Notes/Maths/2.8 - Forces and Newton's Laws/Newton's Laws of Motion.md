@@ -1,0 +1,8 @@
+**First Law :**
+Every Object continues in a state of rest or uniform motion in a straight line unless acted on by a resultant force
+
+**Second Law :**
+Resultant force = Mass $\cdot$ acceleration
+
+**Third Law :**
+When one object exerts a force on another, there is always a reaction which is equal and opposite in direction to the acting force

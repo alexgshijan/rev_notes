@@ -14,10 +14,19 @@
 |Anti-Proton|$\bar{u}\bar{u}\bar{d}$|Baryon|-1|-1|0|
 |Anti-Neutron|$\bar{u}\bar{d}\bar{d}$|Baryon|0|-1|0|
 
-| |[[Leptons]]| |[[Quarks]] | |
-| --- | --- | --- | --- | --- |
-|Particle | Electron ($e^{-}$) | Electron Neutrino ($V_e$) | up ($u$) | down ($d$)|
-|charge| -1 | 0 | $+\frac{2}{3}$| $-\frac{1}{3}$|
+**[[Leptons]] :**
+
+| Particle  | Charge  |
+| --- | --- |
+| Electron ($e^{-}$) |  -1|
+|Electron Neutrino ($V_e$) |0|
+
+**[[Quarks]] :**
+
+| Particle  | Charge  |
+| --- | --- |
+| up ($u$) |  $+\frac{2}{3}$|
+| down ($d$)|$-\frac{1}{3}$|
 
 Contents:
 ```folder-index-content
