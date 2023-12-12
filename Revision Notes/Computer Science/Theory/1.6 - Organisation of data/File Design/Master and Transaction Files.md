@@ -2,7 +2,7 @@
 - Permanent file for a system which keeps an ongoing track of information. E.g. a shop has a master file of products and what is in stock. This will contain the most up-to-date /valid version of the data
 
 **Transaction file :** *There are 'delimiters' or special characters split records*
-- A temporary file for a small period of time (perhaps a day) where *changes* are logged. After a time, the transaction file is used to update the master and emptied 
+- A temporary file for a small period of time (perhaps a day) where *changes* are logged. After a time, the transaction file is used to update the master and emptied
 - In the shop example, each till could keep a transaction file which would then be merged with the master file at the end of the day 
 
 *Why not just edit the master file ?*
