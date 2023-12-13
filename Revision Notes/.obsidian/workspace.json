@@ -85,7 +85,67 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/2.1 - Statistical Sampling/Types of Diagrams - 1 Variable.md",
+                "file": "Computer Science/Theory/1.6 - Organisation of data/File Design/Master and Transaction Files.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "60d48de294f0c5aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Theory/1.6 - Organisation of data/File Design/File Types/File Types.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "372b5e1c7d7452ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Theory/1.6 - Organisation of data/File Design/File Types/Serial.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c5ebcbad5f619279",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Theory/1.6 - Organisation of data/File Design/File Types/Sequential.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "29ed2d0fcdb15a77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Theory/1.6 - Organisation of data/File Design/File Types/Indexed Sequential.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b07ca85edfff1053",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Maths/2.8 - Forces and Newton's Laws/Newton's Laws of Motion.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -170,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/2.1 - Statistical Sampling/Types of Diagrams - 1 Variable.md",
+                "file": "Maths/2.8 - Forces and Newton's Laws/Newton's Laws of Motion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/2.1 - Statistical Sampling/Types of Diagrams - 1 Variable.md",
+                "file": "Maths/2.8 - Forces and Newton's Laws/Newton's Laws of Motion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/2.1 - Statistical Sampling/Types of Diagrams - 1 Variable.md"
+                "file": "Maths/2.8 - Forces and Newton's Laws/Newton's Laws of Motion.md"
               }
             }
           },
@@ -242,8 +302,29 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "7c2b2da70ddec2b9",
+  "active": "b07ca85edfff1053",
   "lastOpenFiles": [
+    "Maths/2.8 - Forces and Newton's Laws/2.8 - Forces and Newton's Laws.md",
+    "Maths/2.8 - Forces and Newton's Laws/Newton's Laws of Motion.md",
+    "Maths/Maths.md",
+    "Physics/Physics.md",
+    "Computer Science/Computer Science.md",
+    "Computer Science/Theory/Theory.md",
+    "Computer Science/Theory/1.6 - Organisation of data/File Design/File Types/Random.md",
+    "z_Excerpts/Python/hashing_concept.py",
+    "Computer Science/Theory/1.6 - Organisation of data/File Design/File Types/Serial.md",
+    "Computer Science/Theory/1.6 - Organisation of data/File Design/File Types/Sequential.md",
+    "Computer Science/Theory/1.6 - Organisation of data/File Design/File Types/Indexed Sequential.md",
+    "z_Excerpts/Image/Screenshot 2023-12-13 at 12.13.08.png",
+    "z_Excerpts/Python/sequential file access.py",
+    "Computer Science/Theory/1.6 - Organisation of data/File Design/File Types/File Types.md",
+    "Computer Science/Theory/1.6 - Organisation of data/File Design/Field Length.md",
+    "Computer Science/Theory/1.6 - Organisation of data/File Design/File Design.md",
+    "Computer Science/Theory/1.6 - Organisation of data/File Design/File Access.md",
+    "Computer Science/Theory/1.6 - Organisation of data/File Design/File Types",
+    "Computer Science/Theory/1.6 - Organisation of data/File Design/Master and Transaction Files.md",
+    "Physics/2.1 - Conduction of Electricity/Drift Velocity.md",
+    "Maths/2.1 - Statistical Sampling/Types of Diagrams - 1 Variable.md",
     "Maths/2.1 - Statistical Sampling/Populations vs Samples.md",
     "Maths/2.1 - Statistical Sampling/Outlier.md",
     "Maths/2.1 - Statistical Sampling/2.1 - Statistical Sampling.md",
@@ -252,24 +333,7 @@
     "Maths/2.1 - Statistical Sampling/Standard Deviation.md",
     "Maths/2.1 - Statistical Sampling/Skew.md",
     "Maths/2.1 - Statistical Sampling/Types of Sampling.md",
-    "Maths/2.1 - Statistical Sampling/Types of Diagrams - 1 Variable.md",
     "Maths/2.1 - Statistical Sampling/Types of Data.md",
-    "Maths/2.1 - Statistical Sampling/Answering Exam Questions.md",
-    "Maths/2.1 - Statistical Sampling/Considering Averages.md",
-    "Maths/2.1 - Statistical Sampling/Keywords.md",
-    "Physics/1.2 - Kinematics/SUVAT examples.md",
-    "Maths/2.1 - Statistical Sampling/Outliers.md",
-    "Maths/2.8 - Forces and Newton's Laws/Newton's Laws of Motion.md",
-    "Physics/2.1 - Conduction of Electricity/2.1 - Conduction of Electricity.md",
-    "Maths/2.6 - Quantities and units in mechanics/2.6 - Quantities and units in mechanics.md",
-    "Computer Science/Theory/1.6 - Organisation of data/File Design/Master and Transaction Files.md",
-    "Maths/2.6 - Quantities and units in mechanics/Variable Acceleration.md",
-    "Maths/Maths.md",
-    "Physics/Physics.md",
-    "Physics/2.1 - Conduction of Electricity/Drift Velocity.md",
-    "Physics/2.1 - Conduction of Electricity/Electron charge.md",
-    "Physics/1.7 - Particles and Nuclear Structure/Nuclear Interactions - A Comparison.md",
-    "Physics/1.7 - Particles and Nuclear Structure/Conservation of Numbers.md",
     "Physics/1.3 - Dynamics",
     "Computer Science/Theory/1.6 - Organisation of data/File Design",
     "Computer Science/Theory/1.6 - Organisation of data",
@@ -280,13 +344,10 @@
     "Physics/1.6 - Using Radiation to Investigate Stars/Using Radiation to Investigate Stars recap.canvas",
     "Maths/2.8 - Forces and Newton's Laws",
     "Physics/2.1 - Conduction of Electricity",
-    "z_Excerpts/Python/example_mock.py",
-    "Computer Science/Practical/Python",
     "Computer Science/Prac/Untitled.canvas",
     "Computer Science/Theory/1.2 - Logical Operators/Boolean Algebra/Logical Operators Recap.canvas",
     "Maths/1.8 - Integration/Integration recap.canvas",
     "Computer Science/Theory/1.4 - Data representation and data types/Data representation and data types recap.canvas",
-    "Maths/1.7 - Differentiation",
     "Physics/Physics Revision.canvas",
     "Physics/Physics NOV test response.canvas",
     "z_Excerpts/Image/Screenshot 2023-12-01 at 12.16.54.png",
@@ -298,7 +359,6 @@
     "z_Excerpts/Image/Pasted image 20231123142223.png",
     "z_Excerpts/Image/Pasted image 20231123092901.png",
     "z_Excerpts/Image/Screenshot 2023-11-23 at 09.27.43.png",
-    "z_Excerpts/Image/Pasted image 20231123092729.png",
     "Untitled 1.canvas"
   ]
 }

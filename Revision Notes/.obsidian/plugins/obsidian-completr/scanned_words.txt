@@ -466,6 +466,8 @@ interpolating
 inte
 inconsistency
 ions
+indexed
+index
 app
 adding
 are
@@ -681,6 +683,8 @@ astronomic
 acted
 attribute
 amp
+alphabetical
+acts
 only
 on
 odd
@@ -1160,6 +1164,7 @@ records
 restore
 routine
 rid
+reached
 bank
 be
 but
@@ -1704,6 +1709,9 @@ lepton
 loose
 logged
 lattice
+linearly
+looking
+leaving
 working
 when
 wip
@@ -2209,6 +2217,10 @@ stock
 special
 son
 steady
+searched
+sorted
+sequential
+slowest
 It
 Identities
 Information
@@ -2352,6 +2364,9 @@ Infinite
 Instead
 IQRs
 Inter
+Inde
+Increasing
+Indexed
 currently
 contain
 co
@@ -2625,6 +2640,7 @@ cause
 conductor
 copying
 clearouts
+copied
 doesn
 determined
 data
@@ -2856,6 +2872,10 @@ delimiters
 day
 drift
 delete
+direct
+directs
+deleting
+deleted
 many
 mailto
 main
@@ -3040,6 +3060,7 @@ motion
 master
 merged
 metal
+match
 plans
 python
 press
@@ -3445,6 +3466,7 @@ empty
 emptied
 edit
 electrical
+except
 uk
 using
 unified
@@ -3871,6 +3893,8 @@ Second
 Saves
 Shows
 Since
+Searching
+Sequential
 Rule
 Real
 Routes
@@ -3997,6 +4021,7 @@ Responsible
 Resultant
 Record
 Regardless
+Records
 Note
 Negatives
 Normalising
@@ -4390,6 +4415,7 @@ fewer
 felt
 father
 flows
+fashion
 Graph
 Good
 Graphics
@@ -4720,6 +4746,8 @@ hKu
 hCn
 hPg
 huge
+hashing
+hash
 Every
 EBCDIC
 Each
@@ -4853,6 +4881,8 @@ Estimating
 Experienced
 Electromagnetic
 Electrical
+Essentially
+Either
 key
 know
 keyboard
@@ -5232,6 +5262,7 @@ Done
 Deviation
 Differentiation
 Derive
+Deleting
 Unicode
 Used
 UCS
@@ -5591,6 +5622,7 @@ nö
 noted
 neutral
 nuclei
+numerical
 Many
 More
 Mail
@@ -5865,6 +5897,8 @@ glW
 gdo
 generations
 grandfather
+generates
+gap
 Floats
 Float
 Full
@@ -6087,6 +6121,7 @@ LyJ
 Line
 Lepton
 Listed
+Likewise
 You
 Yottabyte
 Young
@@ -6926,6 +6961,7 @@ qN
 qpf
 quesitons
 quartiles
+query
 John
 Joystick
 JP
