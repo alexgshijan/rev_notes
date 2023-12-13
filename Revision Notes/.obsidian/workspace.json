@@ -145,8 +145,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/2.8 - Forces and Newton's Laws/Newton's Laws of Motion.md",
-                "mode": "source",
+                "file": "index.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -230,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/2.8 - Forces and Newton's Laws/Newton's Laws of Motion.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/2.8 - Forces and Newton's Laws/Newton's Laws of Motion.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -270,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/2.8 - Forces and Newton's Laws/Newton's Laws of Motion.md"
+                "file": "index.md"
               }
             }
           },
@@ -304,36 +304,36 @@
   },
   "active": "b07ca85edfff1053",
   "lastOpenFiles": [
-    "Maths/2.8 - Forces and Newton's Laws/2.8 - Forces and Newton's Laws.md",
+    "Maths/2.1 - Statistical Sampling/Types of Diagrams - 1 Variable.md",
+    "Maths/2.1 - Statistical Sampling/Standard Deviation.md",
+    "Maths/2.1 - Statistical Sampling/Outlier.md",
+    "Maths/2.1 - Statistical Sampling/Extrapolating and Intrapolating.md",
+    "Maths/2.1 - Statistical Sampling/2.1 - Statistical Sampling.md",
+    "Computer Science/Theory/1.6 - Organisation of data/File Design/File Types/Serial.md",
+    "Computer Science/Theory/1.6 - Organisation of data/File Design/File Types/Sequential.md",
+    "Computer Science/Theory/1.6 - Organisation of data/File Design/File Types/Random.md",
+    "Computer Science/Theory/1.6 - Organisation of data/File Design/File Types/Indexed Sequential.md",
+    "Computer Science/Theory/1.6 - Organisation of data/File Design/File Types/File Types.md",
+    "index.md",
     "Maths/2.8 - Forces and Newton's Laws/Newton's Laws of Motion.md",
+    "Maths/2.8 - Forces and Newton's Laws/2.8 - Forces and Newton's Laws.md",
     "Maths/Maths.md",
     "Physics/Physics.md",
     "Computer Science/Computer Science.md",
     "Computer Science/Theory/Theory.md",
-    "Computer Science/Theory/1.6 - Organisation of data/File Design/File Types/Random.md",
     "z_Excerpts/Python/hashing_concept.py",
-    "Computer Science/Theory/1.6 - Organisation of data/File Design/File Types/Serial.md",
-    "Computer Science/Theory/1.6 - Organisation of data/File Design/File Types/Sequential.md",
-    "Computer Science/Theory/1.6 - Organisation of data/File Design/File Types/Indexed Sequential.md",
     "z_Excerpts/Image/Screenshot 2023-12-13 at 12.13.08.png",
     "z_Excerpts/Python/sequential file access.py",
-    "Computer Science/Theory/1.6 - Organisation of data/File Design/File Types/File Types.md",
     "Computer Science/Theory/1.6 - Organisation of data/File Design/Field Length.md",
     "Computer Science/Theory/1.6 - Organisation of data/File Design/File Design.md",
     "Computer Science/Theory/1.6 - Organisation of data/File Design/File Access.md",
     "Computer Science/Theory/1.6 - Organisation of data/File Design/File Types",
     "Computer Science/Theory/1.6 - Organisation of data/File Design/Master and Transaction Files.md",
     "Physics/2.1 - Conduction of Electricity/Drift Velocity.md",
-    "Maths/2.1 - Statistical Sampling/Types of Diagrams - 1 Variable.md",
     "Maths/2.1 - Statistical Sampling/Populations vs Samples.md",
-    "Maths/2.1 - Statistical Sampling/Outlier.md",
-    "Maths/2.1 - Statistical Sampling/2.1 - Statistical Sampling.md",
-    "Maths/2.1 - Statistical Sampling/Extrapolating and Intrapolating.md",
     "Maths/2.1 - Statistical Sampling/Finding Median & Quartiles of Listed Data.md",
-    "Maths/2.1 - Statistical Sampling/Standard Deviation.md",
     "Maths/2.1 - Statistical Sampling/Skew.md",
     "Maths/2.1 - Statistical Sampling/Types of Sampling.md",
-    "Maths/2.1 - Statistical Sampling/Types of Data.md",
     "Physics/1.3 - Dynamics",
     "Computer Science/Theory/1.6 - Organisation of data/File Design",
     "Computer Science/Theory/1.6 - Organisation of data",
