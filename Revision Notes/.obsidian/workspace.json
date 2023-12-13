@@ -145,7 +145,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Computer Science/Computer Science.md",
                 "mode": "preview",
                 "source": false
               }
@@ -230,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Computer Science/Computer Science.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Computer Science/Computer Science.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -270,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Computer Science/Computer Science.md"
               }
             }
           },
@@ -304,36 +304,39 @@
   },
   "active": "b07ca85edfff1053",
   "lastOpenFiles": [
+    "z_Excerpts/z_Excerpts.md",
+    "z_Excerpts/Image/Pasted image 20231005123628.png",
+    "z_Excerpts/Image/Pasted image 20231005123527.png",
+    "z_Excerpts/Image/Pasted image 20230929224535.png",
+    "z_Excerpts/Image/Pasted image 20230929113635.png",
+    "z_Excerpts/Image/Image.md",
+    "Computer Science/Computer Science.md",
+    "Physics/Physics.md",
+    "Physics/1.2 - Kinematics/1.2 - Kinematics.md",
+    "Physics/1.2 - Kinematics/SUVAT - The Equations of Constant Acceleration.md",
+    "Physics/1.2 - Kinematics/Displacement.md",
+    "Physics/1.2 - Kinematics/Graphs.md",
+    "Physics/1.2 - Kinematics/SUVAT examples.md",
+    "Maths/Maths.md",
+    "Physics/1.5 - Solids under stress/Hysteresis.md",
+    "Computer Science/Theory/Theory.md",
+    "Computer Science/Theory/1.6 - Organisation of data/1.6 - Organisation of data.md",
+    "Computer Science/Theory/1.6 - Organisation of data/File Design/File Types/Indexed Sequential.md",
+    "Computer Science/Theory/1.6 - Organisation of data/File Design/File Types/Random.md",
+    "Computer Science/Theory/1.6 - Organisation of data/File Design/File Types/Sequential.md",
+    "Computer Science/Theory/1.6 - Organisation of data/File Design/File Types/Serial.md",
+    "Computer Science/Theory/1.6 - Organisation of data/File Design/Field Length.md",
+    "Computer Science/Theory/1.6 - Organisation of data/File Design/File Design.md",
+    "Computer Science/Theory/1.6 - Organisation of data/File Design/Master and Transaction Files.md",
+    "index.md",
     "Maths/2.1 - Statistical Sampling/Types of Diagrams - 1 Variable.md",
     "Maths/2.1 - Statistical Sampling/Standard Deviation.md",
     "Maths/2.1 - Statistical Sampling/Outlier.md",
     "Maths/2.1 - Statistical Sampling/Extrapolating and Intrapolating.md",
-    "Maths/2.1 - Statistical Sampling/2.1 - Statistical Sampling.md",
-    "Computer Science/Theory/1.6 - Organisation of data/File Design/File Types/Serial.md",
-    "Computer Science/Theory/1.6 - Organisation of data/File Design/File Types/Sequential.md",
-    "Computer Science/Theory/1.6 - Organisation of data/File Design/File Types/Random.md",
-    "Computer Science/Theory/1.6 - Organisation of data/File Design/File Types/Indexed Sequential.md",
-    "Computer Science/Theory/1.6 - Organisation of data/File Design/File Types/File Types.md",
-    "index.md",
-    "Maths/2.8 - Forces and Newton's Laws/Newton's Laws of Motion.md",
-    "Maths/2.8 - Forces and Newton's Laws/2.8 - Forces and Newton's Laws.md",
-    "Maths/Maths.md",
-    "Physics/Physics.md",
-    "Computer Science/Computer Science.md",
-    "Computer Science/Theory/Theory.md",
     "z_Excerpts/Python/hashing_concept.py",
     "z_Excerpts/Image/Screenshot 2023-12-13 at 12.13.08.png",
     "z_Excerpts/Python/sequential file access.py",
-    "Computer Science/Theory/1.6 - Organisation of data/File Design/Field Length.md",
-    "Computer Science/Theory/1.6 - Organisation of data/File Design/File Design.md",
-    "Computer Science/Theory/1.6 - Organisation of data/File Design/File Access.md",
     "Computer Science/Theory/1.6 - Organisation of data/File Design/File Types",
-    "Computer Science/Theory/1.6 - Organisation of data/File Design/Master and Transaction Files.md",
-    "Physics/2.1 - Conduction of Electricity/Drift Velocity.md",
-    "Maths/2.1 - Statistical Sampling/Populations vs Samples.md",
-    "Maths/2.1 - Statistical Sampling/Finding Median & Quartiles of Listed Data.md",
-    "Maths/2.1 - Statistical Sampling/Skew.md",
-    "Maths/2.1 - Statistical Sampling/Types of Sampling.md",
     "Physics/1.3 - Dynamics",
     "Computer Science/Theory/1.6 - Organisation of data/File Design",
     "Computer Science/Theory/1.6 - Organisation of data",
@@ -355,10 +358,6 @@
     "z_Excerpts/Image/Screenshot 2023-12-01 at 12.07.54.png",
     "z_Excerpts/Image/Screenshot 2023-11-28 at 09.18.10.png",
     "z_Excerpts/Image/Screenshot 2023-11-27 at 09.57.52.png",
-    "z_Excerpts/Image/Pasted image 20231127093754.png",
-    "z_Excerpts/Image/Pasted image 20231123142223.png",
-    "z_Excerpts/Image/Pasted image 20231123092901.png",
-    "z_Excerpts/Image/Screenshot 2023-11-23 at 09.27.43.png",
     "Untitled 1.canvas"
   ]
 }

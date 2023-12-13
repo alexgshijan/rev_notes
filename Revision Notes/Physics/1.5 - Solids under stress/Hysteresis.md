@@ -3,6 +3,4 @@ The curve for the extension of a material is often different to the curve for th
 ![](https://upload.wikimedia.org/wikipedia/commons/c/c6/Elastic_Hysteresis.svg)
 The Work done over one extension-contraction cycle is released as heat, and its value is equal to the area between the two curves
 
-**They Sometimes require you to find the area in between the curves**
-
-#wip  - We could [[1.8 - Integration||Integrate]] the two lines are find the difference.
+**They sometimes require you to find the area in between the curves**
