@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/2.8 - Forces and Newton's Laws/Newton's Laws of Motion.md",
+                "file": "Maths/2.8 - Forces and Newton's Laws/2.8 - Forces and Newton's Laws.md",
                 "mode": "source",
                 "source": false
               }
@@ -145,8 +145,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Computer Science.md",
-                "mode": "preview",
+                "file": "Maths/2.8 - Forces and Newton's Laws/2.8 - Forces and Newton's Laws.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -230,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Computer Science.md",
+                "file": "Maths/2.8 - Forces and Newton's Laws/2.8 - Forces and Newton's Laws.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Computer Science.md",
+                "file": "Maths/2.8 - Forces and Newton's Laws/2.8 - Forces and Newton's Laws.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -270,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Computer Science.md"
+                "file": "Maths/2.8 - Forces and Newton's Laws/2.8 - Forces and Newton's Laws.md"
               }
             }
           },
@@ -304,20 +304,23 @@
   },
   "active": "b07ca85edfff1053",
   "lastOpenFiles": [
+    "Maths/2.8 - Forces and Newton's Laws/Newton's Laws of Motion.md",
+    "Maths/2.8 - Forces and Newton's Laws/2.8 - Forces and Newton's Laws.md",
+    "Maths/2.6 - Quantities and units in mechanics/2.6 - Quantities and units in mechanics.md",
+    "Maths/Maths.md",
+    "Computer Science/Computer Science.md",
     "z_Excerpts/z_Excerpts.md",
     "z_Excerpts/Image/Pasted image 20231005123628.png",
     "z_Excerpts/Image/Pasted image 20231005123527.png",
     "z_Excerpts/Image/Pasted image 20230929224535.png",
     "z_Excerpts/Image/Pasted image 20230929113635.png",
     "z_Excerpts/Image/Image.md",
-    "Computer Science/Computer Science.md",
     "Physics/Physics.md",
     "Physics/1.2 - Kinematics/1.2 - Kinematics.md",
     "Physics/1.2 - Kinematics/SUVAT - The Equations of Constant Acceleration.md",
     "Physics/1.2 - Kinematics/Displacement.md",
     "Physics/1.2 - Kinematics/Graphs.md",
     "Physics/1.2 - Kinematics/SUVAT examples.md",
-    "Maths/Maths.md",
     "Physics/1.5 - Solids under stress/Hysteresis.md",
     "Computer Science/Theory/Theory.md",
     "Computer Science/Theory/1.6 - Organisation of data/1.6 - Organisation of data.md",
@@ -331,8 +334,6 @@
     "index.md",
     "Maths/2.1 - Statistical Sampling/Types of Diagrams - 1 Variable.md",
     "Maths/2.1 - Statistical Sampling/Standard Deviation.md",
-    "Maths/2.1 - Statistical Sampling/Outlier.md",
-    "Maths/2.1 - Statistical Sampling/Extrapolating and Intrapolating.md",
     "z_Excerpts/Python/hashing_concept.py",
     "z_Excerpts/Image/Screenshot 2023-12-13 at 12.13.08.png",
     "z_Excerpts/Python/sequential file access.py",
