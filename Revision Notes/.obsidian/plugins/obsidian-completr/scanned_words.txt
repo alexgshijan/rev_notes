@@ -852,6 +852,8 @@ ongoing
 outlier
 oiy
 oyq
+outcome
+outcomes
 This
 Tan
 These
@@ -1607,6 +1609,8 @@ tbO
 tmh
 tRMS
 tAz
+throw
+trials
 ll
 lot
 languages
@@ -1782,6 +1786,7 @@ lpl
 lKC
 lLP
 lIDATB
+last
 working
 when
 wip
@@ -2315,6 +2320,7 @@ sI
 sJC
 sMC
 sED
+success
 It
 Identities
 Information
@@ -2748,6 +2754,8 @@ cgU
 cpUx
 cOG
 cLZ
+converts
+conserves
 doesn
 determined
 data
@@ -2991,6 +2999,10 @@ dJ
 dGt
 dRa
 dAL
+disappear
+die
+discrete
+distribution
 many
 mailto
 main
@@ -3181,6 +3193,8 @@ mGe
 mrMum
 mBC
 mFb
+momentum
+modelled
 plans
 python
 press
@@ -3402,6 +3416,8 @@ pryd
 pv
 pr
 pZB
+photons
+photon
 expand
 even
 each
@@ -4597,6 +4613,7 @@ fAf
 fbg
 fun
 fDs
+failure
 Graph
 Good
 Graphics
@@ -6806,6 +6823,9 @@ variation
 veCf
 vvwd
 vkRS
+volts
+volt
+variables
 We
 When
 Where
