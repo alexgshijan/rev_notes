@@ -1,4 +1,4 @@
-Computers work with a **fixed [[Computer Science/Theory/1.1 - Hardware and communication/Topic Keywords|world length]]**.
+Computers work with a **fixed [[Computer Science/1.1 - Hardware and communication/Topic Keywords|world length]]**.
 This means the amount of bits in a memory location allocated to a particular operation (e.g. 5-bit, 8-bit, 32 bit, 64 bit etc). It is also the amount the CPU can hold in its registers, and the amount of data that can be transferred along a bus at any one time. 
 
 Sometimes, binary arithmetic may result in a complication: 

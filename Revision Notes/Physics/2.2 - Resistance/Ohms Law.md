@@ -6,4 +6,5 @@
 - Current is $I$ with units $A$
 *Note : Only when temperature is constant*
 
-ohmic and non ohmic conductor #wip 
+**Ohmic Conductor** - Constant resistance *given that temperature is constant*
+**Non-Ohmic Conductor** - Variable resistance 

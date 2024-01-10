@@ -1,3 +1,0 @@
-Contents:
-```folder-index-content
-```

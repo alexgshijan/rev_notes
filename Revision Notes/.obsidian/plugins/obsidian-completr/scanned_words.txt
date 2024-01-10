@@ -757,6 +757,7 @@ aTXy
 aGo
 apC
 aGf
+assess
 only
 on
 odd
@@ -904,6 +905,7 @@ oVc
 oiQG
 oFB
 oeD
+ohmic
 This
 Tan
 These
@@ -1058,6 +1060,7 @@ TM
 TNl
 TOp
 Team
+Tension
 revision
 rule
 rotational
@@ -1688,6 +1691,8 @@ tsEwc
 tIS
 tsGw
 tpt
+team
+teams
 ll
 lot
 languages
@@ -1869,6 +1874,7 @@ lir
 lQG
 lü
 lXh
+laws
 working
 when
 wip
@@ -2428,6 +2434,8 @@ sHq
 szkE
 sPsC
 snt
+stadiums
+season
 It
 Identities
 Information
@@ -2882,6 +2890,8 @@ csx
 cV
 crLRX
 cqb
+continuation
+club
 doesn
 determined
 data
@@ -3335,6 +3345,8 @@ mFYc
 myGZ
 myYXN
 mil
+modelling
+manager
 plans
 python
 press
@@ -3566,6 +3578,10 @@ psX
 pCW
 pfR
 players
+pulley
+primarily
+plays
+play
 expand
 even
 each
@@ -4832,6 +4848,7 @@ fKR
 fdg
 fgS
 fLu
+football
 Graph
 Good
 Graphics
@@ -5875,6 +5892,7 @@ Uext
 UNZ
 Ur
 UL
+UID
 Binary
 Boolean
 Bluetooth
@@ -6590,6 +6608,7 @@ FbT
 FY
 FEN
 Fxi
+Forces
 Long
 Layer
 LTE
@@ -6720,6 +6739,7 @@ LxG
 LQA
 LDv
 Lfz
+Lift
 You
 Yottabyte
 Young
