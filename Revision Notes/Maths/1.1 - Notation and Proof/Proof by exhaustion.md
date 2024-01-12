@@ -1,1 +1,0 @@
-*This proof requires us to see whether the statement is true for each and every number. This is the least efficient type of proof when working with large ranges of numbers but is more plausible when working with a limited set*
