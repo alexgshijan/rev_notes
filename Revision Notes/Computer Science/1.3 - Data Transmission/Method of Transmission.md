@@ -8,6 +8,6 @@ Half-duplex and duplex :
 - *Half duplex makes full use of all cables when transmitting data, but flow can switch direction based on communication needed.
 - *Full duplex allows for transmission in both directions simultaneously* 
 - As packets can travel in either direction along the same line, sometimes there are collisions when two packets are sent along the same line in different directions. We could mitigate this by : 
-	- Devices should wait a random (why random?) amount of time before sending the packets again if using the same line
+	- Devices should wait a random amount of time before sending the packets again if using the same line
 	- Use a priorities policy, perhaps where one machine is chosen to always send their data first or
 	- You could implement a round-robin style system where each PC takes turns to send their packets
