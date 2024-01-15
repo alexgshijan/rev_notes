@@ -8,115 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "10ad1fd238f9527f",
+            "id": "e8f9128b9937c4ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/1.6 - Organisation of data/Validation, Verification & Authentication/Validation, Verification & Authentication.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d881df371c5fae8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/1.6 - Organisation of data/Validation, Verification & Authentication/Validation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d8fd98fd7b209b66",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/1.6 - Organisation of data/Validation, Verification & Authentication/Verification.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2f08ba739dfb394b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physics/2.2 - Resistance/2.2 - Resistance.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "48be1015255db40a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physics/2.2 - Resistance/Potential Difference.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "85f8d39327f5e614",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physics/2.2 - Resistance/Potential Difference.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a3e13e02eb4f0712",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physics/2.2 - Resistance/Resistance.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a332fb71fdc194a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maths/2.4 - Statistical Distribution/Poisson Distribution.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7f1926bcdd89bacc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maths/1.5 - Trigonometry/1.5 - Trigonometry.md",
+                "file": "Physics/2.7 - Photons/2.7 - Photons.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -145,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "wip",
+                "query": "nano",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -182,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/1.5 - Trigonometry/1.5 - Trigonometry.md",
+                "file": "Physics/2.7 - Photons/2.7 - Photons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/1.5 - Trigonometry/1.5 - Trigonometry.md",
+                "file": "Physics/2.7 - Photons/2.7 - Photons.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/1.5 - Trigonometry/1.5 - Trigonometry.md"
+                "file": "Physics/2.7 - Photons/2.7 - Photons.md"
               }
             }
           },
@@ -256,34 +159,37 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "7f1926bcdd89bacc",
+  "active": "e8f9128b9937c4ac",
   "lastOpenFiles": [
+    "Physics/2.7 - Photons/Electron Volt.md",
+    "Physics/2.7 - Photons/2.7 - Photons.md",
+    "Physics/1.6 - Using Radiation to Investigate Stars/1.6 - Using Radiation to Investigate Stars.md",
+    "Physics/Physics.md",
     "Maths/Maths.md",
+    "Maths/2.5 - Hypothesis Testing/2.5 - Hypothesis Testing.md",
+    "Maths/3.4 - Sequences and Series/Arithmetic.md",
+    "Maths/3.4 - Sequences and Series/3.4 - Sequences and Series.md",
+    "Maths/1.6 - Exponentials and Logarithms/1.6 - Exponentials and Logarithms.md",
+    "Maths/2.5 - Hypothesis Testing",
+    "Maths/1.7 - Differentiation/1.7 - Differentiation.md",
+    "Maths/3.4 - Sequences and Series",
+    "Maths/1.6 - Exponentials and Logarithms/Logarithms.md",
+    "Maths/1.6 - Exponentials and Logarithms/Graphs to memorise.md",
+    "Maths/1.6 - Exponentials and Logarithms/Euler's Number.md",
+    "Maths/1.6 - Exponentials and Logarithms/Exponential Functions.md",
+    "Physics/1.1 - Physics Basics/Unit Prefixes.md",
+    "Physics/1.6 - Using Radiation to Investigate Stars/Stefan's Law.md",
+    "Maths/2.4 - Statistical Distribution/Poisson Distribution.md",
+    "Physics/1.7 - Particles and Nuclear Structure/1.7 - Particles and Nuclear Structure.md",
+    "Physics/1.6 - Using Radiation to Investigate Stars/Electromagnetic Spectrum.md",
+    "Physics/2.1 - Conduction of Electricity/2.1 - Conduction of Electricity.md",
+    "Physics/1.7 - Particles and Nuclear Structure/Particle Composition/Particle Composition.md",
+    "Maths/1.5 - Trigonometry/1.5 - Trigonometry.md",
+    "Physics/2.7 - Photons",
     "Computer Science/Computer Science.md",
+    "Computer Science/2.A - Entity Relationship Diagrams/2.A - Entity Relationship Diagrams.md",
     "Computer Science/1.6 - Organisation of data/1.6 - Organisation of data.md",
     "Computer Science/1.6 - Organisation of data/File Design/File Design.md",
-    "Computer Science/1.6 - Organisation of data/File Design/File Types/File Types.md",
-    "Computer Science/1.6 - Organisation of data/File Design/File Types/Random.md",
-    "Computer Science/1.6 - Organisation of data/File Design/File Types/Indexed Sequential.md",
-    "Computer Science/1.6 - Organisation of data/File Design/Field Length.md",
-    "Computer Science/1.6 - Organisation of data/File Design/File Types/Serial.md",
-    "Computer Science/1.6 - Organisation of data/File Design/File Types/Sequential.md",
-    "Computer Science/1.6 - Organisation of data/File Design/Master and Transaction Files.md",
-    "Computer Science/1.6 - Organisation of data/Validation, Verification & Authentication/Validation, Verification & Authentication.md",
-    "Computer Science/1.6 - Organisation of data/Validation, Verification & Authentication/Verification.md",
-    "Computer Science/1.6 - Organisation of data/Validation, Verification & Authentication/Validation.md",
-    "Computer Science/1.6 - Organisation of data/Validation, Verification & Authentication/Authentication.md",
-    "Computer Science/1.4 - Data representation and data types/1.4 - Data representation and data types.md",
-    "Computer Science/1.4 - Data representation and data types/Binary Arithmetic/Binary Arithmetic.md",
-    "Computer Science/1.4 - Data representation and data types/Binary Arithmetic/Overflow and Underflow.md",
-    "Computer Science/1.4 - Data representation and data types/Fixed & Floating Point Numbers/Fixed & Floating Point Numbers.md",
-    "Computer Science/1.4 - Data representation and data types/Basics, character sets, data types/Basics, character sets, data types.md",
-    "Computer Science/1.4 - Data representation and data types/Basics, character sets, data types/Data Types.md",
-    "Computer Science/1.4 - Data representation and data types/Basics, character sets, data types/Characters and Codes in Binary.md",
-    "Computer Science/1.4 - Data representation and data types/Negative Numbers/Negative Numbers.md",
-    "Computer Science/1.4 - Data representation and data types/Negative Numbers/Two's Complement.md",
-    "Computer Science/1.4 - Data representation and data types/Negative Numbers/Signed Negatives.md",
-    "Computer Science/1.3 - Data Transmission/1.3 - Data Transmission.md",
     "Maths/1.8 - Integration/Integration recap.canvas",
     "Maths/2.3 - Probability/Probability Recap.canvas",
     "Physics/1.6 - Using Radiation to Investigate Stars/Using Radiation to Investigate Stars recap.canvas",
@@ -302,9 +208,6 @@
     "z_Excerpts/Image/Screenshot 2024-01-10 at 11.44.00.png",
     "Computer Science/2.A - Entity Relationship Diagrams",
     "z_Excerpts/Image/Pasted image 20240109114354.png",
-    "Physics/2.2 - Resistance",
-    "Computer Science/1.6 - Organisation of data/Validation, Verification & Authentication",
-    "Maths/2.4 - Statistical Distribution",
     "z_Excerpts/Image/Pasted image 20231005123628.png",
     "z_Excerpts/Image/Pasted image 20231005123527.png",
     "z_Excerpts/Image/Pasted image 20230929224535.png",
