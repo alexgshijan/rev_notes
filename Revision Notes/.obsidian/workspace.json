@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/2.7 - Photons/2.7 - Photons.md",
+                "file": "Physics/2.4 - The Nature of Waves/2.4 - The Nature of Waves.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aac0c8e87df79214",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Maths/3.4 - Sequences and Series/Geometric.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "41ac61e37512eb79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Maths/3.4 - Sequences and Series/Arithmetic.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "nano",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/2.7 - Photons/2.7 - Photons.md",
+                "file": "Maths/3.4 - Sequences and Series/Geometric.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/2.7 - Photons/2.7 - Photons.md",
+                "file": "Maths/3.4 - Sequences and Series/Geometric.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/2.7 - Photons/2.7 - Photons.md"
+                "file": "Maths/3.4 - Sequences and Series/Geometric.md"
               }
             }
           },
@@ -159,42 +184,43 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "e8f9128b9937c4ac",
+  "active": "aac0c8e87df79214",
   "lastOpenFiles": [
+    "index.md",
+    "z_Excerpts/z_Excerpts.md",
+    "z_Excerpts/Python/Python.md",
+    "z_Excerpts/Python/save_files/save_files.md",
+    "z_Excerpts/Python/advent_of_code/advent_of_code.md",
+    "z_Excerpts/Image/Image.md",
+    "z_Excerpts/Graph/Graph.md",
+    "Physics/Physics.md",
     "Physics/2.7 - Photons/Electron Volt.md",
     "Physics/2.7 - Photons/2.7 - Photons.md",
-    "Physics/1.6 - Using Radiation to Investigate Stars/1.6 - Using Radiation to Investigate Stars.md",
-    "Physics/Physics.md",
-    "Maths/Maths.md",
-    "Maths/2.5 - Hypothesis Testing/2.5 - Hypothesis Testing.md",
-    "Maths/3.4 - Sequences and Series/Arithmetic.md",
-    "Maths/3.4 - Sequences and Series/3.4 - Sequences and Series.md",
-    "Maths/1.6 - Exponentials and Logarithms/1.6 - Exponentials and Logarithms.md",
-    "Maths/2.5 - Hypothesis Testing",
-    "Maths/1.7 - Differentiation/1.7 - Differentiation.md",
-    "Maths/3.4 - Sequences and Series",
-    "Maths/1.6 - Exponentials and Logarithms/Logarithms.md",
-    "Maths/1.6 - Exponentials and Logarithms/Graphs to memorise.md",
-    "Maths/1.6 - Exponentials and Logarithms/Euler's Number.md",
-    "Maths/1.6 - Exponentials and Logarithms/Exponential Functions.md",
-    "Physics/1.1 - Physics Basics/Unit Prefixes.md",
-    "Physics/1.6 - Using Radiation to Investigate Stars/Stefan's Law.md",
-    "Maths/2.4 - Statistical Distribution/Poisson Distribution.md",
-    "Physics/1.7 - Particles and Nuclear Structure/1.7 - Particles and Nuclear Structure.md",
-    "Physics/1.6 - Using Radiation to Investigate Stars/Electromagnetic Spectrum.md",
+    "Physics/2.4 - The Nature of Waves/Progressive Waves.md",
+    "Physics/2.4 - The Nature of Waves/2.4 - The Nature of Waves.md",
+    "Physics/2.2 - Resistance/Resistance.md",
+    "Physics/2.2 - Resistance/Potential Difference.md",
+    "Physics/2.2 - Resistance/Ohms Law.md",
+    "Physics/2.2 - Resistance/Coulomb train model.md",
+    "Physics/2.2 - Resistance/2.2 - Resistance.md",
+    "Physics/2.1 - Conduction of Electricity/Electron charge.md",
+    "Physics/2.1 - Conduction of Electricity/Drift Velocity.md",
     "Physics/2.1 - Conduction of Electricity/2.1 - Conduction of Electricity.md",
+    "Physics/1.7 - Particles and Nuclear Structure/Nuclear Interactions - A Comparison.md",
+    "Physics/1.7 - Particles and Nuclear Structure/Conservation of Numbers.md",
+    "Physics/1.7 - Particles and Nuclear Structure/Annihilation.md",
+    "Physics/1.7 - Particles and Nuclear Structure/1.7 - Particles and Nuclear Structure.md",
+    "Physics/1.7 - Particles and Nuclear Structure/Particle Composition/Quarks.md",
     "Physics/1.7 - Particles and Nuclear Structure/Particle Composition/Particle Composition.md",
-    "Maths/1.5 - Trigonometry/1.5 - Trigonometry.md",
-    "Physics/2.7 - Photons",
-    "Computer Science/Computer Science.md",
-    "Computer Science/2.A - Entity Relationship Diagrams/2.A - Entity Relationship Diagrams.md",
-    "Computer Science/1.6 - Organisation of data/1.6 - Organisation of data.md",
-    "Computer Science/1.6 - Organisation of data/File Design/File Design.md",
-    "Maths/1.8 - Integration/Integration recap.canvas",
-    "Maths/2.3 - Probability/Probability Recap.canvas",
     "Physics/1.6 - Using Radiation to Investigate Stars/Using Radiation to Investigate Stars recap.canvas",
+    "Maths/1.8 - Integration/Integration recap.canvas",
     "Computer Science/1.4 - Data representation and data types/Data representation and data types recap.canvas",
     "Computer Science/1.2 - Logical Operators/Boolean Algebra/Logical Operators Recap.canvas",
+    "Physics/2.4 - The Nature of Waves",
+    "Maths/2.5 - Hypothesis Testing",
+    "Maths/3.4 - Sequences and Series",
+    "Physics/2.7 - Photons",
+    "Maths/2.3 - Probability/Probability Recap.canvas",
     "2.2 - Tkinter",
     "2.1 -",
     "Maths/2.3 - Probability/Probability Booklet - Answers&Notes.pdf",
@@ -206,7 +232,6 @@
     "z_Excerpts/Image/Screenshot 2024-01-10 at 11.52.50.png",
     "z_Excerpts/Image/Screenshot 2024-01-10 at 11.45.45.png",
     "z_Excerpts/Image/Screenshot 2024-01-10 at 11.44.00.png",
-    "Computer Science/2.A - Entity Relationship Diagrams",
     "z_Excerpts/Image/Pasted image 20240109114354.png",
     "z_Excerpts/Image/Pasted image 20231005123628.png",
     "z_Excerpts/Image/Pasted image 20231005123527.png",
