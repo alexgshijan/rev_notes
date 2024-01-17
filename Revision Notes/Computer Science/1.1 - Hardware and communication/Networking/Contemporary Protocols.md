@@ -10,6 +10,6 @@ SMTP/IMAP - **Simple Mail Transfer Protocol/Internet Message Access Protocol** -
 DHCP - **Dynamic Host configuration protocol** - Allows devices to communicate on a network by assigning them an IP address, DNS lookup and data routing configuration
 
 **Wireless protocols :**
-WIFI - **Wireless Fidelity** - The standard wireless communications protocol which allows devices to connect to a router via radio waves, and thereby access the internet|
+WIFI - **Wireless Fidelity** - The standard wireless communications protocol which allows devices to connect to a router via radio waves, and thereby access the internet
 LTE - **Long Term Evolution** - A faster version of 3G (but slower than 5G) which allows to wireless uploading & downloading
 **Bluetooth** - A protocol that manages short range wireless communications between devices
