@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Physics/2.7 - Photons/Photoelectric Effect.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "wip",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Physics/2.7 - Photons/Photoelectric Effect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Physics/2.7 - Photons/Photoelectric Effect.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Physics/2.7 - Photons/Photoelectric Effect.md"
               }
             }
           },
@@ -247,36 +247,36 @@
   "active": "c4cb28eeb628615d",
   "lastOpenFiles": [
     "Physics/2.7 - Photons/2.7 - Photons.md",
-    "Physics/2.7 - Photons/Electron Volt.md",
-    "Physics/1.4 - Energy Concepts/Power.md",
-    "Physics/1.6 - Using Radiation to Investigate Stars/Stefan's Law.md",
-    "Physics/2.7 - Photons/Photoelectric Effect.md",
-    "z_Excerpts/Image/Pasted image 20240118145127.png",
     "Physics/2.4 - The Nature of Waves/Progressive Waves.md",
-    "Physics/2.2 - Resistance/2.2 - Resistance.md",
-    "Physics/2.2 - Resistance/Ohms Law.md",
-    "Physics/2.2 - Resistance/Coulomb train model.md",
+    "Physics/2.4 - The Nature of Waves/2.4 - The Nature of Waves.md",
     "Physics/2.2 - Resistance/Resistance.md",
     "Physics/2.2 - Resistance/Potential Difference.md",
-    "Physics/Physics.md",
-    "Maths/Maths.md",
-    "Computer Science/Computer Science.md",
-    "Computer Science/1.8 - Operating Systems/1.8 - Operating Systems.md",
-    "Computer Science/1.7 - Database Systems/1.7 - Database Systems.md",
-    "Computer Science/1.1 - Hardware and communication/1.1 - Hardware and communication.md",
-    "Maths/2.3 - Probability/2.3 - Probability.md",
+    "Physics/2.2 - Resistance/Ohms Law.md",
+    "Physics/2.2 - Resistance/2.2 - Resistance.md",
+    "Physics/2.1 - Conduction of Electricity/2.1 - Conduction of Electricity.md",
+    "Physics/2.1 - Conduction of Electricity/Electron charge.md",
+    "Physics/2.1 - Conduction of Electricity/Drift Velocity.md",
+    "Physics/1.7 - Particles and Nuclear Structure/1.7 - Particles and Nuclear Structure.md",
+    "Physics/1.7 - Particles and Nuclear Structure/Particle Composition.md",
+    "Physics/1.7 - Particles and Nuclear Structure/Annihilation.md",
+    "Physics/1.7 - Particles and Nuclear Structure/Nuclear Interactions - A Comparison.md",
+    "Physics/1.7 - Particles and Nuclear Structure/Conservation of Numbers.md",
+    "Physics/1.7 - Particles and Nuclear Structure/Particle Composition/Quarks.md",
+    "Physics/1.7 - Particles and Nuclear Structure/Particle Composition/Antiparticles.md",
+    "Physics/1.7 - Particles and Nuclear Structure/Particle Composition/Leptons.md",
+    "Physics/1.7 - Particles and Nuclear Structure/Particle Composition/Hadron.md",
+    "Physics/1.6 - Using Radiation to Investigate Stars/1.6 - Using Radiation to Investigate Stars.md",
+    "Physics/1.6 - Using Radiation to Investigate Stars/Wien's Displacement Law.md",
+    "Physics/1.6 - Using Radiation to Investigate Stars/Using Radiation to Investigate Stars recap.canvas",
+    "Physics/1.6 - Using Radiation to Investigate Stars/Sun's Temperature.md",
+    "Physics/1.6 - Using Radiation to Investigate Stars/Stefan's Law.md",
+    "Physics/1.6 - Using Radiation to Investigate Stars/Spectra.md",
+    "Physics/1.6 - Using Radiation to Investigate Stars/Radio Astronomy.md",
+    "Physics/1.6 - Using Radiation to Investigate Stars/Inverse Square Law.md",
+    "z_Excerpts/Image/Pasted image 20240118145127.png",
     "Computer Science/1.8 - Operating Systems",
-    "Maths/2.5 - Hypothesis Testing/Errors.md",
-    "Physics/1.1 - Physics Basics/1.1 - Physics Basics.md",
-    "Physics/1.2 - Kinematics/1.2 - Kinematics.md",
-    "Physics/1.1 - Physics Basics/Derived Quantities.md",
-    "Physics/1.1 - Physics Basics/Base Quantities.md",
-    "Physics/1.1 - Physics Basics/Unit Prefixes.md",
-    "Physics/1.1 - Physics Basics/Topic Keywords.md",
-    "Physics/1.1 - Physics Basics/Uncertainty.md",
     "z_Excerpts/Image/Pasted image 20240117145139.png",
     "Computer Science/1.7 - Database Systems",
-    "Physics/1.6 - Using Radiation to Investigate Stars/Using Radiation to Investigate Stars recap.canvas",
     "Maths/1.8 - Integration/Integration recap.canvas",
     "Computer Science/1.4 - Data representation and data types/Data representation and data types recap.canvas",
     "Computer Science/1.2 - Logical Operators/Boolean Algebra/Logical Operators Recap.canvas",

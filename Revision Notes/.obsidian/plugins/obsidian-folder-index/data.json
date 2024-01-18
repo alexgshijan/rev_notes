@@ -1,6 +1,6 @@
 {
   "disableHeadlines": false,
-  "graphOverwrite": true,
+  "graphOverwrite": false,
   "rootIndexFile": "index.md",
   "autoCreateIndexFile": true,
   "autoRenameIndexFile": true,

@@ -26,3 +26,5 @@ y=-0.05x^2
 In an regular shape made of a single material, the centre of gravity would be the exact centre of the shape. 
 
 However most objects are not truly uniform. The method of finding the centre of gravity of an irregular Lamina is plotting the stable equilibrium point on each dimension
+
+An object will topple over if the line of action of its weight lies outside the base of the object. An object is more stable if it has a low centre of mass

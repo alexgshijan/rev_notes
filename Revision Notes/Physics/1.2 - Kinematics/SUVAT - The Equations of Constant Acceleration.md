@@ -1,6 +1,6 @@
 *Note : SUVAT Equations can only be used with constant acceleration*
 
-*S -* [[Displacement]] 
+*S -* Displacement
 *U -* Initial Velocity
 *V -* Final Velocity 
 *A -* Acceleration
