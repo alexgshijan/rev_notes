@@ -49,7 +49,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/1.1 - Hardware and communication/Networking/Contemporary Protocols.md",
+                "file": "Maths/2.5 - Hypothesis Testing/2.5 - Hypothesis Testing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ca47d62f4a592b85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/1.8 - Operating Systems/1.8 - Operating Systems.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -109,7 +121,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "quarks",
+                "query": "excl",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -146,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/1.1 - Hardware and communication/Networking/Contemporary Protocols.md",
+                "file": "Computer Science/1.8 - Operating Systems/1.8 - Operating Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/1.1 - Hardware and communication/Networking/Contemporary Protocols.md",
+                "file": "Computer Science/1.8 - Operating Systems/1.8 - Operating Systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/1.1 - Hardware and communication/Networking/Contemporary Protocols.md"
+                "file": "Computer Science/1.8 - Operating Systems/1.8 - Operating Systems.md"
               }
             }
           },
@@ -220,36 +232,37 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "62cb3ddd32756618",
+  "active": "ca47d62f4a592b85",
   "lastOpenFiles": [
+    "Computer Science/Computer Science.md",
+    "Maths/2.3 - Probability/2.3 - Probability.md",
+    "Computer Science/1.8 - Operating Systems/1.8 - Operating Systems.md",
+    "Computer Science/1.8 - Operating Systems",
+    "Maths/2.5 - Hypothesis Testing/Errors.md",
+    "Physics/Physics.md",
+    "Physics/1.1 - Physics Basics/1.1 - Physics Basics.md",
+    "Physics/1.2 - Kinematics/1.2 - Kinematics.md",
+    "Physics/1.1 - Physics Basics/Derived Quantities.md",
+    "Physics/1.1 - Physics Basics/Base Quantities.md",
+    "Physics/1.1 - Physics Basics/Unit Prefixes.md",
+    "Physics/1.1 - Physics Basics/Topic Keywords.md",
+    "Physics/1.1 - Physics Basics/Uncertainty.md",
+    "Physics/1.1 - Physics Basics/Homogeneity.md",
+    "Maths/2.5 - Hypothesis Testing/2.5 - Hypothesis Testing.md",
+    "Physics/1.1 - Physics Basics/Errors.md",
+    "Physics/1.1 - Physics Basics/Vector Composites.md",
+    "Physics/1.1 - Physics Basics/\"Maths is useless, unless its for physics\".md",
     "Computer Science/1.1 - Hardware and communication/Networking/Networking.md",
+    "Computer Science/1.1 - Hardware and communication/Networking/Different Scales of Network.md",
+    "Computer Science/1.1 - Hardware and communication/Networking/Contemporary Protocols.md",
+    "Maths/Maths.md",
+    "Physics/2.7 - Photons/Electron Volt.md",
+    "Physics/2.7 - Photons/2.7 - Photons.md",
+    "Computer Science/1.7 - Database Systems/1.7 - Database Systems.md",
     "Computer Science/1.1 - Hardware and communication/PC architecture and fetch-decode-execute cycle/PC architecture and fetch-decode-execute cycle.md",
     "Computer Science/1.1 - Hardware and communication/1.1 - Hardware and communication.md",
-    "Computer Science/1.4 - Data representation and data types/Fixed & Floating Point Numbers/Normalising.md",
-    "Computer Science/1.4 - Data representation and data types/1.4 - Data representation and data types.md",
-    "Computer Science/1.7 - Database Systems/1.7 - Database Systems.md",
-    "Computer Science/1.7 - Database Systems/Normalisation.md",
     "z_Excerpts/Image/Pasted image 20240117145139.png",
-    "Computer Science/1.6 - Organisation of data/1.6 - Organisation of data.md",
-    "Physics/Physics.md",
-    "Physics/1.7 - Particles and Nuclear Structure/1.7 - Particles and Nuclear Structure.md",
-    "Physics/1.7 - Particles and Nuclear Structure/Particle Composition/Quarks.md",
-    "Physics/1.7 - Particles and Nuclear Structure/Particle Composition/Particle Composition.md",
-    "Physics/1.7 - Particles and Nuclear Structure/Annihilation.md",
-    "Physics/1.7 - Particles and Nuclear Structure/Nuclear Interactions - A Comparison.md",
-    "Physics/1.7 - Particles and Nuclear Structure/Conservation of Numbers.md",
-    "Physics/1.6 - Using Radiation to Investigate Stars/1.6 - Using Radiation to Investigate Stars.md",
-    "Physics/1.7 - Particles and Nuclear Structure/Particle Composition/Hadron.md",
-    "Maths/Maths.md",
     "Computer Science/1.7 - Database Systems",
-    "Computer Science/Computer Science.md",
-    "Maths/2.5 - Hypothesis Testing/2.5 - Hypothesis Testing.md",
-    "Maths/2.5 - Hypothesis Testing/One Tail.md",
-    "Maths/2.5 - Hypothesis Testing/Critical Regions.md",
-    "Physics/1.2 - Kinematics/1.2 - Kinematics.md",
-    "Physics/1.1 - Physics Basics/1.1 - Physics Basics.md",
-    "Physics/1.6 - Using Radiation to Investigate Stars/Black Body.md",
-    "Physics/1.6 - Using Radiation to Investigate Stars/Stefan's Law.md",
     "Physics/1.6 - Using Radiation to Investigate Stars/Using Radiation to Investigate Stars recap.canvas",
     "Maths/1.8 - Integration/Integration recap.canvas",
     "Computer Science/1.4 - Data representation and data types/Data representation and data types recap.canvas",
@@ -263,7 +276,6 @@
     "2.1 -",
     "Maths/2.3 - Probability/Probability Booklet - Answers&Notes.pdf",
     "Maths/2.7 - Kinematics",
-    "Maths/2.2 - Data presentation and interpretation",
     "z_Excerpts/Image/Screenshot 2024-01-10 at 12.02.49.png",
     "z_Excerpts/Image/Screenshot 2024-01-10 at 11.53.38.png",
     "z_Excerpts/Image/Screenshot 2024-01-10 at 11.52.50.png",
