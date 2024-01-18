@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/2.7 - Photons/Electron Volt.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/2.7 - Photons/Electron Volt.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/2.7 - Photons/Electron Volt.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/2.7 - Photons/Electron Volt.md"
+                "file": "index.md"
               }
             }
           },
@@ -246,11 +246,11 @@
   },
   "active": "c4cb28eeb628615d",
   "lastOpenFiles": [
+    "Physics/2.7 - Photons/2.7 - Photons.md",
+    "Physics/2.7 - Photons/Electron Volt.md",
     "Physics/1.4 - Energy Concepts/Power.md",
     "Physics/1.6 - Using Radiation to Investigate Stars/Stefan's Law.md",
     "Physics/2.7 - Photons/Photoelectric Effect.md",
-    "Physics/2.7 - Photons/2.7 - Photons.md",
-    "Physics/2.7 - Photons/Electron Volt.md",
     "z_Excerpts/Image/Pasted image 20240118145127.png",
     "Physics/2.4 - The Nature of Waves/Progressive Waves.md",
     "Physics/2.2 - Resistance/2.2 - Resistance.md",
