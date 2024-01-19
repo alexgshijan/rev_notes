@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/2.7 - Photons/Photoelectric Effect.md",
+                "file": "Maths/2.4 - Statistical Distribution/Binomial Distribution.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/2.7 - Photons/Photoelectric Effect.md",
+                "file": "Maths/2.4 - Statistical Distribution/Binomial Distribution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/2.7 - Photons/Photoelectric Effect.md",
+                "file": "Maths/2.4 - Statistical Distribution/Binomial Distribution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/2.7 - Photons/Photoelectric Effect.md"
+                "file": "Maths/2.4 - Statistical Distribution/Binomial Distribution.md"
               }
             }
           },
@@ -161,11 +161,17 @@
   },
   "active": "c4cb28eeb628615d",
   "lastOpenFiles": [
-    "Maths/3.4 - Sequences and Series/Arithmetic.md",
+    "Maths/2.4 - Statistical Distribution/2.4 - Statistical Distribution.md",
+    "Maths/2.5 - Hypothesis Testing/Errors.md",
+    "Maths/2.5 - Hypothesis Testing/2.5 - Hypothesis Testing.md",
+    "Maths/2.4 - Statistical Distribution/Binomial Distribution.md",
+    "Maths/2.4 - Statistical Distribution/Poisson Distribution.md",
+    "Maths/2.4 - Statistical Distribution/Discrete Uniform Distribution.md",
+    "Maths/Maths.md",
     "Physics/2.7 - Photons/Photoelectric Effect.md",
+    "Maths/3.4 - Sequences and Series/Arithmetic.md",
     "Maths/3.4 - Sequences and Series/Geometric.md",
     "Physics/2.7 - Photons/2.7 - Photons.md",
-    "Maths/2.5 - Hypothesis Testing/2.5 - Hypothesis Testing.md",
     "Computer Science/1.7 - Database Systems/1.7 - Database Systems.md",
     "Physics/2.4 - The Nature of Waves/Progressive Waves.md",
     "Physics/2.4 - The Nature of Waves/2.4 - The Nature of Waves.md",
@@ -181,12 +187,6 @@
     "Physics/1.7 - Particles and Nuclear Structure/Annihilation.md",
     "Physics/1.7 - Particles and Nuclear Structure/Nuclear Interactions - A Comparison.md",
     "Physics/1.7 - Particles and Nuclear Structure/Conservation of Numbers.md",
-    "Physics/1.7 - Particles and Nuclear Structure/Particle Composition/Quarks.md",
-    "Physics/1.7 - Particles and Nuclear Structure/Particle Composition/Antiparticles.md",
-    "Physics/1.7 - Particles and Nuclear Structure/Particle Composition/Leptons.md",
-    "Physics/1.7 - Particles and Nuclear Structure/Particle Composition/Hadron.md",
-    "Physics/1.6 - Using Radiation to Investigate Stars/1.6 - Using Radiation to Investigate Stars.md",
-    "Physics/1.6 - Using Radiation to Investigate Stars/Wien's Displacement Law.md",
     "Physics/1.6 - Using Radiation to Investigate Stars/Using Radiation to Investigate Stars recap.canvas",
     "z_Excerpts/Image/Pasted image 20240118145127.png",
     "Computer Science/1.8 - Operating Systems",

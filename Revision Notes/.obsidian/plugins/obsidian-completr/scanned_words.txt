@@ -3490,6 +3490,7 @@ managers
 mPI
 mPP
 mht
+memorise
 plans
 python
 press
