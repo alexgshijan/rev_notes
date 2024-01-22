@@ -11,14 +11,11 @@
             "id": "0be36ee3f94a9a89",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Physics/1.6 - Using Radiation to Investigate Stars/Using Radiation to Investigate Stars recap.canvas",
-                "viewState": {
-                  "x": 660,
-                  "y": 660,
-                  "zoom": -1.45076675751017
-                }
+                "file": "Computer Science/Computer Science.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -51,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "canv",
+                "query": "graph to memo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -89,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/1.6 - Using Radiation to Investigate Stars/Using Radiation to Investigate Stars recap.canvas",
+                "file": "Computer Science/Computer Science.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/1.6 - Using Radiation to Investigate Stars/Using Radiation to Investigate Stars recap.canvas",
+                "file": "Computer Science/Computer Science.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/1.6 - Using Radiation to Investigate Stars/Using Radiation to Investigate Stars recap.canvas"
+                "file": "Computer Science/Computer Science.md"
               }
             }
           },
@@ -165,38 +161,40 @@
   },
   "active": "0be36ee3f94a9a89",
   "lastOpenFiles": [
-    "Computer Science/1.4 - Data representation and data types/Data representation and data types recap.canvas",
-    "Maths/1.8 - Integration/1.8 - Integration.md",
-    "Maths/1.8 - Integration/Integration recap.canvas",
-    "Computer Science/Computer Science.md",
-    "Computer Science/1.2 - Logical Operators/1.2 - Logical Operators.md",
-    "Computer Science/1.2 - Logical Operators/Boolean Algebra/Boolean Algebra.md",
-    "Computer Science/1.2 - Logical Operators/Boolean Algebra/Logical Operators Recap.canvas",
-    "Computer Science/1.2 - Logical Operators/Logic in Registers/Logic in Registers.md",
-    "Physics/1.6 - Using Radiation to Investigate Stars/Using Radiation to Investigate Stars recap.canvas",
     "index.md",
+    "z_Excerpts/z_Excerpts.md",
+    "z_Excerpts/Python/Python.md",
+    "z_Excerpts/Python/save_files/save_files.md",
+    "z_Excerpts/Python/advent_of_code/advent_of_code.md",
+    "z_Excerpts/Image/Image.md",
+    "Physics/Physics.md",
     "Physics/2.7 - Photons/Vacuum photocell.md",
     "Physics/2.7 - Photons/Photoelectric Effect.md",
-    "Physics/1.6 - Using Radiation to Investigate Stars/Electromagnetic Spectrum.md",
-    "Maths/3.1 - Proof by Contradiction/3.1 - Proof by Contradiction.md",
-    "Maths/1.6 - Exponentials and Logarithms/Modelling Exponential Curves.md",
-    "Physics/2.2 - Resistance/Potential Difference.md",
+    "Physics/2.7 - Photons/2.7 - Photons.md",
+    "Physics/2.4 - The Nature of Waves/Progressive Waves.md",
+    "Physics/2.4 - The Nature of Waves/2.4 - The Nature of Waves.md",
     "Physics/2.2 - Resistance/Resistance.md",
+    "Physics/2.2 - Resistance/Potential Difference.md",
     "Physics/2.2 - Resistance/Ohms Law.md",
     "Physics/2.2 - Resistance/2.2 - Resistance.md",
-    "Physics/Physics.md",
-    "Physics/1.3 - Dynamics/1.3 - Dynamics.md",
-    "Maths/1.5 - Trigonometry/1.5 - Trigonometry.md",
-    "Maths/2.9 - Vectors/2.9 - Vectors.md",
-    "Maths/1.9 - Vectors/1.9 - Vectors.md",
+    "Physics/2.1 - Conduction of Electricity/Electron charge.md",
+    "Physics/2.1 - Conduction of Electricity/Drift Velocity.md",
+    "Physics/2.1 - Conduction of Electricity/2.1 - Conduction of Electricity.md",
+    "Physics/1.7 - Particles and Nuclear Structure/Particle Composition.md",
+    "Physics/1.7 - Particles and Nuclear Structure/Annihilation.md",
+    "Physics/1.7 - Particles and Nuclear Structure/1.7 - Particles and Nuclear Structure.md",
+    "Physics/1.6 - Using Radiation to Investigate Stars/Wien's Displacement Law.md",
+    "Physics/1.6 - Using Radiation to Investigate Stars/Using Radiation to Investigate Stars recap.canvas",
+    "Physics/1.6 - Using Radiation to Investigate Stars/Sun's Temperature.md",
+    "Physics/1.6 - Using Radiation to Investigate Stars/Stefan's Law.md",
+    "Physics/1.6 - Using Radiation to Investigate Stars/Spectra.md",
+    "Computer Science/1.4 - Data representation and data types/Data representation and data types recap.canvas",
+    "z_Excerpts/Graph/desmos-graph-3894c0b53e398dc5260ddb3b1bb289262627ba68bc85f64bd073fd84f6e00385.svg",
+    "Maths/1.8 - Integration/Integration recap.canvas",
+    "Computer Science/1.2 - Logical Operators/Boolean Algebra/Logical Operators Recap.canvas",
     "z_Excerpts/Image/Pasted image 20231123142223.png",
-    "Maths/3.1 - Proof by Contradiction/3.1 - Proof.md",
-    "Maths/Maths.md",
     "Maths/3.1 - Proof by Contradiction",
-    "Physics/2.7 - Photons/2.7 - Photons.md",
     "z_Excerpts/Image/Pasted image 20240122094417.png",
-    "Maths/2.5 - Hypothesis Testing/2.5 - Hypothesis Testing.md",
-    "Maths/2.4 - Statistical Distribution/2.4 - Statistical Distribution.md",
     "z_Excerpts/Graph/desmos-graph-f5136915f92e83dd234b0a9949c31dacfe8d54696d77fa1b4e73c68fa1e997ed.svg",
     "z_Excerpts/Graph/desmos-graph-67b32271f00ee033d2b88acdc14675f5095ff2e910d75f7b4aebf3be3e488ccc.svg",
     "z_Excerpts/Graph/desmos-graph-adf5a9987a6aa513587d5cef97cbfd3a1fd9fccbc7605b263ca620d0a0fc2869.svg",
@@ -204,7 +202,6 @@
     "z_Excerpts/Graph/desmos-graph-020f564c52a9deaa7158463307984dc5bc19fce6281db3fde4b2962f53f9a13b.svg",
     "z_Excerpts/Graph/desmos-graph-aa4cb8ce14a399dc5eacb7d9bd9b41ac4762f57501d09fb1299f115aa18fd302.svg",
     "z_Excerpts/Graph/desmos-graph-242583f8c0dc1b84115fc5f7352833f9694a04ce508107349ac6722f24cce994.svg",
-    "z_Excerpts/Graph/desmos-graph-f978e2a0ee6d8461f80c2a036450a9f4f9daab76cc68174ba8a1612af70e399f.svg",
     "Computer Science/1.8 - Operating Systems",
     "Computer Science/1.7 - Database Systems",
     "Physics/2.4 - The Nature of Waves",
