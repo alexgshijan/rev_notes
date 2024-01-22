@@ -340,6 +340,7 @@ Viruses
 VsJ
 Vjg
 VAQ
+Voltmeter
 in
 is
 it
@@ -794,6 +795,7 @@ accept
 arise
 automatically
 alongside
+ammeter
 only
 on
 odd
@@ -1343,6 +1345,9 @@ renamed
 rk
 rNv
 rwe
+reaching
+reach
+rational
 bank
 be
 but
@@ -2537,6 +2542,10 @@ slowing
 shone
 sfp
 sdT
+shows
+stopping
+stops
+stopped
 It
 Identities
 Information
@@ -2696,6 +2705,7 @@ Iwl
 Individual
 Inconsistency
 Interactions
+Increase
 currently
 contain
 co
@@ -3012,6 +3022,7 @@ chances
 critical
 concerned
 cIH
+contradict
 doesn
 determined
 data
@@ -3963,6 +3974,7 @@ electronVolt
 eUG
 eLl
 ewceB
+electrode
 uk
 using
 unified
@@ -4272,6 +4284,8 @@ Progressive
 Phone
 Prefixes
 PCZ
+Plot
+Prime
 Sine
 Stands
 Standard
@@ -4457,6 +4471,7 @@ Software
 Stellar
 Sed
 SLM
+Shine
 Rule
 Real
 Routes
@@ -4601,6 +4616,7 @@ Relational
 Rejecting
 RIW
 RLq
+Read
 Note
 Negatives
 Normalising
@@ -5063,6 +5079,7 @@ filtering
 firewall
 fJJ
 fIe
+finite
 Graph
 Good
 Graphics
@@ -7468,6 +7485,7 @@ virus
 viruses
 visible
 vXzV
+voltage
 We
 When
 Where

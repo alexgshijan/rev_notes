@@ -10,6 +10,8 @@ The work function ( $\phi$ ) of a surface is the minimum energy needed to remove
 Any energy left over will be the kinetic energy of the ejected photoelectron $E_{k\text{ max}}$
 The threshold frequency ($f_0$) is the minimum frequency of a photon that will cause the emission of an electron from a metal surface
 
-![Photoelectric effect gif](https://www.electricity-magnetism.org/wp-content/uploads/2023/02/photoelectric-effect-animated-1.gif)
-
 We can plot $E_{k\text{ max}}=hf-\phi$ on a graph, modelled as $y=mx+c$
+
+
+
+![Photoelectric effect gif](https://www.electricity-magnetism.org/wp-content/uploads/2023/02/photoelectric-effect-animated-1.gif)

@@ -1,22 +1,37 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
-  "showAttachments": false,
-  "hideUnresolved": false,
+  "showAttachments": true,
+  "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
-  "collapse-display": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#wip  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "line:(index)",
+      "color": {
+        "a": 1,
+        "rgb": 11951318
+      }
+    }
+  ],
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.2369384765625,
-  "repelStrength": 9.9951171875,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 8,
+  "centerStrength": 0.271077473958333,
+  "repelStrength": 8.8818359375,
+  "linkStrength": 0.757527669270833,
+  "linkDistance": 234,
+  "scale": 0.7921256026054337,
   "close": false
 }

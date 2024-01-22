@@ -13,13 +13,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Maths.md",
+                "file": "Physics/2.7 - Photons/Photoelectric Effect.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "aa5ffca7641ca133",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Maths/1.8 - Integration/Integration recap.canvas",
+                "viewState": {
+                  "x": -1243.63790044018,
+                  "y": 303.56183832335347,
+                  "zoom": -0.7913461852380613
+                }
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "wip",
+                "query": "visible",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/Maths.md",
+                "file": "Maths/1.8 - Integration/Integration recap.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Maths.md",
+                "file": "Maths/1.8 - Integration/Integration recap.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Maths.md"
+                "file": "Maths/1.8 - Integration/Integration recap.canvas"
               }
             }
           },
@@ -159,8 +175,23 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "c4cb28eeb628615d",
+  "active": "aa5ffca7641ca133",
   "lastOpenFiles": [
+    "Maths/1.8 - Integration/1.8 - Integration.md",
+    "Maths/1.9 - Vectors/1.9 - Vectors.md",
+    "Maths/2.9 - Vectors/2.9 - Vectors.md",
+    "Maths/3.1 - Proof by Contradiction/3.1 - Proof by Contradiction.md",
+    "z_Excerpts/Image/Pasted image 20231123142223.png",
+    "Maths/3.1 - Proof by Contradiction/3.1 - Proof.md",
+    "Maths/Maths.md",
+    "Maths/3.1 - Proof by Contradiction",
+    "Physics/Physics.md",
+    "Physics/2.2 - Resistance/Ohms Law.md",
+    "Physics/2.7 - Photons/Vacuum photocell.md",
+    "Physics/2.7 - Photons/2.7 - Photons.md",
+    "z_Excerpts/Image/Pasted image 20240122094417.png",
+    "Physics/2.7 - Photons/Photoelectric Effect.md",
+    "Physics/1.6 - Using Radiation to Investigate Stars/Electromagnetic Spectrum.md",
     "Maths/2.5 - Hypothesis Testing/2.5 - Hypothesis Testing.md",
     "Maths/2.4 - Statistical Distribution/2.4 - Statistical Distribution.md",
     "Maths/1.6 - Exponentials and Logarithms/Modelling Exponential Curves.md",
@@ -177,27 +208,13 @@
     "z_Excerpts/Graph/desmos-graph-aa4cb8ce14a399dc5eacb7d9bd9b41ac4762f57501d09fb1299f115aa18fd302.svg",
     "z_Excerpts/Graph/desmos-graph-242583f8c0dc1b84115fc5f7352833f9694a04ce508107349ac6722f24cce994.svg",
     "z_Excerpts/Graph/desmos-graph-f978e2a0ee6d8461f80c2a036450a9f4f9daab76cc68174ba8a1612af70e399f.svg",
-    "z_Excerpts/Graph/desmos-graph-1ddcfc56ff5109188e13937df31d722384e0761a2751336415159860abdde6f2.svg",
-    "z_Excerpts/Graph/desmos-graph-a0edf2f7f7234ff3e1a8a0e252ab9674199e7213d0ce96d5b99c626bd7f87d8b.svg",
     "Maths/2.4 - Statistical Distribution/Binomial Distribution.md",
-    "Physics/2.7 - Photons/Photoelectric Effect.md",
-    "Physics/2.7 - Photons/2.7 - Photons.md",
     "Physics/2.2 - Resistance/2.2 - Resistance.md",
     "Physics/1.7 - Particles and Nuclear Structure/Particle Composition.md",
     "Physics/1.7 - Particles and Nuclear Structure/1.7 - Particles and Nuclear Structure.md",
     "Physics/1.6 - Using Radiation to Investigate Stars/Using Radiation to Investigate Stars recap.canvas",
     "Physics/1.6 - Using Radiation to Investigate Stars/Radio Astronomy.md",
     "Physics/1.6 - Using Radiation to Investigate Stars/1.6 - Using Radiation to Investigate Stars.md",
-    "Physics/1.4 - Energy Concepts/Work-Energy Relationship.md",
-    "Physics/1.4 - Energy Concepts/1.4 - Energy Concepts.md",
-    "Physics/1.2 - Kinematics/SUVAT - The Equations of Constant Acceleration.md",
-    "Physics/1.1 - Physics Basics/1.1 - Physics Basics.md",
-    "Maths/3.4 - Sequences and Series/Geometric.md",
-    "Maths/3.4 - Sequences and Series/Arithmetic.md",
-    "Maths/2.5 - Hypothesis Testing/Errors.md",
-    "Computer Science/1.8 - Operating Systems/1.8 - Operating Systems.md",
-    "Computer Science/1.7 - Database Systems/1.7 - Database Systems.md",
-    "Computer Science/1.1 - Hardware and communication/Networking/Contemporary Protocols.md",
     "Computer Science/1.8 - Operating Systems",
     "Computer Science/1.7 - Database Systems",
     "Maths/1.8 - Integration/Integration recap.canvas",
@@ -211,7 +228,6 @@
     "2.2 - Tkinter",
     "2.1 -",
     "Maths/2.3 - Probability/Probability Booklet - Answers&Notes.pdf",
-    "Maths/2.7 - Kinematics",
     "Physics/1.7 - Particles and Nuclear Structure/Particles and Nuclear Structure.canvas",
     "Computer Science/Prac/Untitled.canvas",
     "Physics/Physics Revision.canvas",
