@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/2.4 - Statistical Distribution/Binomial Distribution.md",
+                "file": "Maths/Maths.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/2.4 - Statistical Distribution/Binomial Distribution.md",
+                "file": "Maths/Maths.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/2.4 - Statistical Distribution/Binomial Distribution.md",
+                "file": "Maths/Maths.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/2.4 - Statistical Distribution/Binomial Distribution.md"
+                "file": "Maths/Maths.md"
               }
             }
           },
@@ -161,6 +161,25 @@
   },
   "active": "c4cb28eeb628615d",
   "lastOpenFiles": [
+    "Maths/2.5 - Hypothesis Testing/2.5 - Hypothesis Testing.md",
+    "Maths/2.4 - Statistical Distribution/2.4 - Statistical Distribution.md",
+    "Maths/1.6 - Exponentials and Logarithms/Modelling Exponential Curves.md",
+    "Maths/1.5 - Trigonometry/1.5 - Trigonometry.md",
+    "Physics/1.3 - Dynamics/Center of Gravity.md",
+    "Maths/1.2 - Algebra and Functions/Polynomials/Quadratics/The nature of roots.md",
+    "Maths/1.6 - Exponentials and Logarithms/Graphs to memorise.md",
+    "Maths/1.6 - Exponentials and Logarithms/Exponential Functions.md",
+    "z_Excerpts/Graph/desmos-graph-f5136915f92e83dd234b0a9949c31dacfe8d54696d77fa1b4e73c68fa1e997ed.svg",
+    "z_Excerpts/Graph/desmos-graph-67b32271f00ee033d2b88acdc14675f5095ff2e910d75f7b4aebf3be3e488ccc.svg",
+    "z_Excerpts/Graph/desmos-graph-adf5a9987a6aa513587d5cef97cbfd3a1fd9fccbc7605b263ca620d0a0fc2869.svg",
+    "z_Excerpts/Graph/desmos-graph-7e74c2fa5e4d2422b1ff1ffbdb7c3fdebd202edac7d088ea3c865d52fd75bfda.svg",
+    "z_Excerpts/Graph/desmos-graph-020f564c52a9deaa7158463307984dc5bc19fce6281db3fde4b2962f53f9a13b.svg",
+    "z_Excerpts/Graph/desmos-graph-aa4cb8ce14a399dc5eacb7d9bd9b41ac4762f57501d09fb1299f115aa18fd302.svg",
+    "z_Excerpts/Graph/desmos-graph-242583f8c0dc1b84115fc5f7352833f9694a04ce508107349ac6722f24cce994.svg",
+    "z_Excerpts/Graph/desmos-graph-f978e2a0ee6d8461f80c2a036450a9f4f9daab76cc68174ba8a1612af70e399f.svg",
+    "z_Excerpts/Graph/desmos-graph-1ddcfc56ff5109188e13937df31d722384e0761a2751336415159860abdde6f2.svg",
+    "z_Excerpts/Graph/desmos-graph-a0edf2f7f7234ff3e1a8a0e252ab9674199e7213d0ce96d5b99c626bd7f87d8b.svg",
+    "Maths/2.4 - Statistical Distribution/Binomial Distribution.md",
     "Physics/2.7 - Photons/Photoelectric Effect.md",
     "Physics/2.7 - Photons/2.7 - Photons.md",
     "Physics/2.2 - Resistance/2.2 - Resistance.md",
@@ -171,26 +190,15 @@
     "Physics/1.6 - Using Radiation to Investigate Stars/1.6 - Using Radiation to Investigate Stars.md",
     "Physics/1.4 - Energy Concepts/Work-Energy Relationship.md",
     "Physics/1.4 - Energy Concepts/1.4 - Energy Concepts.md",
-    "Physics/1.3 - Dynamics/Center of Gravity.md",
     "Physics/1.2 - Kinematics/SUVAT - The Equations of Constant Acceleration.md",
     "Physics/1.1 - Physics Basics/1.1 - Physics Basics.md",
     "Maths/3.4 - Sequences and Series/Geometric.md",
     "Maths/3.4 - Sequences and Series/Arithmetic.md",
     "Maths/2.5 - Hypothesis Testing/Errors.md",
-    "Maths/2.5 - Hypothesis Testing/2.5 - Hypothesis Testing.md",
-    "Maths/2.4 - Statistical Distribution/2.4 - Statistical Distribution.md",
     "Computer Science/1.8 - Operating Systems/1.8 - Operating Systems.md",
     "Computer Science/1.7 - Database Systems/1.7 - Database Systems.md",
     "Computer Science/1.1 - Hardware and communication/Networking/Contemporary Protocols.md",
-    "Maths/2.4 - Statistical Distribution/Binomial Distribution.md",
-    "Maths/2.4 - Statistical Distribution/Poisson Distribution.md",
-    "Maths/2.4 - Statistical Distribution/Discrete Uniform Distribution.md",
-    "Maths/Maths.md",
-    "Physics/2.4 - The Nature of Waves/Progressive Waves.md",
-    "Physics/2.4 - The Nature of Waves/2.4 - The Nature of Waves.md",
-    "z_Excerpts/Image/Pasted image 20240118145127.png",
     "Computer Science/1.8 - Operating Systems",
-    "z_Excerpts/Image/Pasted image 20240117145139.png",
     "Computer Science/1.7 - Database Systems",
     "Maths/1.8 - Integration/Integration recap.canvas",
     "Computer Science/1.4 - Data representation and data types/Data representation and data types recap.canvas",
@@ -204,14 +212,6 @@
     "2.1 -",
     "Maths/2.3 - Probability/Probability Booklet - Answers&Notes.pdf",
     "Maths/2.7 - Kinematics",
-    "z_Excerpts/Image/Screenshot 2024-01-10 at 12.02.49.png",
-    "z_Excerpts/Image/Screenshot 2024-01-10 at 11.53.38.png",
-    "z_Excerpts/Image/Screenshot 2024-01-10 at 11.52.50.png",
-    "z_Excerpts/Image/Screenshot 2024-01-10 at 11.45.45.png",
-    "z_Excerpts/Image/Screenshot 2024-01-10 at 11.44.00.png",
-    "z_Excerpts/Image/Pasted image 20240109114354.png",
-    "z_Excerpts/Image/Pasted image 20231005123628.png",
-    "z_Excerpts/Image/Pasted image 20231005123527.png",
     "Physics/1.7 - Particles and Nuclear Structure/Particles and Nuclear Structure.canvas",
     "Computer Science/Prac/Untitled.canvas",
     "Physics/Physics Revision.canvas",
