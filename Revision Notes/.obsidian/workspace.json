@@ -8,43 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0be36ee3f94a9a89",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physics/Physics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6e9312642a238fad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maths/3.2 - Algebra and Functions/3.2 - Algebra and Functions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "eeb4b0f21a5ea006",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/3.4 - Sequences and Series/Geometric.md",
+                "file": "Physics/2.4 - The Nature of Waves/2.4 - The Nature of Waves.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "43f6202a82a0fb69",
+            "id": "cf46a6cfbe7b2e89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/2.A - Practical/2.A - Practical.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8c6fe17a88f7349c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/2.A - Practical/Entity Relationship Diagrams.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7f975bfa422d64c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -56,55 +56,43 @@
             }
           },
           {
-            "id": "40c9aa4fd95b4c9f",
+            "id": "ce231fb0ec87f504",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/1.8 - Operating Systems/1.8 - Operating Systems.md",
+                "file": "Computer Science/1.8 - Operating Systems/Backing Store.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "69ea6c24db6090a1",
+            "id": "4a76e98dbf1493a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/1.8 - Operating Systems/1.8 - Operating Systems.md",
+                "file": "Physics/1.7 - Particles and Nuclear Structure/Particle Composition.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6340db45bc9a80f9",
+            "id": "56be4dbbdefba3f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/3.2 - Algebra and Functions/Partial Fractions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9ae10369e4e1b4fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maths/3.2 - Algebra and Functions/The Modulus Function.md",
+                "file": "Maths/1.5 - Trigonometry/1.5 - Trigonometry.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -133,7 +121,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "graph to memo",
+                "query": "trigon",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -170,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/3.4 - Sequences and Series/Geometric.md",
+                "file": "Physics/1.7 - Particles and Nuclear Structure/Particle Composition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/3.4 - Sequences and Series/Geometric.md",
+                "file": "Physics/1.7 - Particles and Nuclear Structure/Particle Composition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/3.4 - Sequences and Series/Geometric.md"
+                "file": "Physics/1.7 - Particles and Nuclear Structure/Particle Composition.md"
               }
             }
           },
@@ -244,58 +232,59 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "eeb4b0f21a5ea006",
+  "active": "4a76e98dbf1493a2",
   "lastOpenFiles": [
-    "Maths/3.2 - Algebra and Functions/The Modulus Function.md",
-    "Untitled.canvas",
-    "Maths/3.4 - Sequences and Series/Geometric.md",
-    "z_Excerpts/Graph/desmos-graph-e61c4f89e35818b976ba429faf021fdca17271d3c46477ddb04ad8b297a89363.svg",
-    "z_Excerpts/Graph/desmos-graph-f52c5de4b8237df1fdf7b0f42fc8263f11efdcef4533dcf1a91cea6d74012024.svg",
+    "Physics/1.7 - Particles and Nuclear Structure/Annihilation.md",
+    "Physics/1.7 - Particles and Nuclear Structure/1.7 - Particles and Nuclear Structure.md",
+    "Physics/1.6 - Using Radiation to Investigate Stars/Using Radiation to Investigate Stars recap.canvas",
+    "Physics/1.6 - Using Radiation to Investigate Stars/1.6 - Using Radiation to Investigate Stars.md",
+    "Physics/2.4 - The Nature of Waves/Progressive Waves.md",
+    "Physics/2.4 - The Nature of Waves/Phase difference.md",
+    "Physics/2.4 - The Nature of Waves/2.4 - The Nature of Waves.md",
+    "Physics/2.2 - Resistance/2.2 - Resistance.md",
+    "Physics/Physics.md",
+    "Maths/3.1 - Proof by Contradiction/3.1 - Proof by Contradiction.md",
+    "Maths/3.4 - Sequences and Series/3.4 - Sequences and Series.md",
     "Maths/3.2 - Algebra and Functions/Partial Fractions.md",
+    "Maths/3.2 - Algebra and Functions/The Modulus Function.md",
+    "Maths/1.2 - Algebra and Functions/Polynomials/Polynomials.md",
+    "Maths/1.2 - Algebra and Functions/1.2 - Algebra and Functions.md",
+    "Maths/3.5 - Trigonometry/3.5 - Trigonometry.md",
+    "Maths/1.5 - Trigonometry/1.5 - Trigonometry.md",
+    "Maths/1.6 - Exponentials and Logarithms/1.6 - Exponentials and Logarithms.md",
+    "z_Excerpts/Image/Pasted image 20240126124828.png",
     "Maths/Maths.md",
+    "Maths/3.5 - Trigonometry",
     "Computer Science/Computer Science.md",
+    "Computer Science/1.8 - Operating Systems/1.8 - Operating Systems.md",
+    "Computer Science/1.8 - Operating Systems/Interrupts.md",
+    "Computer Science/1.8 - Operating Systems/Backing Store.md",
+    "Computer Science/1.8 - Operating Systems/File attributes.md",
     "Computer Science/1.8 - Operating Systems/Resource Management.md",
     "Computer Science/1.8 - Operating Systems/Utility Software.md",
-    "Computer Science/1.8 - Operating Systems/File attributes.md",
-    "Computer Science/1.8 - Operating Systems/1.8 - Operating Systems.md",
+    "z_Excerpts/Image/Pasted image 20240126120422.png",
+    "z_Excerpts/Image/Pasted image 20240126120344.png",
+    "Computer Science/2.A - Practical/Data Structures.md",
+    "z_Excerpts/Image/Screenshot 2024-01-26 at 09.36.49.png",
+    "z_Excerpts/Image/Screenshot 2024-01-26 at 09.36.39.png",
+    "z_Excerpts/Image/Screenshot 2024-01-26 at 09.36.19.png",
+    "z_Excerpts/Image/Screenshot 2024-01-26 at 09.35.57.png",
+    "z_Excerpts/Image/Screenshot 2024-01-26 at 09.35.37.png",
+    "z_Excerpts/Graph/desmos-graph-e48893c90b4b6c480eeb6a50012bc83c59c22e5975601724296756b7c925d228.svg",
+    "z_Excerpts/Graph/desmos-graph-547be4c3d189f6bcc2278a8f3675984cf1ae2c6c1c0c6e10cd641ed36b14122b.svg",
+    "Untitled.canvas",
     "z_Excerpts/Python/bubble_sort.py",
     "z_Excerpts/Python/advent_of_code/merge_sort.py",
-    "Maths/3.4 - Sequences and Series/Arithmetic.md",
-    "Maths/3.4 - Sequences and Series/3.4 - Sequences and Series.md",
-    "Maths/3.2 - Algebra and Functions/3.2 - Algebra and Functions.md",
-    "Maths/3.4 - Sequences and Series/Sum to infinity.md",
-    "Maths/1.8 - Integration/1.8 - Integration.md",
-    "Maths/3.1 - Proof by Contradiction/3.1 - Proof by Contradiction.md",
     "Maths/3.2 - Algebra and Functions",
-    "Physics/Physics.md",
-    "Physics/2.2 - Resistance/2.2 - Resistance.md",
-    "Physics/2.2 - Resistance/Ohms Law.md",
-    "Physics/2.2 - Resistance/Resistance.md",
-    "Physics/2.2 - Resistance/Potential Difference.md",
-    "Physics/2.2 - Resistance/Untitled.md",
-    "index.md",
-    "z_Excerpts/z_Excerpts.md",
-    "z_Excerpts/Python/Python.md",
-    "z_Excerpts/Python/save_files/save_files.md",
-    "Physics/1.6 - Using Radiation to Investigate Stars/Using Radiation to Investigate Stars recap.canvas",
     "Computer Science/1.4 - Data representation and data types/Data representation and data types recap.canvas",
-    "z_Excerpts/Graph/desmos-graph-3894c0b53e398dc5260ddb3b1bb289262627ba68bc85f64bd073fd84f6e00385.svg",
     "Maths/1.8 - Integration/Integration recap.canvas",
     "Computer Science/1.2 - Logical Operators/Boolean Algebra/Logical Operators Recap.canvas",
-    "z_Excerpts/Image/Pasted image 20231123142223.png",
     "Maths/3.1 - Proof by Contradiction",
-    "z_Excerpts/Image/Pasted image 20240122094417.png",
-    "z_Excerpts/Graph/desmos-graph-f5136915f92e83dd234b0a9949c31dacfe8d54696d77fa1b4e73c68fa1e997ed.svg",
-    "z_Excerpts/Graph/desmos-graph-67b32271f00ee033d2b88acdc14675f5095ff2e910d75f7b4aebf3be3e488ccc.svg",
-    "z_Excerpts/Graph/desmos-graph-adf5a9987a6aa513587d5cef97cbfd3a1fd9fccbc7605b263ca620d0a0fc2869.svg",
-    "z_Excerpts/Graph/desmos-graph-7e74c2fa5e4d2422b1ff1ffbdb7c3fdebd202edac7d088ea3c865d52fd75bfda.svg",
-    "z_Excerpts/Graph/desmos-graph-020f564c52a9deaa7158463307984dc5bc19fce6281db3fde4b2962f53f9a13b.svg",
     "Computer Science/1.8 - Operating Systems",
     "Computer Science/1.7 - Database Systems",
     "Physics/2.4 - The Nature of Waves",
     "Maths/2.5 - Hypothesis Testing",
     "Maths/3.4 - Sequences and Series",
-    "Physics/2.7 - Photons",
     "Maths/2.3 - Probability/Probability Recap.canvas",
     "Physics/1.7 - Particles and Nuclear Structure/Particles and Nuclear Structure.canvas",
     "Computer Science/Prac/Untitled.canvas",

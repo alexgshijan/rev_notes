@@ -19,7 +19,3 @@ Relationships are how *entities interact or relate to each other* within the sys
 
 **Data redundancy and data inconsistencies are an issue when working with large data bases.**
 A method of dealing with that is by using link tables to turn a many-to-many relation into a one-to-many - many-to-one
-
-Contents:
-```folder-index-content
-```
