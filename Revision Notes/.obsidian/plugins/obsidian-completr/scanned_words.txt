@@ -566,6 +566,7 @@ interrupts
 interrupt
 infinite
 interference
+inclusive
 app
 adding
 are
@@ -820,6 +821,9 @@ altogether
 advanced
 aswell
 antiphase
+active
+associate
+array
 only
 on
 odd
@@ -978,6 +982,8 @@ organised
 overlap
 opposes
 oscillates
+online
+obstacles
 This
 Tan
 These
@@ -1385,6 +1391,7 @@ rights
 remaining
 repeats
 radian
+roughly
 bank
 be
 but
@@ -1562,6 +1569,7 @@ bases
 block
 beA
 batteries
+books
 that
 throughout
 the
@@ -1815,6 +1823,7 @@ terminator
 trigger
 tan
 transverse
+teacher
 ll
 lot
 languages
@@ -2007,6 +2016,8 @@ lKG
 logarithmic
 logarithms
 limitations
+librarian
+library
 working
 when
 wip
@@ -2171,6 +2182,8 @@ whereas
 wrong
 wVK
 won
+weeks
+wavefront
 year
 you
 years
@@ -2605,6 +2618,13 @@ sector
 sin
 strongly
 superposition
+school
+selling
+spreading
+slit
+shadows
+semi
+states
 It
 Identities
 Information
@@ -2768,6 +2788,7 @@ Increase
 Interrupts
 ISR
 Interference
+Inequalities
 currently
 contain
 co
@@ -3098,6 +3119,11 @@ calling
 cos
 component
 constructive
+classic
+class
+coherent
+circular
+commands
 doesn
 determined
 data
@@ -3372,6 +3398,7 @@ deletion
 drivers
 deal
 destructive
+displacements
 many
 mailto
 main
@@ -3595,6 +3622,8 @@ managed
 manner
 modified
 modulus
+modes
+monochromatic
 plans
 python
 press
@@ -3848,6 +3877,10 @@ printer
 processes
 priority
 pointer
+probably
+pupils
+principle
+pseudocode
 expand
 even
 each
@@ -4590,6 +4623,10 @@ Sorting
 Space
 Start
 Solving
+Single
+Similar
+Scenario
+Small
 Rule
 Real
 Routes
@@ -4739,6 +4776,7 @@ Replacing
 Removing
 Resource
 Resistivity
+Reason
 Note
 Negatives
 Normalising
@@ -5013,6 +5051,10 @@ Archive
 Anything
 Altered
 Allocation
+Although
+Arc
+Angle
+Approximation
 for
 finding
 function
@@ -5213,6 +5255,7 @@ filing
 folder
 future
 functions
+flowcharts
 Graph
 Good
 Graphics
@@ -6166,6 +6209,7 @@ Disk
 Distances
 Decision
 Different
+Diffraction
 Unicode
 Used
 UCS
@@ -6452,6 +6496,7 @@ BwUN
 BgY
 Backing
 Backed
+Batch
 needs
 needed
 number
@@ -6587,6 +6632,8 @@ normalised
 null
 nzQs
 necessary
+networked
+niche
 Many
 More
 Mail
@@ -6908,6 +6955,7 @@ gold
 gfZ
 gmT
 graphics
+geometrical
 Floats
 Float
 Full
@@ -7502,6 +7550,7 @@ Outlier
 OHh
 Os
 Organising
+OSs
 value
 very
 valued
@@ -7645,6 +7694,7 @@ vXzV
 voltage
 vibrational
 view
+variety
 We
 When
 Where

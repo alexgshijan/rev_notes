@@ -13,11 +13,11 @@ y=-\cos(x)
 ```
 
 *To describe the phase difference of two waves, we say it in terms of wavelength or as an angle*
-- A phase difference of 0˚ is called *in phase*
+- A phase difference of 0˚ is called *in phase* or *coherent*
 	- If in superposition, this is called *constructive Interference*
 	- The superposition will be 'double' of their original wave
-- A phase difference of 180˚ is called *in antiphase*
+- A phase difference of 180˚ is called *in anti-phase*
 	- If in superposition, this is called *destructive interference*
 	- The superposition will be nothing as the waves eliminate each other
 - Any other phase difference 
-	- This superposition will generate a new wave
+	- This superposition will generate a new wave which is the vector sum

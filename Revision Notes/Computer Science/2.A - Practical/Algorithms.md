@@ -1,0 +1,1 @@
+An algorithm is a *set of instructions or commands for solving a particular problem or task, usually in the context of computers*. They can be represented using pseudocode, flowcharts or actual program code in a particular programming language

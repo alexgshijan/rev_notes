@@ -17,3 +17,11 @@ There is a degree of overlap with [[1.7 - Database Systems]]
 | A  teacher storing test results for a class of 20 pupils | 2D array | Single data type needed, storing multiple items of information |
 | An online shop storing data about the items they are selling | Record | Multiple data types needed, storing related information about a single entity |
 | An individual keeping track of their times on a 5K run over a number of weeks | 1D array | Single data type needed, storing multiple items of information |
+
+**Validation**
+*Lookup* - Select from a number of set options
+*Type* -  Checking that the appropriate data type has been used
+*Format* -  Is the data in a particular format (e.g. car registration LL00 LLL)
+*Range* -  Are the numbers within lower and upper limits
+*Length* -  Is the data in the field not longer than a given value
+*Presence* -  Has anything been entered?

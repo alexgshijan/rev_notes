@@ -2,13 +2,13 @@
 	"nodes":[
 		{"id":"3a797c9809664002","type":"file","file":"Physics/1.6 - Using Radiation to Investigate Stars/Wien's Displacement Law.md","x":79,"y":360,"width":642,"height":481,"color":"6"},
 		{"id":"c24e906b0f76ae1e","type":"file","file":"Physics/1.6 - Using Radiation to Investigate Stars/Stefan's Law.md","x":760,"y":360,"width":604,"height":420,"color":"6"},
-		{"id":"5fb5759de4af8690","type":"file","file":"Physics/1.6 - Using Radiation to Investigate Stars/Inverse Square Law.md","x":200,"y":880,"width":521,"height":540,"color":"6"},
-		{"id":"02b399bccb92847b","type":"file","file":"Physics/1.6 - Using Radiation to Investigate Stars/Sun's Temperature.md","x":1420,"y":-240,"width":560,"height":1020,"color":"4"},
 		{"id":"26420c164d47da05","type":"file","file":"Physics/1.6 - Using Radiation to Investigate Stars/Black Body.md","x":644,"y":-200,"width":720,"height":520,"color":"3"},
 		{"id":"27856fabd4c62749","type":"file","file":"Physics/1.6 - Using Radiation to Investigate Stars/Spectra.md","x":-360,"y":-180,"width":960,"height":500,"color":"3"},
-		{"id":"3ad3b730559f054f","type":"file","file":"Physics/1.6 - Using Radiation to Investigate Stars/Radio Astronomy.md","x":-1000,"y":366,"width":1000,"height":1098,"color":"3"},
-		{"id":"de7954a2dc7f4ad0","type":"file","file":"z_Excerpts/Image/Pasted image 20231123142223.png","x":756,"y":960,"width":608,"height":380,"color":"6"},
-		{"id":"f735d418dd03d060","type":"file","file":"Physics/1.6 - Using Radiation to Investigate Stars/1.6 - Using Radiation to Investigate Stars.md","x":1420,"y":915,"width":900,"height":645,"color":"3"}
+		{"id":"3ad3b730559f054f","type":"file","file":"Physics/1.6 - Using Radiation to Investigate Stars/Radio Astronomy.md","x":-960,"y":366,"width":1000,"height":1098,"color":"3"},
+		{"id":"5fb5759de4af8690","type":"file","file":"Physics/1.6 - Using Radiation to Investigate Stars/Inverse Square Law.md","x":79,"y":880,"width":521,"height":540,"color":"6"},
+		{"id":"f735d418dd03d060","type":"file","file":"Physics/1.6 - Using Radiation to Investigate Stars/1.6 - Using Radiation to Investigate Stars.md","x":1280,"y":880,"width":900,"height":645,"color":"3"},
+		{"id":"02b399bccb92847b","type":"file","file":"Physics/1.6 - Using Radiation to Investigate Stars/Sun's Temperature.md","x":1400,"y":-240,"width":560,"height":1020,"color":"4"},
+		{"id":"de7954a2dc7f4ad0","type":"file","file":"z_Excerpts/Image/Pasted image 20231123142223.png","x":644,"y":880,"width":608,"height":380,"color":"6"}
 	],
 	"edges":[
 		{"id":"1b85e6345df32449","fromNode":"26420c164d47da05","fromSide":"top","toNode":"02b399bccb92847b","toSide":"top","color":"4"},

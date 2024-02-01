@@ -1,4 +1,4 @@
- All other quantities are derived quantities and are based on two or more of the [[Base Quantities]] , derived using an equation. Refer to the [[Rules of Indicies]] 
+ All other quantities are derived quantities and are based on two or more of the Base Quantities , derived using an equation. Refer to the [[Rules of Indicies]] 
 
 Derived Quantity Examples : 
 - Velocity
