@@ -567,6 +567,7 @@ interrupt
 infinite
 interference
 inclusive
+interpreter
 app
 adding
 are
@@ -824,6 +825,7 @@ antiphase
 active
 associate
 array
+abstraction
 only
 on
 odd
@@ -984,6 +986,7 @@ opposes
 oscillates
 online
 obstacles
+oriented
 This
 Tan
 These
@@ -1392,6 +1395,7 @@ remaining
 repeats
 radian
 roughly
+reusable
 bank
 be
 but
@@ -1824,6 +1828,7 @@ trigger
 tan
 transverse
 teacher
+translate
 ll
 lot
 languages
@@ -2018,6 +2023,7 @@ logarithms
 limitations
 librarian
 library
+loader
 working
 when
 wip
@@ -2625,6 +2631,7 @@ slit
 shadows
 semi
 states
+strap
 It
 Identities
 Information
@@ -2789,6 +2796,7 @@ Interrupts
 ISR
 Interference
 Inequalities
+Identifiers
 currently
 contain
 co
@@ -3124,6 +3132,7 @@ class
 coherent
 circular
 commands
+compiler
 doesn
 determined
 data
@@ -3399,6 +3408,7 @@ drivers
 deal
 destructive
 displacements
+driven
 many
 mailto
 main
@@ -3624,6 +3634,9 @@ modified
 modulus
 modes
 monochromatic
+meaningful
+modules
+modulesProgramming
 plans
 python
 press
@@ -3881,6 +3894,8 @@ probably
 pupils
 principle
 pseudocode
+procedural
+paradigms
 expand
 even
 each
@@ -4112,6 +4127,8 @@ estimate
 exponential
 equiv
 eliminate
+execution
+executable
 uk
 using
 unified
@@ -4252,6 +4269,7 @@ utS
 uy
 utilise
 useful
+understand
 Page
 Please
 Preferred
@@ -4777,6 +4795,7 @@ Removing
 Resource
 Resistivity
 Reason
+Requires
 Note
 Negatives
 Normalising
@@ -5793,6 +5812,8 @@ EYm
 Ensuring
 Explorer
 ECD
+Easier
+English
 key
 know
 keyboard
@@ -6341,6 +6362,7 @@ Utility
 Understand
 Utilising
 Unpolarised
+Usually
 Binary
 Boolean
 Bluetooth
@@ -6795,6 +6817,7 @@ MOMW
 Maintaining
 Management
 Manipulation
+Machine
 give
 generally
 get
@@ -7229,6 +7252,9 @@ Lift
 Longitudinal
 Leaf
 LNi
+Low
+Level
+Little
 You
 Yottabyte
 Young
@@ -7695,6 +7721,7 @@ voltage
 vibrational
 view
 variety
+visual
 We
 When
 Where
@@ -7994,6 +8021,7 @@ Hydrogen
 Hg
 Hidden
 Hardware
+High
 KB
 Keyboard
 Kilobyte

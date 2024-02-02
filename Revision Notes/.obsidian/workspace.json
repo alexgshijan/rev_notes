@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e5ba74231b9612a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/1.10 - Principles of programming/Types of Languages.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "274961fa26abca7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physics/1.1 - Physics Basics/1.1 - Physics Basics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -48,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "micro",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +90,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/1.10 - Principles of programming/1.10 - Principles of programming.md",
+                "file": "Physics/1.1 - Physics Basics/1.1 - Physics Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/1.10 - Principles of programming/1.10 - Principles of programming.md",
+                "file": "Physics/1.1 - Physics Basics/1.1 - Physics Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/1.10 - Principles of programming/1.10 - Principles of programming.md"
+                "file": "Physics/1.1 - Physics Basics/1.1 - Physics Basics.md"
               }
             }
           },
@@ -159,12 +185,25 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "692bbaa129200879",
+  "active": "274961fa26abca7f",
   "lastOpenFiles": [
+    "Physics/2.2 - Resistance/2.2 - Resistance.md",
+    "Physics/2.1 - Conduction of Electricity/2.1 - Conduction of Electricity.md",
+    "Physics/2.1 - Conduction of Electricity/Drift Velocity.md",
+    "Physics/2.1 - Conduction of Electricity/Electron charge.md",
+    "Physics/2.7 - Photons/2.7 - Photons.md",
+    "Physics/2.7 - Photons/Vacuum photocell.md",
+    "Physics/2.7 - Photons/Photoelectric Effect.md",
+    "Physics/Physics.md",
     "Computer Science/Computer Science.md",
     "Maths/Maths.md",
-    "Maths/3.2 - Algebra and Functions/The Modulus Function.md",
+    "z_Excerpts/z_Excerpts.md",
+    "Maths/1.5 - Trigonometry/1.5 - Trigonometry.md",
+    "Computer Science/1.10 - Principles of programming/Types of Languages.md",
+    "Computer Science/1.10 - Principles of programming/Levels of Languages.md",
     "Computer Science/1.10 - Principles of programming/1.10 - Principles of programming.md",
+    "z_Excerpts/Python/פרינת(׳תעסת׳).py",
+    "Maths/3.2 - Algebra and Functions/The Modulus Function.md",
     "Computer Science/1.10 - Principles of programming",
     "Computer Science/2.A - Practical/Data Structures.md",
     "Computer Science/2.A - Practical/Entity Relationship Diagrams.md",
@@ -173,25 +212,13 @@
     "Computer Science/2.A - Practical/Algorithms.md",
     "Maths/3.2 - Algebra and Functions/3.2 - Algebra and Functions.md",
     "Maths/3.4 - Sequences and Series/3.4 - Sequences and Series.md",
-    "Physics/Physics.md",
     "Physics/2.5 - Wave Properties/Superposition.md",
     "Physics/2.4 - The Nature of Waves/Phase difference.md",
     "Physics/2.4 - The Nature of Waves/Progressive Waves.md",
-    "Physics/2.5 - Wave Properties/Diffraction.md",
-    "Physics/2.4 - The Nature of Waves/2.4 - The Nature of Waves.md",
-    "Physics/2.7 - Photons/Photoelectric Effect.md",
-    "Physics/2.5 - Wave Properties/2.5 - Wave Properties.md",
     "Physics/2.5 - Wave Properties",
-    "Maths/1.5 - Trigonometry/1.5 - Trigonometry.md",
-    "Maths/3.5 - Trigonometry/3.5 - Trigonometry.md",
     "z_Excerpts/Image/Screenshot 2024-01-30 at 14.35.00.png",
-    "Maths/3.5 - Trigonometry/Small Angle Approximation.md",
     "z_Excerpts/Image/Screenshot 2024-01-30 at 12.48.46.png",
     "z_Excerpts/Image/Screenshot 2024-01-30 at 12.48.03.png",
-    "Maths/3.2 - Algebra and Functions/Partial Fractions.md",
-    "Physics/2.7 - Photons/Vacuum photocell.md",
-    "Physics/2.7 - Photons/2.7 - Photons.md",
-    "Physics/2.1 - Conduction of Electricity/2.1 - Conduction of Electricity.md",
     "Computer Science/2.A - Practical/Algorithms",
     "Physics/1.6 - Using Radiation to Investigate Stars/Using Radiation to Investigate Stars recap.canvas",
     "z_Excerpts/Image/Pasted image 20240126124828.png",
@@ -211,7 +238,6 @@
     "Computer Science/1.2 - Logical Operators/Boolean Algebra/Logical Operators Recap.canvas",
     "Maths/3.1 - Proof by Contradiction",
     "Computer Science/1.8 - Operating Systems",
-    "Computer Science/1.7 - Database Systems",
     "Maths/2.3 - Probability/Probability Recap.canvas",
     "Physics/1.7 - Particles and Nuclear Structure/Particles and Nuclear Structure.canvas",
     "Computer Science/Prac/Untitled.canvas",
