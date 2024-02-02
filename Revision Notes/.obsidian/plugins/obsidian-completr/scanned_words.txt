@@ -203,6 +203,7 @@ Consideration
 CSA
 Communicating
 Creation
+Checking
 View
 VOIP
 Voice
@@ -568,6 +569,12 @@ infinite
 interference
 inclusive
 interpreter
+imperative
+iteration
+interaction
+imitate
+immediate
+intervention
 app
 adding
 are
@@ -826,6 +833,9 @@ active
 associate
 array
 abstraction
+apps
+algebraic
+appropriate
 only
 on
 odd
@@ -987,6 +997,8 @@ oscillates
 online
 obstacles
 oriented
+office
+options
 This
 Tan
 These
@@ -1396,6 +1408,9 @@ repeats
 radian
 roughly
 reusable
+relies
+respond
+registration
 bank
 be
 but
@@ -1574,6 +1589,7 @@ block
 beA
 batteries
 books
+brackets
 that
 throughout
 the
@@ -1829,6 +1845,8 @@ tan
 transverse
 teacher
 translate
+transforms
+tend
 ll
 lot
 languages
@@ -2024,6 +2042,8 @@ limitations
 librarian
 library
 loader
+loop
+listeners
 working
 when
 wip
@@ -2190,6 +2210,7 @@ wVK
 won
 weeks
 wavefront
+words
 year
 you
 years
@@ -2632,6 +2653,10 @@ shadows
 semi
 states
 strap
+selection
+something
+sits
+servers
 It
 Identities
 Information
@@ -2797,6 +2822,7 @@ ISR
 Interference
 Inequalities
 Identifiers
+Identity
 currently
 contain
 co
@@ -3133,6 +3159,11 @@ coherent
 circular
 commands
 compiler
+categorise
+callbacks
+consideration
+computing
+car
 doesn
 determined
 data
@@ -3409,6 +3440,10 @@ deal
 destructive
 displacements
 driven
+deciding
+described
+domain
+developing
 many
 mailto
 main
@@ -3637,6 +3672,8 @@ monochromatic
 meaningful
 modules
 modulesProgramming
+mapping
+mapped
 plans
 python
 press
@@ -3896,6 +3933,8 @@ principle
 pseudocode
 procedural
 paradigms
+performed
+procedures
 expand
 even
 each
@@ -4129,6 +4168,8 @@ equiv
 eliminate
 execution
 executable
+expression
+exactly
 uk
 using
 unified
@@ -4449,6 +4490,7 @@ Programmers
 Process
 Possible
 Polarised
+Procedural
 Sine
 Stands
 Standard
@@ -4645,6 +4687,8 @@ Single
 Similar
 Scenario
 Small
+Select
+Superposition
 Rule
 Real
 Routes
@@ -5074,6 +5118,7 @@ Although
 Arc
 Angle
 Approximation
+Are
 for
 finding
 function
@@ -5275,6 +5320,7 @@ folder
 future
 functions
 flowcharts
+focused
 Graph
 Good
 Graphics
@@ -5469,6 +5515,7 @@ Gold
 GWt
 Gvx
 Graphical
+GUIs
 has
 have
 how
@@ -5644,6 +5691,8 @@ hkQ
 hierarchical
 hidden
 help
+heavily
+hours
 Every
 EBCDIC
 Each
@@ -5814,6 +5863,7 @@ Explorer
 ECD
 Easier
 English
+Event
 key
 know
 keyboard
@@ -6231,6 +6281,7 @@ Distances
 Decision
 Different
 Diffraction
+Domain
 Unicode
 Used
 UCS
@@ -6363,6 +6414,7 @@ Understand
 Utilising
 Unpolarised
 Usually
+Uses
 Binary
 Boolean
 Bluetooth
@@ -6656,6 +6708,7 @@ nzQs
 necessary
 networked
 niche
+night
 Many
 More
 Mail
@@ -7118,6 +7171,7 @@ Fdz
 Factors
 FAT
 Filing
+Functions
 Long
 Layer
 LTE
@@ -7255,6 +7309,7 @@ LNi
 Low
 Level
 Little
+LLL
 You
 Yottabyte
 Young
@@ -7454,6 +7509,7 @@ jrE
 jRO
 jjzY
 jvo
+jobs
 Overflow
 One
 Our
@@ -7868,6 +7924,7 @@ Wave
 Waves
 Wzh
 Windows
+Written
 Half
 HTTP
 HTTPS
@@ -8022,6 +8079,8 @@ Hg
 Hidden
 Hardware
 High
+Heavily
+Has
 KB
 Keyboard
 Kilobyte

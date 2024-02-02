@@ -8,43 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "692bbaa129200879",
+            "id": "d83792b0c2f65e6b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/1.10 - Principles of programming/1.10 - Principles of programming.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e5ba74231b9612a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/1.10 - Principles of programming/Types of Languages.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "274961fa26abca7f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physics/1.1 - Physics Basics/1.1 - Physics Basics.md",
+                "file": "Maths/3.2 - Algebra and Functions/Composite Functions.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -111,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/1.1 - Physics Basics/1.1 - Physics Basics.md",
+                "file": "Maths/3.2 - Algebra and Functions/Composite Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/1.1 - Physics Basics/1.1 - Physics Basics.md",
+                "file": "Maths/3.2 - Algebra and Functions/Composite Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/1.1 - Physics Basics/1.1 - Physics Basics.md"
+                "file": "Maths/3.2 - Algebra and Functions/Composite Functions.md"
               }
             }
           },
@@ -185,42 +159,42 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "274961fa26abca7f",
+  "active": "d83792b0c2f65e6b",
   "lastOpenFiles": [
-    "Physics/2.2 - Resistance/2.2 - Resistance.md",
-    "Physics/2.1 - Conduction of Electricity/2.1 - Conduction of Electricity.md",
-    "Physics/2.1 - Conduction of Electricity/Drift Velocity.md",
-    "Physics/2.1 - Conduction of Electricity/Electron charge.md",
-    "Physics/2.7 - Photons/2.7 - Photons.md",
+    "index.md",
+    "z_Excerpts/z_Excerpts.md",
+    "z_Excerpts/Python/Python.md",
+    "z_Excerpts/Python/save_files/save_files.md",
+    "z_Excerpts/Python/advent_of_code/advent_of_code.md",
+    "z_Excerpts/Image/Image.md",
+    "Physics/Physics.md",
     "Physics/2.7 - Photons/Vacuum photocell.md",
     "Physics/2.7 - Photons/Photoelectric Effect.md",
-    "Physics/Physics.md",
-    "Computer Science/Computer Science.md",
-    "Maths/Maths.md",
-    "z_Excerpts/z_Excerpts.md",
-    "Maths/1.5 - Trigonometry/1.5 - Trigonometry.md",
-    "Computer Science/1.10 - Principles of programming/Types of Languages.md",
-    "Computer Science/1.10 - Principles of programming/Levels of Languages.md",
-    "Computer Science/1.10 - Principles of programming/1.10 - Principles of programming.md",
-    "z_Excerpts/Python/פרינת(׳תעסת׳).py",
-    "Maths/3.2 - Algebra and Functions/The Modulus Function.md",
-    "Computer Science/1.10 - Principles of programming",
-    "Computer Science/2.A - Practical/Data Structures.md",
-    "Computer Science/2.A - Practical/Entity Relationship Diagrams.md",
-    "Computer Science/2.A - Practical/2.A - Practical.md",
-    "Computer Science/2.A - Practical/Flowcharts.md",
-    "Computer Science/2.A - Practical/Algorithms.md",
-    "Maths/3.2 - Algebra and Functions/3.2 - Algebra and Functions.md",
-    "Maths/3.4 - Sequences and Series/3.4 - Sequences and Series.md",
+    "Physics/2.7 - Photons/2.7 - Photons.md",
     "Physics/2.5 - Wave Properties/Superposition.md",
-    "Physics/2.4 - The Nature of Waves/Phase difference.md",
+    "Physics/2.5 - Wave Properties/Diffraction.md",
+    "Physics/2.5 - Wave Properties/2.5 - Wave Properties.md",
     "Physics/2.4 - The Nature of Waves/Progressive Waves.md",
+    "Physics/2.4 - The Nature of Waves/Phase difference.md",
+    "Physics/2.4 - The Nature of Waves/2.4 - The Nature of Waves.md",
+    "Physics/2.2 - Resistance/2.2 - Resistance.md",
+    "Physics/2.1 - Conduction of Electricity/Electron charge.md",
+    "Physics/2.1 - Conduction of Electricity/Drift Velocity.md",
+    "Physics/2.1 - Conduction of Electricity/2.1 - Conduction of Electricity.md",
+    "Physics/1.7 - Particles and Nuclear Structure/Particle Composition.md",
+    "Physics/1.7 - Particles and Nuclear Structure/Annihilation.md",
+    "Physics/1.7 - Particles and Nuclear Structure/1.7 - Particles and Nuclear Structure.md",
+    "Physics/1.6 - Using Radiation to Investigate Stars/Wien's Displacement Law.md",
+    "Physics/1.6 - Using Radiation to Investigate Stars/Using Radiation to Investigate Stars recap.canvas",
+    "Physics/1.6 - Using Radiation to Investigate Stars/Sun's Temperature.md",
+    "Physics/1.6 - Using Radiation to Investigate Stars/Stefan's Law.md",
+    "z_Excerpts/Python/פרינת(׳תעסת׳).py",
+    "Computer Science/1.10 - Principles of programming",
     "Physics/2.5 - Wave Properties",
     "z_Excerpts/Image/Screenshot 2024-01-30 at 14.35.00.png",
     "z_Excerpts/Image/Screenshot 2024-01-30 at 12.48.46.png",
     "z_Excerpts/Image/Screenshot 2024-01-30 at 12.48.03.png",
     "Computer Science/2.A - Practical/Algorithms",
-    "Physics/1.6 - Using Radiation to Investigate Stars/Using Radiation to Investigate Stars recap.canvas",
     "z_Excerpts/Image/Pasted image 20240126124828.png",
     "Maths/3.5 - Trigonometry",
     "z_Excerpts/Image/Pasted image 20240126120422.png",
