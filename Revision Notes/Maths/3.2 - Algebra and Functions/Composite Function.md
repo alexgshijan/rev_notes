@@ -8,3 +8,9 @@ Range of $f(x)=R(f)$
 $a<x<b=(a,b)$ *Note that rounded brackets means not inclusive*
 $a\leq x\leq b=[a,b]$
 $a<x{\leq}b=(a,b]$
+
+**Inverse Function** undoes the the original composite function
+*Graphs its inverse are reflections of each other in the line $y=x$*
+The *domain* of $f(x)$ is equal to the *range* of $f^{-1}(x)$
+The *range* of $f(x)$ is equal to the *domain* of $f^{-1}(x)$
+
