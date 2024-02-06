@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d192adbff4cd0fe9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maths/3.2 - Algebra and Functions/Partial Fractions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "855503d195c95522",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/3.2 - Algebra and Functions/3.2 - Algebra and Functions.md",
+                "file": "Computer Science/1.10 - Principles of programming/Types of Languages.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/3.2 - Algebra and Functions/3.2 - Algebra and Functions.md",
+                "file": "Computer Science/1.10 - Principles of programming/Types of Languages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/3.2 - Algebra and Functions/3.2 - Algebra and Functions.md",
+                "file": "Computer Science/1.10 - Principles of programming/Types of Languages.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/3.2 - Algebra and Functions/3.2 - Algebra and Functions.md"
+                "file": "Computer Science/1.10 - Principles of programming/Types of Languages.md"
               }
             }
           },
@@ -174,15 +161,16 @@
   },
   "active": "855503d195c95522",
   "lastOpenFiles": [
+    "Computer Science/1.10 - Principles of programming/Levels of Languages.md",
+    "Computer Science/Computer Science.md",
+    "Maths/Maths.md",
+    "Maths/3.2 - Algebra and Functions/3.2 - Algebra and Functions.md",
     "Maths/3.2 - Algebra and Functions/The Modulus Function.md",
     "Maths/3.2 - Algebra and Functions/Partial Fractions.md",
-    "Maths/3.2 - Algebra and Functions/3.2 - Algebra and Functions.md",
     "Maths/3.2 - Algebra and Functions/Composite Functions.md",
     "Maths/3.2 - Algebra and Functions/Functions.md",
     "Maths/2.8 - Forces and Newton's Laws/2.8 - Forces and Newton's Laws.md",
     "Maths/2.9 - Vectors/2.9 - Vectors.md",
-    "Maths/Maths.md",
-    "Computer Science/Computer Science.md",
     "Physics/Physics.md",
     "Physics/2.2 - Resistance/2.2 - Resistance.md",
     "Physics/2.4 - The Nature of Waves/2.4 - The Nature of Waves.md",
@@ -200,7 +188,6 @@
     "Maths/3.2 - Algebra and Functions/Inverse Functions.md",
     "index.md",
     "z_Excerpts/z_Excerpts.md",
-    "z_Excerpts/Python/Python.md",
     "Physics/1.6 - Using Radiation to Investigate Stars/Using Radiation to Investigate Stars recap.canvas",
     "z_Excerpts/Python/פרינת(׳תעסת׳).py",
     "Computer Science/1.10 - Principles of programming",
