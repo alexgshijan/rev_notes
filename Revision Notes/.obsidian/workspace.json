@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/1.10 - Principles of programming/Types of Languages.md",
+                "file": "Maths/1.8 - Integration/1.8 - Integration.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "plan",
+                "query": "key",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/1.10 - Principles of programming/Types of Languages.md",
+                "file": "Maths/1.8 - Integration/1.8 - Integration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/1.10 - Principles of programming/Types of Languages.md",
+                "file": "Maths/1.8 - Integration/1.8 - Integration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/1.10 - Principles of programming/Types of Languages.md"
+                "file": "Maths/1.8 - Integration/1.8 - Integration.md"
               }
             }
           },
@@ -159,18 +160,25 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "855503d195c95522",
+  "active": "5b419fbe7200b3ff",
   "lastOpenFiles": [
-    "Computer Science/1.10 - Principles of programming/Levels of Languages.md",
-    "Computer Science/Computer Science.md",
-    "Maths/Maths.md",
+    "Maths/3.5 - Trigonometry/3.5 - Trigonometry.md",
+    "z_Excerpts/Image/Screenshot 2024-02-06 at 14.32.12.png",
+    "z_Excerpts/Image/Screenshot 2024-02-06 at 14.29.56.png",
+    "z_Excerpts/Image/Screenshot 2024-02-06 at 14.28.48.png",
+    "Maths/3.4 - Sequences and Series/3.4 - Sequences and Series.md",
+    "Maths/3.1 - Proof by Contradiction/3.1 - Proof by Contradiction.md",
+    "Maths/2.9 - Vectors/2.9 - Vectors.md",
     "Maths/3.2 - Algebra and Functions/3.2 - Algebra and Functions.md",
-    "Maths/3.2 - Algebra and Functions/The Modulus Function.md",
     "Maths/3.2 - Algebra and Functions/Partial Fractions.md",
+    "Maths/Maths.md",
+    "Computer Science/Computer Science.md",
+    "Computer Science/1.10 - Principles of programming/Types of Languages.md",
+    "Computer Science/1.10 - Principles of programming/Levels of Languages.md",
+    "Maths/3.2 - Algebra and Functions/The Modulus Function.md",
     "Maths/3.2 - Algebra and Functions/Composite Functions.md",
     "Maths/3.2 - Algebra and Functions/Functions.md",
     "Maths/2.8 - Forces and Newton's Laws/2.8 - Forces and Newton's Laws.md",
-    "Maths/2.9 - Vectors/2.9 - Vectors.md",
     "Physics/Physics.md",
     "Physics/2.2 - Resistance/2.2 - Resistance.md",
     "Physics/2.4 - The Nature of Waves/2.4 - The Nature of Waves.md",
@@ -181,13 +189,9 @@
     "Physics/2.7 - Photons/2.7 - Photons.md",
     "Physics/1.6 - Using Radiation to Investigate Stars/Radio Astronomy.md",
     "Maths/3.4 - Sequences and Series/Arithmetic.md",
-    "Maths/3.4 - Sequences and Series/3.4 - Sequences and Series.md",
     "Physics/2.1 - Conduction of Electricity/Electron charge.md",
     "Physics/2.1 - Conduction of Electricity/Drift Velocity.md",
     "Physics/2.7 - Photons/Photoelectric Effect.md",
-    "Maths/3.2 - Algebra and Functions/Inverse Functions.md",
-    "index.md",
-    "z_Excerpts/z_Excerpts.md",
     "Physics/1.6 - Using Radiation to Investigate Stars/Using Radiation to Investigate Stars recap.canvas",
     "z_Excerpts/Python/פרינת(׳תעסת׳).py",
     "Computer Science/1.10 - Principles of programming",
@@ -200,9 +204,6 @@
     "Maths/3.5 - Trigonometry",
     "z_Excerpts/Image/Pasted image 20240126120422.png",
     "z_Excerpts/Image/Pasted image 20240126120344.png",
-    "z_Excerpts/Image/Screenshot 2024-01-26 at 09.36.49.png",
-    "z_Excerpts/Image/Screenshot 2024-01-26 at 09.36.39.png",
-    "z_Excerpts/Image/Screenshot 2024-01-26 at 09.36.19.png",
     "Untitled.canvas",
     "z_Excerpts/Python/bubble_sort.py",
     "z_Excerpts/Python/advent_of_code/merge_sort.py",
