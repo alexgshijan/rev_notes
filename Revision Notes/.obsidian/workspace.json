@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/1.10 - Principles of programming/Object Oriented Programming.md",
+                "file": "Maths/1.9 - Vectors/1.9 - Vectors.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/1.10 - Principles of programming/Object Oriented Programming.md",
+                "file": "Maths/1.9 - Vectors/1.9 - Vectors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/1.10 - Principles of programming/Object Oriented Programming.md",
+                "file": "Maths/1.9 - Vectors/1.9 - Vectors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/1.10 - Principles of programming/Object Oriented Programming.md"
+                "file": "Maths/1.9 - Vectors/1.9 - Vectors.md"
               }
             }
           },
@@ -173,34 +173,35 @@
   },
   "active": "1f85253a64e9ed1a",
   "lastOpenFiles": [
-    "Computer Science/1.10 - Principles of programming/Levels of Languages.md",
-    "Computer Science/1.10 - Principles of programming/1.10 - Principles of programming.md",
-    "Computer Science/1.10 - Principles of programming/Types of Languages.md",
-    "Computer Science/1.10 - Principles of programming/Object Oriented Programming.md",
-    "Maths/1.7 - Differentiation/1.7 - Differentiation.md",
-    "Computer Science/Computer Science.md",
-    "Maths/Maths.md",
-    "Maths/3.6 - Differentiation/Chain Rule.md",
-    "Maths/1.8 - Integration/1.8 - Integration.md",
-    "Maths/3.6 - Differentiation/3.6 - Differentiation.md",
-    "Maths/3.6 - Differentiation/Calculus Differentiation.md",
     "Maths/1.5 - Trigonometry/1.5 - Trigonometry.md",
-    "Maths/1.6 - Exponentials and Logarithms/1.6 - Exponentials and Logarithms.md",
-    "Maths/1.6 - Exponentials and Logarithms/Logarithms.md",
-    "Maths/1.6 - Exponentials and Logarithms/Modelling Exponential Curves.md",
-    "Maths/1.6 - Exponentials and Logarithms/Exponential Functions.md",
-    "Maths/1.6 - Exponentials and Logarithms/Euler's Number.md",
-    "Maths/1.6 - Exponentials and Logarithms/Graphs to memorise.md",
-    "Maths/3.5 - Trigonometry/3.5 - Trigonometry.md",
-    "Maths/3 1.6 - differentiation/3 1.6 - differentiation.md",
-    "Maths/3 1.6 - differentiation/Untitled/Untitled.md",
+    "Maths/1.8 - Integration/1.8 - Integration.md",
+    "Physics/1.6 - Using Radiation to Investigate Stars/Wien's Displacement Law.md",
+    "Physics/1.6 - Using Radiation to Investigate Stars/Using Radiation to Investigate Stars recap.canvas",
+    "Maths/1.7 - Differentiation/1.7 - Differentiation.md",
+    "Maths/3.1 - Proof by Contradiction/3.1 - Proof by Contradiction.md",
+    "Maths/Maths.md",
+    "z_Excerpts/z_Excerpts.md",
+    "Computer Science/Computer Science.md",
+    "Maths/2.6 - Quantities and units in mechanics/2.6 - Quantities and units in mechanics.md",
+    "Maths/2.5 - Hypothesis Testing/2.5 - Hypothesis Testing.md",
+    "Maths/2.4 - Statistical Distribution/Poisson Distribution.md",
+    "Computer Science/1.7 - Database Systems/1.7 - Database Systems.md",
+    "Maths/2.3 - Probability/2.3 - Probability.md",
+    "Maths/2.2 - Data presentation and interpretation/Types of Diagrams - 1 Variable.md",
+    "Maths/2.2 - Data presentation and interpretation/Standard Deviation.md",
+    "Maths/2.2 - Data presentation and interpretation/2.2 - Data presentation and interpretation.md",
+    "Maths/2.1 - Statistical Sampling/Types of Sampling.md",
+    "Computer Science/1.10 - Principles of programming/Object Oriented Programming.md",
+    "Computer Science/1.6 - Organisation of data/1.6 - Organisation of data.md",
+    "Computer Science/1.6 - Organisation of data/Validation, Verification & Authentication/Verification.md",
+    "Computer Science/1.6 - Organisation of data/Validation, Verification & Authentication/Validation, Verification & Authentication.md",
+    "Computer Science/1.6 - Organisation of data/Validation, Verification & Authentication/Validation.md",
+    "Computer Science/1.6 - Organisation of data/Validation, Verification & Authentication/Authentication.md",
+    "Computer Science/1.6 - Organisation of data/File Design/Master and Transaction Files.md",
+    "Computer Science/1.6 - Organisation of data/File Design/File Design.md",
+    "Computer Science/1.6 - Organisation of data/File Design/Field Length.md",
     "Maths/3 1.6 - differentiation/Untitled",
     "Maths/3 1.6 - differentiation",
-    "Physics/Physics.md",
-    "Physics/2.5 - Wave Properties/2.5 - Wave Properties.md",
-    "Physics/2.5 - Wave Properties/Superposition.md",
-    "Physics/2.5 - Wave Properties/Diffraction.md",
-    "Physics/2.5 - Wave Properties/Diffraction Grating.md",
     "z_Excerpts/Image/Pasted image 20240221103751.png",
     "z_Excerpts/Image/Pasted image 20240221103729.png",
     "z_Excerpts/Image/Pasted image 20240219102645.png",
@@ -211,7 +212,6 @@
     "z_Excerpts/Image/Screenshot 2024-02-06 at 14.29.56.png",
     "z_Excerpts/Image/Screenshot 2024-02-06 at 14.28.48.png",
     "z_Excerpts/Image/Pasted image 20240205093643.png",
-    "Physics/1.6 - Using Radiation to Investigate Stars/Using Radiation to Investigate Stars recap.canvas",
     "z_Excerpts/Python/פרינת(׳תעסת׳).py",
     "Computer Science/1.10 - Principles of programming",
     "Physics/2.5 - Wave Properties",

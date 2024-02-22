@@ -736,7 +736,7 @@ var FolderNoteModule = class {
       }
       const file = this.app.vault.getAbstractFileByPath(path);
       if (file instanceof import_obsidian5.TFile) {
-        yield this.app.workspace.getLeaf().openFile(file);
+        yield this.app.workspace.getLeaf(false).openFile(file);
       }
     });
   }
@@ -787,14 +787,18 @@ var FolderNoteModule = class {
   }
   onLayoutChange() {
     return __async(this, null, function* () {
+      const currentLeaf = this.app.workspace.getMostRecentLeaf();
+      if (currentLeaf == null) {
+        return;
+      }
+      const currentState = currentLeaf.getViewState();
       try {
         if (this.previousState == null) {
-          this.previousState = this.app.workspace.getLeaf().getViewState();
+          this.previousState = currentLeaf.getViewState();
         }
         if (!this.plugin.settings.autoPreviewMode) {
           return;
         }
-        const currentState = this.app.workspace.getLeaf().getViewState();
         if (!(currentState.type == "markdown" && this.previousState.type == "markdown")) {
           return;
         }
@@ -805,7 +809,7 @@ var FolderNoteModule = class {
           if (this.viewModeByPlugin) {
             this.viewModeByPlugin = false;
             currentState.state.mode = "source";
-            yield this.app.workspace.getLeaf().setViewState(currentState);
+            yield currentLeaf.setViewState(currentState);
           }
           return;
         }
@@ -814,12 +818,11 @@ var FolderNoteModule = class {
         } else {
           currentState.state.mode = "preview";
           this.viewModeByPlugin = true;
-          yield this.app.workspace.getLeaf().setViewState(currentState);
+          yield currentLeaf.setViewState(currentState);
         }
       } finally {
-        const currentState = this.app.workspace.getLeaf().getViewState();
         if (currentState.type == "markdown")
-          this.previousState = currentState;
+          this.previousState = currentLeaf.getViewState();
       }
     });
   }
