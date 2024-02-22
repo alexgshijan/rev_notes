@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/1.4 - Data representation and data types/Fixed & Floating Point Numbers/Fixed & Floating Point Numbers.md",
-                "mode": "source",
+                "file": "Computer Science/Computer Science.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/1.4 - Data representation and data types/Fixed & Floating Point Numbers/Fixed & Floating Point Numbers.md",
+                "file": "Computer Science/Computer Science.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/1.4 - Data representation and data types/Fixed & Floating Point Numbers/Fixed & Floating Point Numbers.md",
+                "file": "Computer Science/Computer Science.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/1.4 - Data representation and data types/Fixed & Floating Point Numbers/Fixed & Floating Point Numbers.md"
+                "file": "Computer Science/Computer Science.md"
               }
             }
           },
@@ -161,9 +161,11 @@
   },
   "active": "33422737aababdec",
   "lastOpenFiles": [
+    "Computer Science/1.10 - Principles of programming/1.10 - Principles of programming.md",
+    "Computer Science/1.4 - Data representation and data types/1.4 - Data representation and data types.md",
+    "Computer Science/1.4 - Data representation and data types/Fixed & Floating Point Numbers/Fixed & Floating Point Numbers.md",
     "Computer Science/1.4 - Data representation and data types/Binary Arithmetic/Binary Arithmetic - Overflow and Underflow.md",
     "Computer Science/1.4 - Data representation and data types/Binary Arithmetic/Overflow and Underflow.md",
-    "Computer Science/1.4 - Data representation and data types/1.4 - Data representation and data types.md",
     "Computer Science/Computer Science.md",
     "Maths/Maths.md",
     "Maths/3.6 - Differentiation/Product Rule.md",
@@ -185,8 +187,6 @@
     "Physics/2.2 - Resistance/2.2 - Resistance.md",
     "Physics/2.1 - Conduction of Electricity/Electron charge.md",
     "Physics/2.1 - Conduction of Electricity/Drift Velocity.md",
-    "Maths/3.5 - Trigonometry/3.5 - Trigonometry.md",
-    "Maths/3.4 - Sequences and Series/Geometric.md",
     "z_Excerpts/Ferret_Dragon.png",
     "Physics/1.6 - Using Radiation to Investigate Stars/Using Radiation to Investigate Stars recap.canvas",
     "Maths/3 1.6 - differentiation/Untitled",
