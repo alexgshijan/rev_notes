@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1f85253a64e9ed1a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maths/1.9 - Vectors/1.9 - Vectors.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "33422737aababdec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Computer Science.md",
+                "file": "Computer Science/1.4 - Data representation and data types/Fixed & Floating Point Numbers/Fixed & Floating Point Numbers.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/1.9 - Vectors/1.9 - Vectors.md",
+                "file": "Computer Science/1.4 - Data representation and data types/Fixed & Floating Point Numbers/Fixed & Floating Point Numbers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/1.9 - Vectors/1.9 - Vectors.md",
+                "file": "Computer Science/1.4 - Data representation and data types/Fixed & Floating Point Numbers/Fixed & Floating Point Numbers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/1.9 - Vectors/1.9 - Vectors.md"
+                "file": "Computer Science/1.4 - Data representation and data types/Fixed & Floating Point Numbers/Fixed & Floating Point Numbers.md"
               }
             }
           },
@@ -171,35 +159,36 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "1f85253a64e9ed1a",
+  "active": "33422737aababdec",
   "lastOpenFiles": [
-    "Maths/1.5 - Trigonometry/1.5 - Trigonometry.md",
-    "Maths/1.8 - Integration/1.8 - Integration.md",
-    "Physics/1.6 - Using Radiation to Investigate Stars/Wien's Displacement Law.md",
-    "Physics/1.6 - Using Radiation to Investigate Stars/Using Radiation to Investigate Stars recap.canvas",
-    "Maths/1.7 - Differentiation/1.7 - Differentiation.md",
-    "Maths/3.1 - Proof by Contradiction/3.1 - Proof by Contradiction.md",
-    "Maths/Maths.md",
-    "z_Excerpts/z_Excerpts.md",
+    "Computer Science/1.4 - Data representation and data types/Binary Arithmetic/Binary Arithmetic - Overflow and Underflow.md",
+    "Computer Science/1.4 - Data representation and data types/Binary Arithmetic/Overflow and Underflow.md",
+    "Computer Science/1.4 - Data representation and data types/1.4 - Data representation and data types.md",
     "Computer Science/Computer Science.md",
-    "Maths/2.6 - Quantities and units in mechanics/2.6 - Quantities and units in mechanics.md",
-    "Maths/2.5 - Hypothesis Testing/2.5 - Hypothesis Testing.md",
-    "Maths/2.4 - Statistical Distribution/Poisson Distribution.md",
-    "Computer Science/1.7 - Database Systems/1.7 - Database Systems.md",
-    "Maths/2.3 - Probability/2.3 - Probability.md",
-    "Maths/2.2 - Data presentation and interpretation/Types of Diagrams - 1 Variable.md",
-    "Maths/2.2 - Data presentation and interpretation/Standard Deviation.md",
-    "Maths/2.2 - Data presentation and interpretation/2.2 - Data presentation and interpretation.md",
-    "Maths/2.1 - Statistical Sampling/Types of Sampling.md",
-    "Computer Science/1.10 - Principles of programming/Object Oriented Programming.md",
-    "Computer Science/1.6 - Organisation of data/1.6 - Organisation of data.md",
-    "Computer Science/1.6 - Organisation of data/Validation, Verification & Authentication/Verification.md",
-    "Computer Science/1.6 - Organisation of data/Validation, Verification & Authentication/Validation, Verification & Authentication.md",
-    "Computer Science/1.6 - Organisation of data/Validation, Verification & Authentication/Validation.md",
-    "Computer Science/1.6 - Organisation of data/Validation, Verification & Authentication/Authentication.md",
-    "Computer Science/1.6 - Organisation of data/File Design/Master and Transaction Files.md",
-    "Computer Science/1.6 - Organisation of data/File Design/File Design.md",
-    "Computer Science/1.6 - Organisation of data/File Design/Field Length.md",
+    "Maths/Maths.md",
+    "Maths/3.6 - Differentiation/Product Rule.md",
+    "Maths/3.6 - Differentiation/Chain Rule.md",
+    "index.md",
+    "Physics/Physics.md",
+    "z_Excerpts/Python/Python.md",
+    "z_Excerpts/Python/save_files/save_files.md",
+    "z_Excerpts/Python/advent_of_code/advent_of_code.md",
+    "z_Excerpts/Image/Image.md",
+    "Physics/2.7 - Photons/Photoelectric Effect.md",
+    "Physics/2.7 - Photons/Momentum of Light.md",
+    "Physics/2.7 - Photons/Atomic Energy Level.md",
+    "Physics/2.7 - Photons/2.7 - Photons.md",
+    "Physics/2.5 - Wave Properties/Diffraction Grating.md",
+    "Physics/2.5 - Wave Properties/2.5 - Wave Properties.md",
+    "Physics/2.4 - The Nature of Waves/Phase difference.md",
+    "Physics/2.4 - The Nature of Waves/2.4 - The Nature of Waves.md",
+    "Physics/2.2 - Resistance/2.2 - Resistance.md",
+    "Physics/2.1 - Conduction of Electricity/Electron charge.md",
+    "Physics/2.1 - Conduction of Electricity/Drift Velocity.md",
+    "Maths/3.5 - Trigonometry/3.5 - Trigonometry.md",
+    "Maths/3.4 - Sequences and Series/Geometric.md",
+    "z_Excerpts/Ferret_Dragon.png",
+    "Physics/1.6 - Using Radiation to Investigate Stars/Using Radiation to Investigate Stars recap.canvas",
     "Maths/3 1.6 - differentiation/Untitled",
     "Maths/3 1.6 - differentiation",
     "z_Excerpts/Image/Pasted image 20240221103751.png",
@@ -216,7 +205,6 @@
     "Computer Science/1.10 - Principles of programming",
     "Physics/2.5 - Wave Properties",
     "z_Excerpts/Image/Screenshot 2024-01-30 at 14.35.00.png",
-    "z_Excerpts/Image/Screenshot 2024-01-30 at 12.48.46.png",
     "Computer Science/2.A - Practical/Algorithms",
     "Maths/3.5 - Trigonometry",
     "Untitled.canvas",
