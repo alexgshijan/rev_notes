@@ -207,6 +207,7 @@ Checking
 Compound
 Car
 Classes
+Coherent
 View
 VOIP
 Voice
@@ -589,6 +590,7 @@ instanced
 interacted
 increased
 inherit
+illuminates
 app
 adding
 are
@@ -854,6 +856,9 @@ absorbing
 appro
 artificial
 absorption
+alternatively
+anywhere
+angles
 only
 on
 odd
@@ -1017,6 +1022,9 @@ obstacles
 oriented
 office
 options
+originating
+observable
+opaque
 This
 Tan
 These
@@ -1435,6 +1443,7 @@ restricted
 rings
 refraction
 rewrite
+ripple
 bank
 be
 but
@@ -1617,6 +1626,9 @@ brackets
 belongs
 behaviour
 beginner
+beam
+bright
+bands
 that
 throughout
 the
@@ -1879,6 +1891,7 @@ technology
 templates
 turnLeft
 turnRight
+tank
 ll
 lot
 languages
@@ -2078,6 +2091,7 @@ loop
 listeners
 learning
 learn
+lamp
 working
 when
 wip
@@ -2245,6 +2259,7 @@ won
 weeks
 wavefront
 words
+wavefronts
 year
 you
 years
@@ -2703,6 +2718,13 @@ simple
 subclasses
 superclass
 subclass
+sources
+speakers
+source
+slits
+strips
+spaced
+seperation
 It
 Identities
 Information
@@ -3223,6 +3245,8 @@ changeSpeed
 continually
 confusing
 child
+clear
+collect
 doesn
 determined
 data
@@ -3509,6 +3533,9 @@ declarative
 displayed
 difficulty
 diffraction
+dippers
+diffracted
+differentiate
 many
 mailto
 main
@@ -3742,6 +3769,7 @@ mapped
 mark
 manipulate
 modular
+maxima
 plans
 python
 press
@@ -4012,6 +4040,8 @@ photocell
 photoelectric
 proves
 programmers
+produces
+paced
 expand
 even
 each
@@ -4577,6 +4607,7 @@ Planck
 Parameters
 Photoelectric
 Promotes
+Path
 Sine
 Stands
 Standard
@@ -4776,6 +4807,7 @@ Small
 Select
 Superposition
 ShowDetails
+Slit
 Rule
 Real
 Routes
@@ -5414,6 +5446,7 @@ focused
 flip
 functionality
 filament
+factorised
 Graph
 Good
 Graphics
@@ -5788,6 +5821,7 @@ hidden
 help
 heavily
 hours
+hardly
 Every
 EBCDIC
 Each
@@ -6388,6 +6422,7 @@ DOB
 DoB
 DataType
 Duality
+Dippers
 Unicode
 Used
 UCS
@@ -6819,6 +6854,7 @@ niche
 night
 newSpeed
 neater
+narrow
 Many
 More
 Mail
@@ -6984,6 +7020,7 @@ Machine
 Markup
 Make
 Model
+Microwaves
 give
 generally
 get
@@ -7148,6 +7185,7 @@ geometrical
 giving
 goal
 gun
+grating
 Floats
 Float
 Full
@@ -7292,6 +7330,8 @@ Function
 Formulae
 Fluorescent
 Finally
+Fringes
+Fringe
 Long
 Layer
 LTE
@@ -7430,6 +7470,7 @@ Low
 Level
 Little
 LLL
+Laser
 You
 Yottabyte
 Young
@@ -7901,6 +7942,7 @@ view
 variety
 visual
 versions
+vibrate
 We
 When
 Where

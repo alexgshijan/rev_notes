@@ -11,8 +11,7 @@ $$f'(x)=\lim_{h\to 0}\frac{\sin x- \sin x\frac{h^{2}}{2}+h\cos x-\sin x}{h}=\lim
 $$f'(x)=\lim_{h\to 0} \cos x- \sin x\frac{h}{2}$$
 *As $h$ tends towards 0, it will eventually = 0*
 $$\therefore f'(x)=\cos x$$
-
-
+****
 **Where $f(x)=\cos x$**
 $$f'(x)=\lim_{h\to 0}\frac{\cos(x+h)-\cos(x)}{h}$$
 *[[3.5 - Trigonometry]] Identities can be used to expand the $\cos(x+h)$*

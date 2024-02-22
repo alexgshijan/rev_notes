@@ -8,19 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "855503d195c95522",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/1.10 - Principles of programming/Types of Languages.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f83aaf37f9c84496",
+            "id": "1f85253a64e9ed1a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,67 +20,18 @@
             }
           },
           {
-            "id": "445ddbaf3c0543aa",
+            "id": "33422737aababdec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/1.10 - Principles of programming/Types of Languages.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "33c6eaa03eafa980",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physics/2.7 - Photons/2.7 - Photons.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a6fbee4c71b4d184",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physics/2.7 - Photons/2.7 - Photons.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6609dd19fde8b846",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maths/3.5 - Trigonometry/Additional Formulae.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ae198b683c1ffd41",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/1.10 - Principles of programming/Object Oriented Programming.md",
+                "file": "Computer Science/Computer Science.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -232,36 +171,39 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "ae198b683c1ffd41",
+  "active": "1f85253a64e9ed1a",
   "lastOpenFiles": [
+    "Computer Science/1.10 - Principles of programming/Levels of Languages.md",
     "Computer Science/1.10 - Principles of programming/1.10 - Principles of programming.md",
-    "Computer Science/Computer Science.md",
-    "Physics/Physics.md",
-    "Physics/2.7 - Photons/2.7 - Photons.md",
-    "Physics/2.7 - Photons/Momentum of Light.md",
-    "Physics/2.7 - Photons/Atomic Energy Level.md",
-    "Physics/2.7 - Photons/Photoelectric Effect.md",
-    "Maths/Maths.md",
-    "Maths/3.5 - Trigonometry/Additional Formulae.md",
-    "Maths/3.5 - Trigonometry/3.5 - Trigonometry.md",
-    "Maths/3.5 - Trigonometry/Solving RSin(x+a) = bSinx + cCosx.md",
-    "Maths/1.5 - Trigonometry/1.5 - Trigonometry.md",
-    "Physics/2.7 - Photons/Electron Diffraction.md",
-    "z_Excerpts/Image/Pasted image 20240219102645.png",
-    "Physics/2.7 - Photons/Vacuum photocell.md",
-    "Physics/2.5 - Wave Properties/2.5 - Wave Properties.md",
-    "Physics/2.4 - The Nature of Waves/2.4 - The Nature of Waves.md",
-    "Physics/2.2 - Resistance/2.2 - Resistance.md",
-    "Physics/2.1 - Conduction of Electricity/2.1 - Conduction of Electricity.md",
-    "Physics/1.7 - Particles and Nuclear Structure/1.7 - Particles and Nuclear Structure.md",
-    "Physics/1.6 - Using Radiation to Investigate Stars/1.6 - Using Radiation to Investigate Stars.md",
-    "Physics/1.1 - Physics Basics/1.1 - Physics Basics.md",
-    "Computer Science/1.10 - Principles of programming/Object Oriented Programming.md",
-    "Computer Science/1.10 - Principles of programming/Untitled.md",
-    "Computer Science/1.10 - Principles of programming/Object Oriented Programming/Object Oriented Programming.md",
     "Computer Science/1.10 - Principles of programming/Types of Languages.md",
-    "Untitled/Untitled.md",
-    "Untitled",
+    "Computer Science/1.10 - Principles of programming/Object Oriented Programming.md",
+    "Maths/1.7 - Differentiation/1.7 - Differentiation.md",
+    "Computer Science/Computer Science.md",
+    "Maths/Maths.md",
+    "Maths/3.6 - Differentiation/Chain Rule.md",
+    "Maths/1.8 - Integration/1.8 - Integration.md",
+    "Maths/3.6 - Differentiation/3.6 - Differentiation.md",
+    "Maths/3.6 - Differentiation/Calculus Differentiation.md",
+    "Maths/1.5 - Trigonometry/1.5 - Trigonometry.md",
+    "Maths/1.6 - Exponentials and Logarithms/1.6 - Exponentials and Logarithms.md",
+    "Maths/1.6 - Exponentials and Logarithms/Logarithms.md",
+    "Maths/1.6 - Exponentials and Logarithms/Modelling Exponential Curves.md",
+    "Maths/1.6 - Exponentials and Logarithms/Exponential Functions.md",
+    "Maths/1.6 - Exponentials and Logarithms/Euler's Number.md",
+    "Maths/1.6 - Exponentials and Logarithms/Graphs to memorise.md",
+    "Maths/3.5 - Trigonometry/3.5 - Trigonometry.md",
+    "Maths/3 1.6 - differentiation/3 1.6 - differentiation.md",
+    "Maths/3 1.6 - differentiation/Untitled/Untitled.md",
+    "Maths/3 1.6 - differentiation/Untitled",
+    "Maths/3 1.6 - differentiation",
+    "Physics/Physics.md",
+    "Physics/2.5 - Wave Properties/2.5 - Wave Properties.md",
+    "Physics/2.5 - Wave Properties/Superposition.md",
+    "Physics/2.5 - Wave Properties/Diffraction.md",
+    "Physics/2.5 - Wave Properties/Diffraction Grating.md",
+    "z_Excerpts/Image/Pasted image 20240221103751.png",
+    "z_Excerpts/Image/Pasted image 20240221103729.png",
+    "z_Excerpts/Image/Pasted image 20240219102645.png",
     "Computer Science/1.10 - Principles of programming/Object Oriented Programming",
     "z_Excerpts/Image/Pasted image 20240208121334.png",
     "Maths/3.6 - Differentiation",
@@ -275,13 +217,10 @@
     "Physics/2.5 - Wave Properties",
     "z_Excerpts/Image/Screenshot 2024-01-30 at 14.35.00.png",
     "z_Excerpts/Image/Screenshot 2024-01-30 at 12.48.46.png",
-    "z_Excerpts/Image/Screenshot 2024-01-30 at 12.48.03.png",
     "Computer Science/2.A - Practical/Algorithms",
-    "z_Excerpts/Image/Pasted image 20240126124828.png",
     "Maths/3.5 - Trigonometry",
     "Untitled.canvas",
     "z_Excerpts/Python/bubble_sort.py",
-    "z_Excerpts/Python/advent_of_code/merge_sort.py",
     "Computer Science/1.4 - Data representation and data types/Data representation and data types recap.canvas",
     "Maths/1.8 - Integration/Integration recap.canvas",
     "Computer Science/1.2 - Logical Operators/Boolean Algebra/Logical Operators Recap.canvas",
