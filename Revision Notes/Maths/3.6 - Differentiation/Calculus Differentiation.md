@@ -1,4 +1,6 @@
-[[1.7 - Differentiation]]  from first principles for $\sin x$ and $\cos x$.
+$$\frac{d}{dx}\sin x=\cos x, \frac{d}{dx}\cos x=-\sin x$$
+
+We can prove using [[1.7 - Differentiation]]  from first principles for $\sin x$ and $\cos x$.
 $$f'(x)=\lim_{h\to 0}\frac{f(x+h)-f(x)}{h}$$
 **Where $f(x)=\sin x$**
 $$f'(x)=\lim_{h\to 0}\frac{\sin(x+h)-\sin(x)}{h}$$
