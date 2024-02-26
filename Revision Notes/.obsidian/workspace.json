@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/2.8 - Lasers/Stimulated Emission.md",
+                "file": "Physics/2.2 - Resistance/2.2 - Resistance.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/2.8 - Lasers/Stimulated Emission.md",
+                "file": "Physics/2.2 - Resistance/2.2 - Resistance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/2.8 - Lasers/Stimulated Emission.md",
+                "file": "Physics/2.2 - Resistance/2.2 - Resistance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/2.8 - Lasers/Stimulated Emission.md"
+                "file": "Physics/2.2 - Resistance/2.2 - Resistance.md"
               }
             }
           },
@@ -184,11 +184,13 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "e3c10704775ebe8b",
+  "active": "de7d5c11a53ffbd9",
   "lastOpenFiles": [
+    "Physics/2.3 - DC Circuits/2.3 - DC Circuits.md",
+    "Physics/2.3 - DC Circuits",
+    "Physics/2.8 - Lasers/Stimulated Emission.md",
     "z_Excerpts/Image/Pasted image 20240226094024.png",
     "Physics/2.8 - Lasers/2.8 - Lasers.md",
-    "Physics/2.8 - Lasers/Stimulated Emission.md",
     "z_Excerpts/Image/Pasted image 20240226092519.png",
     "Physics/2.5 - Wave Properties/2.5 - Wave Properties.md",
     "Physics/2.4 - The Nature of Waves/2.4 - The Nature of Waves.md",
@@ -229,10 +231,8 @@
     "z_Excerpts/Image/Screenshot 2024-02-06 at 14.32.12.png",
     "z_Excerpts/Image/Screenshot 2024-02-06 at 14.29.56.png",
     "z_Excerpts/Image/Screenshot 2024-02-06 at 14.28.48.png",
-    "z_Excerpts/Image/Pasted image 20240205093643.png",
     "z_Excerpts/Python/פרינת(׳תעסת׳).py",
     "Computer Science/1.10 - Principles of programming",
-    "Physics/2.5 - Wave Properties",
     "Untitled.canvas",
     "Computer Science/1.4 - Data representation and data types/Data representation and data types recap.canvas",
     "Maths/1.8 - Integration/Integration recap.canvas",
