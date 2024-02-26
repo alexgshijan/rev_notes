@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/2.2 - Resistance/2.2 - Resistance.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/2.2 - Resistance/2.2 - Resistance.md",
+                "file": "Physics/2.8 - Lasers/2.8 - Lasers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/2.2 - Resistance/2.2 - Resistance.md",
+                "file": "Physics/2.8 - Lasers/2.8 - Lasers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/2.2 - Resistance/2.2 - Resistance.md"
+                "file": "Physics/2.8 - Lasers/2.8 - Lasers.md"
               }
             }
           },
@@ -184,8 +183,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "de7d5c11a53ffbd9",
+  "active": "de79d8bb08a33e49",
   "lastOpenFiles": [
+    "index.md",
+    "Physics/2.2 - Resistance/2.2 - Resistance.md",
     "Physics/2.3 - DC Circuits/2.3 - DC Circuits.md",
     "Physics/2.3 - DC Circuits",
     "Physics/2.8 - Lasers/Stimulated Emission.md",
@@ -205,7 +206,6 @@
     "Physics/2.7 - Photons/Momentum of Light.md",
     "Physics/Physics.md",
     "Physics/2.8 - Lasers",
-    "index.md",
     "Maths/Maths.md",
     "Computer Science/Computer Science.md",
     "Maths/3.6 - Differentiation/3.6 - Differentiation.md",
@@ -213,7 +213,6 @@
     "z_Excerpts/Python/save_files/save_files.md",
     "z_Excerpts/Python/advent_of_code/advent_of_code.md",
     "z_Excerpts/Image/Image.md",
-    "Physics/2.2 - Resistance/2.2 - Resistance.md",
     "Physics/2.1 - Conduction of Electricity/Electron charge.md",
     "Physics/2.1 - Conduction of Electricity/Drift Velocity.md",
     "Physics/1.6 - Using Radiation to Investigate Stars/Using Radiation to Investigate Stars recap.canvas",
