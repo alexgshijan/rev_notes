@@ -208,6 +208,7 @@ Compound
 Car
 Classes
 Coherent
+Collimated
 View
 VOIP
 Voice
@@ -859,6 +860,7 @@ absorption
 alternatively
 anywhere
 angles
+amplification
 only
 on
 odd
@@ -1629,6 +1631,7 @@ beginner
 beam
 bright
 bands
+beginning
 that
 throughout
 the
@@ -2725,6 +2728,7 @@ slits
 strips
 spaced
 seperation
+simulated
 It
 Identities
 Information
@@ -2895,6 +2899,8 @@ Inverse
 Ionisation
 Ideal
 Int
+Incoherent
+Inphase
 currently
 contain
 co
@@ -4042,6 +4048,8 @@ proves
 programmers
 produces
 paced
+promoted
+polarised
 expand
 even
 each
@@ -4279,6 +4287,7 @@ expression
 exactly
 expert
 effect
+emitting
 uk
 using
 unified
@@ -4608,6 +4617,7 @@ Parameters
 Photoelectric
 Promotes
 Path
+Polychromatic
 Sine
 Stands
 Standard
@@ -4808,6 +4818,9 @@ Select
 Superposition
 ShowDetails
 Slit
+Stimulated
+Spontaneous
+Simulated
 Rule
 Real
 Routes
@@ -5241,6 +5254,7 @@ Arc
 Angle
 Approximation
 Are
+Amplification
 for
 finding
 function
@@ -5822,6 +5836,7 @@ help
 heavily
 hours
 hardly
+highly
 Every
 EBCDIC
 Each
@@ -6423,6 +6438,7 @@ DoB
 DataType
 Duality
 Dippers
+Divergent
 Unicode
 Used
 UCS
@@ -6855,6 +6871,8 @@ night
 newSpeed
 neater
 narrow
+nearly
+near
 Many
 More
 Mail
@@ -7332,6 +7350,8 @@ Fluorescent
 Finally
 Fringes
 Fringe
+Filament
+Focused
 Long
 Layer
 LTE
@@ -8246,6 +8266,7 @@ Hardware
 High
 Heavily
 Has
+Hot
 KB
 Keyboard
 Kilobyte
