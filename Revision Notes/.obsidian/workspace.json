@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/2.8 - Lasers/2.8 - Lasers.md",
+                "file": "Physics/2.2 - Resistance/2.2 - Resistance.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/2.8 - Lasers/2.8 - Lasers.md",
+                "file": "Physics/2.2 - Resistance/2.2 - Resistance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/2.8 - Lasers/2.8 - Lasers.md",
+                "file": "Physics/2.2 - Resistance/2.2 - Resistance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/2.8 - Lasers/2.8 - Lasers.md"
+                "file": "Physics/2.2 - Resistance/2.2 - Resistance.md"
               }
             }
           },
@@ -185,13 +185,13 @@
   },
   "active": "de79d8bb08a33e49",
   "lastOpenFiles": [
+    "Physics/2.8 - Lasers/2.8 - Lasers.md",
     "index.md",
     "Physics/2.2 - Resistance/2.2 - Resistance.md",
     "Physics/2.3 - DC Circuits/2.3 - DC Circuits.md",
     "Physics/2.3 - DC Circuits",
     "Physics/2.8 - Lasers/Stimulated Emission.md",
     "z_Excerpts/Image/Pasted image 20240226094024.png",
-    "Physics/2.8 - Lasers/2.8 - Lasers.md",
     "z_Excerpts/Image/Pasted image 20240226092519.png",
     "Physics/2.5 - Wave Properties/2.5 - Wave Properties.md",
     "Physics/2.4 - The Nature of Waves/2.4 - The Nature of Waves.md",
