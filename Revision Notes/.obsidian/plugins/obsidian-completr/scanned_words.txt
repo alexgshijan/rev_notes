@@ -209,6 +209,7 @@ Car
 Classes
 Coherent
 Collimated
+Computer
 View
 VOIP
 Voice
@@ -592,6 +593,7 @@ interacted
 increased
 inherit
 illuminates
+inequality
 app
 adding
 are
@@ -861,6 +863,7 @@ alternatively
 anywhere
 angles
 amplification
+arcsin
 only
 on
 odd
@@ -1446,6 +1449,7 @@ rings
 refraction
 rewrite
 ripple
+root
 bank
 be
 but
@@ -1895,6 +1899,8 @@ templates
 turnLeft
 turnRight
 tank
+tbc
+tho
 ll
 lot
 languages
@@ -2095,6 +2101,7 @@ listeners
 learning
 learn
 lamp
+let
 working
 when
 wip
@@ -2901,6 +2908,7 @@ Ideal
 Int
 Incoherent
 Inphase
+Integrated
 currently
 contain
 co
@@ -3253,6 +3261,10 @@ confusing
 child
 clear
 collect
+content
+currents
+coming
+cells
 doesn
 determined
 data
@@ -3542,6 +3554,8 @@ diffraction
 dippers
 diffracted
 differentiate
+differences
+dydx
 many
 mailto
 main
@@ -4288,6 +4302,7 @@ exactly
 expert
 effect
 emitting
+equals
 uk
 using
 unified
@@ -4618,6 +4633,7 @@ Photoelectric
 Promotes
 Path
 Polychromatic
+Physics
 Sine
 Stands
 Standard
@@ -4821,6 +4837,7 @@ Slit
 Stimulated
 Spontaneous
 Simulated
+Science
 Rule
 Real
 Routes
@@ -4974,6 +4991,8 @@ Reason
 Requires
 RegNum
 Rewriting
+Revision
+Resistors
 Note
 Negatives
 Normalising
@@ -5099,6 +5118,7 @@ NqqS
 Nuclear
 NTFS
 NINumber
+Now
 And
 ASCII
 American
@@ -6873,6 +6893,7 @@ neater
 narrow
 nearly
 near
+notes
 Many
 More
 Mail
@@ -7352,6 +7373,7 @@ Fringes
 Fringe
 Filament
 Focused
+Further
 Long
 Layer
 LTE
@@ -7963,6 +7985,7 @@ variety
 visual
 versions
 vibrate
+visit
 We
 When
 Where
@@ -8110,6 +8133,8 @@ Waves
 Wzh
 Windows
 Written
+WJEC
+Website
 Half
 HTTP
 HTTPS
@@ -8381,6 +8406,7 @@ KqEw
 KVXy
 Key
 Kla
+Kirschoff
 quickly
 quadruple
 quicker

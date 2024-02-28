@@ -1,5 +1,5 @@
-$F = k x$
-
+**Formula :**$$F = k x$$
+*where :*
 F is the applied force (N)
 x is the extension (m), the stretched length - original length
 k is the spring constant (Nm<sup>-1</sup>), could be considered the stiffness of the spring 

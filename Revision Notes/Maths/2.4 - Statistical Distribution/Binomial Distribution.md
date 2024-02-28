@@ -8,7 +8,8 @@
 - Use the `Distribution` submenu
 
 **Table Method**
-- If the success probability is greater than 0.5, use the failure probability instead and calculate using the failures
+- If the success probability is greater than 0.5, use the failure probability instead and calculate using the failures.
+- If using the inequality signs, sum up the relevant values
 
 **Expected Value**
 - $np$ is the expected value as binomial distribution peaks at the middle
