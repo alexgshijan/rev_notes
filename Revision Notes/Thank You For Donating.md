@@ -1,1 +1,0 @@
-To access the notes visit [https://notes.shijan.co.uk](https://notes.shijan.co.uk) 

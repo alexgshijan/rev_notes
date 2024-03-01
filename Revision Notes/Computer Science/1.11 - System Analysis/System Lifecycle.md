@@ -1,7 +1,6 @@
 *Systems life cycle – problem definition*
-Is there a problem with the current system, or are there problems that an entirely new system could solve?
-The customer might think they know what they want, but chances are this is quite vague. The systems analyst needs to clearly establish what the problems are and what they new system could do to solve them.
-At this stage, the *scope* of the problem will be laid out. This will say exactly what the new system should do when complete, and how it will solve the perceived problems of the customer.
+**Is there a problem with the current system, or are there problems that an entirely new system could solve?**
+The customer might think they know what they want, but chances are this is quite vague. The systems analyst needs to clearly establish what the problems are and what they new system could do to solve them. At this stage, the *scope* of the problem will be laid out. This will say exactly what the new system should do when complete, and how it will solve the perceived problems of the customer.
 
 *Feasibility Study*
 Economic:
@@ -43,21 +42,83 @@ Document Collection
 - This also involves producing diagrams to represent the different individual parts of a system and how they relate to one another, including entity relationship diagrams (ERDs), data flow diagrams (DFDs) and flowcharts.
 
 *Build and Testing*
-- White Box
-	- Used for testing the structure of the code. There will be multiple paths a program can take (when using if statements for example) and each of these must be tested 
-	- It is called “white box” because the testers are aware of what the code looks like. Often this means it’s the developers themselves who perform this type of testing
-- Black Box
-	- Here the functionality of the program is tested based on the requirements specification. No paths are examined here – this is just for testing that the overall code does what it should!
-	- This is usually done by people other than the developers who were not involved in making the system, so they have no idea what the code looks like
-- Alpha
-	- Always carried out by developers and “in house” teams
-	- Unstable, lacking functionality 
-	- Takes place in early and mid-term development stages
-- Beta
-	- Happens later on in development when the product is closer to finished and is more stable (less likely to crash)
-	- Given to a select group of customers to test. 
-	- Useful for finding bugs the developers may not have come across
-- End User
-	- This is the final testing phase. 
-	- The person/people who will be using the system when it is finished test it as if they were using it normally 
-	- Checks that the developer has produced a system which meets the need of the customer
+White Box
+- Used for testing the structure of the code. There will be multiple paths a program can take (when using if statements for example) and each of these must be tested 
+- It is called “white box” because the testers are aware of what the code looks like. Often this means it’s the developers themselves who perform this type of testing
+Black Box
+- Here the functionality of the program is tested based on the requirements specification. No paths are examined here – this is just for testing that the overall code does what it should!
+- This is usually done by people other than the developers who were not involved in making the system, so they have no idea what the code looks like
+Alpha
+- Always carried out by developers and “in house” teams
+- Unstable, lacking functionality 
+- Takes place in early and mid-term development stages
+Beta
+- Happens later on in development when the product is closer to finished and is more stable (less likely to crash)
+- Given to a select group of customers to test. 
+- Useful for finding bugs the developers may not have come across
+End User
+- This is the final testing phase. 
+- The person/people who will be using the system when it is finished test it as if they were using it normally 
+- Checks that the developer has produced a system which meets the need of the customer
+
+*Changeover*
+Direct - Also referred to as “Big bang” changeover, this is where the old system is instantly shut off/discarded and replaced with the new one
+- Not as expensive
+- Can't be used while shutdown
+- If system doesn't work, you are unable to use old system
+- Users can't get acclimated to the system
+- Quick Process
+
+Phased - With this method, smaller parts of the system are replaced a little bit at a time.
+- The system adoption approach can be more tailored to the requirements 
+- The old system and new system may not be able to integrate nicely
+
+Pilot - When businesses (especially larger ones) are split up over several sites, one site could trial the new system before it is distributed to the rest of the company’s sites
+- Can be tested at one site, so it doesn't shut down all the sites.
+- Communication between sites using old and new system may be hard 
+
+Parallel - In this case both systems run simultaneously, side by side.
+- More Robust
+- More Expensive + Time Consuming
+
+*Documentation*
+User Documentation 
+- Step-by-step getting started guide 
+- Installation guide
+- General user guide 
+- Reference manual 
+- Online help 
+- Error help/troubleshooting guide
+- FAQs
+- Glossary of terms
+
+Maintenance Documentation 
+- Diagrams used in analysis and design 
+- Data structure descriptions/tables 
+- Algorithm designs 
+- Annotated code listings
+- Variable lists 
+- Data dictionary (description of data fields and their types, size etc.)
+- Hardware & software requirements 
+- Configuration guide and options
+
+*Maintenance*
+Usually a plan of maintenance provided by the developer after the launch of the new system will be agreed upon as part of the contract. This might be a set period of time after implementation during which the developer fixes problems for free, or alternatively on a “pay as you go” basis
+
+Adaptive
+- This is where bugs are fixed and extra functionality is added to the system. 
+- Systems might come in different versions, with companies starting with the basic package and upgrading later on.
+
+Corrective
+- This is where problems are reasonably likely to occur and are fixed when they come up. The aim is to provide a system that matches the original specification as closely as possible. This often corresponds with a maintenance contract between the business and the developer.
+
+Perfective
+- Like corrective maintenance, but here the idea is for the system to **exactly** match the specification with no problems whatsoever.  
+- This is expensive and time consuming but is necessary in certain systems such as safety critical systems (air traffic control, nuclear power facilities etc)
+
+*Evaluation*
+Requirements - Does it meet the functionality set out in the requirements specification?
+Performance - Does it respond in a timely manner for the user?
+Robustness - Does the software often crash or encounter bugs?
+Cost - Did the project go over-budget at all?
+Usability - Is the project usable by the end user?

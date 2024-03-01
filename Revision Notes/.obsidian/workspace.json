@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "69a1fe2c191a1a3c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/1.11 - System Analysis/System Lifecycle.md",
+                "file": "Maths/3.5 - Trigonometry/3.5 - Trigonometry.md",
                 "mode": "source",
                 "source": false
               }
@@ -35,8 +23,12 @@
             "id": "b1416fc655c20a5a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Maths/3.6 - Differentiation/3.6 - Differentiation.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -69,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "object",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/1.11 - System Analysis/System Lifecycle.md",
+                "file": "Maths/3.6 - Differentiation/3.6 - Differentiation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/1.11 - System Analysis/System Lifecycle.md",
+                "file": "Maths/3.6 - Differentiation/3.6 - Differentiation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/1.11 - System Analysis/System Lifecycle.md"
+                "file": "Maths/3.6 - Differentiation/3.6 - Differentiation.md"
               }
             }
           },
@@ -180,34 +172,36 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "69a1fe2c191a1a3c",
+  "active": "b1416fc655c20a5a",
   "lastOpenFiles": [
-    "Computer Science/1.11 - System Analysis/1.11 - System Analysis.md",
-    "Computer Science/Computer Science.md",
-    "Physics/Physics.md",
-    "Maths/2.4 - Statistical Distribution/Poisson Distribution.md",
-    "Physics/2.5 - Wave Properties/Stationary Waves.md",
-    "Physics/2.4 - The Nature of Waves/Progressive Waves.md",
-    "Physics/2.4 - The Nature of Waves/Phase difference.md",
-    "Physics/2.4 - The Nature of Waves/2.4 - The Nature of Waves.md",
-    "index.md",
-    "Thank You For Donating.md",
-    "Maths/Maths.md",
-    "Maths/2.4 - Statistical Distribution/2.4 - Statistical Distribution.md",
-    "Maths/1.5 - Trigonometry/1.5 - Trigonometry.md",
+    "Maths/3.5 - Trigonometry/3.5 - Trigonometry.md",
+    "Maths/3.6 - Differentiation/3.6 - Differentiation.md",
+    "Maths/3.5 - Trigonometry/Additional Formulae.md",
+    "Maths/3.6 - Differentiation/Product Rule.md",
     "Maths/3.6 - Differentiation/Implicit Differentiation.md",
+    "Maths/3.6 - Differentiation/Calculus Differentiation Proofs.md",
+    "Maths/Maths.md",
+    "Computer Science/Computer Science.md",
+    "Computer Science/1.10 - Principles of programming/Object Oriented Programming.md",
+    "Computer Science/1.10 - Principles of programming/1.10 - Principles of programming.md",
+    "Maths/3.7 - Integration/3.7 - Integration.md",
+    "index.md",
+    "z_Excerpts/z_Excerpts.md",
     "Computer Science/1.7 - Database Systems/1.7 - Database Systems.md",
-    "Computer Science/1.6 - Organisation of data/File Design/File Types/File Types.md",
-    "Computer Science/1.6 - Organisation of data/File Design/File Types/Indexed Sequential.md",
-    "Computer Science/1.6 - Organisation of data/File Design/File Types/Sequential.md",
-    "Computer Science/1.6 - Organisation of data/File Design/File Types/Serial.md",
-    "Computer Science/1.6 - Organisation of data/File Design/File Types/Random.md",
-    "Computer Science/1.6 - Organisation of data/File Design/File Design.md",
     "Computer Science/1.6 - Organisation of data/1.6 - Organisation of data.md",
-    "Computer Science/1.4 - Data representation and data types/1.4 - Data representation and data types.md",
-    "Computer Science/1.3 - Data Transmission/1.3 - Data Transmission.md",
-    "Computer Science/1.4 - Data representation and data types/Fixed & Floating Point Numbers/Fixed & Floating Point Numbers.md",
-    "Computer Science/1.2 - Logical Operators/1.2 - Logical Operators.md",
+    "Computer Science/1.11 - System Analysis/System Lifecycle.md",
+    "Computer Science/1.11 - System Analysis/The clever thing is to anwser one question.md",
+    "Computer Science/1.11 - System Analysis/1.11 - System Analysis.md",
+    "z_Excerpts/Ferret_Dragon.png",
+    "Maths/3.7 - Integration/temp.md",
+    "Physics/1.7 - Particles and Nuclear Structure/1.7 - Particles and Nuclear Structure.md",
+    "Physics/1.6 - Using Radiation to Investigate Stars/Wien's Displacement Law.md",
+    "Physics/1.6 - Using Radiation to Investigate Stars/Using Radiation to Investigate Stars recap.canvas",
+    "Physics/1.6 - Using Radiation to Investigate Stars/Sun's Temperature.md",
+    "Physics/1.6 - Using Radiation to Investigate Stars/Stefan's Law.md",
+    "Physics/1.6 - Using Radiation to Investigate Stars/Spectra.md",
+    "Physics/1.6 - Using Radiation to Investigate Stars/Inverse Square Law.md",
+    "Physics/1.6 - Using Radiation to Investigate Stars/Electromagnetic Spectrum.md",
     "z_Excerpts/Graph/desmos-graph-c6309f3153f14a54c96dad1683933b62346c33528da43a7416d8f62312fe5115.svg",
     "z_Excerpts/Graph/desmos-graph-e59cd4241200c790e5936497bc0280a2d05f1543769afabf2b54afe59bcdf74d.svg",
     "z_Excerpts/Graph/desmos-graph-8ce189ab809c66c18db57e7e54caea5721e91bb5f9cc9ffc111f917926363690.svg",
@@ -217,9 +211,7 @@
     "z_Excerpts/Graph/desmos-graph-683fa74b8525e94a0a8bc98d807824381973e90f1fdf18fb7fda01a88284155f.svg",
     "z_Excerpts/Graph/desmos-graph-28914507038545f420a109544784503e1b34931e2f8c041e504f7662a61136ec.svg",
     "z_Excerpts/Graph/desmos-graph-a8622e6fe741fde54fa483d044bbc1b4dcb4818a8371f5ea7502edcff4fe80fe.svg",
-    "z_Excerpts/Graph/desmos-graph-82c68a9a055cf7a5fe4f1549c5a0c9e8b53566f8f6739de07f490548e85041f6.svg",
     "Physics/1.5 - Solids under stress/1.5 - Solids under stress recap.canvas",
-    "Physics/1.6 - Using Radiation to Investigate Stars/Using Radiation to Investigate Stars recap.canvas",
     "Maths/3.7 - Integration",
     "Computer Science/1.11 - System Analysis",
     "Physics/2.3 - DC Circuits",
