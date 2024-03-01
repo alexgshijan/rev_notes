@@ -24,7 +24,7 @@ Legal:
 *Investigation and Analysis*
 Observation
 - Analyst shadowing employees to make notes on how they do their job in their natural environment to see how the business works.
-Questionaire
+Questionnaire
 - Allows analyst to get a large quantity of data from lots of employees. 
 - Faster than observing or interviewing every single employee at a company if it’s a big organisation
 Interview 
@@ -32,3 +32,32 @@ Interview
 Document Collection 
 - Gathering of business related documents such as invoices, orders, financial records, memos
 - Good way to examine the sorts of data the new system will handle
+
+*Abstraction*
+- This is the idea of having generalised solutions to a variety of specific problems
+- “The meaning behind the idea must be separated from the details of how it will work or be implemented”
+- Control Abstraction - Hiding complex functions behind call phrases to simplify code construction
+- Data Abstraction - Hiding actual data and variables behind call phrases to simplify code construction 
+*Decomposition*
+- This is the process of breaking problems down into separate parts to solve each part individually 
+- This also involves producing diagrams to represent the different individual parts of a system and how they relate to one another, including entity relationship diagrams (ERDs), data flow diagrams (DFDs) and flowcharts.
+
+*Build and Testing*
+- White Box
+	- Used for testing the structure of the code. There will be multiple paths a program can take (when using if statements for example) and each of these must be tested 
+	- It is called “white box” because the testers are aware of what the code looks like. Often this means it’s the developers themselves who perform this type of testing
+- Black Box
+	- Here the functionality of the program is tested based on the requirements specification. No paths are examined here – this is just for testing that the overall code does what it should!
+	- This is usually done by people other than the developers who were not involved in making the system, so they have no idea what the code looks like
+- Alpha
+	- Always carried out by developers and “in house” teams
+	- Unstable, lacking functionality 
+	- Takes place in early and mid-term development stages
+- Beta
+	- Happens later on in development when the product is closer to finished and is more stable (less likely to crash)
+	- Given to a select group of customers to test. 
+	- Useful for finding bugs the developers may not have come across
+- End User
+	- This is the final testing phase. 
+	- The person/people who will be using the system when it is finished test it as if they were using it normally 
+	- Checks that the developer has produced a system which meets the need of the customer
