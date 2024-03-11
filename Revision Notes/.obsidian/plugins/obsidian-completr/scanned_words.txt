@@ -1776,6 +1776,7 @@ bRD
 bEz
 bang
 basis
+bear
 that
 throughout
 the
@@ -5784,6 +5785,7 @@ Algorithm
 Annotated
 Adaptive
 Amplitude
+Anki
 for
 finding
 function
@@ -7887,6 +7889,7 @@ gPs
 gcS
 getting
 guide
+generating
 Floats
 Float
 Full
