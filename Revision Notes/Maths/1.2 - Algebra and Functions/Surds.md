@@ -1,10 +1,10 @@
 **Rules of Surds :**
-- $\sqrt a \cdot \sqrt a = \sqrt ab$
--  $\sqrt a \div \sqrt a = \sqrt ab$
+- $\sqrt a \cdot \sqrt{a} = \sqrt{ab}$
+-  $\sqrt a \div \sqrt a = \sqrt \frac{a}{b}$
 
 **General rule for solving surds :**
 - Split Surd into largest square factors
-- Square 'square' surds 
+- Factor out 'square' surds 
 - Collect like terms
 
 **Rationalising the denominator** : 

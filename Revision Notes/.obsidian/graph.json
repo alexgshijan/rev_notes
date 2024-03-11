@@ -3,35 +3,35 @@
   "search": "",
   "showTags": false,
   "showAttachments": true,
-  "hideUnresolved": true,
+  "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
-    {
-      "query": "tag:#wip  ",
-      "color": {
-        "a": 1,
-        "rgb": 14048348
-      }
-    },
     {
       "query": "line:(index)",
       "color": {
         "a": 1,
         "rgb": 11951318
       }
+    },
+    {
+      "query": "tag:#wip  ",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.292032877604167,
-  "repelStrength": 10.2978515625,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
   "linkStrength": 1,
-  "linkDistance": 200,
-  "scale": 0.28985702548188463,
+  "linkDistance": 250,
+  "scale": 0.4098402997111751,
   "close": false
 }

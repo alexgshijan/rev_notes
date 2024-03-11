@@ -2,6 +2,8 @@
 
 *This is a WJEC A Level Revision Notes Website for Maths, (tbc. Further Maths), Physics and Computer Science. As of right now, this is still in the process of being written
 
+*In order to help upkeep site consider visiting our [Affiliate Program](https://donate.shijan.co.uk) page!*
+
 **Contents Page :** 
 ```folder-index-content
 ```

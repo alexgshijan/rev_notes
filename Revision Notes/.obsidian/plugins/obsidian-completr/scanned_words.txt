@@ -225,6 +225,7 @@ Configuration
 Corrective
 Cost
 Considerations
+Case
 View
 VOIP
 Voice
@@ -641,6 +642,7 @@ integrating
 integral
 ignoring
 integrations
+inflection
 app
 adding
 are
@@ -1295,6 +1297,7 @@ TWY
 TIS
 Tlie
 TgB
+Theorem
 revision
 rule
 rotational
@@ -2272,6 +2275,7 @@ lRP
 listings
 lists
 launch
+listed
 working
 when
 wip
@@ -3163,6 +3167,7 @@ IUdo
 IjI
 Installation
 Inside
+Inflection
 currently
 contain
 co
@@ -3544,6 +3549,9 @@ cool
 combat
 chain
 clean
+curvature
+concavity
+costing
 doesn
 determined
 data
@@ -4430,6 +4438,7 @@ package
 populated
 partially
 powered
+page
 expand
 even
 each
@@ -4852,6 +4861,7 @@ unable
 upon
 upgrading
 usable
+upkeep
 Page
 Please
 Preferred
@@ -5456,6 +5466,7 @@ Reference
 Requirements
 Robustness
 Readers
+Recommendation
 Note
 Negatives
 Normalising
@@ -8186,6 +8197,7 @@ LjR
 LzP
 LJd
 Like
+Laptop
 You
 Yottabyte
 Young
@@ -8702,6 +8714,7 @@ vLqJ
 vJH
 vibration
 varies
+visiting
 We
 When
 Where
