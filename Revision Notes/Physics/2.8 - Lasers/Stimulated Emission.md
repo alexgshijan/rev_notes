@@ -33,4 +33,5 @@ Because $E_{2}$ is almost always empty, we can keep pumping as much as we want, 
 1. Pumping from $E_{0}\to E_{3}$ 
 2. Quick drop to metastable state $E_{2}$ 
 3. Since $E_{2}\to E_{1}$ is our producing transition, and since $E_{1}$ is initially empty, we have already attained a population inversion 
-4. $E_{1}$ has a short lifetime, so it drops down to $E_{0}$ allowing us to maintain that population inversion
+4. $E_{1}$ has a short lifetime, so it drops down to $E_{0}$ allowing us to maintain that population inversion and continue that cycle as $E_{0}$ gets populated again
+![[Pasted image 20240304100719.png]]

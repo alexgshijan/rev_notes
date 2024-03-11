@@ -8,19 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "de79d8bb08a33e49",
+            "id": "37873687f41dd6c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/3.5 - Trigonometry/3.5 - Trigonometry.md",
+                "file": "Maths/3.6 - Differentiation/Parametric Differentiation.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b1416fc655c20a5a",
+            "id": "59739981ccef6b82",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c7eb5c4bbc2f5662",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physics/2.5 - Wave Properties/Stationary Waves.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -61,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "object",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/3.6 - Differentiation/3.6 - Differentiation.md",
+                "file": "Physics/2.5 - Wave Properties/Stationary Waves.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/3.6 - Differentiation/3.6 - Differentiation.md",
+                "file": "Physics/2.5 - Wave Properties/Stationary Waves.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/3.6 - Differentiation/3.6 - Differentiation.md"
+                "file": "Physics/2.5 - Wave Properties/Stationary Waves.md"
               }
             }
           },
@@ -172,28 +184,15 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "b1416fc655c20a5a",
+  "active": "c7eb5c4bbc2f5662",
   "lastOpenFiles": [
-    "Maths/3.5 - Trigonometry/3.5 - Trigonometry.md",
-    "Maths/3.6 - Differentiation/3.6 - Differentiation.md",
-    "Maths/3.5 - Trigonometry/Additional Formulae.md",
-    "Maths/3.6 - Differentiation/Product Rule.md",
-    "Maths/3.6 - Differentiation/Implicit Differentiation.md",
-    "Maths/3.6 - Differentiation/Calculus Differentiation Proofs.md",
-    "Maths/Maths.md",
-    "Computer Science/Computer Science.md",
-    "Computer Science/1.10 - Principles of programming/Object Oriented Programming.md",
-    "Computer Science/1.10 - Principles of programming/1.10 - Principles of programming.md",
-    "Maths/3.7 - Integration/3.7 - Integration.md",
     "index.md",
-    "z_Excerpts/z_Excerpts.md",
-    "Computer Science/1.7 - Database Systems/1.7 - Database Systems.md",
-    "Computer Science/1.6 - Organisation of data/1.6 - Organisation of data.md",
-    "Computer Science/1.11 - System Analysis/System Lifecycle.md",
-    "Computer Science/1.11 - System Analysis/The clever thing is to anwser one question.md",
-    "Computer Science/1.11 - System Analysis/1.11 - System Analysis.md",
-    "z_Excerpts/Ferret_Dragon.png",
-    "Maths/3.7 - Integration/temp.md",
+    "z_Excerpts/Python/Python.md",
+    "z_Excerpts/Python/save_files/save_files.md",
+    "z_Excerpts/Python/advent_of_code/advent_of_code.md",
+    "z_Excerpts/Image/Image.md",
+    "Physics/2.5 - Wave Properties/Stationary Waves.md",
+    "Physics/2.3 - DC Circuits/2.3 - DC Circuits.md",
     "Physics/1.7 - Particles and Nuclear Structure/1.7 - Particles and Nuclear Structure.md",
     "Physics/1.6 - Using Radiation to Investigate Stars/Wien's Displacement Law.md",
     "Physics/1.6 - Using Radiation to Investigate Stars/Using Radiation to Investigate Stars recap.canvas",
@@ -202,15 +201,29 @@
     "Physics/1.6 - Using Radiation to Investigate Stars/Spectra.md",
     "Physics/1.6 - Using Radiation to Investigate Stars/Inverse Square Law.md",
     "Physics/1.6 - Using Radiation to Investigate Stars/Electromagnetic Spectrum.md",
+    "Physics/1.6 - Using Radiation to Investigate Stars/Black Body.md",
+    "Physics/1.6 - Using Radiation to Investigate Stars/1.6 - Using Radiation to Investigate Stars.md",
+    "Physics/1.5 - Solids under stress/Stress and Strain.md",
+    "Physics/1.5 - Solids under stress/Hysteresis.md",
+    "Physics/1.5 - Solids under stress/Hooke's Law.md",
+    "Physics/1.5 - Solids under stress/Materials/Polymers.md",
+    "Physics/1.5 - Solids under stress/Materials/Crystalline - Polycrystalline.md",
+    "Physics/1.5 - Solids under stress/Materials/Amorphous.md",
+    "Physics/1.4 - Energy Concepts/Power.md",
+    "Physics/1.4 - Energy Concepts/Kinetic Energy.md",
+    "Physics/1.4 - Energy Concepts/Elastic Objects.md",
+    "Physics/1.4 - Energy Concepts/Conservation of Mechanical Energy.md",
+    "z_Excerpts/Image/Pasted image 20240308143536.png",
+    "z_Excerpts/Image/Pasted image 20240308143528.png",
+    "z_Excerpts/Image/PHOTO-2024-03-05-12-02-35 1.jpg",
+    "z_Excerpts/Image/PHOTO-2024-03-05-12-02-35.jpg",
+    "Maths/3.3 - Coordinate Geometry",
+    "z_Excerpts/Image/Pasted image 20240304103435.png",
+    "z_Excerpts/Image/Pasted image 20240304100719.png",
+    "z_Excerpts/Ferret_Dragon.png",
     "z_Excerpts/Graph/desmos-graph-c6309f3153f14a54c96dad1683933b62346c33528da43a7416d8f62312fe5115.svg",
     "z_Excerpts/Graph/desmos-graph-e59cd4241200c790e5936497bc0280a2d05f1543769afabf2b54afe59bcdf74d.svg",
     "z_Excerpts/Graph/desmos-graph-8ce189ab809c66c18db57e7e54caea5721e91bb5f9cc9ffc111f917926363690.svg",
-    "z_Excerpts/Graph/desmos-graph-76d6a26d2f36b59a9ddfec962cb6b7af0830339f65da5a23732b7f9db6a3a40d.svg",
-    "z_Excerpts/Graph/desmos-graph-b75f398f9e3ca93f66ba3be7c40e0c18a9f54718801d6ff184d7ae4c579832f8.svg",
-    "z_Excerpts/Graph/desmos-graph-e2bf1b982b256c0c7806fa2345be3ab5340967b153652661b57e8d611b9c1c9d.svg",
-    "z_Excerpts/Graph/desmos-graph-683fa74b8525e94a0a8bc98d807824381973e90f1fdf18fb7fda01a88284155f.svg",
-    "z_Excerpts/Graph/desmos-graph-28914507038545f420a109544784503e1b34931e2f8c041e504f7662a61136ec.svg",
-    "z_Excerpts/Graph/desmos-graph-a8622e6fe741fde54fa483d044bbc1b4dcb4818a8371f5ea7502edcff4fe80fe.svg",
     "Physics/1.5 - Solids under stress/1.5 - Solids under stress recap.canvas",
     "Maths/3.7 - Integration",
     "Computer Science/1.11 - System Analysis",
@@ -221,7 +234,6 @@
     "Maths/3 1.6 - differentiation/Untitled",
     "Maths/3 1.6 - differentiation",
     "Computer Science/1.10 - Principles of programming/Object Oriented Programming",
-    "Maths/3.6 - Differentiation",
     "Computer Science/1.4 - Data representation and data types/Data representation and data types recap.canvas",
     "Maths/1.8 - Integration/Integration recap.canvas",
     "Computer Science/1.2 - Logical Operators/Boolean Algebra/Logical Operators Recap.canvas",
