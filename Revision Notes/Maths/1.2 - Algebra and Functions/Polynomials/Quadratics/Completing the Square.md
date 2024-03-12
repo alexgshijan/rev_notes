@@ -12,3 +12,5 @@ $x=-\frac{b}{2a}\pm\sqrt{\frac{b^2}{4a^2}-\frac{4ac}{4a^2}}$
 $x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$
 
 *And voila, you've just discovered the quadratic formula*
+
+#wip rewrite this neater

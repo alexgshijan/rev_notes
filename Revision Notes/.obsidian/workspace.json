@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Computer Science/2.A - Practical/Algorithms.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Computer Science/2.A - Practical/Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Computer Science/2.A - Practical/Algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Computer Science/2.A - Practical/Algorithms.md"
+              }
             }
           },
           {
@@ -168,79 +171,26 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "floating": {
-    "id": "e4316d4a7b0bd88b",
-    "type": "floating",
-    "children": [
-      {
-        "id": "3ff8a1a8b85453b3",
-        "type": "window",
-        "children": [
-          {
-            "id": "075aa1adce6f77f4",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "14c6ea9bd16f4033",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "index.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "f58ecc494aa42691",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {}
-                }
-              },
-              {
-                "id": "5dd3f1925f4af63a",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {}
-                }
-              },
-              {
-                "id": "186022f56823ccf4",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {}
-                }
-              },
-              {
-                "id": "5ee5be80710c05d9",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {}
-                }
-              }
-            ],
-            "currentTab": 4
-          }
-        ],
-        "direction": "vertical",
-        "x": 390,
-        "y": 525,
-        "width": 800,
-        "height": 400,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "5ee5be80710c05d9",
+  "active": "c7eb5c4bbc2f5662",
   "lastOpenFiles": [
+    "Computer Science/2.A - Practical/Data Structures.md",
+    "Computer Science/2.A - Practical/Flowcharts.md",
+    "Computer Science/2.A - Practical/2.A - Practical.md",
+    "Computer Science/2.A - Practical/Algorithms.md",
+    "Computer Science/1.1 - Hardware and communication/1.1 - Hardware and communication.md",
+    "Computer Science/1.1 - Hardware and communication/PC architecture and fetch-decode-execute cycle/CPU Components.md",
+    "Computer Science/1.1 - Hardware and communication/PC architecture and fetch-decode-execute cycle/Processor Variations.md",
+    "Computer Science/1.1 - Hardware and communication/PC architecture and fetch-decode-execute cycle/Other PC Components.md",
+    "Computer Science/1.1 - Hardware and communication/PC architecture and fetch-decode-execute cycle/Improving CPU Performance.md",
+    "Computer Science/1.1 - Hardware and communication/PC architecture and fetch-decode-execute cycle/PC architecture and fetch-decode-execute cycle.md",
+    "Computer Science/1.1 - Hardware and communication/Networking/Networking.md",
+    "Computer Science/1.1 - Hardware and communication/Networking/Different Scales of Network.md",
+    "Computer Science/1.1 - Hardware and communication/Networking/Types of Networks.md",
+    "Computer Science/1.1 - Hardware and communication/Networking/Contemporary Protocols.md",
+    "Computer Science/1.1 - Hardware and communication/Networking/TCP-IP Protocol.md",
+    "Computer Science/Computer Science.md",
     "index.md",
+    "z_Excerpts/z_Excerpts.md",
     "Maths/Maths.md",
     "z_Excerpts/Python/Python.md",
     "z_Excerpts/Python/save_files/save_files.md",
@@ -249,23 +199,6 @@
     "Physics/Physics.md",
     "Physics/2.8 - Lasers/Stimulated Emission.md",
     "Physics/2.8 - Lasers/2.8 - Lasers.md",
-    "Physics/2.7 - Photons/Photoelectric Effect.md",
-    "Physics/2.7 - Photons/Momentum of Light.md",
-    "Physics/2.7 - Photons/Atomic Energy Level.md",
-    "Physics/2.7 - Photons/2.7 - Photons.md",
-    "Physics/2.5 - Wave Properties/Stationary Waves.md",
-    "Physics/2.5 - Wave Properties/Diffraction Grating.md",
-    "Physics/2.5 - Wave Properties/2.5 - Wave Properties.md",
-    "Physics/2.4 - The Nature of Waves/Phase difference.md",
-    "Physics/2.4 - The Nature of Waves/2.4 - The Nature of Waves.md",
-    "Physics/2.3 - DC Circuits/2.3 - DC Circuits.md",
-    "Physics/2.2 - Resistance/2.2 - Resistance.md",
-    "Physics/2.1 - Conduction of Electricity/Electron charge.md",
-    "Physics/2.1 - Conduction of Electricity/Drift Velocity.md",
-    "Physics/2.1 - Conduction of Electricity/2.1 - Conduction of Electricity.md",
-    "Physics/1.7 - Particles and Nuclear Structure/Particle Composition.md",
-    "Physics/1.7 - Particles and Nuclear Structure/Annihilation.md",
-    "Physics/1.7 - Particles and Nuclear Structure/1.7 - Particles and Nuclear Structure.md",
     "Physics/1.6 - Using Radiation to Investigate Stars/Using Radiation to Investigate Stars recap.canvas",
     "z_Excerpts/Ferret_Dragon.png",
     "z_Excerpts/Image/Pasted image 20240311113913.png",
