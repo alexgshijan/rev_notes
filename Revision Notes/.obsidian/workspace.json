@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/2.3 - DC Circuits/Batteries.md",
+                "file": "Physics/2.3 - DC Circuits/2.3 - DC Circuits.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/2.3 - DC Circuits/Batteries.md",
+                "file": "Computer Science/1.7 - Database Systems/1.7 - Database Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/2.3 - DC Circuits/Batteries.md",
+                "file": "Computer Science/1.7 - Database Systems/1.7 - Database Systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/2.3 - DC Circuits/Batteries.md"
+                "file": "Computer Science/1.7 - Database Systems/1.7 - Database Systems.md"
               }
             }
           },
@@ -165,14 +165,21 @@
                 "searchQuery": ""
               }
             }
+          },
+          {
+            "id": "fb74ca93cf6210ab",
+            "type": "leaf",
+            "state": {
+              "type": "chronology-calendar-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,37 +188,75 @@
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
       "random-note:Open random note": false,
-      "webpage-html-export:Export Vault to HTML": false
+      "webpage-html-export:Export Vault to HTML": false,
+      "chronology:Open Chronology": false
     }
   },
-  "active": "5ed9c0f0df8e8675",
+  "floating": {
+    "id": "e4316d4a7b0bd88b",
+    "type": "floating",
+    "children": [
+      {
+        "id": "52a83a339c254a96",
+        "type": "window",
+        "children": [
+          {
+            "id": "306a93b9893120ca",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "4422befa93791816",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Computer Science/1.7 - Database Systems/1.7 - Database Systems.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 390,
+        "y": 525,
+        "width": 800,
+        "height": 400,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "4422befa93791816",
   "lastOpenFiles": [
-    "index.md",
-    "z_Excerpts/Python/Python.md",
-    "z_Excerpts/Python/save_files/save_files.md",
-    "z_Excerpts/Python/advent_of_code/advent_of_code.md",
-    "z_Excerpts/Image/Image.md",
-    "Physics/Physics.md",
-    "Physics/2.8 - Lasers/Stimulated Emission.md",
-    "Physics/2.8 - Lasers/2.8 - Lasers.md",
-    "Physics/2.7 - Photons/Photoelectric Effect.md",
-    "Physics/2.7 - Photons/Momentum of Light.md",
-    "Physics/2.7 - Photons/Atomic Energy Level.md",
-    "Physics/2.7 - Photons/2.7 - Photons.md",
-    "Physics/2.5 - Wave Properties/Stationary Waves.md",
-    "Physics/2.5 - Wave Properties/Diffraction Grating.md",
-    "Physics/2.5 - Wave Properties/2.5 - Wave Properties.md",
-    "Physics/2.4 - The Nature of Waves/Phase difference.md",
-    "Physics/2.4 - The Nature of Waves/2.4 - The Nature of Waves.md",
-    "Physics/2.3 - DC Circuits/Batteries.md",
-    "Physics/2.3 - DC Circuits/2.3 - DC Circuits.md",
-    "Physics/2.2 - Resistance/2.2 - Resistance.md",
-    "Physics/2.1 - Conduction of Electricity/Electron charge.md",
-    "Physics/2.1 - Conduction of Electricity/Drift Velocity.md",
-    "Physics/2.1 - Conduction of Electricity/2.1 - Conduction of Electricity.md",
-    "Physics/1.7 - Particles and Nuclear Structure/Particle Composition.md",
-    "Physics/1.7 - Particles and Nuclear Structure/Annihilation.md",
-    "Physics/1.7 - Particles and Nuclear Structure/1.7 - Particles and Nuclear Structure.md",
+    "Computer Science/1.6 - Organisation of data/1.6 - Organisation of data.md",
+    "Computer Science/1.6 - Organisation of data/Validation, Verification & Authentication/Verification.md",
+    "Computer Science/1.6 - Organisation of data/Validation, Verification & Authentication/Validation, Verification & Authentication.md",
+    "Computer Science/1.6 - Organisation of data/Validation, Verification & Authentication/Validation.md",
+    "Computer Science/1.6 - Organisation of data/Validation, Verification & Authentication/Authentication.md",
+    "Computer Science/1.6 - Organisation of data/File Design/Master and Transaction Files.md",
+    "Computer Science/1.6 - Organisation of data/File Design/File Design.md",
+    "Computer Science/1.6 - Organisation of data/File Design/Field Length.md",
+    "Computer Science/1.6 - Organisation of data/File Design/File Types/Serial.md",
+    "Computer Science/1.6 - Organisation of data/File Design/File Types/Sequential.md",
+    "Computer Science/1.6 - Organisation of data/File Design/File Types/Indexed Sequential.md",
+    "Computer Science/1.6 - Organisation of data/File Design/File Types/File Types.md",
+    "Computer Science/1.4 - Data representation and data types/1.4 - Data representation and data types.md",
+    "Computer Science/1.4 - Data representation and data types/Number ranges, truncation & rounding/Truncation.md",
+    "Computer Science/1.4 - Data representation and data types/Number ranges, truncation & rounding/Rounding.md",
+    "Computer Science/1.4 - Data representation and data types/Number ranges, truncation & rounding/Number ranges, truncation & rounding.md",
+    "Computer Science/1.4 - Data representation and data types/Negative Numbers/Two's Complement.md",
+    "Computer Science/1.4 - Data representation and data types/Negative Numbers/Signed Negatives.md",
+    "Computer Science/1.4 - Data representation and data types/Negative Numbers/Negative Numbers.md",
+    "Computer Science/1.4 - Data representation and data types/Fixed & Floating Point Numbers/Floating Point Representation.md",
+    "Computer Science/1.4 - Data representation and data types/Fixed & Floating Point Numbers/Fixed Point representation.md",
+    "Computer Science/1.4 - Data representation and data types/Fixed & Floating Point Numbers/Fixed & Floating Point Numbers.md",
+    "Computer Science/1.4 - Data representation and data types/Fixed & Floating Point Numbers/Converting a positive real number to floating point.md",
+    "Computer Science/1.4 - Data representation and data types/Binary Arithmetic/Binary Arithmetic - Overflow and Underflow.md",
+    "Computer Science/1.4 - Data representation and data types/Basics, character sets, data types/Data Types.md",
+    "Computer Science/1.4 - Data representation and data types/Basics, character sets, data types/Characters and Codes in Binary.md",
     "Physics/1.6 - Using Radiation to Investigate Stars/Using Radiation to Investigate Stars recap.canvas",
     "z_Excerpts/Ferret_Dragon.png",
     "z_Excerpts/Image/Pasted image 20240311113913.png",
