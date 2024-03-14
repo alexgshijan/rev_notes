@@ -227,6 +227,8 @@ Cost
 Considerations
 Case
 Cells
+Compiler
+Creates
 View
 VOIP
 Voice
@@ -644,6 +646,10 @@ integral
 ignoring
 integrations
 inflection
+integrated
+indents
+inspect
+intellectual
 app
 adding
 are
@@ -1299,6 +1305,10 @@ TIS
 Tlie
 TgB
 Theorem
+Tools
+Trace
+Translators
+Translates
 revision
 rule
 rotational
@@ -1573,6 +1583,10 @@ reflective
 really
 resistors
 reverses
+recursively
+runtime
+ram
+recompiled
 bank
 be
 but
@@ -2063,6 +2077,9 @@ troubleshooting
 timely
 third
 terminal
+translation
+tools
+target
 ll
 lot
 languages
@@ -2280,6 +2297,7 @@ listings
 lists
 launch
 listed
+libraries
 working
 when
 wip
@@ -2460,6 +2478,7 @@ wmY
 wKO
 whatsoever
 worked
+watch
 year
 you
 years
@@ -2981,6 +3000,7 @@ substitution
 subtopics
 smoothly
 steadily
+spot
 It
 Identities
 Information
@@ -3173,6 +3193,9 @@ Installation
 Inside
 Inflection
 Internal
+IDE
+Inspector
+Interpreter
 currently
 contain
 co
@@ -3560,6 +3583,14 @@ costing
 converted
 chemical
 cell
+cleverly
+cases
+completion
+completes
+coding
+compiled
+command
+compilers
 doesn
 determined
 data
@@ -3877,6 +3908,8 @@ designs
 dictionary
 description
 dissipated
+debugging
+declared
 many
 mailto
 main
@@ -4448,6 +4481,7 @@ populated
 partially
 powered
 page
+protects
 expand
 even
 each
@@ -4710,6 +4744,8 @@ encounter
 equivalent
 emf
 emfs
+entering
+executes
 uk
 using
 unified
@@ -5085,6 +5121,7 @@ Performance
 Players
 Phase
 Positive
+Puts
 Sine
 Stands
 Standard
@@ -5305,6 +5342,12 @@ SOb
 Smaller
 Scanning
 Stationary
+Statement
+Syntax
+Stops
+Stepping
+Slow
+Slower
 Rule
 Real
 Routes
@@ -5479,6 +5522,8 @@ Requirements
 Robustness
 Readers
 Recommendation
+Runnings
+Runs
 Note
 Negatives
 Normalising
@@ -5797,6 +5842,11 @@ Annotated
 Adaptive
 Amplitude
 Anki
+Automatic
+Auto
+Automatically
+Assembler
+Assembles
 for
 finding
 function
@@ -6015,6 +6065,9 @@ fzS
 fHe
 fixes
 facilities
+formatting
+fills
+fix
 Graph
 Good
 Graphics
@@ -6418,6 +6471,9 @@ hFsF
 hkKO
 hqG
 harmonics
+highlighting
+highlighted
+helpful
 Every
 EBCDIC
 Each
@@ -6613,6 +6669,9 @@ Efficiency
 Efficient
 East
 Emf
+Editing
+Editor
+Emulator
 key
 know
 keyboard
@@ -6755,6 +6814,7 @@ kHan
 ksJ
 kMP
 kjmlW
+keywords
 Do
 Decimal
 Depends
@@ -7072,6 +7132,9 @@ Due
 Diodes
 Difficult
 Dividers
+Debugging
+Debugger
+Displays
 Unicode
 Used
 UCS
@@ -7388,6 +7451,7 @@ BkFXpp
 BmK
 BKf
 BuXK
+Break
 needs
 needed
 number
@@ -7724,6 +7788,7 @@ MPw
 MQa
 MNc
 Maintenance
+Messages
 give
 generally
 get
@@ -8215,6 +8280,9 @@ LzP
 LJd
 Like
 Laptop
+Linker
+Loader
+Loads
 You
 Yottabyte
 Young
@@ -8572,6 +8640,7 @@ OzORw
 OJFX
 OPO
 Online
+Optimisation
 value
 very
 valued
@@ -8732,6 +8801,7 @@ vJH
 vibration
 varies
 visiting
+viewed
 We
 When
 Where
@@ -8891,6 +8961,7 @@ WIB
 WHf
 Wor
 Wkl
+Watch
 Half
 HTTP
 HTTPS
@@ -9063,6 +9134,7 @@ HKK
 HVYr
 Hmkc
 HUl
+Helps
 KB
 Keyboard
 Kilobyte

@@ -2,7 +2,7 @@
   "settingsVersion": "1.8.01",
   "makeOfflineCompatible": false,
   "inlineAssets": false,
-  "includePluginCSS": "quick-latex",
+  "includePluginCSS": "quick-latex\nchronology",
   "includeSvelteCSS": true,
   "titleProperty": "title",
   "customHeadContentPath": "",
