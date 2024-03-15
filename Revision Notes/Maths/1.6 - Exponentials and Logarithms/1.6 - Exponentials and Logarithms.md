@@ -1,3 +1,3 @@
-**Contents :** (View in app only)
+Additional subtopics:
 ```folder-index-content
 ```

@@ -10,6 +10,6 @@
 	- A file is effectively a collection of records
 	- The file is often considered the unit of processing when talking about batch systems
 
-Contents:
+Additional subtopics:
 ```folder-index-content
 ```

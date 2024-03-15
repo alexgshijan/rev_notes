@@ -8,67 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c7eb5c4bbc2f5662",
+            "id": "df1c3d8ad7e91ba0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/3.6 - Differentiation/Chain Rule.md",
+                "file": "Maths/3.7 - Integration/Integration by parts.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "22be3667fda89609",
+            "id": "7f3f6a228001d042",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/1.12 & 1.13 - Software engineering & Program construction/1.12 & 1.13 - Software engineering & Program construction.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a179048cb0c9058b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/1.12 & 1.13 - Software engineering & Program construction/placeholder.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5ed9c0f0df8e8675",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physics/2.3 - DC Circuits/2.3 - DC Circuits.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "095e03fbb9ccca07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maths/Maths.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "contents",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -134,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/1.12 & 1.13 - Software engineering & Program construction/placeholder.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/1.12 & 1.13 - Software engineering & Program construction/placeholder.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/1.12 & 1.13 - Software engineering & Program construction/placeholder.md"
+                "file": "index.md"
               }
             }
           },
@@ -216,9 +180,8 @@
       "chronology:Open Chronology": false
     }
   },
-  "active": "a179048cb0c9058b",
+  "active": "7f3f6a228001d042",
   "lastOpenFiles": [
-    "index.md",
     "z_Excerpts/Python/Python.md",
     "z_Excerpts/Python/save_files/save_files.md",
     "z_Excerpts/Python/advent_of_code/advent_of_code.md",
@@ -244,7 +207,12 @@
     "Physics/1.7 - Particles and Nuclear Structure/Particle Composition.md",
     "Physics/1.7 - Particles and Nuclear Structure/Annihilation.md",
     "Physics/1.7 - Particles and Nuclear Structure/1.7 - Particles and Nuclear Structure.md",
+    "Physics/1.6 - Using Radiation to Investigate Stars/Wien's Displacement Law.md",
     "Physics/1.6 - Using Radiation to Investigate Stars/Using Radiation to Investigate Stars recap.canvas",
+    "Computer Science/2.A - Practical/Practical revision.canvas",
+    "Computer Science/1.14 - Software Systems",
+    "z_Excerpts/Image/Screenshot 2024-03-15 at 09.14.23.png",
+    "z_Excerpts/Image/Screenshot 2024-03-15 at 09.14.11.png",
     "Computer Science/1.12 & 1.13 - Software engineering & Program construction",
     "z_Excerpts/Ferret_Dragon.png",
     "z_Excerpts/Image/Pasted image 20240311113913.png",
@@ -255,8 +223,6 @@
     "Maths/3.3 - Coordinate Geometry",
     "z_Excerpts/Image/Pasted image 20240304103435.png",
     "z_Excerpts/Image/Pasted image 20240304100719.png",
-    "z_Excerpts/Graph/desmos-graph-c6309f3153f14a54c96dad1683933b62346c33528da43a7416d8f62312fe5115.svg",
-    "z_Excerpts/Graph/desmos-graph-e59cd4241200c790e5936497bc0280a2d05f1543769afabf2b54afe59bcdf74d.svg",
     "Physics/1.5 - Solids under stress/1.5 - Solids under stress recap.canvas",
     "Maths/3.7 - Integration",
     "Computer Science/1.11 - System Analysis",
@@ -265,14 +231,12 @@
     "z_Excerpts/head.html",
     "head.html",
     "Maths/3 1.6 - differentiation/Untitled",
-    "Maths/3 1.6 - differentiation",
     "Computer Science/1.4 - Data representation and data types/Data representation and data types recap.canvas",
     "Maths/1.8 - Integration/Integration recap.canvas",
     "Computer Science/1.2 - Logical Operators/Boolean Algebra/Logical Operators Recap.canvas",
     "Maths/2.3 - Probability/Probability Recap.canvas",
     "Physics/1.7 - Particles and Nuclear Structure/Particles and Nuclear Structure.canvas",
     "Computer Science/Prac/Untitled.canvas",
-    "Physics/Physics Revision.canvas",
-    "Physics/Physics NOV test response.canvas"
+    "Physics/Physics Revision.canvas"
   ]
 }

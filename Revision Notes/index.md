@@ -4,6 +4,9 @@
 
 *To help out with this site, consider visiting our [Contribution Program](https://donate.shijan.co.uk) page!*
 
+<a href='https://ko-fi.com/alexgshijan' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+
 **Contents Page :** 
 ```folder-index-content
 ```
+
