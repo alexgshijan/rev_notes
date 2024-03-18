@@ -9,4 +9,4 @@ $$dy=f(x)\text{ dx}$$
 *Also due to said uni maths, you're able to differentiate both sides with respect to their own variable*
 $$\int dy=\int f(x)\text{ dx}$$
 
-By solving this, we can solve for y. If we are given bound rules, we can then work out the constant to get a completed equation.
+By solving this, we can solve for y. If we are given bound rules, we can then work out the constant to get a completed equation. Also note that any terms with y must be brought the the $dy$ side
