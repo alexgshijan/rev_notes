@@ -25,14 +25,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Maths/1.4 - Sequences and Series/Binomial Theorem - Expansion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3731581392046c9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Maths/3.4 - Sequences and Series/Binomial Theorem - Approximation with non-integer powers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "52fffc551f5f5438",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Maths/1.4 - Sequences and Series/Approximation.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -61,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "approximat",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +102,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Maths/3.4 - Sequences and Series/Binomial Theorem - Approximation with non-integer powers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Maths/3.4 - Sequences and Series/Binomial Theorem - Approximation with non-integer powers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Maths/3.4 - Sequences and Series/Binomial Theorem - Approximation with non-integer powers.md"
               }
             }
           },
@@ -180,8 +205,9 @@
       "chronology:Open Chronology": false
     }
   },
-  "active": "7f3f6a228001d042",
+  "active": "3731581392046c9e",
   "lastOpenFiles": [
+    "index.md",
     "z_Excerpts/Python/Python.md",
     "z_Excerpts/Python/save_files/save_files.md",
     "z_Excerpts/Python/advent_of_code/advent_of_code.md",
@@ -193,6 +219,7 @@
     "Physics/2.7 - Photons/Momentum of Light.md",
     "Physics/2.7 - Photons/Atomic Energy Level.md",
     "Physics/2.7 - Photons/2.7 - Photons.md",
+    "Physics/2.6 - Refraction/2.6 - Refraction.md",
     "Physics/2.5 - Wave Properties/Stationary Waves.md",
     "Physics/2.5 - Wave Properties/Diffraction Grating.md",
     "Physics/2.5 - Wave Properties/2.5 - Wave Properties.md",
@@ -206,10 +233,13 @@
     "Physics/2.1 - Conduction of Electricity/2.1 - Conduction of Electricity.md",
     "Physics/1.7 - Particles and Nuclear Structure/Particle Composition.md",
     "Physics/1.7 - Particles and Nuclear Structure/Annihilation.md",
-    "Physics/1.7 - Particles and Nuclear Structure/1.7 - Particles and Nuclear Structure.md",
-    "Physics/1.6 - Using Radiation to Investigate Stars/Wien's Displacement Law.md",
     "Physics/1.6 - Using Radiation to Investigate Stars/Using Radiation to Investigate Stars recap.canvas",
     "Computer Science/2.A - Practical/Practical revision.canvas",
+    "z_Excerpts/Image/Pasted image 20240320121300.png",
+    "Maths/4.2 - Statistical Distribution",
+    "z_Excerpts/Image/Pasted image 20240319131836.png",
+    "Maths/4.1 - Probability",
+    "Physics/2.6 - Refraction",
     "Computer Science/1.14 - Software Systems",
     "z_Excerpts/Image/Screenshot 2024-03-15 at 09.14.23.png",
     "z_Excerpts/Image/Screenshot 2024-03-15 at 09.14.11.png",
@@ -221,16 +251,11 @@
     "z_Excerpts/Image/PHOTO-2024-03-05-12-02-35 1.jpg",
     "z_Excerpts/Image/PHOTO-2024-03-05-12-02-35.jpg",
     "Maths/3.3 - Coordinate Geometry",
-    "z_Excerpts/Image/Pasted image 20240304103435.png",
-    "z_Excerpts/Image/Pasted image 20240304100719.png",
     "Physics/1.5 - Solids under stress/1.5 - Solids under stress recap.canvas",
     "Maths/3.7 - Integration",
     "Computer Science/1.11 - System Analysis",
     "Physics/2.3 - DC Circuits",
     "Physics/2.8 - Lasers",
-    "z_Excerpts/head.html",
-    "head.html",
-    "Maths/3 1.6 - differentiation/Untitled",
     "Computer Science/1.4 - Data representation and data types/Data representation and data types recap.canvas",
     "Maths/1.8 - Integration/Integration recap.canvas",
     "Computer Science/1.2 - Logical Operators/Boolean Algebra/Logical Operators Recap.canvas",
