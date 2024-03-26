@@ -1,8 +1,8 @@
-|**Magnetic**|**Optical**|**Flash**|
-|---|---|---|
-|Hard disk drive|CD|Solid state drive|
-|Magnetic tape|DVD|USB/memory stick|
-|Credit card strip|Blu-ray|SD card|
+| **Magnetic**      | **Optical** | **Flash**         |
+| ----------------- | ----------- | ----------------- |
+| Hard disk drive   | CD          | Solid state drive |
+| Magnetic tape     | DVD         | USB/memory stick  |
+| Credit card strip | Blu-ray     | SD card           |
 
 Magnetic : 
 - Magnetic storage is still regularly used as a backup technique for businesses because it is able to store large amounts of data relatively cheaply

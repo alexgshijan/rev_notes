@@ -10068,6 +10068,8 @@ HoQG
 HpK
 Hpm
 HGz
+Hysteresis
+Hooke
 KB
 Keyboard
 Kilobyte

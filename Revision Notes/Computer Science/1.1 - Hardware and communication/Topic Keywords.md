@@ -7,4 +7,3 @@
 - Handshaking - **The exchange of signals between devices to establish their readiness to communicate. (Includes : printers, messaging and client/server PCs**
 - Volatile - **The data is lost when there is no power supplied**
 - Internet - **The World Wide Communication Infrastructure**
-- 

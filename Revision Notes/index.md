@@ -1,10 +1,10 @@
 [Alternative-Decortext Version](https://notes.shijan.co.uk) | [Alternative-Plaintext Version](https://github.com/alexgshijan/rev_notes/tree/main/Revision%20Notes) | [Email](mailto:alex@shijan.co.uk)
 
-*This is a WJEC A Level Revision Notes Website for Maths, (tbc. Further Maths), Physics and Computer Science, all typed up by me, Alex Shijan. As of right now, this is still in the process of being written. There are also plans to start generating Anki notes for each unit, but bear with me.*
+*This is a WJEC A Level Revision Notes Website for Maths, (tbc. Further Maths), Physics and Computer Science, all typed up by me, Alex Shijan. As of right now, this is still in the process of being written.* 
+
+*Anki cards are available on request from my [ko-fi](https://ko-fi.com/c/ca30d02b84).*
 
 *To help out with this site, consider visiting our [Contribution](https://donate.shijan.co.uk) page!*
-
-<a href='https://ko-fi.com/alexgshijan' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 **Contents Page :** 
 ```folder-index-content
