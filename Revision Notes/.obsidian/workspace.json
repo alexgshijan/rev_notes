@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/3.8 - Numerical Methods/Trapezium Rule.md",
+                "file": "Physics/1.7 - Particles and Nuclear Structure/1.7 - Particles and Nuclear Structure.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/3.8 - Numerical Methods/Trapezium Rule.md",
+                "file": "Physics/1.7 - Particles and Nuclear Structure/1.7 - Particles and Nuclear Structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/3.8 - Numerical Methods/Trapezium Rule.md",
+                "file": "Physics/1.7 - Particles and Nuclear Structure/1.7 - Particles and Nuclear Structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/3.8 - Numerical Methods/Trapezium Rule.md"
+                "file": "Physics/1.7 - Particles and Nuclear Structure/1.7 - Particles and Nuclear Structure.md"
               }
             }
           },
@@ -205,6 +205,11 @@
   },
   "active": "6f6e511cd6bf5dd0",
   "lastOpenFiles": [
+    "Physics/1.7 - Particles and Nuclear Structure/Particle Composition.md",
+    "Physics/Physics.md",
+    "Maths/Maths.md",
+    "Computer Science/Computer Science.md",
+    "Maths/3.8 - Numerical Methods/Trapezium Rule.md",
     "Maths/3.8 - Numerical Methods/3.8 - Numerical Methods.md",
     "Maths/1.4 - Sequences and Series/Binomial Theorem - Approximation.md",
     "index.md",
@@ -227,11 +232,6 @@
     "Physics/1.5 - Solids under stress/Materials/Amorphous.md",
     "Physics/1.4 - Energy Concepts/Power.md",
     "Physics/1.4 - Energy Concepts/Kinetic Energy.md",
-    "Physics/1.4 - Energy Concepts/Elastic Objects.md",
-    "Physics/1.4 - Energy Concepts/Conservation of Mechanical Energy.md",
-    "Physics/1.4 - Energy Concepts/1.4 - Energy Concepts.md",
-    "Physics/1.3 - Dynamics/Center of Gravity.md",
-    "Physics/1.2 - Kinematics/SUVAT - The Equations of Constant Acceleration.md",
     "Computer Science/2.A - Practical/Practical revision.canvas",
     "Maths/3.8 - Numerical Methods",
     "Computer Science/1.16 - Data security and integrity processes",
