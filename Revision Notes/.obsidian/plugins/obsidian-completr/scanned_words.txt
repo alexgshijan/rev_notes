@@ -262,6 +262,7 @@ Coffee
 Conditional
 Corruption
 Company
+Contingency
 View
 VOIP
 Voice
@@ -432,6 +433,7 @@ VoR
 VUc
 Vou
 VbA
+Virus
 in
 is
 it
@@ -726,6 +728,14 @@ install
 img
 incidence
 improper
+intent
+interconnects
+impacted
+identity
+infect
+infected
+interval
+intermediate
 app
 adding
 are
@@ -1047,6 +1057,12 @@ approaching
 alpha
 authenticity
 authentication
+attack
+attach
+anymore
+actors
+actions
+attacks
 only
 on
 odd
@@ -1256,6 +1272,7 @@ oko
 ocb
 obliquely
 optical
+obvious
 This
 Tan
 These
@@ -1449,6 +1466,8 @@ THv
 Tox
 TGh
 Touching
+Trojan
+Trojans
 revision
 rule
 rotational
@@ -1744,6 +1763,10 @@ remotely
 refractive
 repudiation
 request
+replicating
+replicate
+risks
+recovery
 bank
 be
 but
@@ -1974,6 +1997,11 @@ bgs
 blank
 border
 brought
+backdoor
+backups
+bots
+botnets
+built
 that
 throughout
 the
@@ -2281,6 +2309,11 @@ typed
 tree
 theorem
 theft
+trapezium
+tracked
+threatening
+threat
+touches
 ll
 lot
 languages
@@ -2523,6 +2556,8 @@ lco
 ldK
 lRv
 lifecycle
+leave
+loss
 working
 when
 wip
@@ -2727,6 +2762,9 @@ wCz
 wake
 workstations
 workstation
+workings
+worm
+ware
 year
 you
 years
@@ -3308,6 +3346,11 @@ summed
 surrounded
 sticks
 someone
+safe
+steps
+scares
+spam
+skipped
 It
 Identities
 Information
@@ -3950,6 +3993,9 @@ cladding
 corruption
 considerations
 cards
+contingency
+calculators
+campaigns
 doesn
 determined
 data
@@ -4294,6 +4340,11 @@ deliberate
 drinking
 doors
 definitely
+deliver
+disaster
+decimals
+deletes
+discontinuity
 many
 mailto
 main
@@ -4583,6 +4634,9 @@ manually
 matching
 multimode
 modification
+mislead
+massive
+money
 plans
 python
 press
@@ -4921,6 +4975,10 @@ purposes
 purchase
 practice
 protecting
+payload
+propagate
+presses
+pretending
 expand
 even
 each
@@ -5207,6 +5265,11 @@ engineer
 entire
 everything
 eating
+enacted
+effective
+essentially
+encrypts
+expands
 uk
 using
 unified
@@ -5386,6 +5449,7 @@ uDq
 ubU
 uqu
 unauthorised
+updated
 Page
 Please
 Preferred
@@ -5620,6 +5684,9 @@ PFy
 Protecting
 Practical
 Pseudocode
+Propagates
+Plans
+Payload
 Sine
 Stands
 Standard
@@ -5870,6 +5937,11 @@ Shijan
 Snell
 Separate
 Sefe
+Self
+Spreads
+Spyware
+Scare
+Service
 Rule
 Real
 Routes
@@ -6063,6 +6135,10 @@ Reb
 Rmd
 Refraction
 Risks
+Reinstalling
+Reinstating
+Ransomware
+Remote
 Note
 Negatives
 Normalising
@@ -6676,6 +6752,7 @@ fMf
 fibres
 fibre
 fobbed
+fraud
 Graph
 Good
 Graphics
@@ -6904,6 +6981,7 @@ Gsa
 Gll
 GyL
 GqW
+GCSE
 has
 have
 how
@@ -7848,6 +7926,10 @@ DGv
 DXm
 DDC
 DFy
+Distribution
+Distributed
+Denial
+DDos
 Unicode
 Used
 UCS
@@ -8210,6 +8292,8 @@ BkN
 Bespoke
 Buy
 But
+Botnets
+Bolzano
 needs
 needed
 number
@@ -8601,6 +8685,7 @@ MEq
 Mnz
 Moodle
 Monomode
+Malicious
 give
 generally
 get
@@ -8810,6 +8895,7 @@ game
 generic
 guarding
 guidance
+gathering
 Floats
 Float
 Full
@@ -9928,6 +10014,8 @@ Wbd
 WrA
 Witten
 Workstations
+Worm
+Which
 Half
 HTTP
 HTTPS

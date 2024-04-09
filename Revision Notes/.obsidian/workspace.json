@@ -8,48 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6f6e511cd6bf5dd0",
+            "id": "694dac8bd4c83584",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/1.7 - Particles and Nuclear Structure/1.7 - Particles and Nuclear Structure.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b177ce86aedca182",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "z_Excerpts/z_Excerpts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "048143c35e4e0248",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "z_Excerpts/00-Quartic Formula.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7c434a1ec49a17bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maths/1.4 - Sequences and Series/Binomial Theorem - Approximation.md",
+                "file": "Maths/3.8 - Numerical Methods/Trapezium Rule.md",
                 "mode": "source",
                 "source": false
               }
@@ -84,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "independ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -121,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/1.7 - Particles and Nuclear Structure/1.7 - Particles and Nuclear Structure.md",
+                "file": "Maths/3.8 - Numerical Methods/Trapezium Rule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/1.7 - Particles and Nuclear Structure/1.7 - Particles and Nuclear Structure.md",
+                "file": "Maths/3.8 - Numerical Methods/Trapezium Rule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/1.7 - Particles and Nuclear Structure/1.7 - Particles and Nuclear Structure.md"
+                "file": "Maths/3.8 - Numerical Methods/Trapezium Rule.md"
               }
             }
           },
@@ -203,35 +168,35 @@
       "chronology:Open Chronology": false
     }
   },
-  "active": "6f6e511cd6bf5dd0",
+  "active": "694dac8bd4c83584",
   "lastOpenFiles": [
-    "Physics/1.7 - Particles and Nuclear Structure/Particle Composition.md",
-    "Physics/Physics.md",
-    "Maths/Maths.md",
-    "Computer Science/Computer Science.md",
-    "Maths/3.8 - Numerical Methods/Trapezium Rule.md",
-    "Maths/3.8 - Numerical Methods/3.8 - Numerical Methods.md",
-    "Maths/1.4 - Sequences and Series/Binomial Theorem - Approximation.md",
     "index.md",
     "z_Excerpts/00-Quartic Formula.md",
     "z_Excerpts/Python/Python.md",
+    "z_Excerpts/Python/save_files/save_files.md",
+    "z_Excerpts/Python/advent_of_code/advent_of_code.md",
+    "z_Excerpts/Image/Image.md",
+    "Physics/Physics.md",
+    "Physics/2.8 - Lasers/Stimulated Emission.md",
+    "Physics/2.8 - Lasers/2.8 - Lasers.md",
+    "Physics/2.7 - Photons/Photoelectric Effect.md",
+    "Physics/2.7 - Photons/Momentum of Light.md",
+    "Physics/2.7 - Photons/Atomic Energy Level.md",
+    "Physics/2.7 - Photons/2.7 - Photons.md",
+    "Physics/2.6 - Refraction/2.6 - Refraction.md",
+    "Physics/2.5 - Wave Properties/Stationary Waves.md",
+    "Physics/2.5 - Wave Properties/Diffraction Grating.md",
+    "Physics/2.5 - Wave Properties/2.5 - Wave Properties.md",
+    "Physics/2.4 - The Nature of Waves/Phase difference.md",
+    "Physics/2.4 - The Nature of Waves/2.4 - The Nature of Waves.md",
+    "Physics/2.3 - DC Circuits/Batteries.md",
+    "Physics/2.3 - DC Circuits/2.3 - DC Circuits.md",
+    "Maths/3.8 - Numerical Methods/Trapezium Rule.md",
+    "Physics/1.7 - Particles and Nuclear Structure/Annihilation.md",
     "Physics/1.7 - Particles and Nuclear Structure/1.7 - Particles and Nuclear Structure.md",
     "Physics/1.6 - Using Radiation to Investigate Stars/Wien's Displacement Law.md",
     "Physics/1.6 - Using Radiation to Investigate Stars/Using Radiation to Investigate Stars recap.canvas",
     "Physics/1.6 - Using Radiation to Investigate Stars/Sun's Temperature.md",
-    "Physics/1.6 - Using Radiation to Investigate Stars/Stefan's Law.md",
-    "Physics/1.6 - Using Radiation to Investigate Stars/Spectra.md",
-    "Physics/1.6 - Using Radiation to Investigate Stars/Inverse Square Law.md",
-    "Physics/1.6 - Using Radiation to Investigate Stars/Electromagnetic Spectrum.md",
-    "Physics/1.6 - Using Radiation to Investigate Stars/Black Body.md",
-    "Physics/1.6 - Using Radiation to Investigate Stars/1.6 - Using Radiation to Investigate Stars.md",
-    "Physics/1.5 - Solids under stress/Hooke's Law.md",
-    "Physics/1.5 - Solids under stress/1.5 - Solids under stress.md",
-    "Physics/1.5 - Solids under stress/Materials/Polymers.md",
-    "Physics/1.5 - Solids under stress/Materials/Crystalline - Polycrystalline.md",
-    "Physics/1.5 - Solids under stress/Materials/Amorphous.md",
-    "Physics/1.4 - Energy Concepts/Power.md",
-    "Physics/1.4 - Energy Concepts/Kinetic Energy.md",
     "Computer Science/2.A - Practical/Practical revision.canvas",
     "Maths/3.8 - Numerical Methods",
     "Computer Science/1.16 - Data security and integrity processes",
