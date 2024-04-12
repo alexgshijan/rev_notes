@@ -266,6 +266,7 @@ Contingency
 Cuh
 CjU
 CiU
+Compared
 View
 VOIP
 Voice
@@ -8301,6 +8302,7 @@ UGl
 UmN
 UURUu
 Uolj
+Uniform
 Binary
 Boolean
 Bluetooth
