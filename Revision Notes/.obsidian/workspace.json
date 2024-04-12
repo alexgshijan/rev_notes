@@ -13,26 +13,37 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/3.8 - Numerical Methods/Trapezium Rule.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "46f76734edc37914",
+            "id": "4eeadd4d09419e40",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/3.8 - Numerical Methods/Fixed Point Iteration.md",
+                "file": "Physics/2.6 - Refraction/2.6 - Refraction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0d98daee7cbc20d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physics/2.6 - Refraction/TIR - Optical Fibres.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "independ",
+                "query": "complement",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/3.8 - Numerical Methods/Fixed Point Iteration.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/3.8 - Numerical Methods/Fixed Point Iteration.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/3.8 - Numerical Methods/Fixed Point Iteration.md"
+                "file": "index.md"
               }
             }
           },
@@ -180,35 +191,39 @@
       "chronology:Open Chronology": false
     }
   },
-  "active": "fb74ca93cf6210ab",
+  "active": "694dac8bd4c83584",
   "lastOpenFiles": [
-    "Maths/3.8 - Numerical Methods/Trapezium Rule.md",
+    "z_Excerpts/Python/calculator_w_tkinter.py",
+    "Physics/2.1 - Conduction of Electricity/2.1 - Conduction of Electricity.md",
+    "Physics/2.3 - DC Circuits/2.3 - DC Circuits.md",
+    "Physics/2.6 - Refraction/2.6 - Refraction.md",
+    "Physics/2.6 - Refraction/TIR - Optical Fibres.md",
+    "z_Excerpts/Image/image 1.png",
+    "z_Excerpts/Image/Pasted image 20240411142938.png",
+    "Physics/Physics.md",
+    "Maths/Maths.md",
+    "Maths/1.1 - Notation and Proof/1.1 - Notation and Proof.md",
+    "Maths/3.8 - Numerical Methods/Newton-Raphson method.md",
     "Maths/3.8 - Numerical Methods/Fixed Point Iteration.md",
+    "Maths/3.8 - Numerical Methods/Intermediate Value Theorem.md",
+    "Maths/3.8 - Numerical Methods/Trapezium Rule.md",
+    "z_Excerpts/Image/image.png",
+    "z_Excerpts/Image/Pasted image 20240411100520.png",
+    "Maths/3.8 - Numerical Methods/3.8 - Numerical Methods.md",
+    "Computer Science/Computer Science.md",
+    "Computer Science/1.4 - Data representation and data types/Fixed & Floating Point Numbers/Floating Point Representation.md",
+    "Computer Science/1.4 - Data representation and data types/Fixed & Floating Point Numbers/Converting a positive real number to floating point.md",
+    "Computer Science/1.4 - Data representation and data types/Fixed & Floating Point Numbers/Normalising.md",
+    "Computer Science/1.4 - Data representation and data types/Fixed & Floating Point Numbers/Fixed & Floating Point Numbers.md",
+    "Computer Science/1.4 - Data representation and data types/Fixed & Floating Point Numbers/Fixed Point representation.md",
+    "Computer Science/1.1 - Hardware and communication/Networking/Contemporary Protocols.md",
+    "Computer Science/1.2 - Logical Operators/1.2 - Logical Operators.md",
     "index.md",
     "z_Excerpts/00-Quartic Formula.md",
     "z_Excerpts/Python/Python.md",
-    "z_Excerpts/Python/save_files/save_files.md",
-    "z_Excerpts/Python/advent_of_code/advent_of_code.md",
-    "z_Excerpts/Image/Image.md",
-    "Physics/Physics.md",
-    "Physics/2.8 - Lasers/Stimulated Emission.md",
-    "Physics/2.8 - Lasers/2.8 - Lasers.md",
-    "Physics/2.7 - Photons/Photoelectric Effect.md",
-    "Physics/2.7 - Photons/Momentum of Light.md",
-    "Physics/2.7 - Photons/Atomic Energy Level.md",
-    "Physics/2.7 - Photons/2.7 - Photons.md",
-    "Physics/2.6 - Refraction/2.6 - Refraction.md",
-    "Physics/2.5 - Wave Properties/Stationary Waves.md",
-    "Physics/2.5 - Wave Properties/Diffraction Grating.md",
-    "Physics/2.5 - Wave Properties/2.5 - Wave Properties.md",
-    "Physics/2.4 - The Nature of Waves/Phase difference.md",
-    "Physics/2.4 - The Nature of Waves/2.4 - The Nature of Waves.md",
-    "Physics/2.3 - DC Circuits/Batteries.md",
-    "Physics/2.3 - DC Circuits/2.3 - DC Circuits.md",
-    "Physics/1.7 - Particles and Nuclear Structure/Annihilation.md",
-    "Physics/1.7 - Particles and Nuclear Structure/1.7 - Particles and Nuclear Structure.md",
     "Physics/1.6 - Using Radiation to Investigate Stars/Wien's Displacement Law.md",
     "Physics/1.6 - Using Radiation to Investigate Stars/Using Radiation to Investigate Stars recap.canvas",
+    "Physics/1.6 - Using Radiation to Investigate Stars/Sun's Temperature.md",
     "Computer Science/2.A - Practical/Practical revision.canvas",
     "Maths/3.8 - Numerical Methods",
     "Computer Science/1.16 - Data security and integrity processes",
@@ -226,10 +241,6 @@
     "z_Excerpts/Image/Screenshot 2024-03-15 at 09.14.11.png",
     "z_Excerpts/Ferret_Dragon.png",
     "z_Excerpts/Image/Pasted image 20240311113913.png",
-    "z_Excerpts/Image/Pasted image 20240308143536.png",
-    "z_Excerpts/Image/Pasted image 20240308143528.png",
-    "z_Excerpts/Image/PHOTO-2024-03-05-12-02-35 1.jpg",
-    "z_Excerpts/Image/PHOTO-2024-03-05-12-02-35.jpg",
     "Physics/1.5 - Solids under stress/1.5 - Solids under stress recap.canvas",
     "Computer Science/1.4 - Data representation and data types/Data representation and data types recap.canvas",
     "Maths/1.8 - Integration/Integration recap.canvas",
