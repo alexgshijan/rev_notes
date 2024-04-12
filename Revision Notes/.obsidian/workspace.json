@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/1.2 - Algebra and Functions/Polynomials/Quadratics/Completing the Square.md",
+                "file": "Maths/4.1 - Probability/Discrete Random Variables.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/1.2 - Algebra and Functions/Polynomials/Quadratics/Completing the Square.md",
+                "file": "Maths/4.1 - Probability/Discrete Random Variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/1.2 - Algebra and Functions/Polynomials/Quadratics/Completing the Square.md",
+                "file": "Maths/4.1 - Probability/Discrete Random Variables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/1.2 - Algebra and Functions/Polynomials/Quadratics/Completing the Square.md"
+                "file": "Maths/4.1 - Probability/Discrete Random Variables.md"
               }
             }
           },
@@ -206,6 +206,7 @@
   },
   "active": "37c90d98427359a0",
   "lastOpenFiles": [
+    "Maths/1.2 - Algebra and Functions/Polynomials/Quadratics/Completing the Square.md",
     "Maths/1.2 - Algebra and Functions/Polynomials/Remainder Theorem.md",
     "Maths/1.2 - Algebra and Functions/Polynomials/Division - Box Method.md",
     "Maths/1.2 - Algebra and Functions/Rules of Indicies.md",
@@ -219,7 +220,6 @@
     "Maths/2.9 - Vectors/2.9 - Vectors.md",
     "Maths/4.1 - Probability/Discrete Random Variables.md",
     "Maths/3.6 - Differentiation/Parametric Differentiation.md",
-    "Maths/1.2 - Algebra and Functions/Polynomials/Quadratics/Completing the Square.md",
     "Maths/1.6 - Exponentials and Logarithms/Modelling Exponential Curves.md",
     "Maths/4.1 - Probability/4.1 - Probability.md",
     "Maths/4.1 - Probability/Conditional Probability.md",
