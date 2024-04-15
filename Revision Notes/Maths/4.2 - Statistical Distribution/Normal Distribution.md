@@ -13,3 +13,5 @@
 **Calc Method**
 - Use the `Distribution` submenu
 - Since this method uses continuous data, there is no need to change numbers between 'greater than' and 'greater than or equal to'
+
+*You're not required to use the formula for this.*

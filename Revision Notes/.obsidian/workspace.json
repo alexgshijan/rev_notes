@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "14cdd4da937472af",
+            "id": "f21f1d292a34b84c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -167,17 +167,17 @@
       "chronology:Open Chronology": false
     }
   },
-  "active": "14cdd4da937472af",
+  "active": "f21f1d292a34b84c",
   "lastOpenFiles": [
+    "Maths/4.2 - Statistical Distribution/Continuous Uniform Distribution.md",
     "Maths/2.4 - Statistical Distribution/Poisson Distribution.md",
-    "Maths/2.4 - Statistical Distribution/Binomial Distribution.md",
     "Maths/2.4 - Statistical Distribution/Discrete Uniform Distribution.md",
-    "Maths/4.2 - Statistical Distribution/Normal Distribution.md",
     "Maths/4.2 - Statistical Distribution/4.2 - Statistical Distribution.md",
-    "Maths/2.2 - Data presentation and interpretation/Standard Deviation.md",
+    "Maths/4.2 - Statistical Distribution/Normal Distribution.md",
     "Maths/4.1 - Probability/4.1 - Probability.md",
+    "Maths/2.4 - Statistical Distribution/Binomial Distribution.md",
+    "Maths/2.2 - Data presentation and interpretation/Standard Deviation.md",
     "Maths/4.2 - Statistical Distribution",
-    "Maths/4.1 - Probability/Discrete Random Variables.md",
     "Maths/4.1 - Probability/Conditional Probability.md",
     "Maths/3.8 - Numerical Methods/3.8 - Numerical Methods.md",
     "Maths/3.4 - Sequences and Series/3.4 - Sequences and Series.md",
