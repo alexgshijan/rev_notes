@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Maths/4.1 - Probability - Conditional Probability/4.1 - Probability - Conditional Probability.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Maths/4.1 - Probability - Conditional Probability/4.1 - Probability - Conditional Probability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Maths/4.1 - Probability - Conditional Probability/4.1 - Probability - Conditional Probability.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Maths/4.1 - Probability - Conditional Probability/4.1 - Probability - Conditional Probability.md"
               }
             }
           },
@@ -169,17 +169,20 @@
   },
   "active": "f21f1d292a34b84c",
   "lastOpenFiles": [
+    "Maths/3.8 - Numerical Methods/3.8 - Numerical Methods.md",
+    "Maths/3.7 - Integration/3.7 - Integration.md",
+    "Maths/4.2 - Statistical Distribution/4.2 - Statistical Distribution.md",
     "Maths/4.2 - Statistical Distribution/Normal Distribution.md",
+    "Maths/4.1 - Probability - Conditional Probability/4.1 - Probability - Conditional Probability.md",
+    "Maths/4.1 - Probability - Conditional Probability/Conditional Probability.md",
+    "Maths/2.3 - Probability/2.3 - Probability.md",
+    "index.md",
     "Maths/4.2 - Statistical Distribution/Continuous Uniform Distribution.md",
     "Maths/2.4 - Statistical Distribution/Poisson Distribution.md",
     "Maths/2.4 - Statistical Distribution/Discrete Uniform Distribution.md",
-    "Maths/4.2 - Statistical Distribution/4.2 - Statistical Distribution.md",
-    "Maths/4.1 - Probability/4.1 - Probability.md",
     "Maths/2.4 - Statistical Distribution/Binomial Distribution.md",
     "Maths/2.2 - Data presentation and interpretation/Standard Deviation.md",
     "Maths/4.2 - Statistical Distribution",
-    "Maths/4.1 - Probability/Conditional Probability.md",
-    "Maths/3.8 - Numerical Methods/3.8 - Numerical Methods.md",
     "Maths/3.4 - Sequences and Series/3.4 - Sequences and Series.md",
     "Maths/2.9 - Vectors/2.9 - Vectors.md",
     "Maths/2.4 - Statistical Distribution/2.4 - Statistical Distribution.md",
@@ -193,9 +196,6 @@
     "Physics/Physics.md",
     "Physics/2.7 - Photons/Photoelectric Effect.md",
     "Computer Science/Computer Science.md",
-    "Computer Science/1.16 - Data security and integrity processes/1.16 - Data security and integrity processes.md",
-    "Computer Science/1.14 - Software Systems/1.14 - Software Systems.md",
-    "Computer Science/1.12 & 1.13 - Software engineering & Program construction/1.12 & 1.13 - Software engineering & Program construction.md",
     "Physics/1.6 - Using Radiation to Investigate Stars/Using Radiation to Investigate Stars recap.canvas",
     "Computer Science/2.A - Practical/Practical revision.canvas",
     "z_Excerpts/Python/calculator_w_tkinter.py",
