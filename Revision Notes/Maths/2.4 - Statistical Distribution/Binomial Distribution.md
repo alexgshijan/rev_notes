@@ -6,6 +6,7 @@
 
 **Calc Method**
 - Use the `Distribution` submenu
+- Since this method uses discrete data, you need to factor in the 'equal to' part of the signs.
 
 **Table Method**
 - If the success probability is greater than 0.5, use the failure probability instead and calculate using the failures.
