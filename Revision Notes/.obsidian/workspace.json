@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/4.2 - Statistical Distribution/Normal Distribution.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/4.2 - Statistical Distribution/Normal Distribution.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/4.2 - Statistical Distribution/Normal Distribution.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/4.2 - Statistical Distribution/Normal Distribution.md"
+                "file": "index.md"
               }
             }
           },
@@ -169,11 +169,11 @@
   },
   "active": "f21f1d292a34b84c",
   "lastOpenFiles": [
+    "Maths/4.2 - Statistical Distribution/Normal Distribution.md",
     "Maths/4.2 - Statistical Distribution/Continuous Uniform Distribution.md",
     "Maths/2.4 - Statistical Distribution/Poisson Distribution.md",
     "Maths/2.4 - Statistical Distribution/Discrete Uniform Distribution.md",
     "Maths/4.2 - Statistical Distribution/4.2 - Statistical Distribution.md",
-    "Maths/4.2 - Statistical Distribution/Normal Distribution.md",
     "Maths/4.1 - Probability/4.1 - Probability.md",
     "Maths/2.4 - Statistical Distribution/Binomial Distribution.md",
     "Maths/2.2 - Data presentation and interpretation/Standard Deviation.md",
