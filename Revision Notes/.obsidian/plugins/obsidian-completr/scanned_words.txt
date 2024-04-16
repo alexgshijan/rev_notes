@@ -1318,6 +1318,7 @@ owX
 owI
 oyE
 outer
+optimal
 This
 Tan
 These
@@ -4123,6 +4124,8 @@ cobweb
 comprehended
 coefficient
 converging
+continuity
+corrections
 doesn
 determined
 data
@@ -6692,6 +6695,7 @@ Alex
 AKg
 ALr
 Aqq
+Approximating
 for
 finding
 function
@@ -6945,6 +6949,8 @@ fraud
 feeding
 fkk
 fhY
+feed
+formulate
 Graph
 Good
 Graphics
@@ -8147,6 +8153,7 @@ Distributed
 Denial
 DDos
 DOE
+Deviations
 Unicode
 Used
 UCS
@@ -8520,6 +8527,7 @@ BDSv
 Bjz
 BRy
 BNo
+Binomial
 needs
 needed
 number

@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/4.2 - Statistical Distribution/Normal Distribution.md",
+                "file": "Am I Cooked?.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/4.2 - Statistical Distribution/Normal Distribution.md",
+                "file": "Am I Cooked?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/4.2 - Statistical Distribution/Normal Distribution.md",
+                "file": "Am I Cooked?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/4.2 - Statistical Distribution/Normal Distribution.md"
+                "file": "Am I Cooked?.md"
               }
             }
           },
@@ -194,31 +194,31 @@
   },
   "active": "7e1ae98cad0077a9",
   "lastOpenFiles": [
-    "Maths/2.4 - Statistical Distribution/2.4 - Statistical Distribution.md",
-    "Maths/3.6 - Differentiation/3.6 - Differentiation.md",
-    "Am I Cooked?.md",
-    "Maths/1.6 - Exponentials and Logarithms/Modelling Exponential Curves.md",
-    "Maths/3.5 - Trigonometry/3.5 - Trigonometry.md",
-    "Maths/3.4 - Sequences and Series/3.4 - Sequences and Series.md",
-    "Maths/3.4 - Sequences and Series/Arithmetic.md",
-    "Maths/3.4 - Sequences and Series/Geometric.md",
-    "Maths/3.4 - Sequences and Series/Binomial Theorem - Approximation with non-integer powers.md",
-    "Maths/3.3 - Coordinate Geometry/3.3 - Coordinate Geometry.md",
-    "Maths/3.3 - Coordinate Geometry/Parametric Equations.md",
-    "Maths/3.2 - Algebra and Functions/3.2 - Algebra and Functions.md",
-    "Maths/2.1 - Statistical Sampling/2.1 - Statistical Sampling.md",
-    "Maths/3.1 - Proof by Contradiction/3.1 - Proof by Contradiction.md",
-    "Maths/2.1 - Statistical Sampling/Types of Sampling.md",
-    "Maths/2.1 - Statistical Sampling/Populations vs Samples.md",
     "index.md",
-    "Maths/Maths.md",
-    "Maths/3.8 - Numerical Methods/Intermediate Value Theorem.md",
+    "z_Excerpts/z_Excerpts.md",
+    "z_Excerpts/00-Quartic Formula.md",
+    "z_Excerpts/Python/Python.md",
+    "z_Excerpts/Python/save_files/save_files.md",
+    "z_Excerpts/Python/advent_of_code/advent_of_code.md",
+    "z_Excerpts/Image/Image.md",
+    "z_Excerpts/Graph/Graph.md",
     "Physics/Physics.md",
-    "Physics/1.5 - Solids under stress/1.5 - Solids under stress.md",
-    "Physics/1.6 - Using Radiation to Investigate Stars/1.6 - Using Radiation to Investigate Stars.md",
-    "Physics/1.7 - Particles and Nuclear Structure/1.7 - Particles and Nuclear Structure.md",
-    "Physics/2.1 - Conduction of Electricity/2.1 - Conduction of Electricity.md",
-    "Physics/2.1 - Conduction of Electricity/Drift Velocity.md",
+    "Physics/2.8 - Lasers/Stimulated Emission.md",
+    "Physics/2.8 - Lasers/2.8 - Lasers.md",
+    "Physics/2.7 - Photons/Photoelectric Effect.md",
+    "Physics/2.7 - Photons/Momentum of Light.md",
+    "Physics/2.7 - Photons/Atomic Energy Level.md",
+    "Physics/2.7 - Photons/2.7 - Photons.md",
+    "Physics/2.6 - Refraction/TIR - Optical Fibres.md",
+    "Physics/2.6 - Refraction/2.6 - Refraction.md",
+    "Physics/2.5 - Wave Properties/Stationary Waves.md",
+    "Physics/2.5 - Wave Properties/Diffraction Grating.md",
+    "Physics/2.5 - Wave Properties/2.5 - Wave Properties.md",
+    "Physics/2.4 - The Nature of Waves/Phase difference.md",
+    "Physics/2.4 - The Nature of Waves/2.4 - The Nature of Waves.md",
+    "Physics/2.3 - DC Circuits/Batteries.md",
+    "Physics/2.3 - DC Circuits/2.3 - DC Circuits.md",
+    "Physics/2.2 - Resistance/2.2 - Resistance.md",
     "Physics/2.1 - Conduction of Electricity/Electron charge.md",
     "Physics/1.6 - Using Radiation to Investigate Stars/Using Radiation to Investigate Stars recap.canvas",
     "Maths/4.2 - Statistical Distribution",
