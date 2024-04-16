@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Maths/3.6 - Differentiation/3.6 - Differentiation.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/4.2 - Statistical Distribution/Normal Distribution.md",
+                "file": "Am I Cooked?.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/3.8 - Numerical Methods/Intermediate Value Theorem.md",
+                "file": "Maths/2.4 - Statistical Distribution/2.4 - Statistical Distribution.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "normal ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/4.2 - Statistical Distribution/Normal Distribution.md",
+                "file": "Am I Cooked?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/4.2 - Statistical Distribution/Normal Distribution.md",
+                "file": "Am I Cooked?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/4.2 - Statistical Distribution/Normal Distribution.md"
+                "file": "Am I Cooked?.md"
               }
             }
           },
@@ -194,33 +194,33 @@
   },
   "active": "2a02be7bd43ca8b4",
   "lastOpenFiles": [
-    "Maths/Maths.md",
+    "Maths/1.6 - Exponentials and Logarithms/Modelling Exponential Curves.md",
     "Am I Cooked?.md",
+    "Maths/3.6 - Differentiation/3.6 - Differentiation.md",
+    "Maths/3.5 - Trigonometry/3.5 - Trigonometry.md",
+    "Maths/3.4 - Sequences and Series/3.4 - Sequences and Series.md",
+    "Maths/3.4 - Sequences and Series/Arithmetic.md",
+    "Maths/3.4 - Sequences and Series/Geometric.md",
+    "Maths/3.4 - Sequences and Series/Binomial Theorem - Approximation with non-integer powers.md",
+    "Maths/3.3 - Coordinate Geometry/3.3 - Coordinate Geometry.md",
+    "Maths/3.3 - Coordinate Geometry/Parametric Equations.md",
+    "Maths/3.2 - Algebra and Functions/3.2 - Algebra and Functions.md",
+    "Maths/2.1 - Statistical Sampling/2.1 - Statistical Sampling.md",
+    "Maths/3.1 - Proof by Contradiction/3.1 - Proof by Contradiction.md",
+    "Maths/2.1 - Statistical Sampling/Types of Sampling.md",
+    "Maths/2.1 - Statistical Sampling/Populations vs Samples.md",
     "index.md",
+    "Maths/2.4 - Statistical Distribution/2.4 - Statistical Distribution.md",
+    "Maths/Maths.md",
+    "Maths/3.8 - Numerical Methods/Intermediate Value Theorem.md",
     "Physics/Physics.md",
-    "Maths/3.8 - Numerical Methods/Fixed Point Iteration.md",
-    "Physics/2.5 - Wave Properties/2.5 - Wave Properties.md",
-    "Physics/2.4 - The Nature of Waves/Phase difference.md",
-    "Physics/2.4 - The Nature of Waves/2.4 - The Nature of Waves.md",
-    "Physics/2.3 - DC Circuits/Batteries.md",
-    "Physics/2.3 - DC Circuits/2.3 - DC Circuits.md",
-    "Physics/2.2 - Resistance/2.2 - Resistance.md",
-    "Physics/2.1 - Conduction of Electricity/Electron charge.md",
-    "Physics/2.1 - Conduction of Electricity/Drift Velocity.md",
-    "Physics/2.1 - Conduction of Electricity/2.1 - Conduction of Electricity.md",
-    "Physics/1.7 - Particles and Nuclear Structure/Particle Composition.md",
-    "Physics/1.7 - Particles and Nuclear Structure/Annihilation.md",
-    "Physics/1.7 - Particles and Nuclear Structure/1.7 - Particles and Nuclear Structure.md",
-    "Physics/1.6 - Using Radiation to Investigate Stars/Wien's Displacement Law.md",
-    "Physics/1.6 - Using Radiation to Investigate Stars/Using Radiation to Investigate Stars recap.canvas",
-    "Physics/1.6 - Using Radiation to Investigate Stars/Sun's Temperature.md",
-    "Physics/1.6 - Using Radiation to Investigate Stars/Stefan's Law.md",
-    "Physics/1.6 - Using Radiation to Investigate Stars/Spectra.md",
-    "Physics/1.6 - Using Radiation to Investigate Stars/Inverse Square Law.md",
-    "Physics/1.6 - Using Radiation to Investigate Stars/Electromagnetic Spectrum.md",
-    "Physics/1.6 - Using Radiation to Investigate Stars/Black Body.md",
+    "Physics/1.5 - Solids under stress/1.5 - Solids under stress.md",
     "Physics/1.6 - Using Radiation to Investigate Stars/1.6 - Using Radiation to Investigate Stars.md",
-    "Physics/1.5 - Solids under stress/Hooke's Law.md",
+    "Physics/1.7 - Particles and Nuclear Structure/1.7 - Particles and Nuclear Structure.md",
+    "Physics/2.1 - Conduction of Electricity/2.1 - Conduction of Electricity.md",
+    "Physics/2.1 - Conduction of Electricity/Drift Velocity.md",
+    "Physics/2.1 - Conduction of Electricity/Electron charge.md",
+    "Physics/1.6 - Using Radiation to Investigate Stars/Using Radiation to Investigate Stars recap.canvas",
     "Maths/4.2 - Statistical Distribution",
     "Computer Science/2.A - Practical/Practical revision.canvas",
     "z_Excerpts/Python/calculator_w_tkinter.py",
