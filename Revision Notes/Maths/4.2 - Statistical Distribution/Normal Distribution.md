@@ -15,3 +15,5 @@
 - Since this method uses continuous data, there is no need to change numbers between 'greater than' and 'greater than or equal to'
 
 *You're not required to use the formula for this.*
+
+*If the data peaks too high in the centre and isn't high enough for outer values, increase the variance*
