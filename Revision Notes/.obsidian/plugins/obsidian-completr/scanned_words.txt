@@ -1317,6 +1317,7 @@ otA
 owX
 owI
 oyE
+outer
 This
 Tan
 These
@@ -10130,6 +10131,7 @@ vmZ
 vSZp
 vjm
 vms
+variance
 We
 When
 Where

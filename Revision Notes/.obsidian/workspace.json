@@ -37,14 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/2.4 - Statistical Distribution/2.4 - Statistical Distribution.md",
+                "file": "Maths/4.2 - Statistical Distribution/Normal Distribution.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Am I Cooked?.md",
+                "file": "Maths/4.2 - Statistical Distribution/Normal Distribution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Am I Cooked?.md",
+                "file": "Maths/4.2 - Statistical Distribution/Normal Distribution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Am I Cooked?.md"
+                "file": "Maths/4.2 - Statistical Distribution/Normal Distribution.md"
               }
             }
           },
@@ -192,11 +192,12 @@
       "chronology:Open Chronology": false
     }
   },
-  "active": "2a02be7bd43ca8b4",
+  "active": "7e1ae98cad0077a9",
   "lastOpenFiles": [
-    "Maths/1.6 - Exponentials and Logarithms/Modelling Exponential Curves.md",
-    "Am I Cooked?.md",
+    "Maths/2.4 - Statistical Distribution/2.4 - Statistical Distribution.md",
     "Maths/3.6 - Differentiation/3.6 - Differentiation.md",
+    "Am I Cooked?.md",
+    "Maths/1.6 - Exponentials and Logarithms/Modelling Exponential Curves.md",
     "Maths/3.5 - Trigonometry/3.5 - Trigonometry.md",
     "Maths/3.4 - Sequences and Series/3.4 - Sequences and Series.md",
     "Maths/3.4 - Sequences and Series/Arithmetic.md",
@@ -210,7 +211,6 @@
     "Maths/2.1 - Statistical Sampling/Types of Sampling.md",
     "Maths/2.1 - Statistical Sampling/Populations vs Samples.md",
     "index.md",
-    "Maths/2.4 - Statistical Distribution/2.4 - Statistical Distribution.md",
     "Maths/Maths.md",
     "Maths/3.8 - Numerical Methods/Intermediate Value Theorem.md",
     "Physics/Physics.md",
