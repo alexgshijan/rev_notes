@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Unit 1/1.7 - Particles and Nuclear Structure/1.7 - Particles and Nuclear Structure.md",
+                "file": "Maths/Unit 4 - APPLIED/4.7 - Quantities and units in mechanics/4.7 - Quantities and units in mechanics.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Unit 1/1.7 - Particles and Nuclear Structure/1.7 - Particles and Nuclear Structure.md",
+                "file": "Maths/Unit 4 - APPLIED/4.7 - Quantities and units in mechanics/4.7 - Quantities and units in mechanics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/Unit 1/1.7 - Particles and Nuclear Structure/1.7 - Particles and Nuclear Structure.md",
+                "file": "Maths/Unit 4 - APPLIED/4.7 - Quantities and units in mechanics/4.7 - Quantities and units in mechanics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/Unit 1/1.7 - Particles and Nuclear Structure/1.7 - Particles and Nuclear Structure.md"
+                "file": "Maths/Unit 4 - APPLIED/4.7 - Quantities and units in mechanics/4.7 - Quantities and units in mechanics.md"
               }
             }
           },
@@ -169,32 +169,33 @@
   },
   "active": "f21f1d292a34b84c",
   "lastOpenFiles": [
-    "Physics/Unit 1/1.6 - Using Radiation to Investigate Stars/1.6 - Using Radiation to Investigate Stars.md",
-    "Physics/Unit 1/1.5 - Solids under stress/1.5 - Solids under stress.md",
-    "Physics/Unit 1/1.4 - Energy Concepts/1.4 - Energy Concepts.md",
-    "Physics/Unit 1/1.3 - Dynamics/1.3 - Dynamics.md",
-    "Physics/Unit 1/1.2 - Kinematics/1.2 - Kinematics.md",
-    "Physics/Unit 1/1.7 - Particles and Nuclear Structure/1.7 - Particles and Nuclear Structure.md",
-    "Physics/Unit 1/1.4 - Energy Concepts/Kinetic Energy.md",
-    "Physics/Unit 1/1.3 - Dynamics/Moment or Torque.md",
-    "Physics/Unit 1/1.3 - Dynamics/Center of Gravity.md",
-    "Physics/Unit 1/Unit 1.md",
-    "Physics/Physics.md",
     "Maths/Maths.md",
     "Computer Science/Computer Science.md",
     "Computer Science/Unit 2 - Practical/Unit 2 - Practical.md",
-    "Computer Science/Unit 1 - Theory/Unit 1 - Theory.md",
-    "Computer Science/Unit 1 - Theory/1.16 - Data security and integrity processes/1.16 - Data security and integrity processes.md",
-    "Computer Science/Unit 1 - Theory/1.14 - Software Systems/1.14 - Software Systems.md",
-    "Computer Science/Unit 1 - Theory/1.12 & 1.13 - Software engineering & Program construction/1.12 & 1.13 - Software engineering & Program construction.md",
-    "Computer Science/Unit 1 - Theory/1.11 - System Analysis/1.11 - System Analysis.md",
-    "Computer Science/Unit 1 - Theory/1.10 - Principles of programming/1.10 - Principles of programming.md",
-    "Computer Science/Unit 1 - Theory/1.8 - Operating Systems/1.8 - Operating Systems.md",
-    "Computer Science/Unit 1 - Theory/1.7 - Database Systems/1.7 - Database Systems.md",
-    "Computer Science/Unit 1 - Theory/1.6 - Organisation of data/1.6 - Organisation of data.md",
-    "Computer Science/Unit 1 - Theory/1.6 - Organisation of data/File Design/File Design.md",
-    "Computer Science/Unit 1 - Theory/1.4 - Data representation and data types/1.4 - Data representation and data types.md",
-    "Computer Science/Unit 1 - Theory/1.4 - Data representation and data types/Binary Arithmetic - Overflow and Underflow.md",
+    "Physics/Physics.md",
+    "Physics/Unit 1/Unit 1.md",
+    "index.md",
+    "Am I Cooked.md",
+    "z_Excerpts/00-Quartic Formula.md",
+    "z_Excerpts/Python/Python.md",
+    "z_Excerpts/Python/save_files/save_files.md",
+    "z_Excerpts/Python/advent_of_code/advent_of_code.md",
+    "z_Excerpts/Image/Image.md",
+    "z_Excerpts/Graph/Graph.md",
+    "Physics/Unit 2/2.8 - Lasers/Stimulated Emission.md",
+    "Physics/Unit 2/2.8 - Lasers/2.8 - Lasers.md",
+    "Physics/Unit 2/2.7 - Photons/Photoelectric Effect.md",
+    "Physics/Unit 2/2.7 - Photons/Momentum of Light.md",
+    "Physics/Unit 2/2.7 - Photons/Atomic Energy Level.md",
+    "Physics/Unit 2/2.7 - Photons/2.7 - Photons.md",
+    "Physics/Unit 2/2.6 - Refraction/TIR - Optical Fibres.md",
+    "Physics/Unit 2/2.6 - Refraction/2.6 - Refraction.md",
+    "Physics/Unit 2/2.5 - Wave Properties/Stationary Waves.md",
+    "Physics/Unit 2/2.5 - Wave Properties/Diffraction Grating.md",
+    "Physics/Unit 2/2.5 - Wave Properties/2.5 - Wave Properties.md",
+    "Physics/Unit 2/2.4 - The Nature of Waves/Phase difference.md",
+    "Physics/Unit 2/2.4 - The Nature of Waves/2.4 - The Nature of Waves.md",
+    "Physics/Unit 1/1.6 - Using Radiation to Investigate Stars/Using Radiation to Investigate Stars recap.canvas",
     "Computer Science/Unit 1 - Theory/1.16 - Data security and integrity processes",
     "Computer Science/Unit 1 - Theory/1.14 - Software Systems",
     "Computer Science/Unit 1 - Theory/1.12 & 1.13 - Software engineering & Program construction",
@@ -205,7 +206,6 @@
     "Computer Science/Unit 1 - Theory/1.6 - Organisation of data/File Design/File Types",
     "Computer Science/Unit 1 - Theory/1.6 - Organisation of data/Validation, Verification & Authentication",
     "Computer Science/Unit 1 - Theory/1.6 - Organisation of data/File Design",
-    "Physics/Unit 1/1.6 - Using Radiation to Investigate Stars/Using Radiation to Investigate Stars recap.canvas",
     "Physics/1.6 - Using Radiation to Investigate Stars/Using Radiation to Investigate Stars recap.canvas",
     "Computer Science/2.A - Practical/Practical revision.canvas",
     "z_Excerpts/Image/image 1.png",

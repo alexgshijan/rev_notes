@@ -4784,6 +4784,7 @@ mal
 mCC
 mNq
 mKi
+mechanics
 plans
 python
 press
