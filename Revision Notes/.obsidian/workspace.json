@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Unit 4 - APPLIED/4.7 - Quantities and units in mechanics/4.7 - Quantities and units in mechanics.md",
+                "file": "Am I Cooked.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/Unit 4 - APPLIED/4.7 - Quantities and units in mechanics/4.7 - Quantities and units in mechanics.md",
+                "file": "Am I Cooked.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Unit 4 - APPLIED/4.7 - Quantities and units in mechanics/4.7 - Quantities and units in mechanics.md",
+                "file": "Am I Cooked.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Unit 4 - APPLIED/4.7 - Quantities and units in mechanics/4.7 - Quantities and units in mechanics.md"
+                "file": "Am I Cooked.md"
               }
             }
           },
@@ -169,13 +169,17 @@
   },
   "active": "f21f1d292a34b84c",
   "lastOpenFiles": [
-    "Maths/Maths.md",
+    "Computer Science/Unit 1 - Theory/1.12 & 1.13 - Software engineering & Program construction/1.12 & 1.13 - Software engineering & Program construction.md",
+    "Am I Cooked.md",
+    "Computer Science/Unit 1 - Theory/1.4 - Data representation and data types/Negative Numbers/Negative Numbers.md",
+    "Computer Science/Unit 1 - Theory/Unit 1 - Theory.md",
     "Computer Science/Computer Science.md",
+    "Maths/Unit 4 - APPLIED/4.7 - Quantities and units in mechanics/4.7 - Quantities and units in mechanics.md",
+    "Maths/Maths.md",
     "Computer Science/Unit 2 - Practical/Unit 2 - Practical.md",
     "Physics/Physics.md",
     "Physics/Unit 1/Unit 1.md",
     "index.md",
-    "Am I Cooked.md",
     "z_Excerpts/00-Quartic Formula.md",
     "z_Excerpts/Python/Python.md",
     "z_Excerpts/Python/save_files/save_files.md",
@@ -191,10 +195,6 @@
     "Physics/Unit 2/2.6 - Refraction/TIR - Optical Fibres.md",
     "Physics/Unit 2/2.6 - Refraction/2.6 - Refraction.md",
     "Physics/Unit 2/2.5 - Wave Properties/Stationary Waves.md",
-    "Physics/Unit 2/2.5 - Wave Properties/Diffraction Grating.md",
-    "Physics/Unit 2/2.5 - Wave Properties/2.5 - Wave Properties.md",
-    "Physics/Unit 2/2.4 - The Nature of Waves/Phase difference.md",
-    "Physics/Unit 2/2.4 - The Nature of Waves/2.4 - The Nature of Waves.md",
     "Physics/Unit 1/1.6 - Using Radiation to Investigate Stars/Using Radiation to Investigate Stars recap.canvas",
     "Computer Science/Unit 1 - Theory/1.16 - Data security and integrity processes",
     "Computer Science/Unit 1 - Theory/1.14 - Software Systems",

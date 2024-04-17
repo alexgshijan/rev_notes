@@ -12,3 +12,6 @@
 [[2.1 - Conduction of Electricity]] - [[Drift Velocity]] 
 [[1.7 - Particles and Nuclear Structure]] - forces
 [[1.5 - Solids under stress]] - [[Materials]] 
+
+*Computer Science topics I need to work on*
+[[1.4 - Data representation and data types]] - [[Negative Numbers]] 
