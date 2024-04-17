@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Am I Cooked.md",
+                "file": "Computer Science/Unit 1 - Theory/1.6 - Organisation of data/File Design/File Types/Random.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Am I Cooked.md",
+                "file": "Computer Science/Unit 1 - Theory/1.6 - Organisation of data/File Design/File Types/Random.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Am I Cooked.md",
+                "file": "Computer Science/Unit 1 - Theory/1.6 - Organisation of data/File Design/File Types/Random.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Am I Cooked.md"
+                "file": "Computer Science/Unit 1 - Theory/1.6 - Organisation of data/File Design/File Types/Random.md"
               }
             }
           },
@@ -167,12 +167,18 @@
       "chronology:Open Chronology": false
     }
   },
-  "active": "de7d5c11a53ffbd9",
+  "active": "f21f1d292a34b84c",
   "lastOpenFiles": [
-    "Computer Science/Unit 1 - Theory/1.6 - Organisation of data/File Design/Master and Transaction Files.md",
+    "Computer Science/Unit 1 - Theory/1.6 - Organisation of data/File Design/File Types/Indexed Sequential.md",
+    "Computer Science/Unit 1 - Theory/1.6 - Organisation of data/File Design/File Types/Sequential.md",
+    "Computer Science/Unit 1 - Theory/1.6 - Organisation of data/File Design/File Types/Serial.md",
+    "Computer Science/Unit 1 - Theory/1.6 - Organisation of data/File Design/File Types/Random.md",
+    "Computer Science/Unit 1 - Theory/1.6 - Organisation of data/File Design/File Types/File Types.md",
+    "Computer Science/Unit 1 - Theory/1.6 - Organisation of data/File Design/File Design.md",
     "Computer Science/Unit 1 - Theory/1.6 - Organisation of data/File Design/Field Length.md",
-    "Computer Science/Unit 1 - Theory/1.6 - Organisation of data/1.6 - Organisation of data.md",
+    "Computer Science/Unit 1 - Theory/1.6 - Organisation of data/File Design/Master and Transaction Files.md",
     "Am I Cooked.md",
+    "Computer Science/Unit 1 - Theory/1.6 - Organisation of data/1.6 - Organisation of data.md",
     "z_Excerpts/Python/binary_ssss",
     "z_Excerpts/Python/game_rental.py",
     "Computer Science/Unit 1 - Theory/1.12 & 1.13 - Software engineering & Program construction/1.12 & 1.13 - Software engineering & Program construction.md",
@@ -191,12 +197,6 @@
     "z_Excerpts/Python/advent_of_code/advent_of_code.md",
     "z_Excerpts/Image/Image.md",
     "z_Excerpts/Graph/Graph.md",
-    "Physics/Unit 2/2.8 - Lasers/Stimulated Emission.md",
-    "Physics/Unit 2/2.8 - Lasers/2.8 - Lasers.md",
-    "Physics/Unit 2/2.7 - Photons/Photoelectric Effect.md",
-    "Physics/Unit 2/2.7 - Photons/Momentum of Light.md",
-    "Physics/Unit 2/2.7 - Photons/Atomic Energy Level.md",
-    "Physics/Unit 2/2.7 - Photons/2.7 - Photons.md",
     "Physics/Unit 1/1.6 - Using Radiation to Investigate Stars/Using Radiation to Investigate Stars recap.canvas",
     "Computer Science/Unit 1 - Theory/1.16 - Data security and integrity processes",
     "Computer Science/Unit 1 - Theory/1.14 - Software Systems",
