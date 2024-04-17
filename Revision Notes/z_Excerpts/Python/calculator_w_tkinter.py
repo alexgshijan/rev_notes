@@ -41,7 +41,7 @@ def undo(): #ERROR : undo button may be bugged
 
 
 win = Tk()
-win.title  = 'our (better) calculator'
+win.title('our (better) calculator')
 
 Button(text = 'MS', width = 5, height = 1, command = MS).grid(row = 1, column = 0)
 Button(text = 'MR', width = 5, height = 1, command = MR).grid(row = 1, column = 1)
