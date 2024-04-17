@@ -10,3 +10,5 @@ Van der Waals forces are weak bonds formed in the tangled mess of molecules, bet
 The strength of these van der Waal decrease very rapidly with distance. At point B the molecules have detangled. This is why from C $\to$ E there is a large extension with minimal force inputted. 
 
 Once the molecules have been detangled, stretching the material any further requires the strong covalent bond between each molecule be lengthened, as well as lengthening or breaking the strong cross links between molecules. This is much harder than simply unravelling the molecules. This can be observed from E $\to$ F
+
+#wip 
