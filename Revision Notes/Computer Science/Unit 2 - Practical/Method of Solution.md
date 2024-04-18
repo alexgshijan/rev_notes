@@ -1,0 +1,17 @@
+*You need to form a spec for a problem they give you. Within that consider the following points with concise explantations, in the context of python's tkinter package :*
+- User interface
+	- GUI or CLI
+	- Widgets
+- Data Types
+- Validation
+- Processes
+	- Saving and Loading
+	- Calculations 
+	- Search and Count
+- Method of file access
+	- Generally just serial 
+	- Mention random as a superior method
+- Data Storage 
+	- Generally as a fixed length record
+- Variable Scope
+	- Local and Global

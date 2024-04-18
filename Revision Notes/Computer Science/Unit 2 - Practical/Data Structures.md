@@ -1,3 +1,9 @@
+*Exam Question - Answer Template*
+
+| Field Name | Key field | Data type | Field length | Validation | Validation rule |
+| ---------- | --------- | --------- | ------------ | ---------- | --------------- |
+|            |           |           |              |            |                 |
+
 Data structures are specially allocated areas of computer memory that are arranged or organised in a particular way. Their purpose is to store multiple items of *related* data
 
 *Sorting & Searching*
