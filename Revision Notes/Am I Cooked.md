@@ -5,6 +5,7 @@
 [[3.5 - Trigonometry]] - All
 [[3.6 - Differentiation]] - All
 [[3.7 - Integration]] - w/ trig
+[[4.7 - Quantities and units in mechanics]] - [[Friction]] on a slope.
 
 *Physics topics I need to work on*
 [[2.7 - Photons]] - [[Photoelectric Effect]] 
