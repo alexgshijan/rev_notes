@@ -1,7 +1,7 @@
 *Total Internal Reflection*
 Total internal reflection occurs when both the light is in the more dense medium and approaching the less dense medium and the angle of incidence is greater than the critical angle.
 
-*Deriving the critical angle*
+*Deriving the critical angle - where n1 is the core material and n2 is the cladding*
 $$n_{1}\sin C=n_{2}\sin90\therefore n_{1}\sin C=n_{2}$$
 *Deriving alpha*
 $$\alpha=90-C$$

@@ -1096,6 +1096,8 @@ aIIN
 angular
 ago
 addition
+accelerates
+approximate
 only
 on
 odd
@@ -1322,6 +1324,7 @@ owI
 oyE
 outer
 optimal
+overcome
 This
 Tan
 These
@@ -1835,6 +1838,7 @@ rMJ
 refracted
 rearranging
 reactionary
+reflect
 bank
 be
 but
@@ -3467,6 +3471,7 @@ skYD
 staircase
 superior
 spec
+standstill
 It
 Identities
 Information
@@ -3688,6 +3693,7 @@ Icd
 IId
 Ize
 ICs
+Items
 currently
 contain
 co
@@ -4136,6 +4142,7 @@ converging
 continuity
 corrections
 concise
+collate
 doesn
 determined
 data
@@ -4496,6 +4503,7 @@ delay
 discover
 did
 divides
+distancing
 many
 mailto
 main
@@ -5140,6 +5148,7 @@ pretending
 peW
 pRT
 pushing
+push
 expand
 even
 each
@@ -8959,6 +8968,7 @@ MKy
 MpP
 Mono
 Mention
+Memorise
 give
 generally
 get

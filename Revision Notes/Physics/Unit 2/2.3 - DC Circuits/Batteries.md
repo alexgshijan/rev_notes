@@ -4,7 +4,7 @@ Some of the electrical energy is turned into heat as the current flows through t
 
 
 **Formula :**
-$$EMF=T.P.d +P.d\text{ across internal resistor}$$
+$$EMF=P.d\text{ terminal} +P.d\text{ across internal resistor}$$
 $$V=E-Ir$$*where :*
 - Energy converted per coulomb to the external circuit is V
 - Energy converted from chemical to electrical potential energy per coulomb in a cell is E

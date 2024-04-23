@@ -4,4 +4,6 @@ $$n\lambda=d\sin\theta$$*where :*
 - Distance between slits is $d$ with units $m$
 - Order of maxima is $n$
 
+*To figure out the distancing on a screen, we need to use Pythagoras*
+
 ![[Pasted image 20240221103751.png]]

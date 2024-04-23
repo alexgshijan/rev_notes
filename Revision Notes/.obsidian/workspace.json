@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Unit 4 - APPLIED/4.7 - Quantities and units in mechanics/4.7 - Quantities and units in mechanics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3f02ef7249b6eaa4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maths/Unit 4 - APPLIED/4.7 - Quantities and units in mechanics/Friction.md",
+                "file": "Computer Science/Computer Science.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 215.5
   },
   "right": {
     "id": "8956f1c226c0ad0f",
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/Unit 4 - APPLIED/4.7 - Quantities and units in mechanics/Friction.md",
+                "file": "Computer Science/Computer Science.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Unit 4 - APPLIED/4.7 - Quantities and units in mechanics/Friction.md",
+                "file": "Computer Science/Computer Science.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Unit 4 - APPLIED/4.7 - Quantities and units in mechanics/Friction.md"
+                "file": "Computer Science/Computer Science.md"
               }
             }
           },
@@ -180,40 +167,40 @@
       "chronology:Open Chronology": false
     }
   },
-  "active": "3f02ef7249b6eaa4",
+  "active": "275f05c7c615008d",
   "lastOpenFiles": [
-    "Maths/Unit 4 - APPLIED/4.7 - Quantities and units in mechanics/4.7 - Quantities and units in mechanics.md",
-    "Maths/Unit 4 - APPLIED/4.7 - Quantities and units in mechanics/Friction.md",
-    "Maths/Maths.md",
-    "Physics/Physics.md",
-    "Physics/Unit 2/Unit 2.md",
-    "Computer Science/Unit 2 - Practical/Unit 2 - Practical.md",
+    "Computer Science/Unit 1 - Theory/Unit 1 - Theory.md",
+    "Computer Science/Unit 1 - Theory/1.1 - Hardware and communication/1.1 - Hardware and communication.md",
+    "Computer Science/Computer Science.md",
     "Am I Cooked.md",
-    "Physics/Unit 1/1.6 - Using Radiation to Investigate Stars/Black Body.md",
-    "Physics/Unit 1/1.6 - Using Radiation to Investigate Stars/1.6 - Using Radiation to Investigate Stars.md",
-    "Physics/Unit 1/1.5 - Solids under stress/Hooke's Law.md",
-    "Physics/Unit 1/1.5 - Solids under stress/1.5 - Solids under stress.md",
-    "Physics/Unit 1/1.5 - Solids under stress/Materials/Polymers.md",
-    "Physics/Unit 1/1.5 - Solids under stress/Materials/Crystalline - Polycrystalline.md",
-    "Physics/Unit 1/1.5 - Solids under stress/Materials/Amorphous.md",
-    "Physics/Unit 1/1.4 - Energy Concepts/Power.md",
-    "Physics/Unit 1/1.4 - Energy Concepts/Kinetic Energy.md",
-    "Physics/Unit 1/1.4 - Energy Concepts/Elastic Objects.md",
-    "Physics/Unit 1/1.4 - Energy Concepts/Conservation of Mechanical Energy.md",
-    "Physics/Unit 1/1.4 - Energy Concepts/1.4 - Energy Concepts.md",
-    "Physics/Unit 1/1.3 - Dynamics/Center of Gravity.md",
-    "Physics/Unit 1/1.2 - Kinematics/SUVAT - The Equations of Constant Acceleration.md",
-    "Physics/Unit 1/1.2 - Kinematics/Graphs.md",
-    "Physics/Unit 1/1.1 - Physics Basics/Derived Quantities.md",
-    "Physics/Unit 1/1.1 - Physics Basics/1.1 - Physics Basics.md",
+    "index.md",
+    "z_Excerpts/00-Quartic Formula.md",
+    "z_Excerpts/Python/Python.md",
+    "z_Excerpts/Python/save_files/save_files.md",
+    "z_Excerpts/Python/advent_of_code/advent_of_code.md",
+    "z_Excerpts/Image/Image.md",
+    "z_Excerpts/Graph/Graph.md",
+    "Physics/Physics.md",
+    "Physics/Unit 2/2.8 - Lasers/Stimulated Emission.md",
+    "Physics/Unit 2/2.8 - Lasers/2.8 - Lasers.md",
+    "Physics/Unit 2/2.7 - Photons/Photoelectric Effect.md",
+    "Physics/Unit 2/2.7 - Photons/Momentum of Light.md",
+    "Physics/Unit 2/2.7 - Photons/Atomic Energy Level.md",
+    "Physics/Unit 2/2.7 - Photons/2.7 - Photons.md",
     "Physics/Unit 2/2.6 - Refraction/TIR - Optical Fibres.md",
-    "Maths/Unit 1 - PURE/1.7 - Differentiation/1.7 - Differentiation.md",
+    "Physics/Unit 2/2.6 - Refraction/2.6 - Refraction.md",
+    "Physics/Unit 2/2.5 - Wave Properties/Stationary Waves.md",
+    "Physics/Unit 2/2.5 - Wave Properties/Diffraction Grating.md",
+    "Physics/Unit 2/2.5 - Wave Properties/2.5 - Wave Properties.md",
+    "Physics/Unit 2/2.4 - The Nature of Waves/Phase difference.md",
+    "Physics/Unit 2/2.4 - The Nature of Waves/2.4 - The Nature of Waves.md",
+    "Physics/Unit 2/2.3 - DC Circuits/Batteries.md",
+    "Physics/Unit 1/1.6 - Using Radiation to Investigate Stars/Using Radiation to Investigate Stars recap.canvas",
     "z_Excerpts/Python/firmData.txt",
     "z_Excerpts/Python/customerData.txt",
     "z_Excerpts/Python/Passwords.txt",
     "z_Excerpts/Python/binary_ssss",
     "z_Excerpts/Python/game_rental.py",
-    "Physics/Unit 1/1.6 - Using Radiation to Investigate Stars/Using Radiation to Investigate Stars recap.canvas",
     "Computer Science/Unit 1 - Theory/1.16 - Data security and integrity processes",
     "Computer Science/Unit 1 - Theory/1.14 - Software Systems",
     "Computer Science/Unit 1 - Theory/1.12 & 1.13 - Software engineering & Program construction",

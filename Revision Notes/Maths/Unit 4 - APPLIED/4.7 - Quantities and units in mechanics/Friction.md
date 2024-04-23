@@ -1,9 +1,11 @@
-*Understand that each material has a friction coefficient, represented as $\micro$, given a value between 0 and 1. For a material to be moved, it's pushing force must be greater than the reactionary friction force. Items with higher mass also result in a greater frictional force*
+*Understand that each material has a friction coefficient, represented as $\micro$, given a value between 0 and 1. For a material to be moved, it's pushing force must be greater than the reactionary friction force. Items with higher mass also result in a greater frictional force, it's reactionary force perpendicular to it's contact surface, represented as $R$*
 
 When pushing on an object, *the frictional force must be overcome* before the object accelerates. This can represented with the formula :
 $$F\leq\micro R$$
 At the moment that the *pushing force is equal to the frictional force*, we observe :
 $$F=\micro R$$
+Also note that at this point, $$\micro=\tan^{-1}\theta$$
+
 And finally when the *pushing force overcomes the frictional force*, we denote :
 $$F>\micro R$$
 *We can calculate this value of $\micro R$ by observing the minimum required force to move the object and using that as an approximate value.*
