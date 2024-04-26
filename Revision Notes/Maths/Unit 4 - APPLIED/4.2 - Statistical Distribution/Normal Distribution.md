@@ -8,6 +8,7 @@
 - The data is continuous 
 - The area under the graph is 1
 - Standard Deviations above the mean is represented as $Z$
+- Sample Size is represented as $n$
 
 *The curve has points of inflection one standard deviation from the mean*
 
