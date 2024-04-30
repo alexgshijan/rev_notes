@@ -1,4 +1,4 @@
-*This is a WJEC A Level Revision Notes Website for Maths, (tbc. Further Maths), Physics and Computer Science, all typed up by me, Alex Shijan. As of right now, all AS notes have been completed (Excluding Maths - Unit 4).* 
+*This is a WJEC A Level Revision Notes Website for Maths, (tbc. Further Maths), Physics and Computer Science, all typed up by me, Alex Shijan. As of right now, all AS notes have been completed (plus Unit 3 and Unit 4 of Maths.).* 
 
 *For a slightly more up to date, text only version, visit the* [Github Repo](https://github.com/alexgshijan/rev_notes/tree/main/Revision%20Notes) 
 *To help out with this site, consider visiting our* [Contribution page!](https://donate.shijan.co.uk)

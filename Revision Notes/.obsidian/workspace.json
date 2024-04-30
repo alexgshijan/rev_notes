@@ -23,8 +23,12 @@
             "id": "66b5ed08e26ddaa9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Maths/Unit 3 - PURE/3.4 - Sequences and Series/Geometric.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -57,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "and gate",
+                "query": "geometric",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Maths/Unit 3 - PURE/3.4 - Sequences and Series/Geometric.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Maths/Unit 3 - PURE/3.4 - Sequences and Series/Geometric.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Maths/Unit 3 - PURE/3.4 - Sequences and Series/Geometric.md"
+              }
             }
           },
           {
@@ -173,13 +180,18 @@
   },
   "active": "66b5ed08e26ddaa9",
   "lastOpenFiles": [
+    "Maths/Unit 3 - PURE/3.4 - Sequences and Series/Arithmetic.md",
+    "Maths/Unit 3 - PURE/3.4 - Sequences and Series/Geometric.md",
+    "Maths/Unit 3 - PURE/3.4 - Sequences and Series/3.4 - Sequences and Series.md",
+    "Maths/Unit 3 - PURE/Unit 3 - PURE.md",
+    "Am I Cooked.md",
+    "index.md",
+    "Maths/Unit 4 - APPLIED/4.9 - Forces and Newton's Laws - Friction/4.9 - Forces and Newton's Laws - Friction.md",
     "Maths/Unit 1 - PURE/1.3 - Coordinate Geometry/Circles.md",
     "Maths/Unit 4 - APPLIED/4.3 - Statistical Hypothesis Testing/Normal Distribution - Hypothesis Testing.md",
     "Maths/Unit 4 - APPLIED/4.3 - Statistical Hypothesis Testing/4.3 - Statistical Hypothesis Testing.md",
     "Maths/Unit 4 - APPLIED/4.4 - 4.6 - Differentiation, Trigonometry & Integration/4.4 - 4.6 - Differentiation, Trigonometry & Integration.md",
     "Maths/Unit 4 - APPLIED/4.7 & 4.10 - Quantities and units in mechanics & Moments/4.7 & 4.10 - Quantities and units in mechanics & Moments.md",
-    "Maths/Unit 4 - APPLIED/4.9 - Forces and Newton's Laws - Friction/4.9 - Forces and Newton's Laws - Friction.md",
-    "index.md",
     "z_Excerpts/z_Excerpts.md",
     "z_Excerpts/00-Quartic Formula.md",
     "z_Excerpts/Python/Python.md",
@@ -194,11 +206,6 @@
     "Physics/Unit 2/2.7 - Photons/Momentum of Light.md",
     "Physics/Unit 2/2.7 - Photons/Atomic Energy Level.md",
     "Physics/Unit 2/2.7 - Photons/2.7 - Photons.md",
-    "Physics/Unit 2/2.6 - Refraction/TIR - Optical Fibres.md",
-    "Physics/Unit 2/2.6 - Refraction/2.6 - Refraction.md",
-    "Physics/Unit 2/2.5 - Wave Properties/Stationary Waves.md",
-    "Physics/Unit 2/2.5 - Wave Properties/Diffraction Grating.md",
-    "Physics/Unit 2/2.5 - Wave Properties/2.5 - Wave Properties.md",
     "Physics/Unit 1/1.6 - Using Radiation to Investigate Stars/Using Radiation to Investigate Stars recap.canvas",
     "Maths/Unit 4 - APPLIED/4.4 - 4.6 - Differentiation, Trigonometry & Integration",
     "Maths/Unit 4 - APPLIED/4.9 - Forces and Newton's Laws - Friction",

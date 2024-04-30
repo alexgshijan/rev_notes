@@ -5,13 +5,10 @@
 [[3.5 - Trigonometry]] - All
 [[3.6 - Differentiation]] - All
 [[3.7 - Integration]] - w/ trig
-[[4.7 - Quantities and units in mechanics]] - [[Friction]] on a slope.
 
 *Physics topics I need to work on*
 [[2.7 - Photons]] - [[Photoelectric Effect]] 
-[[2.1 - Conduction of Electricity]] - [[Drift Velocity]] 
 [[1.7 - Particles and Nuclear Structure]] - forces
 [[1.5 - Solids under stress]] - [[Materials]] 
 
 *Computer Science topics I need to work on*
-[[1.4 - Data representation and data types]] - [[Negative Numbers]] 
