@@ -1,3 +1,5 @@
+Blended learning - focus.
+
 *Maths topics I need to work on*
 [[1.6 - Exponentials and Logarithms]] - [[Modelling Exponential Curves]] 
 [[1.9 - Vectors]] - Formula

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5c3e74fa7c77035f",
+        "id": "7a8ca9d013dee8dd",
         "type": "tabs",
         "children": [
           {
-            "id": "e86a306609ec6623",
+            "id": "558e278443b86b10",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Unit 1 - Theory/1.10 - Principles of programming/1.10 - Principles of programming.md",
+                "file": "Am I Cooked.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "binomial",
+                "query": "\\theta",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Unit 1 - Theory/1.10 - Principles of programming/1.10 - Principles of programming.md",
+                "file": "Am I Cooked.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Unit 1 - Theory/1.10 - Principles of programming/1.10 - Principles of programming.md",
+                "file": "Am I Cooked.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Unit 1 - Theory/1.10 - Principles of programming/1.10 - Principles of programming.md"
+                "file": "Am I Cooked.md"
               }
             }
           },
@@ -165,45 +165,45 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "e86a306609ec6623",
+  "active": "558e278443b86b10",
   "lastOpenFiles": [
-    "Maths/Unit 1 - PURE/1.2 - Algebra and Functions/Polynomials/Division - Box Method.md",
-    "Maths/Unit 1 - PURE/1.2 - Algebra and Functions/Polynomials/Quadratics/The nature of roots.md",
-    "Maths/Unit 1 - PURE/1.2 - Algebra and Functions/Polynomials/Quadratics/Sketching Curves.md",
-    "Maths/Unit 1 - PURE/1.2 - Algebra and Functions/Polynomials/Quadratics/Disguised Quadratics.md",
-    "Maths/Unit 1 - PURE/1.2 - Algebra and Functions/Polynomials/Quadratics/Completing the Square.md",
-    "Maths/Unit 1 - PURE/1.1 - Notation and Proof/Set Theory Symbols.md",
-    "Computer Science/Computer Science.md",
-    "Computer Science/Unit 2 - Practical/Unit 2 - Practical.md",
-    "Computer Science/Unit 2 - Practical/Flowcharts.md",
-    "Computer Science/Unit 2 - Practical/Entity Relationship Diagrams.md",
-    "Computer Science/Unit 2 - Practical/Data Structures.md",
-    "Computer Science/Unit 2 - Practical/Algorithms.md",
-    "Computer Science/Unit 1 - Theory/Unit 1 - Theory.md",
-    "Computer Science/Unit 1 - Theory/1.16 - Data security and integrity processes/Protecting files and data.md",
-    "Computer Science/Unit 1 - Theory/1.16 - Data security and integrity processes/Malicious Software.md",
-    "Computer Science/Unit 1 - Theory/1.16 - Data security and integrity processes/1.16 - Data security and integrity processes.md",
-    "Computer Science/Unit 1 - Theory/1.14 - Software Systems/1.14 - Software Systems.md",
-    "Computer Science/Unit 1 - Theory/1.12 & 1.13 - Software engineering & Program construction/1.12 & 1.13 - Software engineering & Program construction.md",
-    "Computer Science/Unit 1 - Theory/1.11 - System Analysis/System Lifecycle.md",
-    "Computer Science/Unit 1 - Theory/1.11 - System Analysis/1.11 - System Analysis.md",
-    "Computer Science/Unit 1 - Theory/1.10 - Principles of programming/Types of Languages.md",
-    "Computer Science/Unit 1 - Theory/1.10 - Principles of programming/Object Oriented Programming.md",
-    "Computer Science/Unit 1 - Theory/1.10 - Principles of programming/Levels of Languages.md",
-    "Computer Science/Unit 1 - Theory/1.10 - Principles of programming/1.10 - Principles of programming.md",
-    "Computer Science/Unit 1 - Theory/1.8 - Operating Systems/Utility Software.md",
-    "Computer Science/Unit 1 - Theory/1.8 - Operating Systems/Resource Management.md",
-    "Maths/Unit 4 - APPLIED/4.8 - Kinematics",
+    "Am I Cooked.md",
+    "Ads.txt",
+    "index.md",
+    "z_Excerpts/z_Excerpts.md",
+    "z_Excerpts/00-Quartic Formula.md",
+    "z_Excerpts/Python/Python.md",
+    "z_Excerpts/Python/save_files/save_files.md",
+    "z_Excerpts/Python/advent_of_code/advent_of_code.md",
+    "z_Excerpts/Image/Image.md",
+    "z_Excerpts/Graph/Graph.md",
+    "Physics/Physics.md",
+    "Physics/Unit 2/2.8 - Lasers/Stimulated Emission.md",
+    "Physics/Unit 2/2.8 - Lasers/2.8 - Lasers.md",
+    "Physics/Unit 2/2.7 - Photons/Photoelectric Effect.md",
+    "Physics/Unit 2/2.7 - Photons/Momentum of Light.md",
+    "Physics/Unit 2/2.7 - Photons/Atomic Energy Level.md",
+    "Physics/Unit 2/2.7 - Photons/2.7 - Photons.md",
+    "Physics/Unit 2/2.6 - Refraction/TIR - Optical Fibres.md",
+    "Physics/Unit 2/2.6 - Refraction/2.6 - Refraction.md",
+    "Physics/Unit 2/2.5 - Wave Properties/Stationary Waves.md",
+    "Physics/Unit 2/2.5 - Wave Properties/Diffraction Grating.md",
+    "Physics/Unit 2/2.5 - Wave Properties/2.5 - Wave Properties.md",
+    "Physics/Unit 2/2.4 - The Nature of Waves/Phase difference.md",
+    "Physics/Unit 2/2.4 - The Nature of Waves/2.4 - The Nature of Waves.md",
+    "Physics/Unit 2/2.3 - DC Circuits/Batteries.md",
+    "Physics/Unit 2/2.3 - DC Circuits/2.3 - DC Circuits.md",
+    "Physics/Unit 2/2.2 - Resistance/2.2 - Resistance.md",
     "Physics/Unit 1/1.6 - Using Radiation to Investigate Stars/Using Radiation to Investigate Stars recap.canvas",
+    "z_Excerpts/plain_text.html",
+    "z_Excerpts/Untitled.txt",
+    "Maths/Unit 4 - APPLIED/4.8 - Kinematics",
     "Maths/Unit 4 - APPLIED/4.4 - 4.6 - Differentiation, Trigonometry & Integration",
     "Maths/Unit 4 - APPLIED/4.9 - Forces and Newton's Laws - Friction",
     "Maths/Unit 4 - APPLIED/4.7 & 4.10 - Quantities and units in mechanics & Moments",
     "Maths/Unit 4 - APPLIED/4.3 - Statistical Hypothesis Testing",
     "z_Excerpts/Python/firmData.txt",
     "z_Excerpts/Python/customerData.txt",
-    "z_Excerpts/Python/Passwords.txt",
-    "z_Excerpts/Python/binary_ssss",
-    "z_Excerpts/Python/game_rental.py",
     "Physics/1.6 - Using Radiation to Investigate Stars/Using Radiation to Investigate Stars recap.canvas",
     "Computer Science/2.A - Practical/Practical revision.canvas",
     "z_Excerpts/Image/image 1.png",
