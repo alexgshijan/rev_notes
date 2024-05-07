@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Am I Cooked.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\\theta",
+                "query": "power",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Am I Cooked.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Am I Cooked.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Am I Cooked.md"
+                "file": "index.md"
               }
             }
           },
@@ -167,7 +167,6 @@
   },
   "active": "558e278443b86b10",
   "lastOpenFiles": [
-    "index.md",
     "z_Excerpts/z_Excerpts.md",
     "z_Excerpts/00-Quartic Formula.md",
     "z_Excerpts/Python/Python.md",
@@ -187,18 +186,19 @@
     "Physics/Unit 2/2.5 - Wave Properties/Stationary Waves.md",
     "Physics/Unit 2/2.5 - Wave Properties/Diffraction Grating.md",
     "Physics/Unit 2/2.5 - Wave Properties/2.5 - Wave Properties.md",
-    "Physics/Unit 2/2.4 - The Nature of Waves/Progressive Waves.md",
-    "Am I Cooked.md",
-    "Maths/Unit 3 - PURE/3.6 - Differentiation/Differential Equations - First Order.md",
-    "Maths/Unit 3 - PURE/3.6 - Differentiation/Chain Rule.md",
-    "Maths/Unit 3 - PURE/3.6 - Differentiation/Calculus Differentiation Proofs.md",
-    "Maths/Unit 3 - PURE/3.6 - Differentiation/3.6 - Differentiation.md",
-    "Ads.txt",
+    "Physics/Unit 2/2.4 - The Nature of Waves/Phase difference.md",
+    "Physics/Unit 2/2.4 - The Nature of Waves/2.4 - The Nature of Waves.md",
+    "Physics/Unit 2/2.3 - DC Circuits/Batteries.md",
+    "Physics/Unit 2/2.3 - DC Circuits/2.3 - DC Circuits.md",
+    "Physics/Unit 2/2.2 - Resistance/2.2 - Resistance.md",
+    "Physics/Unit 2/2.1 - Conduction of Electricity/Electron charge.md",
+    "Physics/Unit 2/2.1 - Conduction of Electricity/Drift Velocity.md",
     "Physics/Unit 1/1.6 - Using Radiation to Investigate Stars/Using Radiation to Investigate Stars recap.canvas",
+    "Ads.txt",
     "z_Excerpts/plain_text.html",
     "z_Excerpts/Untitled.txt",
     "Maths/Unit 4 - APPLIED/4.8 - Kinematics",
-    "Maths/Unit 4 - APPLIED/4.4 - 4.6 - Differentiation, Trigonometry & Integration",
+    "Maths/Unit 4 - APPLIED/4.6 - Integration - Application of Differential Equations",
     "Maths/Unit 4 - APPLIED/4.9 - Forces and Newton's Laws - Friction",
     "Maths/Unit 4 - APPLIED/4.7 & 4.10 - Quantities and units in mechanics & Moments",
     "Maths/Unit 4 - APPLIED/4.3 - Statistical Hypothesis Testing",

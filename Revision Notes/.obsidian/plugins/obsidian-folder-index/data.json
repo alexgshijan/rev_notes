@@ -8,8 +8,8 @@
   "hideIndexFiles": false,
   "indexFileInitText": "Additional subtopics:\n```folder-index-content\n```",
   "autoPreviewMode": false,
-  "sortIndexFilesAlphabetically": true,
-  "sortHeadersAlphabetically": false,
+  "sortIndexFiles": "Alphabetically",
+  "sortHeaders": "Disabled",
   "recursiveIndexFiles": true,
   "renderFolderBold": true,
   "renderFolderItalic": false,
@@ -18,5 +18,7 @@
     ""
   ],
   "recursionLimit": -1,
-  "headlineLimit": 6
+  "headlineLimit": 6,
+  "sortIndexFilesAlphabetically": true,
+  "sortHeadersAlphabetically": false
 }
