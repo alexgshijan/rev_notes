@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7a8ca9d013dee8dd",
+        "id": "abbc2c143adbddfe",
         "type": "tabs",
         "children": [
           {
-            "id": "558e278443b86b10",
+            "id": "2fd714b4237a2f1d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "power",
+                "query": "proo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "z_Excerpts/00-Quartic Formula.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "z_Excerpts/00-Quartic Formula.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "z_Excerpts/00-Quartic Formula.md"
               }
             }
           },
@@ -165,10 +161,45 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "558e278443b86b10",
+  "floating": {
+    "id": "112a9ea204dfcbb6",
+    "type": "floating",
+    "children": [
+      {
+        "id": "64c2e6f0b9022f4f",
+        "type": "window",
+        "children": [
+          {
+            "id": "d6c4ecc467131107",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a1675575fd44f45a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "z_Excerpts/00-Quartic Formula.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 390,
+        "y": 525,
+        "width": 800,
+        "height": 400,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "a1675575fd44f45a",
   "lastOpenFiles": [
-    "z_Excerpts/z_Excerpts.md",
-    "z_Excerpts/00-Quartic Formula.md",
     "z_Excerpts/Python/Python.md",
     "z_Excerpts/Python/save_files/save_files.md",
     "z_Excerpts/Python/advent_of_code/advent_of_code.md",
@@ -193,7 +224,10 @@
     "Physics/Unit 2/2.2 - Resistance/2.2 - Resistance.md",
     "Physics/Unit 2/2.1 - Conduction of Electricity/Electron charge.md",
     "Physics/Unit 2/2.1 - Conduction of Electricity/Drift Velocity.md",
+    "Physics/Unit 2/2.1 - Conduction of Electricity/2.1 - Conduction of Electricity.md",
+    "Physics/Unit 1/1.7 - Particles and Nuclear Structure/Particle Composition.md",
     "Physics/Unit 1/1.6 - Using Radiation to Investigate Stars/Using Radiation to Investigate Stars recap.canvas",
+    "Untitled.canvas",
     "Ads.txt",
     "z_Excerpts/plain_text.html",
     "z_Excerpts/Untitled.txt",
@@ -221,7 +255,6 @@
     "Maths/1.8 - Integration/Integration recap.canvas",
     "Computer Science/1.2 - Logical Operators/Boolean Algebra/Logical Operators Recap.canvas",
     "Maths/2.3 - Probability/Probability Recap.canvas",
-    "Physics/1.7 - Particles and Nuclear Structure/Particles and Nuclear Structure.canvas",
-    "Computer Science/Prac/Untitled.canvas"
+    "Physics/1.7 - Particles and Nuclear Structure/Particles and Nuclear Structure.canvas"
   ]
 }

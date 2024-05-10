@@ -3,7 +3,7 @@ For some integrations involving a complicated expression, we can make a substitu
 *First we introduce a new variable, lets use a worked example* 
 $$u=2x+5 \text{ to find} \int x\sqrt{2x+5}\text{ dx}$$
 *Let's rearrange u to find some key information*
-$$\frac{\delta u}{\delta x}=2,\delta u =2\delta x, \delta x=\frac{\delta u}{x},x=\frac{u-5}{2}$$
+$$\frac{\delta u}{\delta x}=2\to \delta x=\frac{\delta u}{2}\to x=\frac{u-5}{2}$$
 *Let's sub these back into the original equation*
 $$\int x\sqrt{2x+5}\text{ dx}=\int\frac{u-5}{2}\sqrt{u}\cdot\delta u\frac{1}{2}=\int(u-5)\sqrt{u}\cdot\delta u\frac{1}{4}$$
 *We then need to actually integrate in terms of u*

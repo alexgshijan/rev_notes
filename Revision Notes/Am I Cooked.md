@@ -4,6 +4,7 @@ Blended learning - focus.
 [[1.6 - Exponentials and Logarithms]] - [[Modelling Exponential Curves]] 
 [[3.6 - Differentiation]] - smaller rules
 [[3.7 - Integration]] - w/ trig
+[[Implicit Differentiation]]
 
 *Physics topics I need to work on*
 [[2.7 - Photons]] - [[Photoelectric Effect]] 
