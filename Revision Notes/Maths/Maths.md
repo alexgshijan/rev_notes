@@ -1,3 +1,3 @@
-**Contents :** (View in app only)
+**Contents :**
 ```folder-index-content
 ```
