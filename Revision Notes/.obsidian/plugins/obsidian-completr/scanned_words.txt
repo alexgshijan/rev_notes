@@ -1328,6 +1328,7 @@ oyE
 outer
 optimal
 overcome
+organising
 This
 Tan
 These
@@ -1843,6 +1844,7 @@ rearranging
 reactionary
 reflect
 revise
+restruct
 bank
 be
 but

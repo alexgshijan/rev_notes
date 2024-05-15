@@ -6,13 +6,13 @@ Packets also have headers and footers which contain vital information about the 
 
 These packets include : 
 
-|**TCP/IP Packet Contents**| 
-|--- |
-|Source and destination addresses| 
-|Order number (for re-assembly)| 
-|The actual data|
-|Error control (checksum) bit|
-|Control signals|
-|Protocols |
+| **TCP/IP Packet Contents**       |
+| -------------------------------- |
+| Source and destination addresses |
+| Order number (for re-assembly)   |
+| The actual data                  |
+| Error control (checksum) bit     |
+| Control signals                  |
+| Protocols                        |
 
 

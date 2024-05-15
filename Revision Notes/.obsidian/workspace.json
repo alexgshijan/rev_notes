@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "abbc2c143adbddfe",
+        "id": "11be25a09020ef91",
         "type": "tabs",
         "children": [
           {
-            "id": "2fd714b4237a2f1d",
+            "id": "56e18e90624b2a7e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Maths/Unit 1 - PURE/Unit 1 - PURE.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "proo",
+                "query": "internet",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Maths/Unit 1 - PURE/Unit 1 - PURE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Maths/Unit 1 - PURE/Unit 1 - PURE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Maths/Unit 1 - PURE/Unit 1 - PURE.md"
+              }
             }
           },
           {
@@ -157,34 +165,34 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "2fd714b4237a2f1d",
+  "active": "56e18e90624b2a7e",
   "lastOpenFiles": [
-    "index.md",
-    "z_Excerpts/z_Excerpts.md",
-    "z_Excerpts/00-Quartic Formula.md",
-    "z_Excerpts/Python/Python.md",
-    "z_Excerpts/Python/save_files/save_files.md",
-    "z_Excerpts/Python/advent_of_code/advent_of_code.md",
-    "z_Excerpts/Image/Image.md",
-    "z_Excerpts/Graph/Graph.md",
-    "Physics/Physics.md",
-    "Physics/Unit 2/2.8 - Lasers/Stimulated Emission.md",
-    "Physics/Unit 2/2.8 - Lasers/2.8 - Lasers.md",
-    "Physics/Unit 2/2.7 - Photons/Photoelectric Effect.md",
-    "Physics/Unit 2/2.7 - Photons/Momentum of Light.md",
-    "Physics/Unit 2/2.7 - Photons/Atomic Energy Level.md",
-    "Physics/Unit 2/2.7 - Photons/2.7 - Photons.md",
-    "Physics/Unit 2/2.6 - Refraction/TIR - Optical Fibres.md",
-    "Physics/Unit 2/2.6 - Refraction/2.6 - Refraction.md",
-    "Physics/Unit 2/2.5 - Wave Properties/Stationary Waves.md",
-    "Physics/Unit 2/2.5 - Wave Properties/Diffraction Grating.md",
-    "Physics/Unit 2/2.5 - Wave Properties/2.5 - Wave Properties.md",
-    "Physics/Unit 2/2.4 - The Nature of Waves/Phase difference.md",
-    "Physics/Unit 2/2.4 - The Nature of Waves/2.4 - The Nature of Waves.md",
-    "Physics/Unit 2/2.3 - DC Circuits/Batteries.md",
-    "Physics/Unit 2/2.3 - DC Circuits/2.3 - DC Circuits.md",
-    "Physics/Unit 2/2.2 - Resistance/2.2 - Resistance.md",
-    "Physics/Unit 2/2.1 - Conduction of Electricity/Electron charge.md",
+    "Maths/Unit 1 - PURE/1.9 - Vectors/1.9 - Vectors.md",
+    "Maths/Unit 1 - PURE/1.8 - Integration/1.8 - Integration.md",
+    "Maths/Unit 1 - PURE/1.7 - Differentiation/1.7 - Differentiation.md",
+    "Maths/Unit 1 - PURE/1.7 - Differentiation/Normals.md",
+    "Maths/Unit 1 - PURE/1.7 - Differentiation/Increasing and Decreasing Functions.md",
+    "Maths/Unit 1 - PURE/1.6 - Exponentials and Logarithms/1.6 - Exponentials and Logarithms.md",
+    "Maths/Unit 1 - PURE/1.6 - Exponentials and Logarithms/Logarithms.md",
+    "Maths/Unit 1 - PURE/1.6 - Exponentials and Logarithms/Modelling Exponential Curves.md",
+    "Maths/Unit 1 - PURE/1.5 - Trigonometry/1.5 - Trigonometry.md",
+    "Maths/Unit 1 - PURE/1.4 - Sequences and Series/1.4 - Sequences and Series.md",
+    "Maths/Unit 1 - PURE/1.4 - Sequences and Series/Binomial Theorem - Approximation.md",
+    "Maths/Unit 1 - PURE/1.4 - Sequences and Series/Combinations.md",
+    "Maths/Unit 1 - PURE/1.4 - Sequences and Series/Binomial Theorem - Expansion.md",
+    "Maths/Unit 1 - PURE/1.3 - Coordinate Geometry/1.3 - Coordinate Geometry.md",
+    "Maths/Unit 1 - PURE/1.3 - Coordinate Geometry/Circles.md",
+    "Maths/Unit 1 - PURE/1.2 - Algebra and Functions/1.2 - Algebra and Functions.md",
+    "Maths/Unit 1 - PURE/1.2 - Algebra and Functions/Polynomials/Polynomials.md",
+    "Maths/Unit 1 - PURE/1.2 - Algebra and Functions/Rules of Indicies.md",
+    "Maths/Unit 1 - PURE/1.2 - Algebra and Functions/Surds.md",
+    "Maths/Unit 1 - PURE/1.1 - Notation and Proof/1.1 - Notation and Proof.md",
+    "Maths/Unit 1 - PURE/1.1 - Notation and Proof/Set Theory Symbols.md",
+    "Maths/Unit 1 - PURE/Unit 1 - PURE.md",
+    "Maths/Unit 4 - APPLIED/Unit 4 - APPLIED.md",
+    "Maths/Unit 3 - PURE/Unit 3 - PURE.md",
+    "Maths/Unit 2 - APPLIED/Unit 2 - APPLIED.md",
+    "Maths/Maths.md",
     "Physics/Unit 1/1.6 - Using Radiation to Investigate Stars/Using Radiation to Investigate Stars recap.canvas",
     "Untitled.canvas",
     "Ads.txt",
