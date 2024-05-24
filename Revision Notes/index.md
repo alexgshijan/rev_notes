@@ -3,6 +3,8 @@
 To get started, navigate to the file tree on the left :)
 
 *For a slightly more up to date, text only version, visit the* [Github Repo](https://github.com/alexgshijan/rev_notes/tree/main/Revision%20Notes) 
-*To help out with this site, consider visiting our* [Contribution page!](https://donate.shijan.co.uk)
+*To help out with this site, consider visiting my* [ko-fi](https://ko-fi.com/c/ca30d02b84)
 *Anki cards are available on request from my [ko-fi](https://ko-fi.com/c/ca30d02b84).*
-*For any other enquires, drop me an* [Email](mailto:alex@shijan.co.uk)
+*To list your ad on this website, to help write notes for other subjects, for 1-to-1 tutoring or for any other enquires, contact me [here](mailto:alexgshijan@gmail.com)*
+
+Another alternative are really useful method of revision would be [the student resources website](https://www.wjec.co.uk/home/student-support/revision/revision-resources/). Most subjects have their dedicated online lessons which I've personally found immensely helpful.

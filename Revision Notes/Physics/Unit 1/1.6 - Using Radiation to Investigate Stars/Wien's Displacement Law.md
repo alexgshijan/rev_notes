@@ -1,4 +1,4 @@
-**The wavelength at which maximum power is emitted is inversely proportional to the [[Absolute Temperature]]**
+**The wavelength at which maximum power is emitted is inversely proportional to the Absolute Temperature**
 
 Therefore, as the temperature of the star increases, the peak wavelength of light emitted decreases.
 
