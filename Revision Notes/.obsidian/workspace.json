@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Maths/Unit 3 - PURE/3.1 - Proof by Contradiction/3.1 - Proof by Contradiction.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Maths/Unit 3 - PURE/3.1 - Proof by Contradiction/3.1 - Proof by Contradiction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Maths/Unit 3 - PURE/3.1 - Proof by Contradiction/3.1 - Proof by Contradiction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Maths/Unit 3 - PURE/3.1 - Proof by Contradiction/3.1 - Proof by Contradiction.md"
               }
             }
           },
@@ -167,6 +167,7 @@
   },
   "active": "56e18e90624b2a7e",
   "lastOpenFiles": [
+    "index.md",
     "z_Excerpts/z_Excerpts.md",
     "z_Excerpts/00-Quartic Formula.md",
     "z_Excerpts/Python/Python.md",
@@ -192,7 +193,6 @@
     "Physics/Unit 2/2.3 - DC Circuits/2.3 - DC Circuits.md",
     "Physics/Unit 2/2.2 - Resistance/2.2 - Resistance.md",
     "Physics/Unit 2/2.1 - Conduction of Electricity/Electron charge.md",
-    "Physics/Unit 2/2.1 - Conduction of Electricity/Drift Velocity.md",
     "Physics/Unit 1/1.6 - Using Radiation to Investigate Stars/Using Radiation to Investigate Stars recap.canvas",
     "z_Excerpts/Image/Screenshot 2024-05-16 at 00.19.04.png",
     "z_Excerpts/Image/Screenshot 2024-05-16 at 00.14.35.png",
