@@ -3486,6 +3486,7 @@ spec
 standstill
 slope
 separation
+substitutions
 It
 Identities
 Information
@@ -7469,6 +7470,7 @@ home
 hfu
 hvM
 hlf
+heart
 Every
 EBCDIC
 Each
@@ -9222,6 +9224,7 @@ gJK
 gLu
 graphing
 gmail
+goodness
 Floats
 Float
 Full

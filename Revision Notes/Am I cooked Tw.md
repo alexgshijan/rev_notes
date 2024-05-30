@@ -1,3 +1,2 @@
-[[3.1 - Proof by Contradiction]]
-[[Calculus Differentiation Proofs]] - learn bh
-[[Integrating Partial Fractions]]
+[[Calculus Differentiation Proofs]] - learn by heart and small angle approximation of cos
+[[Integration by substitution]] - oh my goodness, find model example of sine substitutions
