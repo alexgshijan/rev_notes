@@ -7,4 +7,4 @@ To get started, navigate to the file tree on the left :)
 *Anki cards are available on request from my [ko-fi](https://ko-fi.com/c/ca30d02b84).*
 *To list your ad on this website, to help write notes for other subjects, for 1-to-1 tutoring or for any other enquires, contact me [here](mailto:alexgshijan@gmail.com)*
 
-Another alternative are really useful method of revision would be [the student resources website](https://www.wjec.co.uk/home/student-support/revision/revision-resources/). Most subjects have their dedicated online lessons which I've personally found immensely helpful.
+Another really useful resource for revision would be [the WJEC student resources website](https://www.wjec.co.uk/home/student-support/revision/revision-resources/). Most subjects have their dedicated online lessons which I've personally found immensely helpful.

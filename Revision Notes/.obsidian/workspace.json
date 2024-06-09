@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Maths/Unit 4 - APPLIED/4.3 - Statistical Hypothesis Testing/4.3 - Statistical Hypothesis Testing.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Unit 3 - PURE/3.7 - Integration/Integration by substitution.md",
+                "file": "Am I cooked Tw.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "xuvat",
+                "query": "binomial",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/Unit 3 - PURE/3.7 - Integration/Integration by substitution.md",
+                "file": "Maths/Unit 4 - APPLIED/4.3 - Statistical Hypothesis Testing/4.3 - Statistical Hypothesis Testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Unit 3 - PURE/3.7 - Integration/Integration by substitution.md",
+                "file": "Maths/Unit 4 - APPLIED/4.3 - Statistical Hypothesis Testing/4.3 - Statistical Hypothesis Testing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Unit 3 - PURE/3.7 - Integration/Integration by substitution.md"
+                "file": "Maths/Unit 4 - APPLIED/4.3 - Statistical Hypothesis Testing/4.3 - Statistical Hypothesis Testing.md"
               }
             }
           },
@@ -178,34 +177,34 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "cd3f033d0299f94d",
+  "active": "56e18e90624b2a7e",
   "lastOpenFiles": [
-    "index.md",
-    "Maths/Maths.md",
+    "Maths/Unit 4 - APPLIED/4.3 - Statistical Hypothesis Testing/Normal Distribution - Hypothesis Testing.md",
+    "Maths/Unit 2 - APPLIED/2.5 - Hypothesis Testing/2.5 - Hypothesis Testing.md",
+    "Maths/Unit 4 - APPLIED/4.3 - Statistical Hypothesis Testing/Correlation Coefficients.md",
+    "Am I cooked Tw.md",
+    "Maths/Unit 4 - APPLIED/4.9 - Forces and Newton's Laws - Friction/4.9 - Forces and Newton's Laws - Friction.md",
+    "Maths/Unit 2 - APPLIED/2.7 - Kinematics/2.7 - Kinematics.md",
+    "Maths/Unit 4 - APPLIED/4.8 - Kinematics/4.8 - Kinematics.md",
+    "Maths/Unit 4 - APPLIED/4.7 & 4.10 - Quantities and units in mechanics & Moments/4.7 & 4.10 - Quantities and units in mechanics & Moments.md",
+    "Maths/Unit 4 - APPLIED/4.3 - Statistical Hypothesis Testing/4.3 - Statistical Hypothesis Testing.md",
+    "Maths/Unit 4 - APPLIED/4.2 - Statistical Distribution/4.2 - Statistical Distribution.md",
+    "Maths/Unit 4 - APPLIED/4.2 - Statistical Distribution/Normal Distribution.md",
+    "Maths/Unit 4 - APPLIED/4.1 - Probability - Conditional Probability/4.1 - Probability - Conditional Probability.md",
+    "Maths/Unit 4 - APPLIED/Unit 4 - APPLIED.md",
     "Maths/Unit 3 - PURE/Unit 3 - PURE.md",
     "Maths/Unit 3 - PURE/3.8 - Numerical Methods/3.8 - Numerical Methods.md",
-    "Maths/Unit 3 - PURE/3.7 - Integration/3.7 - Integration.md",
-    "Maths/Unit 3 - PURE/3.6 - Differentiation/3.6 - Differentiation.md",
-    "Maths/Unit 3 - PURE/3.6 - Differentiation/Differential Equations - First Order.md",
-    "Maths/Unit 3 - PURE/3.1 - Proof by Contradiction/3.1 - Proof by Contradiction.md",
-    "Maths/Unit 3 - PURE/3.6 - Differentiation/Chain Rule.md",
-    "Maths/Unit 3 - PURE/3.6 - Differentiation/Product Rule.md",
-    "Maths/Unit 3 - PURE/3.6 - Differentiation/Calculus Differentiation Proofs.md",
-    "Am I cooked Tw.md",
-    "Maths/Unit 3 - PURE/3.7 - Integration/Integration by substitution.md",
-    "Maths/Unit 3 - PURE/3.7 - Integration/Reverse Chain Rule.md",
-    "Maths/Unit 3 - PURE/3.7 - Integration/Integration by parts.md",
-    "Maths/Unit 3 - PURE/3.7 - Integration/Integrating Partial Fractions.md",
-    "Physics/Physics.md",
+    "Maths/Unit 3 - PURE/3.2 - Algebra and Functions/3.2 - Algebra and Functions.md",
+    "Maths/Unit 3 - PURE/3.3 - Coordinate Geometry/3.3 - Coordinate Geometry.md",
     "Maths/Unit 3 - PURE/3.5 - Trigonometry/3.5 - Trigonometry.md",
-    "Maths/Unit 3 - PURE/3.8 - Numerical Methods/Trapezium Rule.md",
-    "Maths/Unit 3 - PURE/3.8 - Numerical Methods/Intermediate Value Theorem.md",
-    "Maths/Unit 3 - PURE/3.8 - Numerical Methods/Fixed Point Iteration.md",
-    "Maths/Unit 3 - PURE/3.8 - Numerical Methods/Newton-Raphson method.md",
-    "Maths/Unit 3 - PURE/3.6 - Differentiation/Implicit Differentiation.md",
-    "Maths/Unit 3 - PURE/3.6 - Differentiation/Quotient Rule.md",
-    "Maths/Unit 3 - PURE/3.6 - Differentiation/Parametric Differentiation.md",
-    "Maths/Unit 3 - PURE/3.6 - Differentiation/Interpretation of Graphs.md",
+    "Maths/Unit 3 - PURE/3.4 - Sequences and Series/3.4 - Sequences and Series.md",
+    "Maths/Unit 3 - PURE/3.6 - Differentiation/3.6 - Differentiation.md",
+    "Maths/Unit 3 - PURE/3.7 - Integration/3.7 - Integration.md",
+    "Maths/Unit 3 - PURE/3.5 - Trigonometry/Additional Formulae.md",
+    "Maths/Unit 3 - PURE/3.7 - Integration/Integrating Partial Fractions.md",
+    "Maths/Unit 3 - PURE/3.7 - Integration/Integration by parts.md",
+    "Maths/Unit 3 - PURE/3.7 - Integration/Reverse Chain Rule.md",
+    "Maths/Unit 3 - PURE/3.7 - Integration/Integration by substitution.md",
     "Physics/Unit 1/1.6 - Using Radiation to Investigate Stars/Using Radiation to Investigate Stars recap.canvas",
     "z_Excerpts/Image/Screenshot 2024-05-16 at 00.19.04.png",
     "z_Excerpts/Image/Screenshot 2024-05-16 at 00.14.35.png",
