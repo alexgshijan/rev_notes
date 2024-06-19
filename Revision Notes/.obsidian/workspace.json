@@ -8,30 +8,44 @@
         "type": "tabs",
         "children": [
           {
-            "id": "56e18e90624b2a7e",
+            "id": "9cebbb19aacaaae9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Unit 4 - APPLIED/4.3 - Statistical Hypothesis Testing/4.3 - Statistical Hypothesis Testing.md",
+                "file": "Physics/Unit 3/3.5 - Nuclear Decay/3.5 - Nuclear Decay.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "cd3f033d0299f94d",
+            "id": "1acf97e8d57f6142",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Am I cooked Tw.md",
+                "file": "Physics/Unit 3/3.5 - Nuclear Decay/Decay.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6e07ddd211c67d94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physics/Unit 3/3.5 - Nuclear Decay/Nature. Penetration. Range.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1,
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -97,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/Unit 4 - APPLIED/4.3 - Statistical Hypothesis Testing/4.3 - Statistical Hypothesis Testing.md",
+                "file": "Physics/Unit 3/3.5 - Nuclear Decay/Decay.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Unit 4 - APPLIED/4.3 - Statistical Hypothesis Testing/4.3 - Statistical Hypothesis Testing.md",
+                "file": "Physics/Unit 3/3.5 - Nuclear Decay/Decay.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Unit 4 - APPLIED/4.3 - Statistical Hypothesis Testing/4.3 - Statistical Hypothesis Testing.md"
+                "file": "Physics/Unit 3/3.5 - Nuclear Decay/Decay.md"
               }
             }
           },
@@ -177,34 +191,37 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "56e18e90624b2a7e",
+  "active": "1acf97e8d57f6142",
   "lastOpenFiles": [
-    "Maths/Unit 4 - APPLIED/4.3 - Statistical Hypothesis Testing/Normal Distribution - Hypothesis Testing.md",
-    "Maths/Unit 2 - APPLIED/2.5 - Hypothesis Testing/2.5 - Hypothesis Testing.md",
-    "Maths/Unit 4 - APPLIED/4.3 - Statistical Hypothesis Testing/Correlation Coefficients.md",
-    "Am I cooked Tw.md",
-    "Maths/Unit 4 - APPLIED/4.9 - Forces and Newton's Laws - Friction/4.9 - Forces and Newton's Laws - Friction.md",
-    "Maths/Unit 2 - APPLIED/2.7 - Kinematics/2.7 - Kinematics.md",
-    "Maths/Unit 4 - APPLIED/4.8 - Kinematics/4.8 - Kinematics.md",
-    "Maths/Unit 4 - APPLIED/4.7 & 4.10 - Quantities and units in mechanics & Moments/4.7 & 4.10 - Quantities and units in mechanics & Moments.md",
-    "Maths/Unit 4 - APPLIED/4.3 - Statistical Hypothesis Testing/4.3 - Statistical Hypothesis Testing.md",
-    "Maths/Unit 4 - APPLIED/4.2 - Statistical Distribution/4.2 - Statistical Distribution.md",
-    "Maths/Unit 4 - APPLIED/4.2 - Statistical Distribution/Normal Distribution.md",
-    "Maths/Unit 4 - APPLIED/4.1 - Probability - Conditional Probability/4.1 - Probability - Conditional Probability.md",
-    "Maths/Unit 4 - APPLIED/Unit 4 - APPLIED.md",
-    "Maths/Unit 3 - PURE/Unit 3 - PURE.md",
-    "Maths/Unit 3 - PURE/3.8 - Numerical Methods/3.8 - Numerical Methods.md",
-    "Maths/Unit 3 - PURE/3.2 - Algebra and Functions/3.2 - Algebra and Functions.md",
-    "Maths/Unit 3 - PURE/3.3 - Coordinate Geometry/3.3 - Coordinate Geometry.md",
-    "Maths/Unit 3 - PURE/3.5 - Trigonometry/3.5 - Trigonometry.md",
-    "Maths/Unit 3 - PURE/3.4 - Sequences and Series/3.4 - Sequences and Series.md",
-    "Maths/Unit 3 - PURE/3.6 - Differentiation/3.6 - Differentiation.md",
-    "Maths/Unit 3 - PURE/3.7 - Integration/3.7 - Integration.md",
-    "Maths/Unit 3 - PURE/3.5 - Trigonometry/Additional Formulae.md",
-    "Maths/Unit 3 - PURE/3.7 - Integration/Integrating Partial Fractions.md",
-    "Maths/Unit 3 - PURE/3.7 - Integration/Integration by parts.md",
-    "Maths/Unit 3 - PURE/3.7 - Integration/Reverse Chain Rule.md",
-    "Maths/Unit 3 - PURE/3.7 - Integration/Integration by substitution.md",
+    "Physics/Unit 3/3.5 - Nuclear Decay/3.5 - Nuclear Decay.md",
+    "Physics/Unit 3/3.5 - Nuclear Decay/Decay.md",
+    "Physics/Unit 3/3.5 - Nuclear Decay/Nature. Penetration. Range.md",
+    "index.md",
+    "z_Excerpts/z_Excerpts.md",
+    "z_Excerpts/00-Quartic Formula.md",
+    "z_Excerpts/Python/Python.md",
+    "z_Excerpts/Python/save_files/save_files.md",
+    "z_Excerpts/Python/advent_of_code/advent_of_code.md",
+    "z_Excerpts/Image/Image.md",
+    "z_Excerpts/Graph/Graph.md",
+    "Physics/Physics.md",
+    "Physics/Unit 2/2.8 - Lasers/Stimulated Emission.md",
+    "Physics/Unit 2/2.8 - Lasers/2.8 - Lasers.md",
+    "Physics/Unit 2/2.7 - Photons/Photoelectric Effect.md",
+    "Physics/Unit 2/2.7 - Photons/Momentum of Light.md",
+    "Physics/Unit 2/2.7 - Photons/Atomic Energy Level.md",
+    "Physics/Unit 2/2.7 - Photons/2.7 - Photons.md",
+    "Physics/Unit 2/2.6 - Refraction/TIR - Optical Fibres.md",
+    "Physics/Unit 2/2.6 - Refraction/2.6 - Refraction.md",
+    "Physics/Unit 2/2.5 - Wave Properties/Stationary Waves.md",
+    "Physics/Unit 2/2.5 - Wave Properties/Diffraction Grating.md",
+    "Physics/Unit 2/2.5 - Wave Properties/2.5 - Wave Properties.md",
+    "Physics/Unit 2/2.4 - The Nature of Waves/Phase difference.md",
+    "Physics/Unit 2/2.4 - The Nature of Waves/2.4 - The Nature of Waves.md",
+    "Physics/Unit 2/2.3 - DC Circuits/Batteries.md",
+    "Physics/Unit 3/3.5 - Nuclear Decay",
+    "Physics/Unit 3",
+    "Further Maths",
     "Physics/Unit 1/1.6 - Using Radiation to Investigate Stars/Using Radiation to Investigate Stars recap.canvas",
     "z_Excerpts/Image/Screenshot 2024-05-16 at 00.19.04.png",
     "z_Excerpts/Image/Screenshot 2024-05-16 at 00.14.35.png",
@@ -219,9 +236,6 @@
     "Maths/Unit 4 - APPLIED/4.6 - Integration - Application of Differential Equations",
     "Maths/Unit 4 - APPLIED/4.9 - Forces and Newton's Laws - Friction",
     "Maths/Unit 4 - APPLIED/4.7 & 4.10 - Quantities and units in mechanics & Moments",
-    "Maths/Unit 4 - APPLIED/4.3 - Statistical Hypothesis Testing",
-    "z_Excerpts/Python/firmData.txt",
-    "z_Excerpts/Python/customerData.txt",
     "Physics/1.6 - Using Radiation to Investigate Stars/Using Radiation to Investigate Stars recap.canvas",
     "Computer Science/2.A - Practical/Practical revision.canvas",
     "z_Excerpts/Image/image 1.png",
