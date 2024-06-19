@@ -3512,6 +3512,8 @@ seconds
 skin
 significantly
 spends
+stays
+static
 It
 Identities
 Information
@@ -4553,6 +4555,7 @@ distancing
 dataset
 deflected
 deflect
+decays
 many
 mailto
 main
@@ -4854,6 +4857,7 @@ mKi
 mechanics
 measures
 million
+mostly
 plans
 python
 press
@@ -5204,6 +5208,8 @@ polarity
 personally
 paper
 penetrating
+positron
+popular
 expand
 even
 each
@@ -6801,6 +6807,7 @@ Aqq
 Approximating
 Answer
 Affected
+Arrays
 for
 finding
 function
@@ -8839,6 +8846,8 @@ nice
 navigate
 nucleons
 nucleus
+nucleon
+neutrino
 Many
 More
 Mail
@@ -10655,6 +10664,7 @@ Hysteresis
 Hooke
 HWf
 HhYw
+Helium
 KB
 Keyboard
 Kilobyte

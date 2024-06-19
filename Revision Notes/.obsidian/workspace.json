@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Unit 3/3.5 - Nuclear Decay/Decay.md",
+                "file": "Computer Science/Unit 3 - Theory/3.1 - Data Structure/3.1 - Data Structure.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e83888b874adcd89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Unit 3 - Theory/3.1 - Data Structure/Array and Linked List.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -74,7 +86,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "binomial",
+                "query": "fixed length",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -91,7 +103,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -111,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Unit 3/3.5 - Nuclear Decay/Decay.md",
+                "file": "Computer Science/Unit 3 - Theory/3.1 - Data Structure/Array and Linked List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/Unit 3/3.5 - Nuclear Decay/Decay.md",
+                "file": "Computer Science/Unit 3 - Theory/3.1 - Data Structure/Array and Linked List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/Unit 3/3.5 - Nuclear Decay/Decay.md"
+                "file": "Computer Science/Unit 3 - Theory/3.1 - Data Structure/Array and Linked List.md"
               }
             }
           },
@@ -191,10 +204,58 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "1acf97e8d57f6142",
+  "floating": {
+    "id": "53a3fc23ca8d0c03",
+    "type": "floating",
+    "children": [
+      {
+        "id": "f718b516f3fb7a7e",
+        "type": "window",
+        "children": [
+          {
+            "id": "935c587fc3ffb8d4",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "995fb5a8e3d9b6b4",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Physics/Unit 3/3.5 - Nuclear Decay/Decay.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 24,
+        "width": 1680,
+        "height": 1026,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "e83888b874adcd89",
   "lastOpenFiles": [
-    "Physics/Unit 3/3.5 - Nuclear Decay/3.5 - Nuclear Decay.md",
     "Physics/Unit 3/3.5 - Nuclear Decay/Decay.md",
+    "Computer Science/Unit 3 - Theory/3.1 - Data Structure/Array and Linked List.md",
+    "Computer Science/Unit 3 - Theory/Unit 3 - Theory.md",
+    "Computer Science/Unit 3 - Theory/3.1 - Data Structure/3.1 - Data Structure.md",
+    "Computer Science/Unit 3 - Theory/3.1 - Data Structure",
+    "Computer Science/Unit 2 - Practical/Unit 2 - Practical.md",
+    "Computer Science/Unit 3 - Theory",
+    "Computer Science/Computer Science.md",
+    "Maths/Maths.md",
+    "Maths/Unit 4 - APPLIED/Unit 4 - APPLIED.md",
+    "Am I cooked Tw.md",
+    "z_Excerpts/Image/Pasted image 20240619105004.png",
+    "Physics/Unit 3/3.5 - Nuclear Decay/3.5 - Nuclear Decay.md",
     "Physics/Unit 3/3.5 - Nuclear Decay/Nature. Penetration. Range.md",
     "index.md",
     "z_Excerpts/z_Excerpts.md",
@@ -211,14 +272,6 @@
     "Physics/Unit 2/2.7 - Photons/Momentum of Light.md",
     "Physics/Unit 2/2.7 - Photons/Atomic Energy Level.md",
     "Physics/Unit 2/2.7 - Photons/2.7 - Photons.md",
-    "Physics/Unit 2/2.6 - Refraction/TIR - Optical Fibres.md",
-    "Physics/Unit 2/2.6 - Refraction/2.6 - Refraction.md",
-    "Physics/Unit 2/2.5 - Wave Properties/Stationary Waves.md",
-    "Physics/Unit 2/2.5 - Wave Properties/Diffraction Grating.md",
-    "Physics/Unit 2/2.5 - Wave Properties/2.5 - Wave Properties.md",
-    "Physics/Unit 2/2.4 - The Nature of Waves/Phase difference.md",
-    "Physics/Unit 2/2.4 - The Nature of Waves/2.4 - The Nature of Waves.md",
-    "Physics/Unit 2/2.3 - DC Circuits/Batteries.md",
     "Physics/Unit 3/3.5 - Nuclear Decay",
     "Physics/Unit 3",
     "Further Maths",
@@ -234,15 +287,12 @@
     "z_Excerpts/Untitled.txt",
     "Maths/Unit 4 - APPLIED/4.8 - Kinematics",
     "Maths/Unit 4 - APPLIED/4.6 - Integration - Application of Differential Equations",
-    "Maths/Unit 4 - APPLIED/4.9 - Forces and Newton's Laws - Friction",
-    "Maths/Unit 4 - APPLIED/4.7 & 4.10 - Quantities and units in mechanics & Moments",
     "Physics/1.6 - Using Radiation to Investigate Stars/Using Radiation to Investigate Stars recap.canvas",
     "Computer Science/2.A - Practical/Practical revision.canvas",
     "z_Excerpts/Image/image 1.png",
     "z_Excerpts/Image/Pasted image 20240411142938.png",
     "z_Excerpts/Image/image.png",
     "z_Excerpts/Image/Pasted image 20240411100520.png",
-    "z_Excerpts/Image/Pasted image 20240320121300.png",
     "Physics/1.5 - Solids under stress/1.5 - Solids under stress recap.canvas",
     "Computer Science/1.4 - Data representation and data types/Data representation and data types recap.canvas",
     "Maths/1.8 - Integration/Integration recap.canvas",
