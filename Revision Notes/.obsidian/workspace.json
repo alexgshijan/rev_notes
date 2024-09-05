@@ -13,86 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Further Maths/Unit 1 - PURE/Unit 1 - PURE.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3a66265bbb4c51a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physics/Unit 3/3.5 - Nuclear Decay/3.5 - Nuclear Decay.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7b077437fc42cf1c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physics/Unit 5 - Practical/Unit 5 - Practical.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e55d625a7bbed2ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physics/Unit 3/3.3 - Kinetic Theory/3.3 - Kinetic Theory.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1acf97e8d57f6142",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Unit 3 - Theory/3.1 - Data Structure/3.1 - Data Structure.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e83888b874adcd89",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physics/Unit 3/3.5 - Nuclear Decay/Decay.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6e07ddd211c67d94",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physics/Unit 3/3.5 - Nuclear Decay/Nature. Penetration. Range.md",
+                "file": "Further Maths/Unit 1 - PURE/1.2 - Complex Numbers/1.2 - Complex Numbers.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -158,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Unit 3/3.3 - Kinetic Theory/3.3 - Kinetic Theory.md",
+                "file": "Further Maths/Unit 1 - PURE/1.2 - Complex Numbers/1.2 - Complex Numbers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/Unit 3/3.3 - Kinetic Theory/3.3 - Kinetic Theory.md",
+                "file": "Further Maths/Unit 1 - PURE/1.2 - Complex Numbers/1.2 - Complex Numbers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/Unit 3/3.3 - Kinetic Theory/3.3 - Kinetic Theory.md"
+                "file": "Further Maths/Unit 1 - PURE/1.2 - Complex Numbers/1.2 - Complex Numbers.md"
               }
             }
           },
@@ -238,12 +165,29 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "e55d625a7bbed2ba",
+  "active": "9cebbb19aacaaae9",
   "lastOpenFiles": [
-    "Physics/Unit 5 - Practical/Planning Experiments.md",
+    "Further Maths/Unit 1 - PURE/Unit 1 - PURE.md",
+    "Further Maths/Unit 1 - PURE/1.1 - Proof by Induction/1.1 - Proof by Induction.md",
+    "Further Maths/Unit 1 - PURE/1.1 - Proof by Induction/Proof by Induction.md",
+    "Further Maths/Unit 1 - PURE/1.1 - Proof by Induction/1.1 - Proof.md",
+    "Further Maths/Unit 1 - PURE/1.2 - Complex Numbers/1.2 - Complex Numbers.md",
+    "Further Maths/Unit 1 - PURE/1.2 - Complex Numbers",
+    "Further Maths/Further Maths.md",
+    "Physics/Physics.md",
     "Physics/Unit 3/3.3 - Kinetic Theory/3.3 - Kinetic Theory.md",
-    "Physics/Unit 3/3.3 - Kinetic Theory",
+    "Physics/Unit 3/3.5 - Nuclear Decay/3.5 - Nuclear Decay.md",
+    "Physics/Unit 3/3.3 - Kinetic Theory/Moles and Molecules.md",
+    "Physics/Unit 3/Unit 3.md",
     "Physics/Unit 5 - Practical/Unit 5 - Practical.md",
+    "Physics/Unit 1/Unit 1.md",
+    "Physics/Unit 1/1.6 - Using Radiation to Investigate Stars/Black Body.md",
+    "Physics/Unit 1/1.6 - Using Radiation to Investigate Stars/Wien's Displacement Law.md",
+    "Physics/Unit 1/1.6 - Using Radiation to Investigate Stars/Stefan's Law.md",
+    "Physics/Unit 1/1.6 - Using Radiation to Investigate Stars/Inverse Square Law.md",
+    "Physics/Unit 1/1.6 - Using Radiation to Investigate Stars/Radio Astronomy.md",
+    "Physics/Unit 5 - Practical/Planning Experiments.md",
+    "Physics/Unit 3/3.3 - Kinetic Theory",
     "Physics/Unit 3/3.5 - Nuclear Decay/Decay.md",
     "Physics/Unit 5 - Practical",
     "Physics/Unit 3/3.5 - Nuclear Decay/Decay Constant.md",
@@ -251,25 +195,9 @@
     "Physics/Unit 2/2.5 - Wave Properties/2.5 - Wave Properties.md",
     "Physics/Unit 2/2.7 - Photons/2.7 - Photons.md",
     "Physics/Unit 3/3.5 - Nuclear Decay/Half life.md",
-    "Physics/Unit 3/3.5 - Nuclear Decay/3.5 - Nuclear Decay.md",
     "Physics/Unit 3/3.5 - Nuclear Decay/Nature. Penetration. Range.md",
-    "Physics/Physics.md",
-    "Maths/Maths.md",
-    "Further Maths/Unit 1 - PURE/Proof by Induction.md",
-    "Maths/Unit 1 - PURE/1.1 - Notation and Proof/1.1 - Notation and Proof.md",
-    "Further Maths/Unit 1 - PURE/Unit 1 - PURE.md",
-    "Further Maths/Unit 1 - PURE/1.1 - Proof/1.1 - Proof.md",
-    "Further Maths/Unit 1 - PURE/1.1 - Proof",
-    "Maths/Unit 1 - PURE/Unit 1 - PURE.md",
-    "Further Maths/Further Maths.md",
+    "Further Maths/Unit 1 - PURE/1.1 - Proof by Induction",
     "Further Maths/Unit 1 - PURE",
-    "Computer Science/Computer Science.md",
-    "index.md",
-    "z_Excerpts/z_Excerpts.md",
-    "z_Excerpts/00-Quartic Formula.md",
-    "z_Excerpts/Python/Python.md",
-    "z_Excerpts/Python/save_files/save_files.md",
-    "z_Excerpts/Python/advent_of_code/advent_of_code.md",
     "Computer Science/Unit 3 - Theory/3.1 - Data Structure",
     "Computer Science/Unit 3 - Theory",
     "z_Excerpts/Image/Pasted image 20240619105004.png",
@@ -283,7 +211,6 @@
     "z_Excerpts/Image/Study.gif",
     "z_Excerpts/Ferret_Dragon.png",
     "Untitled.canvas",
-    "Ads.txt",
     "Physics/1.6 - Using Radiation to Investigate Stars/Using Radiation to Investigate Stars recap.canvas",
     "Computer Science/2.A - Practical/Practical revision.canvas",
     "z_Excerpts/Image/image 1.png",
