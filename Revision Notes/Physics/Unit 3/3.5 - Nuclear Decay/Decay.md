@@ -15,7 +15,5 @@ This is the emission of a positron (electron anti-particle) from the nucleus. A 
 **Formula**$$A=-\lambda N=-\frac{\Delta N}{\Delta t}$$*where :*
 - A is Activity in units Becquerel (decay per second)
 - $\lambda$ is the decays constant in units $s^{-1}$
-- N is the number of undecayed nuclei 
+- N is the number of un-decayed nuclei 
 - t is time
-
-#wip Slide 60-62 doesn't make sense
