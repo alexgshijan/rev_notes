@@ -273,6 +273,9 @@ Cosmic
 Carbon
 Create
 Centripetal
+COM
+Choose
+Cover
 View
 VOIP
 Voice
@@ -1123,6 +1126,11 @@ attract
 absorbed
 assume
 according
+argument
+arg
+algebraically
+assessment
+axes
 only
 on
 odd
@@ -1353,6 +1361,7 @@ overcome
 organising
 organise
 obeying
+obtain
 This
 Tan
 These
@@ -1557,6 +1566,7 @@ TIb
 Template
 Terms
 Travel
+Trigonometric
 revision
 rule
 rotational
@@ -1875,6 +1885,10 @@ resource
 repulsive
 repel
 relates
+rotate
+risk
+recorded
+ruler
 bank
 be
 but
@@ -2117,6 +2131,7 @@ bkdT
 bell
 beta
 bumping
+bars
 that
 throughout
 the
@@ -3543,6 +3558,9 @@ sense
 suffer
 specifically
 stack
+significant
+sensible
+scales
 It
 Identities
 Information
@@ -3767,6 +3785,7 @@ ICs
 Items
 Including
 Implementation
+Include
 currently
 contain
 co
@@ -4228,6 +4247,7 @@ colliding
 chose
 centripetal
 centrifugal
+column
 doesn
 determined
 data
@@ -4596,6 +4616,10 @@ decays
 dynamic
 decayed
 dictates
+dimensional
+detailing
+detail
+danger
 many
 mailto
 main
@@ -4900,6 +4924,8 @@ million
 mostly
 macroscopic
 microscopic
+max
+min
 plans
 python
 press
@@ -5256,6 +5282,8 @@ predictable
 pressure
 perfectly
 pointers
+playing
+pencil
 expand
 even
 each
@@ -5559,6 +5587,8 @@ electrostatic
 electric
 energetic
 exert
+enlarging
+exercise
 uk
 using
 unified
@@ -6009,6 +6039,8 @@ Pushing
 Popping
 Python
 Pairs
+Plan
+Plots
 Sine
 Stands
 Standard
@@ -6487,6 +6519,7 @@ Reflection
 Rays
 Radon
 Reduced
+Risk
 Note
 Negatives
 Normalising
@@ -6870,6 +6903,10 @@ Air
 Assumptions
 Array
 Again
+Argument
+Argand
+Ammeter
+Alternating
 for
 finding
 function
@@ -7129,6 +7166,7 @@ focus
 flemming
 flexibility
 front
+fit
 Graph
 Good
 Graphics
@@ -7594,6 +7632,7 @@ heart
 hypthesis
 helium
 heavy
+hazard
 Every
 EBCDIC
 Each
@@ -7823,6 +7862,7 @@ Exam
 EMF
 Equipment
 Enqueuing
+Else
 key
 know
 keyboard
@@ -8346,6 +8386,12 @@ Deviations
 Drink
 Decay
 Dequeuing
+Diagram
+Dividing
+Dial
+DCV
+Draw
+Detail
 Unicode
 Used
 UCS
@@ -8725,6 +8771,7 @@ Background
 Buildings
 Becquerel
 Basic
+Brief
 needs
 needed
 number
@@ -9147,6 +9194,7 @@ Medical
 MeV
 Moles
 Molecules
+Multiplying
 give
 generally
 get
@@ -9371,6 +9419,7 @@ graphing
 gmail
 goodness
 gases
+grid
 Floats
 Float
 Full
@@ -9736,6 +9785,8 @@ Local
 Left
 Last
 Linked
+Loci
+Label
 You
 Yottabyte
 Young
@@ -10553,6 +10604,8 @@ WuZ
 WHa
 Widgets
 Within
+Wire
+Writing
 Half
 HTTP
 HTTPS
