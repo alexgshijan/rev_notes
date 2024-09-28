@@ -5,7 +5,13 @@
     "fontSize": 16,
     "emojiStyle": "native",
     "iconColor": null,
-    "recentlyUsedIcons": [],
+    "recentlyUsedIcons": [
+      "LiSquare",
+      "LiImages",
+      "LiFlaskConical",
+      "LiCrown",
+      "LiComputer"
+    ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {
@@ -24,7 +30,31 @@
     "iconsInNotesEnabled": true,
     "iconsInLinksEnabled": true,
     "iconIdentifier": ":",
-    "lucideIconPackType": "native",
+    "lucideIconPackType": "custom",
     "debugMode": false
+  },
+  "Further Maths": {
+    "iconName": "LiPi",
+    "iconColor": "#9612de"
+  },
+  "Computer Science": {
+    "iconName": "LiComputer",
+    "iconColor": "#06244b"
+  },
+  "Maths": {
+    "iconName": "LiSquare",
+    "iconColor": "#79af7d"
+  },
+  "Physics": {
+    "iconName": "LiFlaskConical",
+    "iconColor": "#86758a"
+  },
+  "z_Excerpts": {
+    "iconName": "LiImages",
+    "iconColor": "#320f0c"
+  },
+  "index.md": {
+    "iconName": "LiCrown",
+    "iconColor": "#e9bd20"
   }
 }

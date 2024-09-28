@@ -9,8 +9,13 @@
       "model_key": "TaylorAI/bge-micro-v2"
     }
   },
+  "file_exclusions": "Untitled",
+  "folder_exclusions": "smart-chats",
   "is_obsidian_vault": true,
   "smart_notices": {
-    "muted": {}
-  }
+    "muted": {
+      "no context": true
+    }
+  },
+  "smart_chats_folder": "smart-chats"
 }

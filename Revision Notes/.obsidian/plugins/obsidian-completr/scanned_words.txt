@@ -277,6 +277,10 @@ COM
 Choose
 Cover
 Charles
+Calculate
+Cons
+Collisions
+Chain
 View
 VOIP
 Voice
@@ -458,6 +462,8 @@ VqZU
 VnI
 Voila
 Very
+Volume
+VIEW
 in
 is
 it
@@ -780,6 +786,8 @@ induction
 ideal
 intermolecular
 intersection
+indexes
+info
 app
 adding
 are
@@ -1133,6 +1141,11 @@ arg
 algebraically
 assessment
 axes
+approximates
+attention
+assistant
+aside
+arrays
 only
 on
 odd
@@ -1365,6 +1378,7 @@ organise
 obeying
 obtain
 outwards
+obeys
 This
 Tan
 These
@@ -1571,6 +1585,7 @@ Terms
 Travel
 Trigonometric
 Traversal
+Teach
 revision
 rule
 rotational
@@ -1893,6 +1908,10 @@ rotate
 risk
 recorded
 ruler
+raw
+rebounds
+restoring
+rows
 bank
 be
 but
@@ -2137,6 +2156,7 @@ beta
 bumping
 bars
 branches
+balanced
 that
 throughout
 the
@@ -2470,6 +2490,7 @@ toward
 trees
 traversal
 tat
+theta
 ll
 lot
 languages
@@ -2731,6 +2752,7 @@ law
 landing
 linear
 leaves
+loci
 working
 when
 wip
@@ -2946,6 +2968,7 @@ weakly
 www
 walls
 whichever
+wall
 year
 you
 years
@@ -3576,6 +3599,12 @@ syringe
 scalar
 suggests
 scalars
+sections
+sig
+strictly
+simplest
+settings
+sequentially
 It
 Identities
 Information
@@ -4265,6 +4294,9 @@ centrifugal
 column
 composed
 contradiction
+cancel
+conditions
+columns
 doesn
 determined
 data
@@ -4637,6 +4669,11 @@ dimensional
 detailing
 detail
 danger
+densities
+document
+decompress
+defeats
+displace
 many
 mailto
 main
@@ -4944,6 +4981,12 @@ microscopic
 max
 min
 moles
+mg
+menu
+monatomic
+multiplying
+matrices
+matrix
 plans
 python
 press
@@ -5304,6 +5347,10 @@ playing
 pencil
 plunger
 pushed
+pythagorus
+plugin
+parsed
+palette
 expand
 even
 each
@@ -5610,6 +5657,8 @@ exert
 enlarging
 exercise
 equating
+exception
+excalidraw
 uk
 using
 unified
@@ -6064,6 +6113,9 @@ Pairs
 Plan
 Plots
 Post
+Pay
+Pros
+Probing
 Sine
 Stands
 Standard
@@ -6332,6 +6384,10 @@ Stopped
 Strongly
 Slide
 Stacks
+Steps
+Substitute
+Switch
+Solutions
 Rule
 Real
 Routes
@@ -6544,6 +6600,8 @@ Radon
 Reduced
 Risk
 Right
+Representing
+Rehashing
 Note
 Negatives
 Normalising
@@ -6931,6 +6989,11 @@ Argument
 Argand
 Ammeter
 Alternating
+Act
+Allocate
+Assume
+Apply
+Adding
 for
 finding
 function
@@ -7191,6 +7254,7 @@ flemming
 flexibility
 front
 fit
+fig
 Graph
 Good
 Graphics
@@ -7658,6 +7722,7 @@ hypthesis
 helium
 heavy
 hazard
+harmonic
 Every
 EBCDIC
 Each
@@ -7888,6 +7953,8 @@ EMF
 Equipment
 Enqueuing
 Else
+EXCALIDRAW
+Excalidraw
 key
 know
 keyboard
@@ -8417,6 +8484,9 @@ Dial
 DCV
 Draw
 Detail
+Drawing
+Decompress
+Daisy
 Unicode
 Used
 UCS
@@ -8798,6 +8868,9 @@ Becquerel
 Basic
 Brief
 Boyle
+Balancing
+Boltzmann
+Best
 needs
 needed
 number
@@ -8995,6 +9068,7 @@ nuclide
 noting
 negligible
 node
+normals
 Many
 More
 Mail
@@ -9221,6 +9295,9 @@ MeV
 Moles
 Molecules
 Multiplying
+Motion
+MORE
+Matrices
 give
 generally
 get
@@ -9446,6 +9523,7 @@ gmail
 goodness
 gases
 grid
+gains
 Floats
 Float
 Full
@@ -9814,6 +9892,7 @@ Linked
 Loci
 Label
 Louis
+Linear
 You
 Yottabyte
 Young
@@ -10259,6 +10338,7 @@ OwF
 OFn
 ORo
 Otherwise
+OPTIONS
 value
 very
 valued
@@ -10634,6 +10714,7 @@ Widgets
 Within
 Wire
 Writing
+Worst
 Half
 HTTP
 HTTPS
@@ -10825,6 +10906,9 @@ Hooke
 HWf
 HhYw
 Helium
+Hash
+Hashing
+Had
 KB
 Keyboard
 Kilobyte
