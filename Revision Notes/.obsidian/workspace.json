@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2c3008b44ef3459b",
+        "id": "2791361401ada9ea",
         "type": "tabs",
         "children": [
           {
-            "id": "953e3911083af219",
+            "id": "f56c413a43d82430",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Unit 5 - Practical/Unit 5 - Practical.md",
+                "file": "Maths/Unit 2 - APPLIED/2.4 - Statistical Distribution/Binomial Distribution.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Unit 5 - Practical/Unit 5 - Practical.md",
+                "file": "Maths/Unit 2 - APPLIED/2.4 - Statistical Distribution/Binomial Distribution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/Unit 5 - Practical/Unit 5 - Practical.md",
+                "file": "Maths/Unit 2 - APPLIED/2.4 - Statistical Distribution/Binomial Distribution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/Unit 5 - Practical/Unit 5 - Practical.md"
+                "file": "Maths/Unit 2 - APPLIED/2.4 - Statistical Distribution/Binomial Distribution.md"
               }
             }
           },
@@ -194,72 +194,36 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "floating": {
-    "id": "a16e49118bd04c4a",
-    "type": "floating",
-    "children": [
-      {
-        "id": "ec3d71a7c46f4ec6",
-        "type": "window",
-        "children": [
-          {
-            "id": "5008f5db9f4a25e7",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "aecd3b45faa3b9a0",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Further Maths/Unit 1 - PURE/1.3 - Matrices/1.3 - Matrices.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 328,
-        "y": 69,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "953e3911083af219",
+  "active": "f56c413a43d82430",
   "lastOpenFiles": [
-    "Computer Science/Unit 1 - Theory/1.1 - Hardware and communication/PC architecture and fetch-decode-execute cycle/Other PC Components.md",
-    "Computer Science/Unit 1 - Theory/1.1 - Hardware and communication/PC architecture and fetch-decode-execute cycle/Improving CPU Performance.md",
-    "Computer Science/Unit 1 - Theory/1.1 - Hardware and communication/PC architecture and fetch-decode-execute cycle/Fetch Decode Execute Cycle In-depth.md",
-    "Computer Science/Unit 1 - Theory/1.1 - Hardware and communication/PC architecture and fetch-decode-execute cycle/CPU Components.md",
-    "Computer Science/Unit 1 - Theory/1.1 - Hardware and communication/Networking/TCP-IP Protocol.md",
-    "Computer Science/Unit 1 - Theory/1.1 - Hardware and communication/Networking/Networking.md",
-    "Computer Science/Unit 1 - Theory/1.1 - Hardware and communication/Networking/Different Scales of Network.md",
-    "Physics/Unit 5 - Practical/Unit 5 - Practical.md",
-    "Physics/Unit 5 - Practical/Error bars.md",
-    "Further Maths/Unit 1 - PURE/1.2 - Complex Numbers/Multiplying complex numbers.md",
-    "Further Maths/Unit 1 - PURE/1.3 - Matrices/1.3 - Matrices.md",
-    "Further Maths/Further Maths.md",
-    "Computer Science/Unit 4 - Theory/4.4 - Organisation and structure of data/Hashing Table.md",
-    "Physics/Physics.md",
-    "Further Maths/Unit 1 - PURE/1.3 - Matrices",
-    "Maths/Maths.md",
-    "Maths/Unit 3 - PURE/Unit 3 - PURE.md",
+    "Maths/Unit 2 - APPLIED/2.4 - Statistical Distribution/2.4 - Statistical Distribution.md",
     "Maths/Unit 4 - APPLIED/Unit 4 - APPLIED.md",
+    "Maths/Unit 4 - APPLIED/4.1 - Probability - Conditional Probability/4.1 - Probability - Conditional Probability.md",
+    "Maths/Unit 2 - APPLIED/Unit 2 - APPLIED.md",
+    "Maths/Maths.md",
+    "Further Maths/Further Maths.md",
     "Physics/Unit 3/3.3 - Kinetic Theory/3.3 - Kinetic Theory.md",
+    "Physics/Unit 3/3.3 - Kinetic Theory/Gas Pressure.md",
     "Physics/Unit 3/3.3 - Kinetic Theory/Gas Laws.md",
     "Physics/Unit 3/3.3 - Kinetic Theory/Energy and Motion.md",
-    "Physics/Unit 3/3.3 - Kinetic Theory/Gas Pressure.md",
+    "Physics/Unit 3/3.1 - Circular Motion/3.1 - Circular Motion.md",
+    "Physics/Unit 3/3.6 - Nuclear Energy/3.6 - Nuclear Energy.md",
     "Physics/Unit 3/3.5 - Nuclear Decay/3.5 - Nuclear Decay.md",
-    "Physics/Unit 3/3.2 - Vibrations/3.2 - Vibrations.md",
-    "Computer Science/Computer Science.md",
-    "Computer Science/Unit 4 - Theory/4.4 - Organisation and structure of data/File Access.md",
-    "Computer Science/Unit 1 - Theory/1.6 - Organisation of data/File Design/Field Length.md",
+    "Physics/Unit 3/3.6 - Nuclear Energy",
+    "Physics/Unit 5 - Practical/Unit 5 - Practical.md",
+    "index.md",
+    "z_Excerpts/00-Quartic Formula.md",
+    "z_Excerpts/Python/Python.md",
+    "z_Excerpts/Python/save_files/save_files.md",
+    "z_Excerpts/Python/advent_of_code/advent_of_code.md",
+    "z_Excerpts/Image/Image.md",
+    "z_Excerpts/Graph/Graph.md",
+    "Physics/Physics.md",
+    "Physics/Unit 5 - Practical/Tables and Graphs.md",
+    "Physics/Unit 5 - Practical/Planning Experiments.md",
+    "Physics/Unit 3/3.5 - Nuclear Decay/Nature. Penetration. Range.md",
+    "Physics/Unit 3/3.5 - Nuclear Decay/Decay.md",
+    "Further Maths/Unit 1 - PURE/1.3 - Matrices",
     "Physics/Unit 3/3.2 - Vibrations",
     "smart-chats",
     "z_Excerpts/Image/Pasted image 20240923114855.png",
@@ -273,7 +237,6 @@
     "z_Excerpts/Image/Pasted image 20240911093452.png",
     "Physics/Unit 3/3.1 - Circular Motion",
     "Further Maths/Unit 1 - PURE/1.4 - Further Algebra and Functions",
-    "Further Maths/Unit 1 - PURE/1.2 - Complex Numbers",
     "z_Excerpts/Image/Pasted image 20240619105004.png",
     "Physics/Unit 1/1.6 - Using Radiation to Investigate Stars/Using Radiation to Investigate Stars recap.canvas",
     "z_Excerpts/Image/Screenshot 2024-05-16 at 00.19.04.png",
