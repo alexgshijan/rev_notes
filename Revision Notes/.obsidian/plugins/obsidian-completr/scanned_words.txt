@@ -1147,6 +1147,7 @@ attention
 assistant
 aside
 arrays
+acknowledging
 only
 on
 odd
@@ -2158,6 +2159,7 @@ bumping
 bars
 branches
 balanced
+binding
 that
 throughout
 the
@@ -2492,6 +2494,7 @@ trees
 traversal
 tat
 theta
+twelfth
 ll
 lot
 languages
@@ -2754,6 +2757,7 @@ landing
 linear
 leaves
 loci
+lambda
 working
 when
 wip
@@ -3606,6 +3610,7 @@ strictly
 simplest
 settings
 sequentially
+stability
 It
 Identities
 Information
@@ -4298,6 +4303,9 @@ contradiction
 cancel
 conditions
 columns
+constituent
+carbon
+conversion
 doesn
 determined
 data
@@ -4675,6 +4683,8 @@ document
 decompress
 defeats
 displace
+defect
+daughter
 many
 mailto
 main
@@ -4988,6 +4998,8 @@ monatomic
 multiplying
 matrices
 matrix
+mod
+mew
 plans
 python
 press
@@ -5352,6 +5364,7 @@ pythagorus
 plugin
 parsed
 palette
+parent
 expand
 even
 each
@@ -6389,6 +6402,7 @@ Steps
 Substitute
 Switch
 Solutions
+Shortest
 Rule
 Real
 Routes
@@ -6766,6 +6780,7 @@ NJN
 NJJ
 Newton
 Nature
+Nucleon
 And
 ASCII
 American
@@ -8872,6 +8887,7 @@ Boyle
 Balancing
 Boltzmann
 Best
+Binding
 needs
 needed
 number

@@ -13,8 +13,6 @@
   "text-extractor",
   "ai-image-analyzer",
   "oz-image-plugin",
-  "smart-connections",
   "excalibrain",
-  "dataview",
-  "obsidian-excalidraw-plugin"
+  "dataview"
 ]

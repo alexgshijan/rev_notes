@@ -17,7 +17,7 @@
   "logLevel": "warning",
   "minifyHTML": true,
   "makeNamesWebStyle": true,
-  "onlyExportModified": false,
+  "onlyExportModified": true,
   "deleteOldFiles": true,
   "addThemeToggle": true,
   "addOutline": true,
@@ -46,7 +46,12 @@
   "exportPath": "/Users/Alex/Documents/GitHub/notes",
   "filesToExport": [
     [
-      "all"
+      "Computer Science",
+      "Further Maths",
+      "Maths",
+      "Physics",
+      "z_Excerpts",
+      "index.md"
     ]
   ],
   "inlineCSS": false,
