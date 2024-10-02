@@ -46,12 +46,7 @@
   "exportPath": "/Users/Alex/Documents/GitHub/notes",
   "filesToExport": [
     [
-      "Computer Science",
-      "Further Maths",
-      "Maths",
-      "Physics",
-      "z_Excerpts",
-      "index.md"
+      "all"
     ]
   ],
   "inlineCSS": false,
