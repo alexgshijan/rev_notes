@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "2791361401ada9ea",
+        "id": "0ed68300b91a2702",
         "type": "tabs",
         "children": [
           {
-            "id": "f56c413a43d82430",
+            "id": "02385d32817f1e8a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Further Maths/Unit 1 - PURE/1.5 - Further Vectors/Shortest distances.md",
+                "file": "Further Maths/Unit 1 - PURE/1.1 - Proof by Induction/1.1 - Proof by Induction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f999afac14d8f165",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Unit 1 - Theory/1.6 - Organisation of data/File Design/File Types/Indexed Sequential.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fixed length record",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Further Maths/Unit 1 - PURE/1.5 - Further Vectors/Shortest distances.md",
+                "file": "Computer Science/Unit 1 - Theory/1.6 - Organisation of data/File Design/File Types/Indexed Sequential.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Further Maths/Unit 1 - PURE/1.5 - Further Vectors/Shortest distances.md",
+                "file": "Computer Science/Unit 1 - Theory/1.6 - Organisation of data/File Design/File Types/Indexed Sequential.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Further Maths/Unit 1 - PURE/1.5 - Further Vectors/Shortest distances.md"
+                "file": "Computer Science/Unit 1 - Theory/1.6 - Organisation of data/File Design/File Types/Indexed Sequential.md"
               }
             }
           },
@@ -187,42 +200,41 @@
       "webpage-html-export:Export Vault to HTML": false,
       "chronology:Open Chronology": false,
       "canvas:Create new canvas": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "omnisearch:Omnisearch": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "smart-connections:Open: View Smart Connections": false,
-      "smart-connections:Open: Smart Chat Conversation": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f56c413a43d82430",
+  "active": "f999afac14d8f165",
   "lastOpenFiles": [
-    "Further Maths/Unit 1 - PURE/1.5 - Further Vectors/Intersection of a Line and a Plane.md",
-    "Further Maths/Unit 1 - PURE/1.5 - Further Vectors/Equation of a Plane - Intersection of two planes.md",
-    "Further Maths/Unit 1 - PURE/1.5 - Further Vectors/Intersection of two lines.md",
-    "Further Maths/Unit 1 - PURE/1.5 - Further Vectors/1.5 - Further Vectors.md",
-    "Further Maths/Unit 1 - PURE/1.5 - Further Vectors/Vector Form to Cartesian Form.md",
-    "Further Maths/Unit 1 - PURE/1.3 - Matrices/1.3 - Matrices.md",
-    "Further Maths/Unit 1 - PURE/1.5 - Further Vectors/Shortest distances.md",
-    "Physics/Unit 3/3.6 - Nuclear Energy/3.6 - Nuclear Energy.md",
-    "Further Maths/Further Maths.md",
+    "Computer Science/Unit 1 - Theory/1.6 - Organisation of data/File Design/File Types/File Types.md",
+    "Computer Science/Unit 1 - Theory/1.6 - Organisation of data/1.6 - Organisation of data.md",
+    "Computer Science/Unit 4 - Theory/4.4 - Organisation and structure of data/File Access.md",
+    "Computer Science/Unit 1 - Theory/1.6 - Organisation of data/File Design/File Types/Indexed Sequential.md",
+    "Computer Science/Unit 4 - Theory/4.4 - Organisation and structure of data/4.4 - Organisation and structure of data.md",
+    "Computer Science/Unit 4 - Theory/4.4 - Organisation and structure of data/Hashing Table.md",
+    "Computer Science/Unit 3 - Theory/3.1 - Data Structure/3.1 - Data Structure.md",
+    "Computer Science/Computer Science.md",
     "Maths/Maths.md",
-    "Physics/Physics.md",
-    "Maths/Unit 2 - APPLIED/Unit 2 - APPLIED.md",
-    "Maths/Unit 2 - APPLIED/2.4 - Statistical Distribution/Binomial Distribution.md",
-    "Maths/Unit 2 - APPLIED/2.4 - Statistical Distribution/2.4 - Statistical Distribution.md",
-    "Maths/Unit 4 - APPLIED/Unit 4 - APPLIED.md",
     "Maths/Unit 4 - APPLIED/4.1 - Probability - Conditional Probability/4.1 - Probability - Conditional Probability.md",
-    "Physics/Unit 3/3.3 - Kinetic Theory/3.3 - Kinetic Theory.md",
-    "Physics/Unit 3/3.3 - Kinetic Theory/Gas Pressure.md",
-    "Physics/Unit 3/3.3 - Kinetic Theory/Gas Laws.md",
-    "Physics/Unit 3/3.3 - Kinetic Theory/Energy and Motion.md",
-    "Physics/Unit 3/3.1 - Circular Motion/3.1 - Circular Motion.md",
-    "Physics/Unit 3/3.5 - Nuclear Decay/3.5 - Nuclear Decay.md",
+    "Further Maths/Further Maths.md",
+    "Further Maths/Unit 3 - Further Mechanics/3.1 - Momentum and Impulse/3.1 - Momentum and Impulse.md",
+    "Further Maths/Unit 3 - Further Mechanics/Unit 3 - Further Mechanics.md",
+    "Further Maths/Unit 3 - Further Mechanics/3.1 - Momentum and Impulse",
+    "Further Maths/Unit 1 - PURE/Unit 1 - PURE.md",
+    "Further Maths/Unit 1 - PURE/1.5 - Further Vectors/1.5 - Further Vectors.md",
+    "Further Maths/Unit 1 - PURE/1.4 - Further Algebra and Functions/1.4 - Further Algebra and Functions.md",
+    "Further Maths/Unit 1 - PURE/1.3 - Matrices/1.3 - Matrices.md",
+    "Further Maths/Unit 1 - PURE/1.2 - Complex Numbers/1.2 - Complex Numbers.md",
+    "Further Maths/Unit 1 - PURE/1.1 - Proof by Induction/1.1 - Proof by Induction.md",
+    "Further Maths/Unit 1 - PURE/1.1 - Proof by Induction/Proof of the binomial theorem by induction.pdf",
+    "Further Maths/Unit 3 - Further Mechanics",
+    "Further Maths/Unit 1 - PURE/1.1 - Proof by Induction/Proof of the binomial theorem by induction.md",
+    "Further Maths/Unit 1 - PURE/1.2 - Complex Numbers/Argand Diagram.md",
+    "Further Maths/Unit 1 - PURE/1.2 - Complex Numbers/Multiplying complex numbers.md",
+    "Further Maths/Unit 1 - PURE/1.2 - Complex Numbers/Transformation from the Z plane to the Y plane.md",
+    "Further Maths/Unit 1 - PURE/1.5 - Further Vectors/Shortest distances.md",
+    "Further Maths/Unit 1 - PURE/1.5 - Further Vectors/Intersection of two lines.md",
+    "Further Maths/Unit 1 - PURE/1.5 - Further Vectors/Vector Form to Cartesian Form.md",
     "Physics/Unit 3/3.6 - Nuclear Energy",
-    "Physics/Unit 5 - Practical/Unit 5 - Practical.md",
-    "index.md",
-    "z_Excerpts/00-Quartic Formula.md",
-    "z_Excerpts/Python/Python.md",
     "Further Maths/Unit 1 - PURE/1.3 - Matrices",
     "Physics/Unit 3/3.2 - Vibrations",
     "smart-chats",
@@ -233,10 +245,7 @@
     "Computer Science/Unit 4 - Theory",
     "z_Excerpts/Image/Pasted image 20240917124122.png",
     "z_Excerpts/Image/Pasted image 20240912103923.png",
-    "Further Maths/Unit 1 - PURE/1.5 - Further Vectors",
     "z_Excerpts/Image/Pasted image 20240911093452.png",
-    "Physics/Unit 3/3.1 - Circular Motion",
-    "Further Maths/Unit 1 - PURE/1.4 - Further Algebra and Functions",
     "z_Excerpts/Image/Pasted image 20240619105004.png",
     "Physics/Unit 1/1.6 - Using Radiation to Investigate Stars/Using Radiation to Investigate Stars recap.canvas",
     "z_Excerpts/Image/Screenshot 2024-05-16 at 00.19.04.png",
