@@ -1,1 +1,0 @@
-Once the data in a register has been used, it needs to be cleared. We can do this by using *- And 0* for every value in the register. This would always give us an output of 0.

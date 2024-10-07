@@ -1,0 +1,13 @@
+Temperature is used to describe how hot or cold a system is while heat energy is linked to internal energy. *Internal energy is the sum of kinetic and potential energies of the particles of a system with symbol U.*$$U=\frac{3}{2}pV=\frac{3}{2}nRT=\frac{3}{2}NkT=\frac{1}{2}Nm\bar{c^{2}}$$
+**Simple Systems**
+When two systems are brought together to thermal contact and the internal energy of the model system remains constant, we call that thermal equilibrium. If the internal energy of the system change we know that energy has moved. In a simple frictionless piston with trapped low pressure gas, we can see this as a movement of the piston.
+
+*Heat is the energy flow from a region at higher temperature to a region at lower temperature due to the temperature difference with the symbol Q. This is the $0^{th}$ law of thermodynamics.*
+
+An expanding system exerts a force on the surroundings and therefore does work as it expands. Energy is transferred to the surroundings and the internal energy decreases. *Work done equals the area under the pressure-volume graph.* Work done formula : $$W=p\Delta V$$*when pressure is constant*
+
+**First Law of Thermodynamics**
+$$\Delta U=Q-U$$*where :*
+- Q is the heat flow into the system 
+- $\Delta U$ is the change in internal energy of the system.
+- U is the work done by the system

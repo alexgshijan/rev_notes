@@ -1,4 +1,0 @@
-- Whenever data is transferred over a network, a process called routing determines the path each data packet takes, ensuring that packets are delivered as quickly as possible 
-- Routes are determined using a routing table which stores the different paths along which data can be sent
-- Routing tables are constructed in the memory of network hardware components such as routers, switches, bridges, firewalls and gateways 
-- In order to make best use of network resources, the path is chosen by calculating the lowest cost routes.

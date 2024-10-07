@@ -6,7 +6,7 @@
 
 Magnetic : 
 - Magnetic storage is still regularly used as a backup technique for businesses because it is able to store large amounts of data relatively cheaply
-- Access the data stored on a tape is serial -  You can’t go straight to a particular part, you have to go through the storage from the first unit until you find the one you want
+- Access the data stored on a tape is [[Serial|serial]] -  You can’t go straight to a particular part, you have to go through the storage from the first unit until you find the one you want
 - Hard disk drives are an example of magnetic storage : 
 	- It consists of layers of physical disks and a read/write head on an actuator arm which houses a small magnet
 	- The disks spin incredibly fast, and the read/write head moves across the surface of the disk at enormous speeds

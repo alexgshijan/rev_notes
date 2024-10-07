@@ -1,2 +1,0 @@
-- Let’s say we have a register with unknown contents, but we only need to check a specific bit values 
-- We use the AND gate with the bit pattern 10000000 (Using the example of wanting the MSB in an 8 bit register. The 1 values could go in any position) because we are only interested in those value

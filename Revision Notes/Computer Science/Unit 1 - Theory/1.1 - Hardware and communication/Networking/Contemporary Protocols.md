@@ -1,8 +1,8 @@
 
 **Normal Protocols :** 
-HTTP/HTTPS - **HyperText Transfer Protocol / Secure** - Allows for the transmission of webpages across the internet
+HTTP/HTTPS - **HyperText Transfer Protocol / Secure** - Allows for the transmission of webpages across [[The Internet|the internet]]
 SSL - **Secure Sockets Layer** - Adds an additional layer of security to transmitted data by encrypting it
-TCP/IP - **Transmission Control Protocol/ Internet Protocol** - Allows data to be split up into packets which can then be forward to a specific address on a network
+TCP/IP - **Transmission Control Protocol/ Internet Protocol** - Allows data to be split up into [[Packets|packets]] which can then be forward to a specific address on a network
 VOIP - **Voice Over Internet** - Allow for voice calls to be made over the internet
 UDP - **User Datagram Protocol** - Allows for fast transfer of data. Does not process delayed packets so that transmission is faster
 FTP - **File transfer protocol** - Allows for files/documents to be transmitted & exchanged

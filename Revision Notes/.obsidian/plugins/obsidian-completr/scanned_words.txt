@@ -384,6 +384,8 @@ CGT
 Cev
 CABG
 Catalog
+Circuit
+Clearing
 View
 VOIP
 Voice
@@ -2345,6 +2347,8 @@ TEn
 TWR
 TlS
 THPR
+Traffic
+Thermodynamics
 revision
 rule
 rotational
@@ -2782,6 +2786,7 @@ rHK
 rDD
 rVu
 rQb
+restitution
 bank
 be
 but
@@ -3163,6 +3168,7 @@ bju
 bLu
 bgv
 bRo
+boolean
 that
 throughout
 the
@@ -3624,6 +3630,10 @@ tvI
 tWK
 tbpC
 tLI
+thermal
+trapped
+thermodynamics
+transformation
 ll
 lot
 languages
@@ -5242,6 +5252,8 @@ sTo
 sPs
 sYf
 signify
+symbol
+surroundings
 It
 Identities
 Information
@@ -5596,6 +5608,7 @@ IcN
 IÄ
 IHW
 IHUv
+Identites
 currently
 contain
 co
@@ -6716,6 +6729,7 @@ dXe
 dev
 dLR
 dfw
+determinant
 many
 mailto
 main
@@ -7679,6 +7693,7 @@ pdt
 pXK
 pdYq
 pgc
+piston
 expand
 even
 each
@@ -8110,6 +8125,9 @@ eCd
 eSf
 eRj
 ewMH
+expanding
+elasticity
+effects
 uk
 using
 unified
@@ -9217,6 +9235,8 @@ SGFs
 SCSi
 SXQ
 SaI
+Switching
+Subtopic
 Rule
 Real
 Routes
@@ -10137,6 +10157,8 @@ ASv
 Anh
 ANa
 Anm
+Adjusting
+Algebra
 for
 finding
 function
@@ -10513,6 +10535,7 @@ fuH
 fBj
 faPsE
 fRu
+frictionless
 Graph
 Good
 Graphics
@@ -13633,6 +13656,8 @@ MeIsk
 Mig
 MkmUK
 Multilevel
+Multiplexing
+Masking
 give
 generally
 get
@@ -14617,6 +14642,7 @@ LdS
 Lmjo
 LCZ
 LSM
+Logic
 You
 Yottabyte
 Young
@@ -16448,6 +16474,7 @@ Hok
 Hkp
 HBC
 HJU
+Heat
 KB
 Keyboard
 Kilobyte
