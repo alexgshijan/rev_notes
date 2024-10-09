@@ -13,7 +13,7 @@ $$(x+\frac{b}{2a})^2=(\frac{b}{2a})^2-\frac{c}{a}$$
 $$x+\frac{b}{2a}=\pm\sqrt{(\frac{b}{2a})^2-\frac{c}{a}}$$
 *Rearrange to isolate the x term*
 $$x=-\frac{b}{2a}\pm\sqrt{\frac{b^2}{4a^2}-\frac{c}{a}}$$
-*Voila, with a bit of rearranging...
+*Voila, with a bit of rearranging...*
 $$x=-\frac{b}{2a}\pm\sqrt{\frac{b^2}{4a^2}-\frac{4ac}{4a^2}}$$
-*... you've just discovered the quadratic formula**
+*... you've just discovered the quadratic formula*
 $$x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$$

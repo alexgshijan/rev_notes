@@ -1,3 +1,0 @@
-- Numbers are rounded to the nearest whole number, tenth or hundredth etc.  
-- The main method is to round up or down by adding or subtracting 1 from the number at the rightmost bit depending on the value 
-- As with denary rounding, this sacrifices the precision of the number

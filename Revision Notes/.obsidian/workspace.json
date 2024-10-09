@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Unit 3/3.3 - Kinetic Theory/3.3 - Kinetic Theory.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "709c7e059102528b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Further Maths/Unit 3 - Further Mechanics/3.1 - Momentum and Impulse/3.1 - Momentum and Impulse.md",
+                "file": "Computer Science/Unit 4 - Theory/4.5 - Databases and distributed systems/4.5 - Databases and distributed systems.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "database",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -106,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Further Maths/Unit 3 - Further Mechanics/3.1 - Momentum and Impulse/3.1 - Momentum and Impulse.md",
+                "file": "Computer Science/Unit 4 - Theory/4.5 - Databases and distributed systems/4.5 - Databases and distributed systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Further Maths/Unit 3 - Further Mechanics/3.1 - Momentum and Impulse/3.1 - Momentum and Impulse.md",
+                "file": "Computer Science/Unit 4 - Theory/4.5 - Databases and distributed systems/4.5 - Databases and distributed systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Further Maths/Unit 3 - Further Mechanics/3.1 - Momentum and Impulse/3.1 - Momentum and Impulse.md"
+                "file": "Computer Science/Unit 4 - Theory/4.5 - Databases and distributed systems/4.5 - Databases and distributed systems.md"
               }
             }
           },
@@ -170,7 +158,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -185,48 +174,20 @@
       "canvas:Create new canvas": false
     }
   },
-  "floating": {
-    "id": "d66b2ba4d4d0446c",
-    "type": "floating",
-    "children": [
-      {
-        "id": "05df2c16221f7fd6",
-        "type": "window",
-        "children": [
-          {
-            "id": "f4226dc04df60ab8",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "f96d7c8452f23473",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Further Maths/Unit 3 - Further Mechanics/3.1 - Momentum and Impulse/3.1 - Momentum and Impulse.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 390,
-        "y": 525,
-        "width": 800,
-        "height": 400,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "f96d7c8452f23473",
+  "active": "f999afac14d8f165",
   "lastOpenFiles": [
+    "Computer Science/Unit 1 - Theory/1.7 - Database Systems/1.7 - Database Systems.md",
     "Further Maths/Unit 3 - Further Mechanics/3.1 - Momentum and Impulse/3.1 - Momentum and Impulse.md",
+    "Computer Science/Unit 4 - Theory/4.5 - Databases and distributed systems/4.5 - Databases and distributed systems.md",
+    "Computer Science/Unit 4 - Theory/Unit 4 - Theory.md",
+    "Computer Science/Unit 4 - Theory/4.5 - Databases and distributed systems",
+    "Computer Science/Computer Science.md",
+    "Physics/Physics.md",
     "Physics/Unit 3/3.2 - Vibrations/3.2 - Vibrations.md",
     "Physics/Unit 3/3.1 - Circular Motion/3.1 - Circular Motion.md",
+    "Physics/Unit 3/3.3 - Kinetic Theory/3.3 - Kinetic Theory.md",
+    "Physics/Unit 1/Unit 1.md",
+    "Further Maths/Further Maths.md",
     "Physics/Unit 2/2.8 - Lasers/Stimulated Emission.md",
     "Physics/Unit 2/2.8 - Lasers/2.8 - Lasers.md",
     "Physics/Unit 2/2.7 - Photons/Photoelectric Effect.md",
@@ -242,14 +203,6 @@
     "Physics/Unit 2/2.4 - The Nature of Waves/2.4 - The Nature of Waves.md",
     "Maths/Unit 4 - APPLIED/4.9 - Forces and Newton's Laws - Friction/4.9 - Forces and Newton's Laws - Friction.md",
     "Maths/Unit 4 - APPLIED/4.7 & 4.10 - Quantities and units in mechanics & Moments/4.7 & 4.10 - Quantities and units in mechanics & Moments.md",
-    "Maths/Unit 4 - APPLIED/4.3 - Statistical Hypothesis Testing/Normal Distribution - Hypothesis Testing.md",
-    "Maths/Unit 4 - APPLIED/4.3 - Statistical Hypothesis Testing/Correlation Coefficients.md",
-    "Maths/Unit 4 - APPLIED/4.2 - Statistical Distribution/Normal Distribution.md",
-    "Maths/Unit 4 - APPLIED/4.2 - Statistical Distribution/Continuous Uniform Distribution.md",
-    "Maths/Unit 4 - APPLIED/4.1 - Probability - Conditional Probability/4.1 - Probability - Conditional Probability.md",
-    "Maths/Unit 3 - PURE/3.8 - Numerical Methods/Trapezium Rule.md",
-    "Maths/Unit 3 - PURE/3.8 - Numerical Methods/Newton-Raphson method.md",
-    "Maths/Unit 3 - PURE/3.8 - Numerical Methods/Fixed Point Iteration.md",
     "Physics/Unit 3/3.4 - Thermal Physics",
     "Further Maths/Unit 3 - Further Mechanics/3.1 - Momentum and Impulse",
     "Further Maths/Unit 1 - PURE/1.1 - Proof by Induction/Proof of the binomial theorem by induction.pdf",
@@ -261,7 +214,6 @@
     "z_Excerpts/Image/Pasted image 20240923114855.png",
     "z_Excerpts/Image/Pasted image 20240923104630.png",
     "Excalidraw",
-    "Computer Science/Unit 4 - Theory/4.4 - Organisation and structure of data",
     "z_Excerpts/Image/Pasted image 20240917124122.png",
     "z_Excerpts/Image/Pasted image 20240912103923.png",
     "z_Excerpts/Image/Pasted image 20240911093452.png",

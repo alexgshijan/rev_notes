@@ -1,4 +1,4 @@
-We can kinda abuse substitution to make equations that have different powers and turn them into [[Quadratics|quadratics]] and use [[Completing the Square]] to solve for x. 
+We can kinda abuse substitution to make equations that have different powers and turn them into quadratics and use [[Completing the Square]] to solve for x. 
 
 We can do this by using $\text{let }a =x^n$
 

@@ -1,6 +1,6 @@
 {
   "advancedSettings": true,
-  "linkerActivated": true,
+  "linkerActivated": false,
   "matchOnlyWholeWords": true,
   "matchBeginningOfWords": true,
   "suppressSuffixForSubWords": false,
