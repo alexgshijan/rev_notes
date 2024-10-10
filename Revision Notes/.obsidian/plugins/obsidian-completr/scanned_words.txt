@@ -1668,6 +1668,7 @@ aLmXI
 aaW
 aRX
 aKNb
+affecting
 only
 on
 odd
@@ -7697,6 +7698,7 @@ pXK
 pdYq
 pgc
 piston
+pendulum
 expand
 even
 each
@@ -9242,6 +9244,7 @@ SaI
 Switching
 Subtopic
 Signed
+Spring
 Rule
 Real
 Routes
@@ -10888,6 +10891,7 @@ GlB
 GtR
 GevF
 GPVR
+Gravity
 has
 have
 how
@@ -14649,6 +14653,7 @@ Lmjo
 LCZ
 LSM
 Logic
+Lambda
 You
 Yottabyte
 Young
