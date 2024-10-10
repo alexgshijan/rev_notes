@@ -2790,6 +2790,7 @@ rDD
 rVu
 rQb
 restitution
+rotation
 bank
 be
 but
@@ -3637,6 +3638,7 @@ thermal
 trapped
 thermodynamics
 transformation
+transformations
 ll
 lot
 languages
@@ -7192,6 +7194,7 @@ mkM
 meVs
 mVQJ
 macOS
+multiplication
 plans
 python
 press
@@ -8133,6 +8136,7 @@ ewMH
 expanding
 elasticity
 effects
+enlargement
 uk
 using
 unified
