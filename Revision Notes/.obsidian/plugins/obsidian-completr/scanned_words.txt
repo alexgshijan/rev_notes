@@ -8137,6 +8137,7 @@ expanding
 elasticity
 effects
 enlargement
+equate
 uk
 using
 unified
@@ -9572,6 +9573,7 @@ RSV
 RsB
 RbS
 Rounding
+Reflections
 Note
 Negatives
 Normalising
@@ -10549,6 +10551,7 @@ fBj
 faPsE
 fRu
 frictionless
+followed
 Graph
 Good
 Graphics
