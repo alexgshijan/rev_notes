@@ -1,6 +1,3 @@
----
-tags:
----
  ```folder-index-content
 ```
  

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Further Maths/Unit 3 - Further Mechanics/3.2 - Hooke's Law, Work, Energy and Power/3.2 - Hooke's Law, Work, Energy and Power.md",
+                "file": "Physics/Unit 5 - Practical/Unit 5 - Practical.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,14 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Unit 3 - PURE/3.4 - Sequences and Series/Arithmetic.md",
+                "file": "Physics/Unit 5 - Practical/Tables and Graphs.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "arithmetic",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,8 +110,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -131,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/Unit 3 - PURE/3.4 - Sequences and Series/Arithmetic.md",
+                "file": "Physics/Unit 5 - Practical/Unit 5 - Practical.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Unit 3 - PURE/3.4 - Sequences and Series/Arithmetic.md",
+                "file": "Physics/Unit 5 - Practical/Unit 5 - Practical.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Unit 3 - PURE/3.4 - Sequences and Series/Arithmetic.md"
+                "file": "Physics/Unit 5 - Practical/Unit 5 - Practical.md"
               }
             }
           },
@@ -211,34 +210,34 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "08bbc321b8abf863",
+  "active": "918d6b6582fd42d8",
   "lastOpenFiles": [
-    "Further Maths/Unit 3 - Further Mechanics/3.2 - Hooke's Law, Work, Energy and Power/3.2 - Hooke's Law, Work, Energy and Power.md",
-    "Further Maths/Unit 3 - Further Mechanics/3.1 - Momentum and Impulse/3.1 - Momentum and Impulse.md",
-    "Further Maths/Unit 1 - PURE/1.5 - Further Vectors/Vector Form to Cartesian Form.md",
-    "Further Maths/Unit 1 - PURE/1.5 - Further Vectors/Shortest distances.md",
-    "Further Maths/Unit 1 - PURE/1.5 - Further Vectors/Intersection of two lines.md",
-    "Further Maths/Unit 1 - PURE/1.5 - Further Vectors/Intersection of a Line and a Plane.md",
-    "Further Maths/Unit 1 - PURE/1.5 - Further Vectors/Equation of a Plane - Intersection of two planes.md",
-    "Further Maths/Unit 1 - PURE/1.5 - Further Vectors/1.5 - Further Vectors.md",
-    "Further Maths/Unit 1 - PURE/1.4 - Further Algebra and Functions/1.4 - Further Algebra and Functions.md",
-    "Further Maths/Unit 1 - PURE/1.3 - Matrices/1.3 - Matrices.md",
-    "Further Maths/Unit 1 - PURE/1.2 - Complex Numbers/Multiplying complex numbers.md",
-    "Further Maths/Unit 1 - PURE/1.2 - Complex Numbers/Argand Diagram.md",
-    "Further Maths/Unit 1 - PURE/1.2 - Complex Numbers/1.2 - Complex Numbers.md",
-    "Further Maths/Unit 1 - PURE/1.1 - Proof by Induction/1.1 - Proof by Induction.md",
-    "Computer Science/Computer Science.md",
-    "Computer Science/Unit 4 - Theory/4.5 - Databases and distributed systems/4.5 - Databases and distributed systems.md",
-    "Computer Science/Unit 4 - Theory/4.4 - Organisation and structure of data/Hashing Table.md",
-    "Computer Science/Unit 4 - Theory/4.4 - Organisation and structure of data/File Access.md",
-    "Computer Science/Unit 4 - Theory/4.4 - Organisation and structure of data/4.4 - Organisation and structure of data.md",
-    "Computer Science/Unit 3 - Theory/Unit 3 - Theory.md",
-    "Computer Science/Unit 3 - Theory/3.1 - Data Structure/Stacks.md",
-    "Computer Science/Unit 3 - Theory/3.1 - Data Structure/Queues.md",
-    "Computer Science/Unit 3 - Theory/3.1 - Data Structure/Binary Tree.md",
-    "Computer Science/Unit 3 - Theory/3.1 - Data Structure/Array and Linked List.md",
-    "Computer Science/Unit 3 - Theory/3.1 - Data Structure/3.1 - Data Structure.md",
-    "Computer Science/Unit 2 - Practical/Unit 2 - Practical.md",
+    "index.md",
+    "z_Excerpts/00-Quartic Formula.md",
+    "z_Excerpts/Python/Python.md",
+    "z_Excerpts/Python/save_files/save_files.md",
+    "z_Excerpts/Python/advent_of_code/advent_of_code.md",
+    "z_Excerpts/Image/Image.md",
+    "z_Excerpts/Graph/Graph.md",
+    "Physics/Physics.md",
+    "Physics/Unit 5 - Practical/Unit 5 - Practical.md",
+    "Physics/Unit 5 - Practical/Tables and Graphs.md",
+    "Physics/Unit 5 - Practical/Planning Experiments.md",
+    "Physics/Unit 3/3.6 - Nuclear Energy/3.6 - Nuclear Energy.md",
+    "Physics/Unit 3/3.5 - Nuclear Decay/Nature. Penetration. Range.md",
+    "Physics/Unit 3/3.5 - Nuclear Decay/Decay.md",
+    "Physics/Unit 3/3.4 - Thermal Physics/Thermodynamics.md",
+    "Physics/Unit 3/3.4 - Thermal Physics/pV Graphs.md",
+    "Physics/Unit 3/3.3 - Kinetic Theory/Gas Laws.md",
+    "Physics/Unit 3/3.3 - Kinetic Theory/Energy and Motion.md",
+    "Physics/Unit 3/3.3 - Kinetic Theory/3.3 - Kinetic Theory.md",
+    "Physics/Unit 3/3.2 - Vibrations/3.2 - Vibrations.md",
+    "Physics/Unit 3/3.1 - Circular Motion/3.1 - Circular Motion.md",
+    "Physics/Unit 2/2.8 - Lasers/Stimulated Emission.md",
+    "Physics/Unit 2/2.8 - Lasers/2.8 - Lasers.md",
+    "Physics/Unit 2/2.7 - Photons/Photoelectric Effect.md",
+    "Physics/Unit 2/2.7 - Photons/Momentum of Light.md",
+    "Physics/Unit 2/2.7 - Photons/Atomic Energy Level.md",
     "z_Excerpts/Image/Pasted image 20241014095230.png",
     "Computer Science/Unit 4 - Theory/4.5 - Databases and distributed systems",
     "Physics/Unit 3/3.4 - Thermal Physics",
