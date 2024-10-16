@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Unit 5 - Practical/Unit 5 - Practical.md",
+                "file": "Physics/Unit 5 - Practical/Power Laws and Logs.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Unit 5 - Practical/Unit 5 - Practical.md",
+                "file": "Physics/Unit 5 - Practical/Power Laws and Logs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/Unit 5 - Practical/Unit 5 - Practical.md",
+                "file": "Physics/Unit 5 - Practical/Power Laws and Logs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/Unit 5 - Practical/Unit 5 - Practical.md"
+                "file": "Physics/Unit 5 - Practical/Power Laws and Logs.md"
               }
             }
           },
@@ -212,6 +212,9 @@
   },
   "active": "918d6b6582fd42d8",
   "lastOpenFiles": [
+    "Physics/Unit 5 - Practical/Tables and Graphs.md",
+    "Physics/Unit 5 - Practical/Planning Experiments.md",
+    "Physics/Unit 5 - Practical/Unit 5 - Practical.md",
     "index.md",
     "z_Excerpts/00-Quartic Formula.md",
     "z_Excerpts/Python/Python.md",
@@ -220,9 +223,6 @@
     "z_Excerpts/Image/Image.md",
     "z_Excerpts/Graph/Graph.md",
     "Physics/Physics.md",
-    "Physics/Unit 5 - Practical/Unit 5 - Practical.md",
-    "Physics/Unit 5 - Practical/Tables and Graphs.md",
-    "Physics/Unit 5 - Practical/Planning Experiments.md",
     "Physics/Unit 3/3.6 - Nuclear Energy/3.6 - Nuclear Energy.md",
     "Physics/Unit 3/3.5 - Nuclear Decay/Nature. Penetration. Range.md",
     "Physics/Unit 3/3.5 - Nuclear Decay/Decay.md",
