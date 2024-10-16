@@ -1,7 +1,7 @@
 {
   "accentColor": "#d86f79",
-  "cssTheme": "Obsidian Nord",
-  "theme": "system",
+  "cssTheme": "Ukiyo",
+  "theme": "obsidian",
   "baseFontSize": 20,
   "baseFontSizeAction": false,
   "translucency": true

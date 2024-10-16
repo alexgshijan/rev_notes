@@ -13,13 +13,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Further Maths/Unit 1 - PURE/1.3 - Matrices/1.3 - Matrices.md",
+                "file": "Maths/Unit 4 - APPLIED/4.9 - Forces and Newton's Laws - Friction/4.9 - Forces and Newton's Laws - Friction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "918d6b6582fd42d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Further Maths/Unit 3 - Further Mechanics/3.2 - Hooke's Law, Work, Energy and Power/3.2 - Hooke's Law, Work, Energy and Power.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f149da0f0bcd84e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Unit 4 - Theory/4.5 - Databases and distributed systems/4.5 - Databases and distributed systems.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "08bbc321b8abf863",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Maths/Unit 3 - PURE/3.4 - Sequences and Series/Arithmetic.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -48,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "arithmetic",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +110,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -93,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Further Maths/Unit 1 - PURE/1.3 - Matrices/1.3 - Matrices.md",
+                "file": "Maths/Unit 3 - PURE/3.4 - Sequences and Series/Arithmetic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Further Maths/Unit 1 - PURE/1.3 - Matrices/1.3 - Matrices.md",
+                "file": "Maths/Unit 3 - PURE/3.4 - Sequences and Series/Arithmetic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Further Maths/Unit 1 - PURE/1.3 - Matrices/1.3 - Matrices.md"
+                "file": "Maths/Unit 3 - PURE/3.4 - Sequences and Series/Arithmetic.md"
               }
             }
           },
@@ -173,35 +211,36 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "36ee321fd4cf36ac",
+  "active": "08bbc321b8abf863",
   "lastOpenFiles": [
-    "Physics/Unit 3/3.2 - Vibrations/3.2 - Vibrations.md",
-    "Further Maths/Unit 1 - PURE/1.3 - Matrices/1.3 - Matrices.md",
-    "Further Maths/Unit 1 - PURE/1.4 - Further Algebra and Functions/1.4 - Further Algebra and Functions.md",
-    "Computer Science/Unit 4 - Theory/4.5 - Databases and distributed systems/4.5 - Databases and distributed systems.md",
-    "Further Maths/Further Maths.md",
-    "Physics/Physics.md",
-    "Physics/Unit 3/3.1 - Circular Motion/3.1 - Circular Motion.md",
-    "Further Maths/Unit 1 - PURE/Unit 1 - PURE.md",
     "Further Maths/Unit 3 - Further Mechanics/3.2 - Hooke's Law, Work, Energy and Power/3.2 - Hooke's Law, Work, Energy and Power.md",
-    "Computer Science/Computer Science.md",
-    "Computer Science/Unit 1 - Theory/1.7 - Database Systems/1.7 - Database Systems.md",
     "Further Maths/Unit 3 - Further Mechanics/3.1 - Momentum and Impulse/3.1 - Momentum and Impulse.md",
-    "Computer Science/Unit 4 - Theory/Unit 4 - Theory.md",
+    "Further Maths/Unit 1 - PURE/1.5 - Further Vectors/Vector Form to Cartesian Form.md",
+    "Further Maths/Unit 1 - PURE/1.5 - Further Vectors/Shortest distances.md",
+    "Further Maths/Unit 1 - PURE/1.5 - Further Vectors/Intersection of two lines.md",
+    "Further Maths/Unit 1 - PURE/1.5 - Further Vectors/Intersection of a Line and a Plane.md",
+    "Further Maths/Unit 1 - PURE/1.5 - Further Vectors/Equation of a Plane - Intersection of two planes.md",
+    "Further Maths/Unit 1 - PURE/1.5 - Further Vectors/1.5 - Further Vectors.md",
+    "Further Maths/Unit 1 - PURE/1.4 - Further Algebra and Functions/1.4 - Further Algebra and Functions.md",
+    "Further Maths/Unit 1 - PURE/1.3 - Matrices/1.3 - Matrices.md",
+    "Further Maths/Unit 1 - PURE/1.2 - Complex Numbers/Multiplying complex numbers.md",
+    "Further Maths/Unit 1 - PURE/1.2 - Complex Numbers/Argand Diagram.md",
+    "Further Maths/Unit 1 - PURE/1.2 - Complex Numbers/1.2 - Complex Numbers.md",
+    "Further Maths/Unit 1 - PURE/1.1 - Proof by Induction/1.1 - Proof by Induction.md",
+    "Computer Science/Computer Science.md",
+    "Computer Science/Unit 4 - Theory/4.5 - Databases and distributed systems/4.5 - Databases and distributed systems.md",
+    "Computer Science/Unit 4 - Theory/4.4 - Organisation and structure of data/Hashing Table.md",
+    "Computer Science/Unit 4 - Theory/4.4 - Organisation and structure of data/File Access.md",
+    "Computer Science/Unit 4 - Theory/4.4 - Organisation and structure of data/4.4 - Organisation and structure of data.md",
+    "Computer Science/Unit 3 - Theory/Unit 3 - Theory.md",
+    "Computer Science/Unit 3 - Theory/3.1 - Data Structure/Stacks.md",
+    "Computer Science/Unit 3 - Theory/3.1 - Data Structure/Queues.md",
+    "Computer Science/Unit 3 - Theory/3.1 - Data Structure/Binary Tree.md",
+    "Computer Science/Unit 3 - Theory/3.1 - Data Structure/Array and Linked List.md",
+    "Computer Science/Unit 3 - Theory/3.1 - Data Structure/3.1 - Data Structure.md",
+    "Computer Science/Unit 2 - Practical/Unit 2 - Practical.md",
+    "z_Excerpts/Image/Pasted image 20241014095230.png",
     "Computer Science/Unit 4 - Theory/4.5 - Databases and distributed systems",
-    "Physics/Unit 3/3.3 - Kinetic Theory/3.3 - Kinetic Theory.md",
-    "Physics/Unit 1/Unit 1.md",
-    "Physics/Unit 2/2.8 - Lasers/Stimulated Emission.md",
-    "Physics/Unit 2/2.8 - Lasers/2.8 - Lasers.md",
-    "Physics/Unit 2/2.7 - Photons/Photoelectric Effect.md",
-    "Physics/Unit 2/2.7 - Photons/Momentum of Light.md",
-    "Physics/Unit 2/2.7 - Photons/Atomic Energy Level.md",
-    "Physics/Unit 2/2.7 - Photons/2.7 - Photons.md",
-    "Physics/Unit 2/2.6 - Refraction/TIR - Optical Fibres.md",
-    "Physics/Unit 2/2.6 - Refraction/2.6 - Refraction.md",
-    "Physics/Unit 2/2.5 - Wave Properties/Stationary Waves.md",
-    "Physics/Unit 2/2.5 - Wave Properties/Diffraction Grating.md",
-    "Physics/Unit 2/2.5 - Wave Properties/2.5 - Wave Properties.md",
     "Physics/Unit 3/3.4 - Thermal Physics",
     "Further Maths/Unit 3 - Further Mechanics/3.1 - Momentum and Impulse",
     "Further Maths/Unit 1 - PURE/1.1 - Proof by Induction/Proof of the binomial theorem by induction.pdf",
@@ -221,7 +260,6 @@
     "z_Excerpts/Image/Screenshot 2024-05-16 at 00.19.04.png",
     "z_Excerpts/Image/Screenshot 2024-05-16 at 00.14.35.png",
     "z_Excerpts/Image/Screenshot 2024-05-16 at 00.11.10.png",
-    "z_Excerpts/Image/Study.gif",
     "Untitled.canvas",
     "Physics/1.6 - Using Radiation to Investigate Stars/Using Radiation to Investigate Stars recap.canvas",
     "Computer Science/2.A - Practical/Practical revision.canvas",
