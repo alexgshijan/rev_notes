@@ -11,4 +11,4 @@ To get started, navigate to the file tree on the left :)
 
 Another really useful resource for revision would be [the WJEC student resources website](https://www.wjec.co.uk/home/student-support/revision/revision-resources/). Most subjects have their dedicated online lessons which I've personally found immensely helpful.
 
-*To help out with this site, [consider supporting me on ko-fi](https://ko-fi.com/c/ca30d02b84)
+*To help out with this site, [consider supporting me on ko-fi](https://ko-fi.com/c/ca30d02b84)*
