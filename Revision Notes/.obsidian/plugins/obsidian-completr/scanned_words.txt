@@ -720,6 +720,7 @@ VUM
 VAv
 VfO
 Version
+VJQY
 in
 is
 it
@@ -1172,6 +1173,8 @@ ikmly
 iLr
 impulse
 introducing
+iframe
+init
 app
 adding
 are
@@ -5271,6 +5274,7 @@ signify
 symbol
 surroundings
 stills
+script
 It
 Identities
 Information
@@ -6222,6 +6226,7 @@ czp
 construct
 capacity
 compression
+chat
 doesn
 determined
 data
@@ -6753,6 +6758,7 @@ determinant
 depend
 decided
 dependant
+donateButton
 many
 mailto
 main
@@ -9272,6 +9278,7 @@ Signed
 Spring
 Solids
 Specific
+Support
 Rule
 Real
 Routes
@@ -10579,6 +10586,7 @@ fRu
 frictionless
 followed
 feels
+fcbf
 Graph
 Good
 Graphics
@@ -11957,6 +11965,8 @@ kCh
 kdM
 kNa
 kHR
+kofiwidget
+kofiWidgetOverlay
 Do
 Decimal
 Depends
@@ -15230,6 +15240,7 @@ jeH
 jbw
 jFb
 jmXF
+javascript
 Overflow
 One
 Our
