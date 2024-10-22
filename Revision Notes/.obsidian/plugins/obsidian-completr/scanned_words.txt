@@ -387,6 +387,7 @@ Catalog
 Circuit
 Clearing
 Cycles
+Capacity
 View
 VOIP
 Voice
@@ -1170,6 +1171,7 @@ ikr
 ikmly
 iLr
 impulse
+introducing
 app
 adding
 are
@@ -1670,6 +1672,7 @@ aaW
 aRX
 aKNb
 affecting
+adiabatic
 only
 on
 odd
@@ -2793,6 +2796,8 @@ rVu
 rQb
 restitution
 rotation
+rise
+raise
 bank
 be
 but
@@ -3641,6 +3646,7 @@ trapped
 thermodynamics
 transformation
 transformations
+temperate
 ll
 lot
 languages
@@ -4051,6 +4057,8 @@ lhP
 lcG
 lEQS
 lDXq
+liquids
+liquid
 working
 when
 wip
@@ -5262,6 +5270,7 @@ sYf
 signify
 symbol
 surroundings
+stills
 It
 Identities
 Information
@@ -6211,6 +6220,8 @@ cWy
 cQg
 czp
 construct
+capacity
+compression
 doesn
 determined
 data
@@ -6741,6 +6752,7 @@ dfw
 determinant
 depend
 decided
+dependant
 many
 mailto
 main
@@ -8144,6 +8156,8 @@ elasticity
 effects
 enlargement
 equate
+encoded
+enters
 uk
 using
 unified
@@ -9256,6 +9270,8 @@ Switching
 Subtopic
 Signed
 Spring
+Solids
+Specific
 Rule
 Real
 Routes
@@ -9580,6 +9596,7 @@ RsB
 RbS
 Rounding
 Reflections
+Rapid
 Note
 Negatives
 Normalising
@@ -10181,6 +10198,8 @@ ANa
 Anm
 Adjusting
 Algebra
+Adiabatic
+Assuming
 for
 finding
 function
@@ -10559,6 +10578,7 @@ faPsE
 fRu
 frictionless
 followed
+feels
 Graph
 Good
 Graphics

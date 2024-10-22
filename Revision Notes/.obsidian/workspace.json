@@ -4,55 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "99a98e1946922ffc",
+        "id": "b80f92308b72ab32",
         "type": "tabs",
         "children": [
           {
-            "id": "36ee321fd4cf36ac",
+            "id": "66b9af403ab36215",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Unit 4 - APPLIED/4.9 - Forces and Newton's Laws - Friction/4.9 - Forces and Newton's Laws - Friction.md",
+                "file": "Further Maths/Unit 3 - Further Mechanics/3.3 - Circular Motion/3.3 - Circular Motion.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "3.3 - Circular Motion"
             }
           },
           {
-            "id": "918d6b6582fd42d8",
+            "id": "abdce0b763919a0e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Unit 5 - Practical/Power Laws and Logs.md",
+                "file": "Physics/Unit 3/3.1 - Circular Motion/3.1 - Circular Motion.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "f149da0f0bcd84e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Unit 4 - Theory/4.5 - Databases and distributed systems/4.5 - Databases and distributed systems.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "08bbc321b8abf863",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physics/Unit 5 - Practical/Tables and Graphs.md",
-                "mode": "source",
-                "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "3.1 - Circular Motion"
             }
           }
         ],
@@ -76,7 +56,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "byCreatedTime"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -91,7 +73,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -99,7 +83,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           },
           {
@@ -107,7 +93,9 @@
             "type": "leaf",
             "state": {
               "type": "recent-files",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ]
@@ -130,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Unit 5 - Practical/Power Laws and Logs.md",
+                "file": "Further Maths/Unit 3 - Further Mechanics/3.2 - Hooke's Law, Work, Energy and Power/Elastic Potential Energy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +126,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Elastic Potential Energy"
             }
           },
           {
@@ -147,10 +137,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/Unit 5 - Practical/Power Laws and Logs.md",
+                "file": "Further Maths/Unit 3 - Further Mechanics/3.2 - Hooke's Law, Work, Energy and Power/Elastic Potential Energy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Elastic Potential Energy"
             }
           },
           {
@@ -161,7 +153,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -170,8 +164,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/Unit 5 - Practical/Power Laws and Logs.md"
-              }
+                "file": "Further Maths/Unit 3 - Further Mechanics/3.2 - Hooke's Law, Work, Energy and Power/Elastic Potential Energy.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Elastic Potential Energy"
             }
           },
           {
@@ -183,7 +179,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           },
           {
@@ -191,7 +189,9 @@
             "type": "leaf",
             "state": {
               "type": "chronology-calendar-view",
-              "state": {}
+              "state": {},
+              "icon": "clock",
+              "title": "Chronology"
             }
           }
         ],
@@ -210,37 +210,38 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "918d6b6582fd42d8",
+  "active": "abdce0b763919a0e",
   "lastOpenFiles": [
-    "Physics/Unit 5 - Practical/Tables and Graphs.md",
-    "Physics/Unit 5 - Practical/Planning Experiments.md",
-    "Physics/Unit 5 - Practical/Unit 5 - Practical.md",
-    "index.md",
-    "z_Excerpts/00-Quartic Formula.md",
-    "z_Excerpts/Python/Python.md",
-    "z_Excerpts/Python/save_files/save_files.md",
-    "z_Excerpts/Python/advent_of_code/advent_of_code.md",
-    "z_Excerpts/Image/Image.md",
-    "z_Excerpts/Graph/Graph.md",
-    "Physics/Physics.md",
-    "Physics/Unit 3/3.6 - Nuclear Energy/3.6 - Nuclear Energy.md",
-    "Physics/Unit 3/3.5 - Nuclear Decay/Nature. Penetration. Range.md",
-    "Physics/Unit 3/3.5 - Nuclear Decay/Decay.md",
-    "Physics/Unit 3/3.4 - Thermal Physics/Thermodynamics.md",
-    "Physics/Unit 3/3.4 - Thermal Physics/pV Graphs.md",
-    "Physics/Unit 3/3.3 - Kinetic Theory/Gas Laws.md",
-    "Physics/Unit 3/3.3 - Kinetic Theory/Energy and Motion.md",
-    "Physics/Unit 3/3.3 - Kinetic Theory/3.3 - Kinetic Theory.md",
-    "Physics/Unit 3/3.2 - Vibrations/3.2 - Vibrations.md",
+    "Further Maths/Unit 3 - Further Mechanics/3.3 - Circular Motion/3.3 - Circular Motion.md",
     "Physics/Unit 3/3.1 - Circular Motion/3.1 - Circular Motion.md",
-    "Physics/Unit 2/2.8 - Lasers/Stimulated Emission.md",
-    "Physics/Unit 2/2.8 - Lasers/2.8 - Lasers.md",
-    "Physics/Unit 2/2.7 - Photons/Photoelectric Effect.md",
-    "Physics/Unit 2/2.7 - Photons/Momentum of Light.md",
-    "Physics/Unit 2/2.7 - Photons/Atomic Energy Level.md",
+    "Further Maths/Unit 3 - Further Mechanics/3.1 - Momentum and Impulse/3.1 - Momentum and Impulse.md",
+    "Further Maths/Unit 3 - Further Mechanics/3.2 - Hooke's Law, Work, Energy and Power/3.2 - Hooke's Law, Work, Energy and Power.md",
+    "Physics/Unit 3/3.3 - Kinetic Theory/3.3 - Kinetic Theory.md",
+    "Physics/Physics.md",
+    "Computer Science/Computer Science.md",
+    "Further Maths/Further Maths.md",
+    "Further Maths/Unit 3 - Further Mechanics/3.3 - Circular Motion",
+    "Maths/Maths.md",
+    "Further Maths/Unit 3 - Further Mechanics/3.2 - Hooke's Law, Work, Energy and Power/Elastic Potential Energy.md",
+    "Maths/Unit 4 - APPLIED/4.9 - Forces and Newton's Laws - Friction/4.9 - Forces and Newton's Laws - Friction.md",
+    "Physics/Unit 1/1.5 - Solids under stress/1.5 - Solids under stress.md",
+    "Further Maths/Unit 3 - Further Mechanics/3.2 - Hooke's Law, Work, Energy and Power/Power.md",
+    "Physics/Unit 3/3.4 - Thermal Physics - Thermodynamics/Specific Heat Capacity.md",
+    "Physics/Unit 3/3.4 - Thermal Physics - Thermodynamics/3.4 - Thermodynamics.md",
+    "Further Maths/Unit 1 - PURE/1.3 - Matrices/1.3 - Matrices.md",
+    "Further Maths/Unit 1 - PURE/1.3 - Matrices/Non-linear transformations.md",
+    "Further Maths/Unit 1 - PURE/1.4 - Further Algebra and Functions/1.4 - Further Algebra and Functions.md",
+    "Physics/Unit 3/3.4 - Thermal Physics - Thermodynamics/Thermodynamics.md",
+    "Physics/Unit 3/3.4 - Thermal Physics - Thermodynamics/pV Graphs.md",
+    "Physics/Unit 3/3.3 - Kinetic Theory/Energy and Motion.md",
+    "Physics/Unit 3/Unit 3.md",
+    "Physics/Unit 5 - Practical/Unit 5 - Practical.md",
+    "Physics/Unit 5 - Practical/Power Laws and Logs.md",
+    "Physics/Unit 5 - Practical/Planning Experiments.md",
+    "Physics/Unit 5 - Practical/Tables and Graphs.md",
     "z_Excerpts/Image/Pasted image 20241014095230.png",
     "Computer Science/Unit 4 - Theory/4.5 - Databases and distributed systems",
-    "Physics/Unit 3/3.4 - Thermal Physics",
+    "Physics/Unit 3/3.4 - Thermal Physics - Thermodynamics",
     "Further Maths/Unit 3 - Further Mechanics/3.1 - Momentum and Impulse",
     "Further Maths/Unit 1 - PURE/1.1 - Proof by Induction/Proof of the binomial theorem by induction.pdf",
     "Further Maths/Unit 3 - Further Mechanics",
@@ -250,7 +251,6 @@
     "smart-chats",
     "z_Excerpts/Image/Pasted image 20240923114855.png",
     "z_Excerpts/Image/Pasted image 20240923104630.png",
-    "Excalidraw",
     "z_Excerpts/Image/Pasted image 20240917124122.png",
     "z_Excerpts/Image/Pasted image 20240912103923.png",
     "z_Excerpts/Image/Pasted image 20240911093452.png",
