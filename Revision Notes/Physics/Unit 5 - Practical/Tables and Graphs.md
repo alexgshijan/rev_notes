@@ -2,7 +2,7 @@
 - Use pencil and ruler 
 - Include resolution and units. 
 - Use as much values after decimal point as resolution.
-- Should include three sections, raw data, processed data (3 sig fig) and uncertainties (1 sig fig)
+- Should include three sections, raw data (to the resolution of equipment), processed data (3 si g fig) and uncertainties (1 sig fig)
 
 **Graph :**
 - Use pencil and ruler
