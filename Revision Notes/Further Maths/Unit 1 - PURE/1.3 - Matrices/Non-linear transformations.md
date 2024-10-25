@@ -1,3 +1,0 @@
-*In linear transformations, the matrix are encoded to make the transformation from the origin, we achieve transformations around other points by introducing a z dimension pointer in our matrices.* In order to complete a multiplication with this new transformation matrix, you'll also need to add a z coord to your points. The following demonstrates this based on the origin point.$$\pmatrix{a&b\\c&d}\cdot\pmatrix{x\\y}\to\pmatrix{a&b&0\\c&d&0\\0&0&1}\cdot\pmatrix{x\\y\\1}$$
-*And where $(p,q)$ represents the translation in $(x,y)$* $$\pmatrix{a&b\\c&d}\cdot\pmatrix{x\\y}\to\pmatrix{a&b&p\\c&d&q\\0&0&1}\cdot\pmatrix{x\\y\\1}$$
-

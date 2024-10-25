@@ -2034,6 +2034,7 @@ oBx
 oUXv
 overlaps
 optimally
+obsolete
 This
 Tan
 These
@@ -3183,6 +3184,7 @@ bLu
 bgv
 bRo
 boolean
+bandwidth
 that
 throughout
 the
@@ -4062,6 +4064,8 @@ lEQS
 lDXq
 liquids
 liquid
+largely
+local
 working
 when
 wip
@@ -4394,6 +4398,7 @@ wkMq
 wln
 wug
 watts
+workload
 year
 you
 years
@@ -5275,6 +5280,10 @@ symbol
 surroundings
 stills
 script
+scalable
+scaled
+shared
+specialised
 It
 Identities
 Information
@@ -6227,6 +6236,10 @@ construct
 capacity
 compression
 chat
+connection
+consistency
+centralised
+cartesian
 doesn
 determined
 data
@@ -6759,6 +6772,10 @@ depend
 decided
 dependant
 donateButton
+develop
+disadvantages
+demand
+determinants
 many
 mailto
 main
@@ -7219,6 +7236,9 @@ mVQJ
 macOS
 multiplication
 methodical
+machines
+market
+magic
 plans
 python
 press
@@ -7726,6 +7746,9 @@ pdYq
 pgc
 piston
 pendulum
+portion
+proved
+proven
 expand
 even
 each
@@ -8485,6 +8508,7 @@ uhpeU
 uSM
 ucCMsS
 uYa
+updates
 Page
 Please
 Preferred
@@ -8872,6 +8896,7 @@ PtLM
 Producer
 PDFContext
 Perfectly
+Positives
 Sine
 Stands
 Standard
@@ -9279,6 +9304,10 @@ Spring
 Solids
 Specific
 Support
+Spread
+Security
+Staff
+Scaling
 Rule
 Real
 Routes
@@ -9604,6 +9633,7 @@ RbS
 Rounding
 Reflections
 Rapid
+Resilient
 Note
 Negatives
 Normalising
@@ -11650,6 +11680,7 @@ ExwX
 EKc
 EPM
 Eua
+Easily
 key
 know
 keyboard
@@ -12431,6 +12462,8 @@ DkG
 DmhJ
 DhF
 DjMh
+Databases
+DDBMS
 Unicode
 Used
 UCS
