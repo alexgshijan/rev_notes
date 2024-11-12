@@ -388,6 +388,7 @@ Circuit
 Clearing
 Cycles
 Capacity
+Conical
 View
 VOIP
 Voice
@@ -5284,6 +5285,8 @@ scalable
 scaled
 shared
 specialised
+summation
+summations
 It
 Identities
 Information
@@ -5639,6 +5642,7 @@ IÄ
 IHW
 IHUv
 Identites
+Induction
 currently
 contain
 co
@@ -8897,6 +8901,7 @@ Producer
 PDFContext
 Perfectly
 Positives
+Pendulum
 Sine
 Stands
 Standard
@@ -9308,6 +9313,8 @@ Spread
 Security
 Staff
 Scaling
+Sigma
+Summation
 Rule
 Real
 Routes
@@ -14407,6 +14414,7 @@ FDv
 FJx
 Fns
 Fqu
+Follow
 Long
 Layer
 LTE
