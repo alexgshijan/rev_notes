@@ -2804,6 +2804,7 @@ restitution
 rotation
 rise
 raise
+render
 bank
 be
 but
@@ -7757,6 +7758,7 @@ portion
 proved
 proven
 probabilities
+proofs
 expand
 even
 each
@@ -9319,6 +9321,7 @@ Staff
 Scaling
 Sigma
 Summation
+Summing
 Rule
 Real
 Routes
