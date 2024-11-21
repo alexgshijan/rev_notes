@@ -1,1 +1,0 @@
-*In this topic we are generally given a relationship between two planes a function for one of them. Our role is to write the relationship in terms of the complex numbers, then collect the real and imaginary components. We then substitute into the function, this gives us the function of the second plane.*
