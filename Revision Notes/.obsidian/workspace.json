@@ -8,35 +8,34 @@
         "type": "tabs",
         "children": [
           {
-            "id": "66b9af403ab36215",
+            "id": "d75d06b9caa62602",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Further Maths/Unit 3 - Further Mechanics/3.3 - Circular Motion/3.3 - Circular Motion.md",
+                "file": "Maths/Unit 1 - PURE/1.8 - Integration/1.8 - Integration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.3 - Circular Motion"
+              "title": "1.8 - Integration"
             }
           },
           {
-            "id": "703a9840dd2ec27a",
+            "id": "74fcf68ace33c318",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Unit 4/4.2 - Electrostatic Fields/4.2 - Electrostatic Fields.md",
+                "file": "Maths/Unit 3 - PURE/3.7 - Integration/3.7 - Integration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.2 - Electrostatic Fields"
+              "title": "3.7 - Integration"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Further Maths/Unit 3 - Further Mechanics/3.2 - Hooke's Law, Work, Energy and Power/Elastic Potential Energy.md",
+                "file": "Maths/Unit 1 - PURE/1.8 - Integration/1.8 - Integration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Elastic Potential Energy"
+              "title": "Backlinks for 1.8 - Integration"
             }
           },
           {
@@ -137,12 +136,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Further Maths/Unit 3 - Further Mechanics/3.2 - Hooke's Law, Work, Energy and Power/Elastic Potential Energy.md",
+                "file": "Maths/Unit 1 - PURE/1.8 - Integration/1.8 - Integration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Elastic Potential Energy"
+              "title": "Outgoing links from 1.8 - Integration"
             }
           },
           {
@@ -164,10 +163,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/Unit 4/4.2 - Electrostatic Fields/4.2 - Electrostatic Fields.md"
+                "file": "Maths/Unit 1 - PURE/1.8 - Integration/1.8 - Integration.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 4.2 - Electrostatic Fields"
+              "title": "Outline of 1.8 - Integration"
             }
           },
           {
@@ -194,8 +193,7 @@
               "title": "Chronology"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -210,75 +208,37 @@
       "canvas:Create new canvas": false
     }
   },
-  "floating": {
-    "id": "0c17cc45e954021a",
-    "type": "floating",
-    "children": [
-      {
-        "id": "5c7599af4220c93e",
-        "type": "window",
-        "children": [
-          {
-            "id": "08e7cd98b9e73def",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "f2ce1fa7e7577319",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Physics/Unit 4/Unit 4.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Unit 4"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 24,
-        "width": 1680,
-        "height": 1026,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "703a9840dd2ec27a",
+  "active": "de7d5c11a53ffbd9",
   "lastOpenFiles": [
-    "Physics/Unit 4/Unit 4.md",
-    "Physics/Unit 4/4.2 - Electrostatic Fields/4.2 - Electrostatic Fields.md",
-    "Physics/Unit 3/3.4 - Thermal Physics - Thermodynamics/Specific Heat Capacity.md",
-    "Physics/Unit 3/3.4 - Thermal Physics - Thermodynamics/3.4 - Thermal Physics - Thermodynamics.md",
-    "Physics/Unit 3/3.1 - Circular Motion/3.1 - Circular Motion.md",
+    "Maths/Unit 3 - PURE/3.7 - Integration/3.7 - Integration.md",
+    "Maths/Unit 3 - PURE/3.7 - Integration/Integration by parts.md",
+    "Maths/Unit 1 - PURE/1.8 - Integration/1.8 - Integration.md",
     "Further Maths/Unit 2 - Further Statistics/2.1 - DRVs & Poisson Process/2.1 - DRVs & Poisson Process.md",
-    "Physics/Unit 4/4.2 - Electrostatic Fields",
-    "Physics/Physics.md",
-    "Physics/Unit 4",
-    "Further Maths/Further Maths.md",
-    "Maths/Unit 2 - APPLIED/2.8 - Forces and Newton's Laws/2.8 - Forces and Newton's Laws.md",
-    "Physics/Unit 1/1.5 - Solids under stress/1.5 - Solids under stress.md",
-    "Further Maths/Unit 3 - Further Mechanics/3.3 - Circular Motion/3.3 - Circular Motion.md",
-    "Further Maths/Unit 3 - Further Mechanics/Unit 3 - Further Mechanics.md",
-    "Further Maths/Unit 2 - Further Statistics/Unit 2 - Further Statistics.md",
-    "Further Maths/Unit 3 - Further Mechanics/3.2 - Hooke's Law, Work, Energy and Power/3.2 - Hooke's Law, Work, Energy and Power.md",
-    "Further Maths/Unit 3 - Further Mechanics/3.1 - Momentum and Impulse/3.1 - Momentum and Impulse.md",
-    "Further Maths/Unit 1 - PURE/Unit 1 - PURE.md",
-    "Further Maths/Unit 1 - PURE/1.4 - Further Algebra and Functions/1.4 - Further Algebra and Functions.md",
-    "Computer Science/Computer Science.md",
-    "Further Maths/Unit 1 - PURE/1.4 - Further Algebra and Functions/Summation - Standard Results.md",
+    "Physics/Unit 1/1.6 - Using Radiation to Investigate Stars/Black Body.md",
+    "Further Maths/Unit 1 - PURE/1.2 - Complex Numbers/Argand Diagram.md",
+    "Maths/Unit 3 - PURE/3.1 - Proof by Contradiction/3.1 - Proof by Contradiction.md",
+    "Physics/Unit 2/2.3 - DC Circuits/2.3 - DC Circuits.md",
+    "Maths/Unit 1 - PURE/1.9 - Vectors/1.9 - Vectors.md",
+    "Maths/Unit 1 - PURE/1.7 - Differentiation/1.7 - Differentiation.md",
+    "Further Maths/Unit 1 - PURE/1.5 - Further Vectors/Intersection of two lines.md",
     "index.md",
-    "z_Excerpts/00-Quartic Formula.md",
-    "z_Excerpts/Python/Python.md",
-    "z_Excerpts/Python/save_files/save_files.md",
-    "z_Excerpts/Python/advent_of_code/advent_of_code.md",
-    "z_Excerpts/Image/Image.md",
-    "z_Excerpts/Graph/Graph.md",
+    "Maths/Unit 1 - PURE/1.2 - Algebra and Functions/Polynomials/Disguised Quadratics.md",
+    "Maths/Unit 3 - PURE/3.6 - Differentiation/Differential Equations - First Order.md",
+    "Computer Science/Unit 1 - Theory/1.1 - Hardware and communication/Networking/Contemporary Protocols.md",
+    "Physics/Unit 1/1.4 - Energy Concepts/Conservation of Mechanical Energy.md",
+    "Maths/Unit 3 - PURE/3.6 - Differentiation/Chain Rule.md",
+    "Physics/Unit 2/2.3 - DC Circuits/Batteries.md",
+    "Computer Science/Unit 2 - Practical/Algorithms.md",
+    "Maths/Unit 3 - PURE/3.5 - Trigonometry/Additional Formulae.md",
+    "Further Maths/Unit 3 - Further Mechanics/3.2 - Hooke's Law, Work, Energy and Power/3.2 - Hooke's Law, Work, Energy and Power.md",
+    "Physics/Unit 3/3.1 - Circular Motion/3.1 - Circular Motion.md",
+    "Further Maths/Unit 3 - Further Mechanics/3.1 - Momentum and Impulse/3.1 - Momentum and Impulse.md",
+    "Maths/Unit 2 - APPLIED/2.1 - Statistical Sampling/2.1 - Statistical Sampling.md",
+    "Physics/Unit 2/2.4 - The Nature of Waves/2.4 - The Nature of Waves.md",
+    "Computer Science/Unit 1 - Theory/1.12 & 1.13 - Software engineering & Program construction/1.12 & 1.13 - Software engineering & Program construction.md",
+    "Further Maths/Unit 3 - Further Mechanics/3.4 - Calculus With Vectors",
+    "Physics/Unit 4/4.2 - Electrostatic Fields",
+    "Physics/Unit 4",
     "z_Excerpts/Image/Pasted image 20241111130356.png",
     "Further Maths/Unit 2 - Further Statistics/2.1 - DRVs & Poisson Process",
     "Further Maths/Unit 2 - Further Statistics",
@@ -288,7 +248,6 @@
     "Further Maths/Unit 3 - Further Mechanics/3.3 - Circular Motion",
     "z_Excerpts/Image/Pasted image 20241014095230.png",
     "Computer Science/Unit 4 - Theory/4.5 - Databases and distributed systems",
-    "Physics/Unit 3/3.4 - Thermal Physics - Thermodynamics",
     "z_Excerpts/Image/Pasted image 20240923114855.png",
     "z_Excerpts/Image/Pasted image 20240923104630.png",
     "z_Excerpts/Image/Pasted image 20240917124122.png",

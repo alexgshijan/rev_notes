@@ -13,4 +13,4 @@ Another really useful resource for revision would be [the WJEC student resources
 
 *To help out with this site, [consider supporting me on ko-fi](https://ko-fi.com/c/ca30d02b84)*
 
-This project $\LaTeX$ to render maths equations and proofs.
+This project uses $\LaTeX$ to render maths equations and proofs.
