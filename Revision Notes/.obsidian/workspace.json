@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b80f92308b72ab32",
+        "id": "b727143c8f69caf3",
         "type": "tabs",
         "children": [
           {
-            "id": "d75d06b9caa62602",
+            "id": "e2d88a5f589dfa22",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Unit 1 - PURE/1.8 - Integration/1.8 - Integration.md",
+                "file": "Further Maths/Further Maths.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.8 - Integration"
-            }
-          },
-          {
-            "id": "74fcf68ace33c318",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maths/Unit 3 - PURE/3.7 - Integration/3.7 - Integration.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3.7 - Integration"
+              "title": "Further Maths"
             }
           }
         ]
@@ -66,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "wip",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -117,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/Unit 1 - PURE/1.8 - Integration/1.8 - Integration.md",
+                "file": "Further Maths/Further Maths.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +113,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1.8 - Integration"
+              "title": "Backlinks for Further Maths"
             }
           },
           {
@@ -136,12 +122,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Unit 1 - PURE/1.8 - Integration/1.8 - Integration.md",
+                "file": "Computer Science/Unit 1 - CS Fundamentals/1.2 - Logical Operators/1.2 - Logical Operators.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 1.8 - Integration"
+              "title": "Outgoing links from 1.2 - Logical Operators"
             }
           },
           {
@@ -163,10 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Unit 1 - PURE/1.8 - Integration/1.8 - Integration.md"
+                "file": "Further Maths/Further Maths.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1.8 - Integration"
+              "title": "Outline of Further Maths"
             }
           },
           {
@@ -193,7 +179,8 @@
               "title": "Chronology"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -208,55 +195,55 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "de7d5c11a53ffbd9",
+  "active": "e2d88a5f589dfa22",
   "lastOpenFiles": [
-    "Maths/Unit 3 - PURE/3.7 - Integration/3.7 - Integration.md",
-    "Maths/Unit 3 - PURE/3.7 - Integration/Integration by parts.md",
-    "Maths/Unit 1 - PURE/1.8 - Integration/1.8 - Integration.md",
-    "Further Maths/Unit 2 - Further Statistics/2.1 - DRVs & Poisson Process/2.1 - DRVs & Poisson Process.md",
-    "Physics/Unit 1/1.6 - Using Radiation to Investigate Stars/Black Body.md",
-    "Further Maths/Unit 1 - PURE/1.2 - Complex Numbers/Argand Diagram.md",
-    "Maths/Unit 3 - PURE/3.1 - Proof by Contradiction/3.1 - Proof by Contradiction.md",
-    "Physics/Unit 2/2.3 - DC Circuits/2.3 - DC Circuits.md",
-    "Maths/Unit 1 - PURE/1.9 - Vectors/1.9 - Vectors.md",
-    "Maths/Unit 1 - PURE/1.7 - Differentiation/1.7 - Differentiation.md",
-    "Further Maths/Unit 1 - PURE/1.5 - Further Vectors/Intersection of two lines.md",
     "index.md",
-    "Maths/Unit 1 - PURE/1.2 - Algebra and Functions/Polynomials/Disguised Quadratics.md",
-    "Maths/Unit 3 - PURE/3.6 - Differentiation/Differential Equations - First Order.md",
-    "Computer Science/Unit 1 - Theory/1.1 - Hardware and communication/Networking/Contemporary Protocols.md",
-    "Physics/Unit 1/1.4 - Energy Concepts/Conservation of Mechanical Energy.md",
-    "Maths/Unit 3 - PURE/3.6 - Differentiation/Chain Rule.md",
-    "Physics/Unit 2/2.3 - DC Circuits/Batteries.md",
-    "Computer Science/Unit 2 - Practical/Algorithms.md",
-    "Maths/Unit 3 - PURE/3.5 - Trigonometry/Additional Formulae.md",
-    "Further Maths/Unit 3 - Further Mechanics/3.2 - Hooke's Law, Work, Energy and Power/3.2 - Hooke's Law, Work, Energy and Power.md",
+    "z_Excerpts/00-Quartic Formula.md",
+    "z_Excerpts/Python/Python.md",
+    "z_Excerpts/Python/save_files/save_files.md",
+    "z_Excerpts/Python/advent_of_code/advent_of_code.md",
+    "z_Excerpts/Image/Image.md",
+    "z_Excerpts/Graph/Graph.md",
+    "Physics/Physics.md",
+    "Physics/Unit 5 - Practical/Unit 5 - Practical.md",
+    "Physics/Unit 5 - Practical/Tables and Graphs.md",
+    "Physics/Unit 5 - Practical/Planning Experiments.md",
+    "Physics/Unit 4/4.2 - Electrostatic Fields/4.2 - Electrostatic Fields.md",
+    "Physics/Unit 3/3.6 - Nuclear Energy/3.6 - Nuclear Energy.md",
+    "Physics/Unit 3/3.5 - Nuclear Decay/Nature. Penetration. Range.md",
+    "Physics/Unit 3/3.5 - Nuclear Decay/Decay.md",
+    "Physics/Unit 3/3.4 - Thermal Physics - Thermodynamics/Specific Heat Capacity.md",
+    "Physics/Unit 3/3.4 - Thermal Physics - Thermodynamics/pV Graphs.md",
+    "Physics/Unit 3/3.4 - Thermal Physics - Thermodynamics/3.4 - Thermal Physics - Thermodynamics.md",
+    "Physics/Unit 3/3.3 - Kinetic Theory/Gas Laws.md",
+    "Physics/Unit 3/3.3 - Kinetic Theory/Energy and Motion.md",
+    "Physics/Unit 3/3.3 - Kinetic Theory/3.3 - Kinetic Theory.md",
+    "Physics/Unit 3/3.2 - Vibrations/Potential Energy.md",
+    "Physics/Unit 3/3.2 - Vibrations/Damping.md",
+    "Physics/Unit 3/3.2 - Vibrations/3.2 - Vibrations.md",
     "Physics/Unit 3/3.1 - Circular Motion/3.1 - Circular Motion.md",
-    "Further Maths/Unit 3 - Further Mechanics/3.1 - Momentum and Impulse/3.1 - Momentum and Impulse.md",
-    "Maths/Unit 2 - APPLIED/2.1 - Statistical Sampling/2.1 - Statistical Sampling.md",
-    "Physics/Unit 2/2.4 - The Nature of Waves/2.4 - The Nature of Waves.md",
-    "Computer Science/Unit 1 - Theory/1.12 & 1.13 - Software engineering & Program construction/1.12 & 1.13 - Software engineering & Program construction.md",
+    "Physics/Unit 2/2.8 - Lasers/Stimulated Emission.md",
+    "z_Excerpts/Image/TCPIP-Stack.png",
+    "z_Excerpts/Image/TCPIP-Stack-datatransfer.png",
+    "z_Excerpts/Image/Pasted image 20230929113635.png",
+    "z_Excerpts/Image/Pasted image 20231005123527.png",
+    "z_Excerpts/Image/Screenshot 2023-10-03 at 14.18.17.png",
+    "z_Excerpts/Image/Pasted image 20231005123628.png",
+    "z_Excerpts/Image/Pasted image 20231005123716.png",
+    "z_Excerpts/Image/Pasted image 20231005123805.png",
+    "z_Excerpts/Image/Pasted image 20231009232914.png",
+    "z_Excerpts/Image/Pasted image 20231005124031.png",
     "Further Maths/Unit 3 - Further Mechanics/3.4 - Calculus With Vectors",
     "Physics/Unit 4/4.2 - Electrostatic Fields",
     "Physics/Unit 4",
-    "z_Excerpts/Image/Pasted image 20241111130356.png",
     "Further Maths/Unit 2 - Further Statistics/2.1 - DRVs & Poisson Process",
     "Further Maths/Unit 2 - Further Statistics",
     "Further Maths/Unit 1 - PURE/1.1 - Proof by Induction/Proof of the binomial theorem by induction.pdf",
     "z_Excerpts/floating_button.html",
     "floating_button.html",
     "Further Maths/Unit 3 - Further Mechanics/3.3 - Circular Motion",
-    "z_Excerpts/Image/Pasted image 20241014095230.png",
     "Computer Science/Unit 4 - Theory/4.5 - Databases and distributed systems",
-    "z_Excerpts/Image/Pasted image 20240923114855.png",
-    "z_Excerpts/Image/Pasted image 20240923104630.png",
-    "z_Excerpts/Image/Pasted image 20240917124122.png",
-    "z_Excerpts/Image/Pasted image 20240912103923.png",
-    "z_Excerpts/Image/Pasted image 20240911093452.png",
-    "z_Excerpts/Image/Pasted image 20240619105004.png",
     "Physics/Unit 1/1.6 - Using Radiation to Investigate Stars/Using Radiation to Investigate Stars recap.canvas",
-    "z_Excerpts/Image/Screenshot 2024-05-16 at 00.19.04.png",
-    "z_Excerpts/Image/Screenshot 2024-05-16 at 00.14.35.png",
     "Untitled.canvas",
     "Physics/1.6 - Using Radiation to Investigate Stars/Using Radiation to Investigate Stars recap.canvas",
     "Computer Science/2.A - Practical/Practical revision.canvas",

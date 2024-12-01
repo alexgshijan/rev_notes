@@ -1,2 +1,0 @@
-*Arrays* 
-One of the most common and popular data structures. They are mostly static and contain data of all one type. Each variable inside an array is called an element and each element’s position in the array is known as its index
