@@ -35,8 +35,7 @@
               "title": "Exponential Distribution"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -67,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "poiss",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -194,6 +193,16 @@
               "icon": "clock",
               "title": "Chronology"
             }
+          },
+          {
+            "id": "b7f673ff768d3c39",
+            "type": "leaf",
+            "state": {
+              "type": "chronology-calendar-view",
+              "state": {},
+              "icon": "clock",
+              "title": "Chronology"
+            }
           }
         ],
         "currentTab": 5
@@ -206,39 +215,39 @@
     "hiddenItems": {
       "graph:Open graph view": false,
       "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
       "webpage-html-export:Export Vault to HTML": false,
-      "chronology:Open Chronology": false,
-      "canvas:Create new canvas": false
+      "chronology:Open Chronology": false
     }
   },
-  "active": "5f47c32cc8d4c3ff",
+  "active": "c676c70c4d680cd7",
   "lastOpenFiles": [
-    "Maths/Unit 2 - APPLIED/2.4 - Statistical Distribution/Poisson Distribution.md",
-    "Further Maths/Unit 2 - Further Statistics/2.1 - DRVs & Poisson Process/Exponential Distribution.md",
-    "Further Maths/Unit 2 - Further Statistics/2.1 - DRVs & Poisson Process/Probability Density Functions.md",
-    "Further Maths/Unit 2 - Further Statistics/2.1 - DRVs & Poisson Process/Cumulative Distribution Function.md",
-    "Further Maths/Unit 2 - Further Statistics/2.1 - DRVs & Poisson Process/2.1 - DRVs & Poisson Process.md",
-    "Further Maths/Further Maths.md",
-    "Computer Science/Computer Science.md",
     "Computer Science/Unit 3 - Programming and SysDev/3.3 - Algorithms and Programs/3.3 - Algorithms and Programs.md",
-    "Physics/Unit 4/4.3 - The Empty Universe/4.3 - The Empty Universe.md",
-    "Further Maths/Unit 1 - Pure/1.2 - Complex Numbers/Argand Diagram.md",
-    "Computer Science/Unit 3 - Programming and SysDev/Unit 3 - Programming and SysDev.md",
-    "Physics/Physics.md",
-    "Physics/Unit 4/4.3 - The Empty Universe/Kepler's Laws.md",
-    "Physics/Unit 4/Unit 4.md",
-    "Maths/Maths.md",
-    "index.md",
-    "z_Excerpts/00-Quartic Formula.md",
-    "z_Excerpts/Python/Python.md",
-    "z_Excerpts/Python/save_files/save_files.md",
-    "z_Excerpts/Image/Image.md",
-    "z_Excerpts/Graph/Graph.md",
-    "Physics/Unit 5 - Practical/Unit 5 - Practical.md",
-    "Physics/Unit 5 - Practical/Tables and Graphs.md",
-    "Physics/Unit 5 - Practical/Planning Experiments.md",
-    "Physics/Unit 4/4.2 - Electrostatic Fields/4.2 - Electrostatic Fields.md",
-    "Physics/Unit 3/3.6 - Nuclear Energy/3.6 - Nuclear Energy.md",
+    "Computer Science/Unit 3 - Programming and SysDev/3.1 - Data Structure/Binary Tree.md",
+    "Computer Science/Unit 3 - Programming and SysDev/3.1 - Data Structure/3.1 - Data Structure.md",
+    "Computer Science/Unit 2 - Practical Solutions/Unit 2 - Practical Solutions.md",
+    "Computer Science/Unit 2 - Practical Solutions/Flowcharts.md",
+    "Computer Science/Unit 2 - Practical Solutions/Entity Relationship Diagrams.md",
+    "Computer Science/Unit 2 - Practical Solutions/Data Structures.md",
+    "Computer Science/Unit 2 - Practical Solutions/Algorithms.md",
+    "Computer Science/Unit 1 - CS Fundamentals/Unit 1 - CS Fundamentals.md",
+    "Computer Science/Unit 1 - CS Fundamentals/1.16 - Data security and integrity processes/Protecting files and data.md",
+    "Computer Science/Unit 1 - CS Fundamentals/1.16 - Data security and integrity processes/Malicious Software.md",
+    "Computer Science/Unit 1 - CS Fundamentals/1.16 - Data security and integrity processes/1.16 - Data security and integrity processes.md",
+    "Computer Science/Unit 1 - CS Fundamentals/1.14 - Software Systems/1.14 - Software Systems.md",
+    "Computer Science/Unit 1 - CS Fundamentals/1.12 & 1.13 - Software engineering & Program construction/1.12 & 1.13 - Software engineering & Program construction.md",
+    "Computer Science/Unit 1 - CS Fundamentals/1.11 - System Analysis/System Lifecycle.md",
+    "Computer Science/Unit 1 - CS Fundamentals/1.11 - System Analysis/1.11 - System Analysis.md",
+    "Computer Science/Unit 1 - CS Fundamentals/1.10 - Principles of programming/Types of Languages.md",
+    "Computer Science/Unit 1 - CS Fundamentals/1.10 - Principles of programming/Object Oriented Programming.md",
+    "Computer Science/Unit 1 - CS Fundamentals/1.10 - Principles of programming/Levels of Languages.md",
+    "Computer Science/Unit 1 - CS Fundamentals/1.10 - Principles of programming/1.10 - Principles of programming.md",
+    "Computer Science/Unit 1 - CS Fundamentals/1.8 - Operating Systems/Utility Software.md",
+    "Computer Science/Unit 1 - CS Fundamentals/1.8 - Operating Systems/Resource Management.md",
+    "Computer Science/Unit 1 - CS Fundamentals/1.8 - Operating Systems/Backing Store.md",
+    "Computer Science/Unit 1 - CS Fundamentals/1.8 - Operating Systems/1.8 - Operating Systems.md",
+    "Computer Science/Unit 1 - CS Fundamentals/1.7 - Database Systems/1.7 - Database Systems.md",
+    "Computer Science/Unit 1 - CS Fundamentals/1.6 - Organisation of data/1.6 - Organisation of data.md",
     "Further Maths/Unit 4 - Further Pure/4.1 - Complex Numbers",
     "Physics/Unit 4/4.3 - The Empty Universe",
     "Untitled.canvas",
