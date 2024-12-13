@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Unit 2 - APPLIED/2.4 - Statistical Distribution/Poisson Distribution.md",
+                "file": "Further Maths/Further Maths.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Poisson Distribution"
+              "title": "Further Maths"
             }
           },
           {
@@ -66,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "desmos",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -199,6 +199,16 @@
             "state": {
               "type": "chronology-calendar-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "def944427c438367",
+            "type": "leaf",
+            "state": {
+              "type": "chronology-calendar-view",
+              "state": {},
               "icon": "clock",
               "title": "Chronology"
             }
@@ -219,8 +229,25 @@
       "chronology:Open Chronology": false
     }
   },
-  "active": "de7d5c11a53ffbd9",
+  "active": "c676c70c4d680cd7",
   "lastOpenFiles": [
+    "index.md",
+    "z_Excerpts/z_Excerpts.md",
+    "Physics/Physics.md",
+    "Physics/Unit 1/1.1 - Physics Basics/1.1 - Physics Basics.md",
+    "Physics/Unit 1/1.1 - Physics Basics/Derived Quantities.md",
+    "Physics/Unit 1/1.2 - Kinematics/1.2 - Kinematics.md",
+    "Physics/Unit 1/1.2 - Kinematics/SUVAT - The Equations of Constant Acceleration.md",
+    "Physics/Unit 1/1.2 - Kinematics/Graphs.md",
+    "Physics/Unit 1/1.3 - Dynamics/1.3 - Dynamics.md",
+    "Physics/Unit 1/1.3 - Dynamics/Moment or Torque.md",
+    "Physics/Unit 1/1.3 - Dynamics/Center of Gravity.md",
+    "Maths/Unit 3 - PURE/3.6 - Differentiation/Calculus Differentiation Proofs.md",
+    "Maths/Unit 1 - PURE/1.5 - Trigonometry/1.5 - Trigonometry.md",
+    "z_Excerpts/Graph/Graph.md",
+    "z_Excerpts/Image/Image.md",
+    "z_Excerpts/00-Quartic Formula.md",
+    "Maths/Unit 2 - APPLIED/2.4 - Statistical Distribution/Poisson Distribution.md",
     "Computer Science/Unit 3 - Programming and SysDev/3.3 - Algorithms and Programs/3.3 - Algorithms and Programs.md",
     "Computer Science/Unit 3 - Programming and SysDev/3.1 - Data Structure/Binary Tree.md",
     "Computer Science/Unit 3 - Programming and SysDev/3.1 - Data Structure/3.1 - Data Structure.md",
@@ -230,23 +257,6 @@
     "Computer Science/Unit 2 - Practical Solutions/Data Structures.md",
     "Computer Science/Unit 2 - Practical Solutions/Algorithms.md",
     "Computer Science/Unit 1 - CS Fundamentals/Unit 1 - CS Fundamentals.md",
-    "Computer Science/Unit 1 - CS Fundamentals/1.16 - Data security and integrity processes/Protecting files and data.md",
-    "Computer Science/Unit 1 - CS Fundamentals/1.16 - Data security and integrity processes/Malicious Software.md",
-    "Computer Science/Unit 1 - CS Fundamentals/1.16 - Data security and integrity processes/1.16 - Data security and integrity processes.md",
-    "Computer Science/Unit 1 - CS Fundamentals/1.14 - Software Systems/1.14 - Software Systems.md",
-    "Computer Science/Unit 1 - CS Fundamentals/1.12 & 1.13 - Software engineering & Program construction/1.12 & 1.13 - Software engineering & Program construction.md",
-    "Computer Science/Unit 1 - CS Fundamentals/1.11 - System Analysis/System Lifecycle.md",
-    "Computer Science/Unit 1 - CS Fundamentals/1.11 - System Analysis/1.11 - System Analysis.md",
-    "Computer Science/Unit 1 - CS Fundamentals/1.10 - Principles of programming/Types of Languages.md",
-    "Computer Science/Unit 1 - CS Fundamentals/1.10 - Principles of programming/Object Oriented Programming.md",
-    "Computer Science/Unit 1 - CS Fundamentals/1.10 - Principles of programming/Levels of Languages.md",
-    "Computer Science/Unit 1 - CS Fundamentals/1.10 - Principles of programming/1.10 - Principles of programming.md",
-    "Computer Science/Unit 1 - CS Fundamentals/1.8 - Operating Systems/Utility Software.md",
-    "Computer Science/Unit 1 - CS Fundamentals/1.8 - Operating Systems/Resource Management.md",
-    "Computer Science/Unit 1 - CS Fundamentals/1.8 - Operating Systems/Backing Store.md",
-    "Computer Science/Unit 1 - CS Fundamentals/1.8 - Operating Systems/1.8 - Operating Systems.md",
-    "Computer Science/Unit 1 - CS Fundamentals/1.7 - Database Systems/1.7 - Database Systems.md",
-    "Computer Science/Unit 1 - CS Fundamentals/1.6 - Organisation of data/1.6 - Organisation of data.md",
     "Further Maths/Unit 4 - Further Pure/4.1 - Complex Numbers",
     "Physics/Unit 4/4.3 - The Empty Universe",
     "Untitled.canvas",

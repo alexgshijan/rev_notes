@@ -1,1 +1,0 @@
-import random; input('Rock Paper or Scissors : '); print(random.choice('You Won', 'You Lost', 'You Drew'))

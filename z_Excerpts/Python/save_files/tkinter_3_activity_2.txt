@@ -1,1 +1,0 @@
-[{'name': 'sdsadasd', 'walking': '0', 'age': '34', 'sports': '1', 'reading': '1', 'chess': '0', 'stamp_collecting': '0', 'gender': '1', 'country': ''}]
