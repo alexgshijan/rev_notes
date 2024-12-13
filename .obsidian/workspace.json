@@ -97,8 +97,7 @@
               "title": "Plugin no longer active"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -220,7 +219,7 @@
       "chronology:Open Chronology": false
     }
   },
-  "active": "c676c70c4d680cd7",
+  "active": "de7d5c11a53ffbd9",
   "lastOpenFiles": [
     "Computer Science/Unit 3 - Programming and SysDev/3.3 - Algorithms and Programs/3.3 - Algorithms and Programs.md",
     "Computer Science/Unit 3 - Programming and SysDev/3.1 - Data Structure/Binary Tree.md",
