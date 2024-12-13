@@ -1,1 +1,0 @@
-import os;[os.mkdir(os.getcwd() + f"/{i}") for i in range(1,1001)]

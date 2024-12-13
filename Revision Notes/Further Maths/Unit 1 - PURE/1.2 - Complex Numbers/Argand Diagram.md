@@ -4,7 +4,7 @@ Argument $\theta$ - angle (in radians) of the vector on the Argand Diagram, repr
 
 
 *Trigonometric Form of Complex Numbers*
-The modulus-­argument form of the complex number $z = x + iy$ is given by: $$z = r(\cos \theta + i\sin \theta)$$*where r is the modulus of z and θ is the argument.*
+The modulus-­argument form of the complex number $z = x + iy$ is given by: $$z = r(\cos \theta + i\sin \theta)=[r,\theta]$$*where r is the modulus (length) of z and θ is the argument.*
 
 *Loci in Argand Diagrams*
 Steps :

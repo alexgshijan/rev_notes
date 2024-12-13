@@ -31,7 +31,8 @@
     "iconsInLinksEnabled": true,
     "iconIdentifier": ":",
     "lucideIconPackType": "custom",
-    "debugMode": false
+    "debugMode": false,
+    "useInternalPlugins": false
   },
   "Further Maths": {
     "iconName": "LiPi",

@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "b727143c8f69caf3",
+        "id": "470e30fe1a6f4bff",
         "type": "tabs",
         "children": [
           {
-            "id": "e2d88a5f589dfa22",
+            "id": "c676c70c4d680cd7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Further Maths/Further Maths.md",
+                "file": "Maths/Unit 2 - APPLIED/2.4 - Statistical Distribution/Poisson Distribution.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Further Maths"
+              "title": "Poisson Distribution"
+            }
+          },
+          {
+            "id": "5f47c32cc8d4c3ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Further Maths/Unit 2 - Further Statistics/2.1 - DRVs & Poisson Process/Exponential Distribution.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Exponential Distribution"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -52,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "wip",
+                "query": "poiss",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,11 +98,12 @@
               "title": "Plugin no longer active"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 316.5
+    "width": 271.5
   },
   "right": {
     "id": "8956f1c226c0ad0f",
@@ -149,10 +165,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Further Maths/Further Maths.md"
+                "file": "Further Maths/Unit 4 - Further Pure/4.2 - Further Trigonometry/The Factor Formulae.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Further Maths"
+              "title": "Outline of The Factor Formulae"
             }
           },
           {
@@ -195,34 +211,40 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "e2d88a5f589dfa22",
+  "active": "5f47c32cc8d4c3ff",
   "lastOpenFiles": [
+    "Maths/Unit 2 - APPLIED/2.4 - Statistical Distribution/Poisson Distribution.md",
+    "Further Maths/Unit 2 - Further Statistics/2.1 - DRVs & Poisson Process/Exponential Distribution.md",
+    "Further Maths/Unit 2 - Further Statistics/2.1 - DRVs & Poisson Process/Probability Density Functions.md",
+    "Further Maths/Unit 2 - Further Statistics/2.1 - DRVs & Poisson Process/Cumulative Distribution Function.md",
+    "Further Maths/Unit 2 - Further Statistics/2.1 - DRVs & Poisson Process/2.1 - DRVs & Poisson Process.md",
+    "Further Maths/Further Maths.md",
+    "Computer Science/Computer Science.md",
+    "Computer Science/Unit 3 - Programming and SysDev/3.3 - Algorithms and Programs/3.3 - Algorithms and Programs.md",
+    "Physics/Unit 4/4.3 - The Empty Universe/4.3 - The Empty Universe.md",
+    "Further Maths/Unit 1 - Pure/1.2 - Complex Numbers/Argand Diagram.md",
+    "Computer Science/Unit 3 - Programming and SysDev/Unit 3 - Programming and SysDev.md",
+    "Physics/Physics.md",
+    "Physics/Unit 4/4.3 - The Empty Universe/Kepler's Laws.md",
+    "Physics/Unit 4/Unit 4.md",
+    "Maths/Maths.md",
     "index.md",
     "z_Excerpts/00-Quartic Formula.md",
     "z_Excerpts/Python/Python.md",
     "z_Excerpts/Python/save_files/save_files.md",
-    "z_Excerpts/Python/advent_of_code/advent_of_code.md",
     "z_Excerpts/Image/Image.md",
     "z_Excerpts/Graph/Graph.md",
-    "Physics/Physics.md",
     "Physics/Unit 5 - Practical/Unit 5 - Practical.md",
     "Physics/Unit 5 - Practical/Tables and Graphs.md",
     "Physics/Unit 5 - Practical/Planning Experiments.md",
     "Physics/Unit 4/4.2 - Electrostatic Fields/4.2 - Electrostatic Fields.md",
     "Physics/Unit 3/3.6 - Nuclear Energy/3.6 - Nuclear Energy.md",
-    "Physics/Unit 3/3.5 - Nuclear Decay/Nature. Penetration. Range.md",
-    "Physics/Unit 3/3.5 - Nuclear Decay/Decay.md",
-    "Physics/Unit 3/3.4 - Thermal Physics - Thermodynamics/Specific Heat Capacity.md",
-    "Physics/Unit 3/3.4 - Thermal Physics - Thermodynamics/pV Graphs.md",
-    "Physics/Unit 3/3.4 - Thermal Physics - Thermodynamics/3.4 - Thermal Physics - Thermodynamics.md",
-    "Physics/Unit 3/3.3 - Kinetic Theory/Gas Laws.md",
-    "Physics/Unit 3/3.3 - Kinetic Theory/Energy and Motion.md",
-    "Physics/Unit 3/3.3 - Kinetic Theory/3.3 - Kinetic Theory.md",
-    "Physics/Unit 3/3.2 - Vibrations/Potential Energy.md",
-    "Physics/Unit 3/3.2 - Vibrations/Damping.md",
-    "Physics/Unit 3/3.2 - Vibrations/3.2 - Vibrations.md",
-    "Physics/Unit 3/3.1 - Circular Motion/3.1 - Circular Motion.md",
-    "Physics/Unit 2/2.8 - Lasers/Stimulated Emission.md",
+    "Further Maths/Unit 4 - Further Pure/4.1 - Complex Numbers",
+    "Physics/Unit 4/4.3 - The Empty Universe",
+    "Untitled.canvas",
+    "Computer Science/Unit 3 - Programming and SysDev/3.3 - Algorithms and Programs",
+    "Further Maths/Unit 4 - Further Pure/4.2 - Further Trigonometry",
+    "Further Maths/Unit 4 - Further Pure",
     "z_Excerpts/Image/TCPIP-Stack.png",
     "z_Excerpts/Image/TCPIP-Stack-datatransfer.png",
     "z_Excerpts/Image/Pasted image 20230929113635.png",
@@ -238,13 +260,7 @@
     "Physics/Unit 4",
     "Further Maths/Unit 2 - Further Statistics/2.1 - DRVs & Poisson Process",
     "Further Maths/Unit 2 - Further Statistics",
-    "Further Maths/Unit 1 - PURE/1.1 - Proof by Induction/Proof of the binomial theorem by induction.pdf",
-    "z_Excerpts/floating_button.html",
-    "floating_button.html",
-    "Further Maths/Unit 3 - Further Mechanics/3.3 - Circular Motion",
-    "Computer Science/Unit 4 - Theory/4.5 - Databases and distributed systems",
     "Physics/Unit 1/1.6 - Using Radiation to Investigate Stars/Using Radiation to Investigate Stars recap.canvas",
-    "Untitled.canvas",
     "Physics/1.6 - Using Radiation to Investigate Stars/Using Radiation to Investigate Stars recap.canvas",
     "Computer Science/2.A - Practical/Practical revision.canvas",
     "Physics/1.5 - Solids under stress/1.5 - Solids under stress recap.canvas",
