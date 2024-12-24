@@ -15,3 +15,6 @@ $$\sum\limits^{k+1}_{r=1}{r^{3}}=\frac{(k+1)^{2}(k^{2}+4k+4)}{4}=\frac{(k+1)^{2}
 
 
 **Summation with multiple terms** - We can split the individual terms into their own summations with the same limits.
+
+**Methods of Differences**
+*In the method of differences, a series is expressed as the difference of other sequences, so that most of the terms cancel out. This is useful when the [[Summation - Standard Results]] is impossible.*

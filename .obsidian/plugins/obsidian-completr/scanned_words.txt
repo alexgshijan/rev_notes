@@ -4096,6 +4096,7 @@ oqLZ
 ogW
 oVg
 orbit
+oscillation
 This
 Tan
 These
@@ -12627,6 +12628,7 @@ contradicts
 conducting
 cumulative
 calculates
+cube
 doesn
 determined
 data
@@ -16228,6 +16230,7 @@ eGw
 eeu
 equipotentials
 ellipse
+elliptical
 uk
 using
 unified
@@ -25327,6 +25330,7 @@ DARG
 DUy
 DYO
 DWRH
+Differences
 Unicode
 Used
 UCS

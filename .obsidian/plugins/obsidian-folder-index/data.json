@@ -17,6 +17,7 @@
   "excludeFolders": [
     ""
   ],
+  "excludePatterns": [],
   "recursionLimit": -1,
   "headlineLimit": 6,
   "indexFileUserSpecified": false,
