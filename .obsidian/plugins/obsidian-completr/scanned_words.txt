@@ -7319,6 +7319,8 @@ tfC
 thX
 tPg
 tvz
+trigonometric
+tidy
 ll
 lot
 languages
@@ -10743,6 +10745,8 @@ spherical
 surfaces
 substituting
 sweeps
+summing
+suit
 It
 Identities
 Information
@@ -12629,6 +12633,7 @@ conducting
 cumulative
 calculates
 cube
+collecting
 doesn
 determined
 data
@@ -13534,6 +13539,7 @@ dHx
 dBBBL
 dQF
 dQo
+debug
 many
 mailto
 main
@@ -16231,6 +16237,7 @@ eeu
 equipotentials
 ellipse
 elliptical
+expect
 uk
 using
 unified
@@ -17790,6 +17797,7 @@ Pfi
 PnCGj
 Pkc
 Points
+Part
 Sine
 Stands
 Standard
@@ -21471,6 +21479,7 @@ fkz
 fXyL
 fxx
 fjjj
+finish
 Graph
 Good
 Graphics
@@ -23745,6 +23754,7 @@ Equipotentials
 Even
 Ensure
 Excepted
+Express
 key
 know
 keyboard
@@ -28254,6 +28264,7 @@ MWI
 MMQ
 MKA
 Medians
+Moivre
 give
 generally
 get
