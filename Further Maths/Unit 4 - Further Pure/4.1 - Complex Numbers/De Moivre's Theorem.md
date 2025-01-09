@@ -19,4 +19,4 @@ $$(Z^{1}+Z^{-1})^{5}= 2\cos 5\theta+10\cos 3\theta + 20\cos\theta\implies\frac{(
 *Finally we tidy our results and conclude.*
 $$\therefore\cos^{5}\theta=\frac{1}{32}(2\cos 5\theta+10\cos 3\theta + 20\cos\theta)$$
 
-**We can consider the imaginary and real separately to suit out  use case**
+**We can consider the imaginary and real separately to suit our use case**

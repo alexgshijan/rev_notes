@@ -8,34 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c676c70c4d680cd7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Further Maths/Further Maths.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Further Maths"
-            }
-          },
-          {
-            "id": "5f47c32cc8d4c3ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Unit 3 - Programming and SysDev/3.3 - Algorithms and Programs/3.3 - Algorithms and Programs.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3.3 - Algorithms and Programs"
-            }
-          },
-          {
             "id": "efe7d2b880e93dc8",
             "type": "leaf",
             "state": {
@@ -55,6 +27,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Physics/Unit 4/4.3 - The Empty Universe/Kepler's Laws.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kepler's Laws"
+            }
+          },
+          {
+            "id": "d0ea30e10fc24fa8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Further Maths/Unit 4 - Further Pure/4.1 - Complex Numbers/7Jan2025.md",
                 "mode": "source",
                 "source": false
@@ -64,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -95,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Sigma",
+                "query": "search",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -258,34 +244,35 @@
       "chronology:Open Chronology": false
     }
   },
-  "active": "d2ae06775f51fa34",
+  "active": "d0ea30e10fc24fa8",
   "lastOpenFiles": [
+    "Further Maths/Unit 4 - Further Pure/4.1 - Complex Numbers/De Moivre's Theorem.md",
+    "Further Maths/Unit 4 - Further Pure/4.1 - Complex Numbers/7Jan2025.md",
+    "Physics/Unit 4/4.3 - The Empty Universe/4.3 - The Empty Universe.md",
+    "Physics/Physics.md",
+    "Computer Science/Computer Science.md",
+    "Further Maths/Unit 4 - Further Pure/4.1 - Complex Numbers/4.1 - Complex Numbers.md",
+    "Further Maths/Further Maths.md",
+    "Computer Science/Unit 3 - Programming and SysDev/3.3 - Algorithms and Programs/3.3 - Algorithms and Programs.md",
+    "Computer Science/Unit 1 - CS Fundamentals/1.6 - Organisation of data/1.6 - Organisation of data.md",
+    "Computer Science/Unit 1 - CS Fundamentals/1.6 - Organisation of data/File Design/File Design.md",
+    "Computer Science/Unit 1 - CS Fundamentals/1.6 - Organisation of data/File Design/File Types/Random.md",
+    "Computer Science/Unit 2 - Practical Solutions/Data Structures.md",
+    "Computer Science/Unit 3 - Programming and SysDev/3.1 - Data Structure/3.1 - Data Structure.md",
+    "Computer Science/Unit 3 - Programming and SysDev/3.3 - Algorithms and Programs/Trace Tables.md",
+    "Physics/Unit 4/4.3 - The Empty Universe/Dark Matter.md",
+    "Physics/Unit 4/4.3 - The Empty Universe/Kepler's Laws.md",
+    "z_Excerpts/Image/Pasted image 20250108091640.png",
+    "Further Maths/Unit 3 - Further Mechanics/Unit 3 - Further Mechanics.md",
+    "Maths/Maths.md",
+    "Maths/Unit 4 - APPLIED/Unit 4 - APPLIED.md",
+    "Maths/Unit 3 - PURE/Unit 3 - PURE.md",
     "index.md",
     "z_Excerpts/Image/Image.md",
     "z_Excerpts/Graph/Graph.md",
-    "Physics/Physics.md",
     "Physics/Unit 5 - Practical/Unit 5 - Practical.md",
     "Physics/Unit 5 - Practical/Tables and Graphs.md",
     "Physics/Unit 5 - Practical/Planning Experiments.md",
-    "Physics/Unit 4/4.3 - The Empty Universe/Kepler's Laws.md",
-    "Physics/Unit 4/4.2 - Electrostatic Fields/4.2 - Electrostatic Fields.md",
-    "Further Maths/Unit 4 - Further Pure/4.1 - Complex Numbers/7Jan2025.md",
-    "Physics/Unit 1/1.5 - Solids under stress/Materials/Polymers.md",
-    "Physics/Unit 1/1.5 - Solids under stress/Materials/Crystalline - Polycrystalline.md",
-    "Physics/Unit 1/1.5 - Solids under stress/Materials/Amorphous.md",
-    "Physics/Unit 1/1.4 - Energy Concepts/Power.md",
-    "Physics/Unit 1/1.4 - Energy Concepts/Kinetic Energy.md",
-    "Physics/Unit 1/1.2 - Kinematics/SUVAT - The Equations of Constant Acceleration.md",
-    "Physics/Unit 1/1.2 - Kinematics/Graphs.md",
-    "Physics/Unit 1/1.1 - Physics Basics/Derived Quantities.md",
-    "Physics/Unit 1/1.1 - Physics Basics/1.1 - Physics Basics.md",
-    "Maths/Maths.md",
-    "Maths/Unit 4 - APPLIED/4.9 - Forces and Newton's Laws - Friction/4.9 - Forces and Newton's Laws - Friction.md",
-    "Maths/Unit 4 - APPLIED/4.8 - Kinematics/4.8 - Kinematics.md",
-    "Maths/Unit 4 - APPLIED/4.3 - Statistical Hypothesis Testing/Normal Distribution - Hypothesis Testing.md",
-    "Maths/Unit 4 - APPLIED/4.3 - Statistical Hypothesis Testing/Correlation Coefficients.md",
-    "Maths/Unit 4 - APPLIED/4.2 - Statistical Distribution/Normal Distribution.md",
-    "Maths/Unit 4 - APPLIED/4.2 - Statistical Distribution/Continuous Uniform Distribution.md",
     "z_Excerpts/Image/Screenshot 2025-01-07 at 20.52.30.png",
     "Further Maths/Unit 4 - Further Pure/4.1 - Complex Numbers",
     "Physics/Unit 4/4.3 - The Empty Universe",
@@ -301,7 +288,6 @@
     "z_Excerpts/Image/Pasted image 20231005123628.png",
     "z_Excerpts/Image/Pasted image 20231005123716.png",
     "z_Excerpts/Image/Pasted image 20231005123805.png",
-    "z_Excerpts/Image/Pasted image 20231009232914.png",
     "Further Maths/Unit 3 - Further Mechanics/3.4 - Calculus With Vectors",
     "Physics/Unit 4/4.2 - Electrostatic Fields",
     "Physics/Unit 4",

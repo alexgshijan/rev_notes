@@ -2395,6 +2395,7 @@ iciC
 iAW
 iGW
 isV
+infer
 app
 adding
 are
@@ -3314,6 +3315,7 @@ aOA
 aBIMA
 aiy
 ask
+attributed
 only
 on
 odd
@@ -4097,6 +4099,7 @@ ogW
 oVg
 orbit
 oscillation
+orbiting
 This
 Tan
 These
@@ -4788,6 +4791,7 @@ TxVb
 TGW
 TqV
 Tue
+Tables
 revision
 rule
 rotational
@@ -7321,6 +7325,7 @@ tPg
 tvz
 trigonometric
 tidy
+typical
 ll
 lot
 languages
@@ -8931,6 +8936,7 @@ wPY
 wqI
 wRt
 wzF
+whose
 year
 you
 years
@@ -10747,6 +10753,8 @@ substituting
 sweeps
 summing
 suit
+spherically
+symmetric
 It
 Identities
 Information
@@ -14429,6 +14437,8 @@ myqq
 mRo
 mBz
 mFceWc
+mutual
+masses
 plans
 python
 press
@@ -15350,6 +15360,7 @@ premise
 percentiles
 percentile
 planet
+predicted
 expand
 even
 each
@@ -16238,6 +16249,7 @@ equipotentials
 ellipse
 elliptical
 expect
+existence
 uk
 using
 unified
@@ -25341,6 +25353,7 @@ DUy
 DYO
 DWRH
 Differences
+Dark
 Unicode
 Used
 UCS
@@ -28265,6 +28278,7 @@ MMQ
 MKA
 Medians
 Moivre
+Matter
 give
 generally
 get
@@ -29039,6 +29053,8 @@ gKe
 gsL
 gmi
 gBK
+gravitational
+galaxy
 Floats
 Float
 Full

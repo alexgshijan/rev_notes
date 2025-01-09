@@ -1,1 +1,0 @@
-Useful for keeping track of the values that change in an algorithm, used for debugging, because you can write down what you expect the values to be and compare it with what’s actually happening. This can help debug logic errors.

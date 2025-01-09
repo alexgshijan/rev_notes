@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Unit 1 - PURE/1.7 - Differentiation/1.7 - Differentiation.md",
+                "file": "Further Maths/Unit 4 - Further Pure/4.1 - Complex Numbers/7Jan2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.7 - Differentiation"
+              "title": "7Jan2025"
             }
           }
         ]
@@ -167,6 +167,8 @@
   },
   "active": "05c65eeab4b56967",
   "lastOpenFiles": [
+    "Further Maths/Further Maths.md",
+    "Maths/Unit 1 - PURE/1.7 - Differentiation/1.7 - Differentiation.md",
     "Maths/Maths.md",
     "Further Maths/Unit 4 - Further Pure/4.2 - Further Trigonometry/4.2 - Further Trigonometry.md",
     "Further Maths/Unit 4 - Further Pure/4.1 - Complex Numbers/De Moivre's Theorem.md",
@@ -191,8 +193,6 @@
     "Further Maths/Unit 1 - Pure/1.5 - Further Vectors/Equation of a Plane - Intersection of two planes.md",
     "Further Maths/Unit 1 - Pure/1.5 - Further Vectors/1.5 - Further Vectors.md",
     "Further Maths/Unit 1 - Pure/1.4 - Further Algebra and Functions/Summation - Standard Results.md",
-    "Further Maths/Unit 1 - Pure/1.4 - Further Algebra and Functions/Summation - Methods of Differences.md",
-    "Further Maths/Unit 1 - Pure/1.4 - Further Algebra and Functions/1.4 - Further Algebra and Functions.md",
     "Further Maths/Unit 1 - Pure/1.1 - Proof by Induction/Proof of the binomial theorem by induction.pdf"
   ]
 }
