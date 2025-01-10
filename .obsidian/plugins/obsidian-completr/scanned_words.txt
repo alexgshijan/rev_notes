@@ -769,6 +769,7 @@ CWk
 CtC
 CZc
 CjC
+Cumalative
 View
 VOIP
 Voice
@@ -6419,6 +6420,7 @@ boE
 bSsk
 bqN
 bringing
+binomially
 that
 throughout
 the
@@ -17003,6 +17005,7 @@ udn
 uUUS
 uLo
 utilising
+understanding
 Page
 Please
 Preferred
@@ -35573,6 +35576,7 @@ Kam
 Kzt
 KXv
 KKc
+Kepler
 quickly
 quadruple
 quicker

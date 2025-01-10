@@ -13,3 +13,6 @@ The square of the period of the orbit is directly proportional to the cube of th
 
 **Using the speed of orbit to determine mass**
 $$v^{2}=\frac{GM}{r}$$
+
+**Using our understanding of Kepler's First and Third Laws, we derive the following**
+$$T=2\pi\sqrt{\frac{d^{3}}{G(M_{1}+M_{2})}}$$
