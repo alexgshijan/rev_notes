@@ -770,6 +770,10 @@ CtC
 CZc
 CjC
 Cumalative
+Coefficient
+Complexities
+Complexity
+Cumulative
 View
 VOIP
 Voice
@@ -2397,6 +2401,10 @@ iAW
 iGW
 isV
 infer
+indicated
+insert
+irrelevant
+insignificant
 app
 adding
 are
@@ -3317,6 +3325,9 @@ aBIMA
 aiy
 ask
 attributed
+attractive
+attracts
+arguments
 only
 on
 odd
@@ -4101,6 +4112,7 @@ oVg
 orbit
 oscillation
 orbiting
+offset
 This
 Tan
 These
@@ -4793,6 +4805,8 @@ TGW
 TqV
 Tue
 Tables
+Taylor
+Tree
 revision
 rule
 rotational
@@ -5627,6 +5641,10 @@ rgO
 rzJ
 rog
 remembers
+rooting
+repulsion
+rises
+recession
 bank
 be
 but
@@ -6421,6 +6439,7 @@ bSsk
 bqN
 bringing
 binomially
+bivariate
 that
 throughout
 the
@@ -7328,6 +7347,7 @@ tvz
 trigonometric
 tidy
 typical
+treated
 ll
 lot
 languages
@@ -8171,6 +8191,7 @@ lTtd
 ltO
 lqq
 leXIfMM
+loops
 working
 when
 wip
@@ -8939,6 +8960,8 @@ wqI
 wRt
 wzF
 whose
+worst
+wobble
 year
 you
 years
@@ -10757,6 +10780,10 @@ summing
 suit
 spherically
 symmetric
+standardised
+scatter
+suggest
+scenario
 It
 Identities
 Information
@@ -11573,6 +11600,8 @@ Ixk
 ItO
 IzO
 IOw
+Iterates
+Insertion
 currently
 contain
 co
@@ -12644,6 +12673,12 @@ cumulative
 calculates
 cube
 collecting
+concentrated
+correlated
+correlations
+categorical
+compares
+complexities
 doesn
 determined
 data
@@ -13550,6 +13585,10 @@ dBBBL
 dQF
 dQo
 debug
+division
+drawn
+decreasingly
+delta
 many
 mailto
 main
@@ -14441,6 +14480,8 @@ mBz
 mFceWc
 mutual
 masses
+mirrors
+merging
 plans
 python
 press
@@ -15363,6 +15404,8 @@ percentiles
 percentile
 planet
 predicted
+putting
+prefix
 expand
 even
 each
@@ -16252,6 +16295,10 @@ ellipse
 elliptical
 expect
 existence
+evaluating
+eitheta
+extent
+exponentially
 uk
 using
 unified
@@ -17006,6 +17053,8 @@ uUUS
 uLo
 utilising
 understanding
+unsorted
+unity
 Page
 Please
 Preferred
@@ -17813,6 +17862,8 @@ PnCGj
 Pkc
 Points
 Part
+Pearson
+Polynomial
 Sine
 Stands
 Standard
@@ -18638,6 +18689,13 @@ Sch
 Syu
 Solve
 Sun
+Series
+Sub
+Spherical
+Stats
+Scheme
+Strength
+Show
 Rule
 Real
 Routes
@@ -19311,6 +19369,9 @@ RbWW
 RxY
 Radians
 Recount
+Recall
+Repeat
+Roots
 Note
 Negatives
 Normalising
@@ -19992,6 +20053,7 @@ NKk
 NCK
 NfR
 NWR
+Nested
 And
 ASCII
 American
@@ -20694,6 +20756,7 @@ AuW
 AMc
 AexT
 AErE
+Algorithms
 for
 finding
 function
@@ -22252,6 +22315,7 @@ GJTJx
 GlC
 Gin
 Gjg
+Gravitation
 has
 have
 how
@@ -25357,6 +25421,7 @@ DYO
 DWRH
 Differences
 Dark
+Defining
 Unicode
 Used
 UCS
@@ -26107,6 +26172,7 @@ UAb
 Uvm
 UjG
 Uvs
+Unity
 Binary
 Boolean
 Bluetooth
@@ -26802,6 +26868,7 @@ BIY
 BBWD
 BIAe
 BMAv
+Bubble
 needs
 needed
 number
@@ -27524,6 +27591,7 @@ nMYO
 nyw
 numerically
 nth
+nested
 Many
 More
 Mail
@@ -28282,6 +28350,11 @@ MKA
 Medians
 Moivre
 Matter
+Maclaurin
+Masses
+Menu
+Mark
+Merge
 give
 generally
 get
@@ -29058,6 +29131,7 @@ gmi
 gBK
 gravitational
 galaxy
+galactic
 Floats
 Float
 Full
@@ -30473,6 +30547,8 @@ Lfdy
 Ljs
 LxF
 Logs
+Look
+Logarithmic
 You
 Yottabyte
 Young
@@ -32556,6 +32632,7 @@ OnW
 Omv
 OXv
 Odd
+Orbital
 value
 very
 valued
@@ -33320,6 +33397,7 @@ vPp
 vXM
 vHF
 vfd
+valuable
 We
 When
 Where
@@ -34085,6 +34163,7 @@ Wgb
 WOns
 Wkj
 WoXW
+Write
 Half
 HTTP
 HTTPS
@@ -34888,6 +34967,8 @@ HHLN
 HsD
 HGqG
 HhZG
+Hypothesis
+Hashed
 KB
 Keyboard
 Kilobyte
