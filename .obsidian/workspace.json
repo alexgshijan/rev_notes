@@ -8,20 +8,77 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8a33ad8fa4109d83",
+            "id": "7a543456e0c88aea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Further Maths/Unit 4 - Further Pure/4.1 - Complex Numbers/17Jan2025.md",
+                "file": "Further Maths/Unit 2 - Further Statistics/2.2 - Relation of Fit & Variable of Models/Pearson's PMCC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "17Jan2025"
+              "title": "Pearson's PMCC"
+            }
+          },
+          {
+            "id": "ad6bc62bd33145cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Further Maths/Unit 2 - Further Statistics/2.2 - Relation of Fit & Variable of Models/Pearson's PMCC.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pearson's PMCC"
+            }
+          },
+          {
+            "id": "8cde55eb17e064df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Further Maths/Unit 2 - Further Statistics/2.2 - Relation of Fit & Variable of Models/Linear Regression.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Linear Regression"
+            }
+          },
+          {
+            "id": "4dc0b517df9e72e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Further Maths/Unit 2 - Further Statistics/2.2 - Relation of Fit & Variable of Models/Chi-Squared Two-Way Tables.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chi-Squared Two-Way Tables"
+            }
+          },
+          {
+            "id": "2b3f526e1f8d6b83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physics/Unit 4/4.3 - The Empty Universe/4.3 - The Empty Universe.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4.3 - The Empty Universe"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -52,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "modulus",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -64,23 +121,13 @@
             }
           },
           {
-            "id": "2017084900b8fd08",
+            "id": "9d4d151c326f1e8d",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
-            }
-          },
-          {
-            "id": "b41af5247583e815",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
             }
           }
         ]
@@ -215,42 +262,49 @@
       "chronology:Open Chronology": false
     }
   },
-  "active": "8a33ad8fa4109d83",
+  "active": "4dc0b517df9e72e0",
   "lastOpenFiles": [
-    "index.md",
-    "z_Excerpts/z_Excerpts.md",
-    "z_Excerpts/Image/Image.md",
-    "z_Excerpts/Graph/Graph.md",
+    "Computer Science/Unit 1 - CS Fundamentals/1.1 - Hardware and communication/Networking/TCP-IP Protocol.md",
+    "Computer Science/Unit 1 - CS Fundamentals/1.1 - Hardware and communication/Networking/Different Scales of Network.md",
+    "Computer Science/Unit 1 - CS Fundamentals/1.1 - Hardware and communication/Networking/Contemporary Protocols.md",
+    "Further Maths/Unit 2 - Further Statistics/2.2 - Relation of Fit & Variable of Models/Chi-Squared Two-Way Tables.md",
+    "Further Maths/Unit 2 - Further Statistics/2.2 - Relation of Fit & Variable of Models/Linear Regression.md",
+    "Further Maths/Unit 2 - Further Statistics/Unit 2 - Further Statistics.md",
+    "Further Maths/Unit 3 - Further Mechanics/Unit 3 - Further Mechanics.md",
+    "Further Maths/Unit 4 - Further Pure/Unit 4 - Further Pure.md",
+    "Further Maths/Unit 3 - Further Mechanics/3.2 - Hooke's Law, Work, Energy and Power/3.2 - Hooke's Law, Work, Energy and Power.md",
+    "Further Maths/Unit 4 - Further Pure/4.1 - Complex Numbers/4.1 - Complex Numbers.md",
+    "Physics/Unit 1/1.5 - Solids under stress/1.5 - Solids under stress.md",
+    "Maths/Unit 3 - PURE/3.2 - Algebra and Functions/The Modulus Function.md",
+    "Further Maths/Unit 2 - Further Statistics/2.2 - Relation of Fit & Variable of Models/Pearson's PMCC.md",
+    "Further Maths/Unit 2 - Further Statistics/2.2 - Relation of Fit & Variable of Models/Spearman's Rank Correlation.md",
+    "Further Maths/Further Maths.md",
+    "Computer Science/Computer Science.md",
+    "Computer Science/Unit 3 - Programming and SysDev/3.3 - Algorithms and Programs/Big O Notation.md",
+    "Computer Science/Unit 3 - Programming and SysDev/3.3 - Algorithms and Programs/3.3 - Algorithms and Programs.md",
     "Physics/Physics.md",
-    "Physics/Unit 5 - Practical/Unit 5 - Practical.md",
-    "Physics/Unit 5 - Practical/Tables and Graphs.md",
-    "Physics/Unit 5 - Practical/Planning Experiments.md",
     "Physics/Unit 4/4.3 - The Empty Universe/Kepler's Laws.md",
-    "Physics/Unit 4/4.3 - The Empty Universe/Doppler Effect.md",
+    "InvioDocs/InvioDocs.md",
+    "InvioDocs/Introduction.md",
+    "InvioDocs",
+    "Physics/Unit 4/4.3 - The Empty Universe/Kepler's Laws.html",
     "Physics/Unit 4/4.3 - The Empty Universe/4.3 - The Empty Universe.md",
-    "Physics/Unit 4/4.2 - Gravitational Fields/4.2 - Gravitational Fields.md",
-    "Physics/Unit 4/4.2 - Electrostatic Fields/4.2 - Electrostatic Fields.md",
-    "Physics/Unit 3/3.6 - Nuclear Energy/3.6 - Nuclear Energy.md",
-    "Physics/Unit 3/3.5 - Nuclear Decay/Nature. Penetration. Range.md",
-    "Physics/Unit 3/3.5 - Nuclear Decay/Decay.md",
-    "Physics/Unit 3/3.4 - Thermal Physics - Thermodynamics/Specific Heat Capacity.md",
-    "Physics/Unit 3/3.4 - Thermal Physics - Thermodynamics/pV Graphs.md",
-    "Physics/Unit 3/3.4 - Thermal Physics - Thermodynamics/3.4 - Thermal Physics - Thermodynamics.md",
-    "Physics/Unit 3/3.3 - Kinetic Theory/Gas Laws.md",
-    "Physics/Unit 3/3.3 - Kinetic Theory/Energy and Motion.md",
-    "Physics/Unit 3/3.3 - Kinetic Theory/3.3 - Kinetic Theory.md",
-    "Physics/Unit 3/3.2 - Vibrations/Potential Energy.md",
-    "Physics/Unit 3/3.2 - Vibrations/Damping.md",
-    "Physics/Unit 3/3.2 - Vibrations/3.2 - Vibrations.md",
-    "Physics/Unit 3/3.1 - Circular Motion/3.1 - Circular Motion.md",
+    "Physics/Unit 4/4.3 - The Empty Universe/Doppler Effect.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Further Maths/Unit 2 - Further Statistics/2.1 - DRVs & Poisson Process/2.1 - DRVs & Poisson Process.md",
+    "Further Maths/Unit 4 - Further Pure/4.4 - Further Algebra and Functions/Maclaurin Series.md",
+    "z_Excerpts/Image/Pasted image 20250122092650.png",
+    "z_Excerpts/Image/Pasted image 20250122092541.png",
+    "z_Excerpts/Image/Pasted image 20250122092455.png",
+    "Further Maths/Unit 4 - Further Pure/4.4 - Further Algebra and Functions",
     "Physics/Unit 4/4.2 - Gravitational Fields",
-    "Further Maths/Unit 2 - Further Statistics/Relation of Fit & Variable of Models",
+    "Further Maths/Unit 2 - Further Statistics/2.2 - Relation of Fit & Variable of Models",
     "z_Excerpts/Image/Screenshot 2025-01-09 at 10.55.21.png",
     "z_Excerpts/Image/Pasted image 20250108091640.png",
     "z_Excerpts/Image/Screenshot 2025-01-07 at 20.52.30.png",
     "Further Maths/Unit 4 - Further Pure/4.1 - Complex Numbers",
     "Physics/Unit 4/4.3 - The Empty Universe",
-    "Untitled.canvas",
     "Computer Science/Unit 3 - Programming and SysDev/3.3 - Algorithms and Programs",
     "Further Maths/Unit 4 - Further Pure/4.2 - Further Trigonometry",
     "Further Maths/Unit 4 - Further Pure",
@@ -258,12 +312,6 @@
     "z_Excerpts/Image/TCPIP-Stack-datatransfer.png",
     "z_Excerpts/Image/Pasted image 20230929113635.png",
     "z_Excerpts/Image/Pasted image 20231005123527.png",
-    "z_Excerpts/Image/Screenshot 2023-10-03 at 14.18.17.png",
-    "z_Excerpts/Image/Pasted image 20231005123628.png",
-    "z_Excerpts/Image/Pasted image 20231005123716.png",
-    "Further Maths/Unit 3 - Further Mechanics/3.4 - Calculus With Vectors",
-    "Physics/Unit 4/4.2 - Electrostatic Fields",
-    "Physics/Unit 4",
     "Physics/Unit 1/1.6 - Using Radiation to Investigate Stars/Using Radiation to Investigate Stars recap.canvas",
     "Physics/1.6 - Using Radiation to Investigate Stars/Using Radiation to Investigate Stars recap.canvas",
     "Computer Science/2.A - Practical/Practical revision.canvas",
@@ -271,7 +319,6 @@
     "Computer Science/1.4 - Data representation and data types/Data representation and data types recap.canvas",
     "Maths/1.8 - Integration/Integration recap.canvas",
     "Computer Science/1.2 - Logical Operators/Boolean Algebra/Logical Operators Recap.canvas",
-    "Maths/2.3 - Probability/Probability Recap.canvas",
-    "Physics/1.7 - Particles and Nuclear Structure/Particles and Nuclear Structure.canvas"
+    "Maths/2.3 - Probability/Probability Recap.canvas"
   ]
 }

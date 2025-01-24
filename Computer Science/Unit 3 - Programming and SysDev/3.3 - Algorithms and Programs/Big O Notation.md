@@ -16,11 +16,16 @@ The CPU and main memory are valuable resources. There is a limit on what can be 
 - Exponential - O($a^{n}$) - Complexity rises exponentially as more data processed.
 *In order of best to worst time complexity, on average.*
 
-Note that as n tends of infinity, coefficients of the notation becomes irrelevant, ie. O(N+1) becomes O(N). When considering the complexity of an algorithm, you need to consider each individual component and the complexity it adds.
+Note that as n tends of infinity, coefficients of the notation becomes irrelevant. When considering the complexity of an algorithm, you need to consider each individual component and the complexity it adds.
 
-```python
-k = 9
-for j in range(0, k):
+```
+for j in 0 to N:
 	print(j)
 ```
-his loop is going to happen N times. The loop itself has a growth rate of O(N). The line inside the loop is not dependant on the value of N, so it has a growth rate of O(1). Therefore complexity is N + 1. However, if we scale up the value of N towards infinity, the +1 becomes insignificant, so we can simplify it to O(N)
+This loop is going to happen N times. The loop itself has a growth rate of O(N). The line inside the loop is not dependant on the value of N, so it has a growth rate of O(1). Therefore complexity is N + 1. However, if we scale up the value of N towards infinity, the +1 becomes insignificant, so we can simplify it to O(N)
+
+**Time Complexity** - Considering the extra space the algorithm uses as it is running
+
+Bubble & insertion sort don’t create any new data structures or require more storage as they are running, so they are O(1)
+Merge sort requires the creation of N new lists when it is separating the elements out so that they can be merged back together, so has a space complexity of O(N)
+Quick sort is a recursive algorithm, so will be O(log(N)) for the same reasons as binary search.

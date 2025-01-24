@@ -7,3 +7,11 @@ $$\frac{\Delta\lambda}{\lambda}=\frac{v}{c}$$
 - lambda is the reference wavelength
 - v is the velocity
 - c is the speed of light
+
+**Formula**
+$$ \frac{\Delta T}{T}=\frac{v}{c}$$
+- T is the Period of pulsation from a neutron star
+
+**Formula**
+$$\frac{\Delta f}{f}=- \frac{v}{c}$$
+*Note that a positive v produces a smaller f*

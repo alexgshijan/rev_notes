@@ -774,6 +774,8 @@ Coefficient
 Complexities
 Complexity
 Cumulative
+CALC
+Chi
 View
 VOIP
 Voice
@@ -1525,6 +1527,7 @@ VVTZI
 VFT
 VBM
 VYj
+Varying
 in
 is
 it
@@ -2405,6 +2408,8 @@ indicated
 insert
 irrelevant
 insignificant
+insertion
+inducrtion
 app
 adding
 are
@@ -3328,6 +3333,9 @@ attributed
 attractive
 attracts
 arguments
+approximatingw
+association
+assuming
 only
 on
 odd
@@ -5645,6 +5653,14 @@ rooting
 repulsion
 rises
 recession
+recognise
+respectively
+rank
+ranks
+recursive
+reasons
+residuals
+residual
 bank
 be
 but
@@ -8192,6 +8208,7 @@ ltO
 lqq
 leXIfMM
 loops
+letter
 working
 when
 wip
@@ -10784,6 +10801,9 @@ standardised
 scatter
 suggest
 scenario
+simulate
+separating
+statistic
 It
 Identities
 Information
@@ -13589,6 +13609,7 @@ division
 drawn
 decreasingly
 delta
+differentiating
 many
 mailto
 main
@@ -14482,6 +14503,10 @@ mutual
 masses
 mirrors
 merging
+minimums
+macluarins
+minimise
+moivers
 plans
 python
 press
@@ -15406,6 +15431,7 @@ planet
 predicted
 putting
 prefix
+pulsation
 expand
 even
 each
@@ -16299,6 +16325,7 @@ evaluating
 eitheta
 extent
 exponentially
+eclipsing
 uk
 using
 unified
@@ -17864,6 +17891,8 @@ Points
 Part
 Pearson
 Polynomial
+Period
+Planet
 Sine
 Stands
 Standard
@@ -18696,6 +18725,10 @@ Stats
 Scheme
 Strength
 Show
+Star
+Suppose
+Spearman
+Squared
 Rule
 Real
 Routes
@@ -19372,6 +19405,9 @@ Recount
 Recall
 Repeat
 Roots
+REG
+Rank
+Rho
 Note
 Negatives
 Normalising
@@ -20757,6 +20793,7 @@ AMc
 AexT
 AErE
 Algorithms
+Alternatively
 for
 finding
 function
@@ -21558,6 +21595,7 @@ fXyL
 fxx
 fjjj
 finish
+freedom
 Graph
 Good
 Graphics
@@ -25422,6 +25460,8 @@ DWRH
 Differences
 Dark
 Defining
+Density
+Degrees
 Unicode
 Used
 UCS
@@ -29810,6 +29850,7 @@ FEwb
 FLY
 FKo
 FYvl
+Freedom
 Long
 Layer
 LTE
@@ -34969,6 +35010,7 @@ HGqG
 HhZG
 Hypothesis
 Hashed
+Hubble
 KB
 Keyboard
 Kilobyte
