@@ -4,3 +4,6 @@ We are to take the observed data to form an expected frequencies model, assuming
 $$X^{2}=\Sigma{\frac{(O_{i}-E_{i})^{2}}{E_{i}}}$$
 **Varying Degrees of Freedom**
 For a matrix $m\cdot n$, the degree of freedom is $(m-1)(n-1)$
+
+**Hypothesis Test**
+Null hypothesis that there is no association, if critical value at that significance level is less than calculated value of X^2, then there isn't enough evidence to accept null hypothesis.
