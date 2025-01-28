@@ -4815,6 +4815,7 @@ Tue
 Tables
 Taylor
 Tree
+Test
 revision
 rule
 rotational
@@ -5661,6 +5662,7 @@ recursive
 reasons
 residuals
 residual
+recognises
 bank
 be
 but
@@ -8979,6 +8981,8 @@ wzF
 whose
 worst
 wobble
+weighting
+weights
 year
 you
 years
@@ -12699,6 +12703,8 @@ correlations
 categorical
 compares
 complexities
+conceptual
+calculator
 doesn
 determined
 data
@@ -15432,6 +15438,8 @@ predicted
 putting
 prefix
 pulsation
+polar
+pole
 expand
 even
 each
@@ -20090,6 +20098,7 @@ NCK
 NfR
 NWR
 Nested
+Null
 And
 ASCII
 American
@@ -25462,6 +25471,7 @@ Dark
 Defining
 Density
 Degrees
+Dijkstra
 Unicode
 Used
 UCS
@@ -29172,6 +29182,7 @@ gBK
 gravitational
 galaxy
 galactic
+graphical
 Floats
 Float
 Full
@@ -33439,6 +33450,7 @@ vXM
 vHF
 vfd
 valuable
+vertices
 We
 When
 Where

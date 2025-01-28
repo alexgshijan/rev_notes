@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Unit 3 - Programming and SysDev/3.3 - Algorithms and Programs/Big O Notation.md",
+                "file": "Maths/Unit 3 - PURE/3.6 - Differentiation/Calculus Differentiation Proofs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Big O Notation"
+              "title": "Calculus Differentiation Proofs"
             }
           },
           {
@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Unit 3 - Programming and SysDev/3.3 - Algorithms and Programs/Shortest Path.md",
+                "file": "Further Maths/Unit 4 - Further Pure/4.6 - Polar Coordinates/4.6 - Polar Coordinates.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Shortest Path"
+              "title": "4.6 - Polar Coordinates"
             }
           },
           {
@@ -276,34 +276,35 @@
       "chronology:Open Chronology": false
     }
   },
-  "active": "de7d5c11a53ffbd9",
+  "active": "ed593fcfc0d9bbb5",
   "lastOpenFiles": [
+    "Further Maths/Unit 4 - Further Pure/4.4 - Further Algebra and Functions/Maclaurin Series.md",
+    "Further Maths/Unit 2 - Further Statistics/2.2 - Relation of Fit & Variable of Models/Chi-Squared Two-Way Tables.md",
     "Computer Science/Unit 3 - Programming and SysDev/3.3 - Algorithms and Programs/Big O Notation.md",
+    "Further Maths/Unit 4 - Further Pure/4.6 - Polar Coordinates/4.6 - Polar Coordinates.md",
+    "Further Maths/Unit 2 - Further Statistics/Unit 2 - Further Statistics.md",
+    "Further Maths/Unit 4 - Further Pure/4.6 - Polar Coordinates",
+    "Maths/Unit 3 - PURE/3.6 - Differentiation/Implicit Differentiation.md",
+    "Maths/Unit 3 - PURE/3.6 - Differentiation/Calculus Differentiation Proofs.md",
+    "Further Maths/Unit 3 - Further Mechanics/3.4 - Calculus With Vectors/3.4 - Calculus With Vectors.md",
+    "Further Maths/Unit 4 - Further Pure/4.1 - Complex Numbers/4.1 - Complex Numbers.md",
+    "Further Maths/Unit 4 - Further Pure/4.1 - Complex Numbers/De Moivre's Theorem.md",
+    "Further Maths/Unit 3 - Further Mechanics/Unit 3 - Further Mechanics.md",
+    "Further Maths/Unit 3 - Further Mechanics/3.2 - Hooke's Law, Work, Energy and Power/3.2 - Hooke's Law, Work, Energy and Power.md",
+    "Further Maths/Further Maths.md",
+    "Physics/Physics.md",
+    "Physics/Unit 4/4.2 - Gravitational Fields/4.2 - Gravitational Fields.md",
+    "Physics/Unit 3/Unit 3.md",
+    "Physics/Unit 3/3.4 - Thermal Physics - Thermodynamics/3.4 - Thermal Physics - Thermodynamics.md",
+    "Physics/Unit 4/4.2 - Electrostatic Fields/4.2 - Electrostatic Fields.md",
+    "Computer Science/Computer Science.md",
     "Computer Science/Unit 3 - Programming and SysDev/3.3 - Algorithms and Programs/Shortest Path.md",
     "Computer Science/Unit 3 - Programming and SysDev/3.3 - Algorithms and Programs/3.3 - Algorithms and Programs.md",
-    "Computer Science/Computer Science.md",
     "Maths/Maths.md",
     "Maths/Unit 2 - APPLIED/2.8 - Forces and Newton's Laws/2.8 - Forces and Newton's Laws.md",
-    "Physics/Unit 3/3.4 - Thermal Physics - Thermodynamics/3.4 - Thermal Physics - Thermodynamics.md",
     "Physics/Unit 3/3.4 - Thermal Physics - Thermodynamics/Specific Heat Capacity.md",
     "Physics/Unit 3/3.4 - Thermal Physics - Thermodynamics/pV Graphs.md",
-    "Physics/Unit 3/Unit 3.md",
-    "Physics/Physics.md",
-    "Further Maths/Further Maths.md",
-    "Further Maths/Unit 2 - Further Statistics/2.2 - Relation of Fit & Variable of Models/Chi-Squared Two-Way Tables.md",
     "Computer Science/Unit 1 - CS Fundamentals/1.1 - Hardware and communication/Networking/TCP-IP Protocol.md",
-    "Computer Science/Unit 1 - CS Fundamentals/1.1 - Hardware and communication/Networking/Different Scales of Network.md",
-    "Computer Science/Unit 1 - CS Fundamentals/1.1 - Hardware and communication/Networking/Contemporary Protocols.md",
-    "Further Maths/Unit 2 - Further Statistics/2.2 - Relation of Fit & Variable of Models/Linear Regression.md",
-    "Further Maths/Unit 2 - Further Statistics/Unit 2 - Further Statistics.md",
-    "Further Maths/Unit 3 - Further Mechanics/Unit 3 - Further Mechanics.md",
-    "Further Maths/Unit 4 - Further Pure/Unit 4 - Further Pure.md",
-    "Further Maths/Unit 3 - Further Mechanics/3.2 - Hooke's Law, Work, Energy and Power/3.2 - Hooke's Law, Work, Energy and Power.md",
-    "Further Maths/Unit 4 - Further Pure/4.1 - Complex Numbers/4.1 - Complex Numbers.md",
-    "Physics/Unit 1/1.5 - Solids under stress/1.5 - Solids under stress.md",
-    "Maths/Unit 3 - PURE/3.2 - Algebra and Functions/The Modulus Function.md",
-    "Further Maths/Unit 2 - Further Statistics/2.2 - Relation of Fit & Variable of Models/Pearson's PMCC.md",
-    "Further Maths/Unit 2 - Further Statistics/2.2 - Relation of Fit & Variable of Models/Spearman's Rank Correlation.md",
     "InvioDocs",
     "Physics/Unit 4/4.3 - The Empty Universe/Kepler's Laws.html",
     "Untitled.canvas",
@@ -321,7 +322,6 @@
     "Physics/Unit 4/4.3 - The Empty Universe",
     "Computer Science/Unit 3 - Programming and SysDev/3.3 - Algorithms and Programs",
     "Further Maths/Unit 4 - Further Pure/4.2 - Further Trigonometry",
-    "Further Maths/Unit 4 - Further Pure",
     "z_Excerpts/Image/TCPIP-Stack.png",
     "z_Excerpts/Image/TCPIP-Stack-datatransfer.png",
     "z_Excerpts/Image/Pasted image 20230929113635.png",

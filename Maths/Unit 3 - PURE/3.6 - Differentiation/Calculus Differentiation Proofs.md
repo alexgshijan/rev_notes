@@ -32,7 +32,7 @@ $$y=\sin^{-1}x$$
 *We can 'sin' both sides in order to remove that inverse sin*
 $$\sin y=x$$
 *Now let's differentiate both sides (implicit)*
-$$\frac{d}{dx}\sin y=\frac{dy}{dx}x\to\frac{dy}{dx}\cos y=1$$
+$$\frac{d}{dx}\sin y=\frac{d}{dx}x\to\frac{dy}{dx}\cos y=1$$
 *We'll bring that cos to the other side in order to get dydx on it's own*
 $$\frac{dy}{dx}=\frac{1}{\cos y}$$
 *We want this in terms of x tho, so let's change that*
@@ -54,7 +54,7 @@ $$y=\cos^{-1}x$$
 *We can 'cos' both sides in order to remove that inverse cos*
 $$\cos y=x$$
 *Now let's differentiate both sides (implicit)*
-$$\frac{d}{dx}\cos y=\frac{dy}{dx}x\to-\frac{dy}{dx}\sin y=1$$
+$$\frac{d}{dx}\cos y=\frac{d}{dx}x\to-\frac{dy}{dx}\sin y=1$$
 *We'll bring that negative sin to the other side in order to get dydx on it's own*
 $$\frac{dy}{dx}=-\frac{1}{\sin y}$$
 *We want this in terms of x tho, so let's change that*
