@@ -2,10 +2,10 @@ Classes are templates for modelling objects, they contain associated attributes 
 
 Objects are versions of the class which can be created (instanced) and interacted with. The methods in a class can be called like a normal function, and exist to manipulate the attributes (variables) in the class.
 
-| Name | **Car** | **Employee** |
-| ---- | ---- | ---- |
-| Variable:DataType | Make:String<br>Model:String <br>RegNum:String <br>Speed: Int | NINumber:String<br>Name:string<br>DOB:string |
-| Method(Parameters) | changeSpeed(newSpeed:int)<br>turnLeft()<br>turnRight() | EnterDetails(NI:string, Name:string, DoB:string)<br>ShowDetails() |
+| Name               | **Car**                                                      | **Employee**                                                      |
+| ------------------ | ------------------------------------------------------------ | ----------------------------------------------------------------- |
+| Variable:DataType  | Make:String<br>Model:String <br>RegNum:String <br>Speed: Int | NINumber:String<br>Name:string<br>DOB:string                      |
+| Method(Parameters) | changeSpeed(newSpeed:int)<br>turnLeft()<br>turnRight()       | EnterDetails(NI:string, Name:string, DoB:string)<br>ShowDetails() |
 
 *Promotes reusable (modular) code and well organised, neater structure than simple procedural. However, difficult for beginner programmers to learn and relationships between classes can become confusing and complex in large systems*
 

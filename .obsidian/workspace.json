@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Unit 1 - CS Fundamentals/1.10 - Principles of programming/Types of Languages.md",
+                "file": "Computer Science/Unit 1 - CS Fundamentals/1.10 - Principles of programming/Object Oriented Programming.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Types of Languages"
+              "title": "Object Oriented Programming"
             }
           },
           {
@@ -232,12 +232,13 @@
   },
   "active": "ed593fcfc0d9bbb5",
   "lastOpenFiles": [
-    "Computer Science/Unit 3 - Programming and SysDev/3.4 - Principles of Programming/3.4 - Principles of Programming.md",
     "Computer Science/Unit 1 - CS Fundamentals/1.10 - Principles of programming/Types of Languages.md",
+    "Computer Science/Unit 1 - CS Fundamentals/1.10 - Principles of programming/1.10 - Principles of programming.md",
+    "Computer Science/Unit 1 - CS Fundamentals/1.10 - Principles of programming/Levels of Languages.md",
+    "Computer Science/Unit 3 - Programming and SysDev/3.4 - Principles of Programming/3.4 - Principles of Programming.md",
     "Computer Science/Unit 1 - CS Fundamentals/1.10 - Principles of programming/[Object Oriented Programming.md",
     "Computer Science/Unit 1 - CS Fundamentals/1.10 - Principles of programming/Object Oriented Programming.md",
     "Computer Science/Unit 3 - Programming and SysDev/3.3 - Algorithms and Programs/Big O Notation.md",
-    "Computer Science/Unit 1 - CS Fundamentals/1.10 - Principles of programming/1.10 - Principles of programming.md",
     "Computer Science/Unit 3 - Programming and SysDev/3.4 - Principles of Programming",
     "Maths/Unit 3 - PURE/3.6 - Differentiation/Calculus Differentiation Proofs.md",
     "Computer Science/Unit 3 - Programming and SysDev/3.3 - Algorithms and Programs/Compression.md",
@@ -259,7 +260,6 @@
     "Physics/Unit 4/4.2 - Gravitational Fields/4.2 - Gravitational Fields.md",
     "Physics/Unit 3/Unit 3.md",
     "Physics/Unit 3/3.4 - Thermal Physics - Thermodynamics/3.4 - Thermal Physics - Thermodynamics.md",
-    "Physics/Unit 4/4.2 - Electrostatic Fields/4.2 - Electrostatic Fields.md",
     "InvioDocs",
     "Physics/Unit 4/4.3 - The Empty Universe/Kepler's Laws.html",
     "Untitled.canvas",
