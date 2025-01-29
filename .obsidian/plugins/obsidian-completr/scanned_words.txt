@@ -5663,6 +5663,7 @@ reasons
 residuals
 residual
 recognises
+research
 bank
 be
 but
@@ -16334,6 +16335,7 @@ eitheta
 extent
 exponentially
 eclipsing
+evaluated
 uk
 using
 unified
@@ -17901,6 +17903,8 @@ Pearson
 Polynomial
 Period
 Planet
+Programming
+Paradigms
 Sine
 Stands
 Standard
@@ -21605,6 +21609,8 @@ fxx
 fjjj
 finish
 freedom
+facts
+functional
 Graph
 Good
 Graphics
@@ -24616,6 +24622,7 @@ klx
 kGb
 kiL
 kXT
+knowledge
 Do
 Decimal
 Depends
@@ -29862,6 +29869,7 @@ FLY
 FKo
 FYvl
 Freedom
+Functional
 Long
 Layer
 LTE
