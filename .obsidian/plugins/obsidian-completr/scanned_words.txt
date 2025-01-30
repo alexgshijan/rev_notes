@@ -1528,6 +1528,7 @@ VFT
 VBM
 VYj
 Varying
+Values
 in
 is
 it
@@ -5664,6 +5665,7 @@ residuals
 residual
 recognises
 research
+recommended
 bank
 be
 but
@@ -7367,6 +7369,7 @@ trigonometric
 tidy
 typical
 treated
+thrown
 ll
 lot
 languages
@@ -14514,6 +14517,7 @@ minimums
 macluarins
 minimise
 moivers
+matrixes
 plans
 python
 press
@@ -15441,6 +15445,8 @@ prefix
 pulsation
 polar
 pole
+projectile
+pool
 expand
 even
 each
@@ -17905,6 +17911,7 @@ Period
 Planet
 Programming
 Paradigms
+Pooling
 Sine
 Stands
 Standard
@@ -18741,6 +18748,7 @@ Star
 Suppose
 Spearman
 Squared
+Statistics
 Rule
 Real
 Routes
@@ -23887,6 +23895,7 @@ Even
 Ensure
 Excepted
 Express
+Escape
 key
 know
 keyboard
@@ -28412,6 +28421,7 @@ Masses
 Menu
 Mark
 Merge
+Minimum
 give
 generally
 get
@@ -34225,6 +34235,7 @@ WOns
 Wkj
 WoXW
 Write
+Way
 Half
 HTTP
 HTTPS
