@@ -3337,6 +3337,9 @@ arguments
 approximatingw
 association
 assuming
+accepted
+adequately
+ambiguities
 only
 on
 odd
@@ -4122,6 +4125,7 @@ orbit
 oscillation
 orbiting
 offset
+opinions
 This
 Tan
 These
@@ -4817,6 +4821,8 @@ Tables
 Taylor
 Tree
 Test
+Thorough
+Thoroughness
 revision
 rule
 rotational
@@ -6461,6 +6467,7 @@ bqN
 bringing
 binomially
 bivariate
+biased
 that
 throughout
 the
@@ -7370,6 +7377,8 @@ tidy
 typical
 treated
 thrown
+technical
+thorough
 ll
 lot
 languages
@@ -10812,6 +10821,8 @@ scenario
 simulate
 separating
 statistic
+satisfied
+standards
 It
 Identities
 Information
@@ -13620,6 +13631,9 @@ drawn
 decreasingly
 delta
 differentiating
+devs
+documentation
+discussed
 many
 mailto
 main
@@ -14518,6 +14532,7 @@ macluarins
 minimise
 moivers
 matrixes
+manufacturer
 plans
 python
 press
@@ -15447,6 +15462,7 @@ polar
 pole
 projectile
 pool
+platform
 expand
 even
 each
@@ -17912,6 +17928,7 @@ Planet
 Programming
 Paradigms
 Pooling
+Portability
 Sine
 Stands
 Standard
@@ -18749,6 +18766,7 @@ Suppose
 Spearman
 Squared
 Statistics
+Standards
 Rule
 Real
 Routes
@@ -19428,6 +19446,8 @@ Roots
 REG
 Rank
 Rho
+Regulations
+Regulatory
 Note
 Negatives
 Normalising
@@ -23896,6 +23916,7 @@ Ensure
 Excepted
 Express
 Escape
+Employment
 key
 know
 keyboard
@@ -25488,6 +25509,9 @@ Defining
 Density
 Degrees
 Dijkstra
+Developing
+Difficulties
+Developers
 Unicode
 Used
 UCS
@@ -26935,6 +26959,7 @@ BBWD
 BIAe
 BMAv
 Bubble
+Benefits
 needs
 needed
 number
@@ -30619,6 +30644,7 @@ LxF
 Logs
 Look
 Logarithmic
+Limiting
 You
 Yottabyte
 Young
@@ -32703,6 +32729,7 @@ Omv
 OXv
 Odd
 Orbital
+Organisation
 value
 very
 valued
@@ -34236,6 +34263,7 @@ Wkj
 WoXW
 Write
 Way
+Will
 Half
 HTTP
 HTTPS
