@@ -8,73 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4dc0b517df9e72e0",
+            "id": "2f1aa1da6cf1c23e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Unit 3 - Programming and SysDev/3.4 - Principles of Programming/3.4 - Principles of Programming.md",
+                "file": "Further Maths/Unit 4 - Further Pure/4.1 - Complex Numbers/De Moivre's Theorem.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.4 - Principles of Programming"
-            }
-          },
-          {
-            "id": "ed593fcfc0d9bbb5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Unit 3 - Programming and SysDev/3.4 - Principles of Programming/Programming Standards.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Programming Standards"
-            }
-          },
-          {
-            "id": "4793cb535fa40081",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Unit 3 - Programming and SysDev/3.4 - Principles of Programming/3.4 - Principles of Programming.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3.4 - Principles of Programming"
-            }
-          },
-          {
-            "id": "5f0f6857a1318c5f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Unit 1 - CS Fundamentals/1.12 & 1.13 - Software engineering & Program construction/1.12 & 1.13 - Software engineering & Program construction.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1.12 & 1.13 - Software engineering & Program construction"
-            }
-          },
-          {
-            "id": "77050c34f82d4b83",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "title": "De Moivre's Theorem"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTime"
+                "sortOrder": "byCreatedTime",
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -146,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Unit 4/4.3 - The Empty Universe/Kepler's Laws.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +103,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Kepler's Laws"
+              "title": "Backlinks"
             }
           },
           {
@@ -165,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Unit 1 - CS Fundamentals/1.2 - Logical Operators/1.2 - Logical Operators.md",
+                "file": "Further Maths/Unit 4 - Further Pure/4.6 - Polar Coordinates/Calculus of Polar Curves.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 1.2 - Logical Operators"
+              "title": "Outgoing links from Calculus of Polar Curves"
             }
           },
           {
@@ -258,56 +205,56 @@
       "chronology:Open Chronology": false
     }
   },
-  "active": "4793cb535fa40081",
+  "active": "2f1aa1da6cf1c23e",
   "lastOpenFiles": [
-    "Computer Science/Unit 1 - CS Fundamentals/1.12 & 1.13 - Software engineering & Program construction/1.12 & 1.13 - Software engineering & Program construction.md",
-    "Computer Science/Unit 3 - Programming and SysDev/3.4 - Principles of Programming/3.4 - Principles of Programming.md",
-    "Computer Science/Unit 3 - Programming and SysDev/3.4 - Principles of Programming/Programming Standards.md",
-    "Computer Science/Unit 3 - Programming and SysDev/3.4 - Principles of Programming/Compilation Process.md",
-    "Computer Science/Unit 1 - CS Fundamentals/1.10 - Principles of programming/1.10 - Principles of programming.md",
-    "Computer Science/Unit 3 - Programming and SysDev/Unit 3 - Programming and SysDev.md",
-    "Computer Science/Unit 4 - Theory/Unit 4 - Theory.md",
-    "Computer Science/Computer Science.md",
-    "Further Maths/Further Maths.md",
-    "Further Maths/Unit 2 - Further Statistics/2.2 - Relation of Fit & Variable of Models/Chi-Squared Two-Way Tables.md",
-    "Computer Science/Unit 1 - CS Fundamentals/1.10 - Principles of programming/Object Oriented Programming.md",
-    "Further Maths/Unit 2 - Further Statistics/Unit 2 - Further Statistics.md",
-    "Physics/Physics.md",
-    "Physics/Unit 4/4.2 - Gravitational Fields/4.2 - Gravitational Fields.md",
-    "Computer Science/Unit 3 - Programming and SysDev/3.3 - Algorithms and Programs/3.3 - Algorithms and Programs.md",
-    "Computer Science/Unit 1 - CS Fundamentals/Unit 1 - CS Fundamentals.md",
-    "Computer Science/Unit 1 - CS Fundamentals/1.10 - Principles of programming/Types of Languages.md",
-    "Computer Science/Unit 1 - CS Fundamentals/1.10 - Principles of programming/Levels of Languages.md",
-    "Computer Science/Unit 1 - CS Fundamentals/1.10 - Principles of programming/[Object Oriented Programming.md",
-    "Computer Science/Unit 3 - Programming and SysDev/3.3 - Algorithms and Programs/Big O Notation.md",
-    "Computer Science/Unit 3 - Programming and SysDev/3.4 - Principles of Programming",
-    "Maths/Unit 3 - PURE/3.6 - Differentiation/Calculus Differentiation Proofs.md",
-    "Computer Science/Unit 3 - Programming and SysDev/3.3 - Algorithms and Programs/Compression.md",
-    "Maths/Maths.md",
+    "Physics/Unit 4/4.1 - Capacitance/4.1 - Capacitance.md",
+    "Further Maths/Unit 4 - Further Pure/4.6 - Polar Coordinates/Calculus of Polar Curves.md",
     "Further Maths/Unit 4 - Further Pure/4.6 - Polar Coordinates/4.6 - Polar Coordinates.md",
+    "Further Maths/Unit 4 - Further Pure/4.1 - Complex Numbers/De Moivre's Theorem.md",
+    "Further Maths/Unit 3 - Further Mechanics/3.4 - Calculus With Vectors/3.4 - Calculus With Vectors.md",
+    "Further Maths/Unit 1 - Pure/1.4 - Further Algebra and Functions/Summation - Standard Results.md",
+    "Computer Science/Unit 3 - Programming and SysDev/3.4 - Principles of Programming/Syntax Analysis.md",
+    "Further Maths/Unit 4 - Further Pure/4.1 - Complex Numbers/Proof by Induction of De Moivre's Theorem.md",
+    "Further Maths/Unit 4 - Further Pure/4.1 - Complex Numbers/4.1 - Complex Numbers.md",
+    "Computer Science/Unit 3 - Programming and SysDev/3.4 - Principles of Programming/3.4 - Principles of Programming.md",
+    "Further Maths/Unit 1 - Pure/1.3 - Matrices/1.3 - Matrices.md",
+    "Further Maths/Unit 1 - Pure/1.1 - Proof by Induction/1.1 - Proof by Induction.md",
+    "Computer Science/Unit 1 - CS Fundamentals/1.12 & 1.13 - Software engineering & Program construction/1.12 & 1.13 - Software engineering & Program construction.md",
     "Further Maths/Unit 4 - Further Pure/4.4 - Further Algebra and Functions/Maclaurin Series.md",
+    "Further Maths/Unit 4 - Further Pure/4.6 - Polar Coordinates/Finding the polar equation of a shape.md",
+    "Further Maths/Further Maths.md",
+    "Computer Science/Computer Science.md",
+    "Computer Science/Unit 3 - Programming and SysDev/3.4 - Principles of Programming/Programming Standards.md",
+    "Computer Science/Unit 3 - Programming and SysDev/Unit 3 - Programming and SysDev.md",
+    "Computer Science/Unit 4 - Theory/4.5 - Databases and distributed systems/4.5 - Databases and distributed systems.md",
+    "Physics/Physics.md",
+    "Physics/Unit 4/4.2 - Electrostatic Fields/4.2 - Electrostatic Fields.md",
+    "Physics/Unit 3/Unit 3.md",
+    "Physics/Unit 4/4.1 - Capacitance",
+    "z_Excerpts/z_Excerpts.md",
+    "z_Excerpts/Graph/Graph.md",
+    "z_Excerpts/Graph/desmos-graph-b7d1ab6c47c5d1744c587e222862b2167f00911d282319b016019d43f041acbb.svg",
+    "z_Excerpts/Graph/desmos-graph-1568dadd401ccb01e1713a109de211f92b45b484362aee0ee1c4e56f0a071b26.svg",
+    "z_Excerpts/Graph/desmos-graph-76573f6458593dbf16cd7f69538e53888c39b4d9353895289032f7128a66421d.svg",
+    "z_Excerpts/Graph/desmos-graph-c6309f3153f14a54c96dad1683933b62346c33528da43a7416d8f62312fe5115.svg",
+    "z_Excerpts/Graph/desmos-graph-e59cd4241200c790e5936497bc0280a2d05f1543769afabf2b54afe59bcdf74d.svg",
+    "z_Excerpts/Graph/desmos-graph-8ce189ab809c66c18db57e7e54caea5721e91bb5f9cc9ffc111f917926363690.svg",
+    "z_Excerpts/Graph/desmos-graph-76d6a26d2f36b59a9ddfec962cb6b7af0830339f65da5a23732b7f9db6a3a40d.svg",
+    "z_Excerpts/Graph/desmos-graph-b75f398f9e3ca93f66ba3be7c40e0c18a9f54718801d6ff184d7ae4c579832f8.svg",
+    "z_Excerpts/Graph/desmos-graph-683fa74b8525e94a0a8bc98d807824381973e90f1fdf18fb7fda01a88284155f.svg",
+    "Maths/Unit 1 - PURE/1.5 - Trigonometry/1.5 - Trigonometry.md",
+    "Computer Science/Unit 3 - Programming and SysDev/3.4 - Principles of Programming",
     "Further Maths/Unit 4 - Further Pure/4.6 - Polar Coordinates",
-    "Maths/Unit 3 - PURE/3.6 - Differentiation/Implicit Differentiation.md",
     "InvioDocs",
     "Physics/Unit 4/4.3 - The Empty Universe/Kepler's Laws.html",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "z_Excerpts/Image/Pasted image 20250122092650.png",
-    "z_Excerpts/Image/Pasted image 20250122092541.png",
-    "z_Excerpts/Image/Pasted image 20250122092455.png",
     "Further Maths/Unit 4 - Further Pure/4.4 - Further Algebra and Functions",
     "Physics/Unit 4/4.2 - Gravitational Fields",
     "Further Maths/Unit 2 - Further Statistics/2.2 - Relation of Fit & Variable of Models",
-    "z_Excerpts/Image/Screenshot 2025-01-09 at 10.55.21.png",
-    "z_Excerpts/Image/Pasted image 20250108091640.png",
-    "z_Excerpts/Image/Screenshot 2025-01-07 at 20.52.30.png",
     "Further Maths/Unit 4 - Further Pure/4.1 - Complex Numbers",
     "Physics/Unit 4/4.3 - The Empty Universe",
-    "Computer Science/Unit 3 - Programming and SysDev/3.3 - Algorithms and Programs",
-    "z_Excerpts/Image/TCPIP-Stack.png",
-    "z_Excerpts/Image/TCPIP-Stack-datatransfer.png",
-    "z_Excerpts/Image/Pasted image 20230929113635.png",
-    "z_Excerpts/Image/Pasted image 20231005123527.png",
     "Physics/Unit 1/1.6 - Using Radiation to Investigate Stars/Using Radiation to Investigate Stars recap.canvas",
     "Physics/1.6 - Using Radiation to Investigate Stars/Using Radiation to Investigate Stars recap.canvas",
     "Computer Science/2.A - Practical/Practical revision.canvas",

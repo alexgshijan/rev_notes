@@ -11,7 +11,7 @@ $$\sum\limits^{k+1}_{r=1}{r^{3}}=\sum\limits^{k}_{r=1}{r^{3}}+\sum\limits^{k+1}_
 $$\sum\limits^{k+1}_{r=1}{r^{3}}=\frac{k^{2}(k+1)^{2}}{4}+(k+1)^{3}=\frac{k^{2}(k+1)^{2}+4(k+1)^{3}}{4}=\frac{(k+1)^{2}(k^{2}+4(k+1))}{4}$$
 *Our goal is to rearrange this so that we return to the original formula where $n= k+1$*
 $$\sum\limits^{k+1}_{r=1}{r^{3}}=\frac{(k+1)^{2}(k^{2}+4k+4)}{4}=\frac{(k+1)^{2}(k+2)^{2}}{4}$$
-*As proof is valid for $n=1$ and where $n=k$, $n=k+1$ is valid. By Proof by Induction $\sum\limits^{n}_{r=1}{r^{3}}=\frac{n^{2}(n+1)^{2}}{4}$ for all positive integers $n$*
+*As proof is valid for $n=1$ and where $n=k$ is valid, $n=k+1$ is also valid. By Proof by Induction $\sum\limits^{n}_{r=1}{r^{3}}=\frac{n^{2}(n+1)^{2}}{4}$ True for all positive integers $n$*
 
 
 **Summation with multiple terms** - We can split the individual terms into their own summations with the same limits.

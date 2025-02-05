@@ -7,8 +7,6 @@ By following the pattern we can derive that a_2 = 2, a_3 = 6, a_4 = 24. Alternat
 
 *As such we can define e^x as the following :*
 $$e^{x}=\frac{x^{0}}{0!}+\frac{x^{1}}{1!}+\frac{x^{2}}{2!}+\frac{x^{3}}{3!}+...+\frac{x^{r}}{r!}\text{  for all values of x, r lim to infinity}$$
-#wip for f(x)
 
-**Assume a function of x f(x) can be written as $f(x)=a_{0}+a_{1}x+a_{2}x^{2}+a_{3}x^{3}+...$**
-
-Approximating with Maclaurin #wip
+**Approximating with Maclaurin**
+In essence we approximate a value by subbing into an appropriate maclaurin series equation and then increasing it's degree of accuracy by using more terms from that series. We finally need to reason why we have chosen that many terms and not more, ie. the next term won't affect the 4dp we were asked to approximate in the question.

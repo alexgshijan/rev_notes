@@ -777,6 +777,11 @@ Cumulative
 CALC
 Chi
 Compilation
+Capacitors
+Capacitor
+Capacitance
+Charging
+Connect
 View
 VOIP
 Voice
@@ -2413,6 +2418,8 @@ insignificant
 insertion
 inducrtion
 incorrect
+indicate
+inherently
 app
 adding
 are
@@ -4128,6 +4135,7 @@ oscillation
 orbiting
 offset
 opinions
+ons
 This
 Tan
 These
@@ -4825,6 +4833,7 @@ Tree
 Test
 Thorough
 Thoroughness
+True
 revision
 rule
 rotational
@@ -5674,6 +5683,11 @@ residual
 recognises
 research
 recommended
+rose
+resemble
+release
+rolled
+roll
 bank
 be
 but
@@ -7382,6 +7396,7 @@ thrown
 technical
 thorough
 tokens
+title
 ll
 lot
 languages
@@ -8227,6 +8242,7 @@ lqq
 leXIfMM
 loops
 letter
+lima
 working
 when
 wip
@@ -8999,6 +9015,7 @@ worst
 wobble
 weighting
 weights
+wobbly
 year
 you
 years
@@ -9704,6 +9721,7 @@ yrPP
 yTk
 yBI
 yRjG
+yaxis
 slowly
 subjects
 shijan
@@ -10827,6 +10845,12 @@ statistic
 satisfied
 standards
 spaces
+sketch
+shaped
+separates
+surge
+shapes
+sectors
 It
 Identities
 Information
@@ -12725,6 +12749,13 @@ complexities
 conceptual
 calculator
 comments
+centred
+cardioid
+capacitance
+capacitor
+connecting
+charging
+closest
 doesn
 determined
 data
@@ -13639,6 +13670,8 @@ differentiating
 devs
 documentation
 discussed
+dielectric
+discharging
 many
 mailto
 main
@@ -15468,6 +15501,9 @@ pole
 projectile
 pool
 platform
+petals
+propellers
+plates
 expand
 even
 each
@@ -16366,7 +16402,6 @@ evaluated
 uk
 using
 unified
-use
 uses
 unsigned
 usually
@@ -17934,6 +17969,7 @@ Programming
 Paradigms
 Pooling
 Portability
+Polar
 Sine
 Stands
 Standard
@@ -18774,6 +18810,8 @@ Statistics
 Standards
 Symbols
 Semantic
+Special
+Swiss
 Rule
 Real
 Routes
@@ -19456,6 +19494,8 @@ Rho
 Regulations
 Regulatory
 Removes
+Roses
+RHS
 Note
 Negatives
 Normalising
@@ -20843,6 +20883,7 @@ AexT
 AErE
 Algorithms
 Alternatively
+AtoB
 for
 finding
 function
@@ -21648,6 +21689,8 @@ freedom
 facts
 functional
 flagged
+fdbfbb
+follow
 Graph
 Good
 Graphics
@@ -23927,6 +23970,10 @@ Excepted
 Express
 Escape
 Employment
+Expression
+Encloses
+Expand
+Epsilon
 key
 know
 keyboard
@@ -25522,6 +25569,9 @@ Dijkstra
 Developing
 Difficulties
 Developers
+Discharges
+During
+Defines
 Unicode
 Used
 UCS
@@ -26970,6 +27020,7 @@ BIAe
 BMAv
 Bubble
 Benefits
+BNF
 needs
 needed
 number
@@ -29915,6 +29966,7 @@ FKo
 FYvl
 Freedom
 Functional
+Farad
 Long
 Layer
 LTE
@@ -30656,6 +30708,8 @@ Look
 Logarithmic
 Limiting
 Lexical
+Lima
+Lemniscates
 You
 Yottabyte
 Young
@@ -40525,6 +40579,7 @@ xus
 xqcc
 xsO
 xhH
+xaxis
 öO
 öm
 öqjG
