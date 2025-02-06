@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Further Maths/Unit 4 - Further Pure/4.1 - Complex Numbers/De Moivre's Theorem.md",
+                "file": "Physics/Unit 4/4.1 - Capacitance/4.1 - Capacitance.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "De Moivre's Theorem"
+              "title": "4.1 - Capacitance"
             }
           }
         ]
@@ -207,10 +207,13 @@
   },
   "active": "2f1aa1da6cf1c23e",
   "lastOpenFiles": [
+    "Physics/Unit 4/Unit 4.md",
+    "Physics/Physics.md",
+    "Further Maths/Further Maths.md",
+    "Further Maths/Unit 4 - Further Pure/4.1 - Complex Numbers/De Moivre's Theorem.md",
     "Physics/Unit 4/4.1 - Capacitance/4.1 - Capacitance.md",
     "Further Maths/Unit 4 - Further Pure/4.6 - Polar Coordinates/Calculus of Polar Curves.md",
     "Further Maths/Unit 4 - Further Pure/4.6 - Polar Coordinates/4.6 - Polar Coordinates.md",
-    "Further Maths/Unit 4 - Further Pure/4.1 - Complex Numbers/De Moivre's Theorem.md",
     "Further Maths/Unit 3 - Further Mechanics/3.4 - Calculus With Vectors/3.4 - Calculus With Vectors.md",
     "Further Maths/Unit 1 - Pure/1.4 - Further Algebra and Functions/Summation - Standard Results.md",
     "Computer Science/Unit 3 - Programming and SysDev/3.4 - Principles of Programming/Syntax Analysis.md",
@@ -222,12 +225,10 @@
     "Computer Science/Unit 1 - CS Fundamentals/1.12 & 1.13 - Software engineering & Program construction/1.12 & 1.13 - Software engineering & Program construction.md",
     "Further Maths/Unit 4 - Further Pure/4.4 - Further Algebra and Functions/Maclaurin Series.md",
     "Further Maths/Unit 4 - Further Pure/4.6 - Polar Coordinates/Finding the polar equation of a shape.md",
-    "Further Maths/Further Maths.md",
     "Computer Science/Computer Science.md",
     "Computer Science/Unit 3 - Programming and SysDev/3.4 - Principles of Programming/Programming Standards.md",
     "Computer Science/Unit 3 - Programming and SysDev/Unit 3 - Programming and SysDev.md",
     "Computer Science/Unit 4 - Theory/4.5 - Databases and distributed systems/4.5 - Databases and distributed systems.md",
-    "Physics/Physics.md",
     "Physics/Unit 4/4.2 - Electrostatic Fields/4.2 - Electrostatic Fields.md",
     "Physics/Unit 3/Unit 3.md",
     "Physics/Unit 4/4.1 - Capacitance",
@@ -242,7 +243,6 @@
     "z_Excerpts/Graph/desmos-graph-76d6a26d2f36b59a9ddfec962cb6b7af0830339f65da5a23732b7f9db6a3a40d.svg",
     "z_Excerpts/Graph/desmos-graph-b75f398f9e3ca93f66ba3be7c40e0c18a9f54718801d6ff184d7ae4c579832f8.svg",
     "z_Excerpts/Graph/desmos-graph-683fa74b8525e94a0a8bc98d807824381973e90f1fdf18fb7fda01a88284155f.svg",
-    "Maths/Unit 1 - PURE/1.5 - Trigonometry/1.5 - Trigonometry.md",
     "Computer Science/Unit 3 - Programming and SysDev/3.4 - Principles of Programming",
     "Further Maths/Unit 4 - Further Pure/4.6 - Polar Coordinates",
     "InvioDocs",
