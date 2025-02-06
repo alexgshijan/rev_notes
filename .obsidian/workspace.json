@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Unit 4/4.1 - Capacitance/4.1 - Capacitance.md",
+                "file": "Further Maths/Unit 2 - Further Statistics/2.2 - Relation of Fit & Variable of Models/2.2 - Relation of Fit & Variable of Models.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.1 - Capacitance"
+              "title": "2.2 - Relation of Fit & Variable of Models"
+            }
+          },
+          {
+            "id": "d39ac02087b4a07b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Further Maths/Unit 2 - Further Statistics/2.2 - Relation of Fit & Variable of Models/Goodness of Fit with Chi-Squared.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Goodness of Fit with Chi-Squared"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "bnf",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -205,35 +220,35 @@
       "chronology:Open Chronology": false
     }
   },
-  "active": "2f1aa1da6cf1c23e",
+  "active": "d39ac02087b4a07b",
   "lastOpenFiles": [
-    "Physics/Unit 4/Unit 4.md",
-    "Physics/Physics.md",
-    "Further Maths/Further Maths.md",
-    "Further Maths/Unit 4 - Further Pure/4.1 - Complex Numbers/De Moivre's Theorem.md",
     "Physics/Unit 4/4.1 - Capacitance/4.1 - Capacitance.md",
+    "Further Maths/Unit 2 - Further Statistics/2.2 - Relation of Fit & Variable of Models/Goodness of Fit with Chi-Squared.md",
+    "Computer Science/Unit 3 - Programming and SysDev/3.4 - Principles of Programming/Syntax Analysis.md",
+    "Further Maths/Further Maths.md",
+    "Computer Science/Computer Science.md",
+    "Computer Science/Unit 3 - Programming and SysDev/Unit 3 - Programming and SysDev.md",
+    "Computer Science/Unit 4 - Theory/4.4 - Organisation and structure of data/4.4 - Organisation and structure of data.md",
+    "Computer Science/Unit 4 - Theory/4.5 - Databases and distributed systems/4.5 - Databases and distributed systems.md",
+    "Computer Science/Unit 4 - Theory/Unit 4 - Theory.md",
+    "Physics/Physics.md",
+    "Further Maths/Unit 2 - Further Statistics/2.2 - Relation of Fit & Variable of Models/Chi-Squared Two-Way Tables.md",
+    "Further Maths/Unit 2 - Further Statistics/2.2 - Relation of Fit & Variable of Models/2.2 - Relation of Fit & Variable of Models.md",
+    "Further Maths/Unit 2 - Further Statistics/Unit 2 - Further Statistics.md",
+    "Maths/Maths.md",
+    "Physics/Unit 4/Unit 4.md",
+    "Further Maths/Unit 4 - Further Pure/4.1 - Complex Numbers/De Moivre's Theorem.md",
     "Further Maths/Unit 4 - Further Pure/4.6 - Polar Coordinates/Calculus of Polar Curves.md",
     "Further Maths/Unit 4 - Further Pure/4.6 - Polar Coordinates/4.6 - Polar Coordinates.md",
     "Further Maths/Unit 3 - Further Mechanics/3.4 - Calculus With Vectors/3.4 - Calculus With Vectors.md",
     "Further Maths/Unit 1 - Pure/1.4 - Further Algebra and Functions/Summation - Standard Results.md",
-    "Computer Science/Unit 3 - Programming and SysDev/3.4 - Principles of Programming/Syntax Analysis.md",
     "Further Maths/Unit 4 - Further Pure/4.1 - Complex Numbers/Proof by Induction of De Moivre's Theorem.md",
     "Further Maths/Unit 4 - Further Pure/4.1 - Complex Numbers/4.1 - Complex Numbers.md",
     "Computer Science/Unit 3 - Programming and SysDev/3.4 - Principles of Programming/3.4 - Principles of Programming.md",
     "Further Maths/Unit 1 - Pure/1.3 - Matrices/1.3 - Matrices.md",
     "Further Maths/Unit 1 - Pure/1.1 - Proof by Induction/1.1 - Proof by Induction.md",
     "Computer Science/Unit 1 - CS Fundamentals/1.12 & 1.13 - Software engineering & Program construction/1.12 & 1.13 - Software engineering & Program construction.md",
-    "Further Maths/Unit 4 - Further Pure/4.4 - Further Algebra and Functions/Maclaurin Series.md",
-    "Further Maths/Unit 4 - Further Pure/4.6 - Polar Coordinates/Finding the polar equation of a shape.md",
-    "Computer Science/Computer Science.md",
-    "Computer Science/Unit 3 - Programming and SysDev/3.4 - Principles of Programming/Programming Standards.md",
-    "Computer Science/Unit 3 - Programming and SysDev/Unit 3 - Programming and SysDev.md",
-    "Computer Science/Unit 4 - Theory/4.5 - Databases and distributed systems/4.5 - Databases and distributed systems.md",
-    "Physics/Unit 4/4.2 - Electrostatic Fields/4.2 - Electrostatic Fields.md",
-    "Physics/Unit 3/Unit 3.md",
     "Physics/Unit 4/4.1 - Capacitance",
-    "z_Excerpts/z_Excerpts.md",
-    "z_Excerpts/Graph/Graph.md",
     "z_Excerpts/Graph/desmos-graph-b7d1ab6c47c5d1744c587e222862b2167f00911d282319b016019d43f041acbb.svg",
     "z_Excerpts/Graph/desmos-graph-1568dadd401ccb01e1713a109de211f92b45b484362aee0ee1c4e56f0a071b26.svg",
     "z_Excerpts/Graph/desmos-graph-76573f6458593dbf16cd7f69538e53888c39b4d9353895289032f7128a66421d.svg",

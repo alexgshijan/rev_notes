@@ -36,7 +36,8 @@
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "alphabetical"
+            "sortOrder": "alphabetical",
+            "autoReveal": true
           },
           "icon": "lucide-folder-closed",
           "title": "Files"
@@ -97,7 +98,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "right": {
     "id": "787956d7213d1a65",
@@ -109,6 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Physics/Unit 1/1.1 - Physics Basics/1.1 - Physics Basics.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,6 +129,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Physics/Unit 1/1.1 - Physics Basics/1.1 - Physics Basics.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -139,7 +142,12 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {},
+          "state": {
+            "file": "Physics/Unit 1/1.1 - Physics Basics/1.1 - Physics Basics.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
           "icon": "lucide-list",
           "title": "Outline"
         }
@@ -165,7 +173,7 @@
       "chronology:Open Chronology": false
     }
   },
-  "active": "05c65eeab4b56967",
+  "active": "0803b91cff32b432",
   "lastOpenFiles": [
     "Physics/Physics.md",
     "Further Maths/Unit 4 - Further Pure/4.1 - Complex Numbers/7Jan2025.md",

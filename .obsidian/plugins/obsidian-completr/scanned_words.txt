@@ -782,6 +782,7 @@ Capacitor
 Capacitance
 Charging
 Connect
+Combine
 View
 VOIP
 Voice
@@ -2420,6 +2421,8 @@ inducrtion
 incorrect
 indicate
 inherently
+individuals
+infinitely
 app
 adding
 are
@@ -3349,6 +3352,7 @@ assuming
 accepted
 adequately
 ambiguities
+arrow
 only
 on
 odd
@@ -5688,6 +5692,7 @@ resemble
 release
 rolled
 roll
+recursion
 bank
 be
 but
@@ -6484,6 +6489,7 @@ bringing
 binomially
 bivariate
 biased
+breaks
 that
 throughout
 the
@@ -7397,6 +7403,8 @@ technical
 thorough
 tokens
 title
+told
+tells
 ll
 lot
 languages
@@ -8243,6 +8251,8 @@ leXIfMM
 loops
 letter
 lima
+lightining
+lightning
 working
 when
 wip
@@ -10851,6 +10861,7 @@ separates
 surge
 shapes
 sectors
+sparks
 It
 Identities
 Information
@@ -11669,6 +11680,7 @@ IzO
 IOw
 Iterates
 Insertion
+Inserting
 currently
 contain
 co
@@ -12756,6 +12768,10 @@ capacitor
 connecting
 charging
 closest
+conceptually
+conclusion
+circuits
+capacitors
 doesn
 determined
 data
@@ -13672,6 +13688,7 @@ documentation
 discussed
 dielectric
 discharging
+discharged
 many
 mailto
 main
@@ -14571,6 +14588,7 @@ minimise
 moivers
 matrixes
 manufacturer
+minus
 plans
 python
 press
@@ -15504,6 +15522,8 @@ platform
 petals
 propellers
 plates
+pooling
+proportion
 expand
 even
 each
@@ -16399,6 +16419,7 @@ extent
 exponentially
 eclipsing
 evaluated
+electronics
 uk
 using
 unified
@@ -17970,6 +17991,7 @@ Paradigms
 Pooling
 Portability
 Polar
+Poisson
 Sine
 Stands
 Standard
@@ -18812,6 +18834,7 @@ Symbols
 Semantic
 Special
 Swiss
+Stored
 Rule
 Real
 Routes
@@ -19496,6 +19519,11 @@ Regulatory
 Removes
 Roses
 RHS
+Reduces
+Rectangle
+Represent
+Represents
+Rate
 Note
 Negatives
 Normalising
@@ -23244,6 +23272,7 @@ hGg
 hmcS
 hzF
 hfJV
+hypotheses
 Every
 EBCDIC
 Each
@@ -23974,6 +24003,7 @@ Expression
 Encloses
 Expand
 Epsilon
+Estimate
 key
 know
 keyboard
@@ -25572,6 +25602,8 @@ Developers
 Discharges
 During
 Defines
+Determine
+Discharging
 Unicode
 Used
 UCS
@@ -27744,6 +27776,7 @@ nyw
 numerically
 nth
 nested
+nature
 Many
 More
 Mail
@@ -32065,6 +32098,7 @@ jOO
 jxmI
 jgK
 join
+jump
 Overflow
 One
 Our
@@ -32795,6 +32829,7 @@ OXv
 Odd
 Orbital
 Organisation
+Oval
 value
 very
 valued
@@ -39888,6 +39923,7 @@ QBYF
 QGX
 QWf
 QZmU
+Quite
 xref
 xgR
 xA
