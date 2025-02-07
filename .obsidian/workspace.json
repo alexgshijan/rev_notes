@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Further Maths/Unit 2 - Further Statistics/2.2 - Relation of Fit & Variable of Models/Goodness of Fit with Chi-Squared.md",
+                "file": "Further Maths/Unit 2 - Further Statistics/2.1 - DRVs & Poisson Process/Probability Density Functions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Goodness of Fit with Chi-Squared"
+              "title": "Probability Density Functions"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -219,8 +220,12 @@
       "chronology:Open Chronology": false
     }
   },
-  "active": "2f1aa1da6cf1c23e",
+  "active": "d39ac02087b4a07b",
   "lastOpenFiles": [
+    "Further Maths/Unit 2 - Further Statistics/2.1 - DRVs & Poisson Process/Distribution Functions.md",
+    "Further Maths/Unit 2 - Further Statistics/2.1 - DRVs & Poisson Process/2.1 - DRVs & Poisson Process.md",
+    "Further Maths/Unit 2 - Further Statistics/2.1 - DRVs & Poisson Process/Probability Density Functions.md",
+    "Further Maths/Unit 2 - Further Statistics/2.2 - Relation of Fit & Variable of Models/Chi-Squared Two-Way Tables.md",
     "Further Maths/Unit 2 - Further Statistics/2.2 - Relation of Fit & Variable of Models/Goodness of Fit with Chi-Squared.md",
     "Physics/Unit 4/4.1 - Capacitance/4.1 - Capacitance.md",
     "Physics/Physics.md",
@@ -232,7 +237,6 @@
     "Computer Science/Unit 4 - Theory/4.4 - Organisation and structure of data/4.4 - Organisation and structure of data.md",
     "Computer Science/Unit 4 - Theory/4.5 - Databases and distributed systems/4.5 - Databases and distributed systems.md",
     "Computer Science/Unit 4 - Theory/Unit 4 - Theory.md",
-    "Further Maths/Unit 2 - Further Statistics/2.2 - Relation of Fit & Variable of Models/Chi-Squared Two-Way Tables.md",
     "Further Maths/Unit 2 - Further Statistics/Unit 2 - Further Statistics.md",
     "Maths/Maths.md",
     "Physics/Unit 4/Unit 4.md",
@@ -244,9 +248,6 @@
     "Further Maths/Unit 4 - Further Pure/4.1 - Complex Numbers/Proof by Induction of De Moivre's Theorem.md",
     "Further Maths/Unit 4 - Further Pure/4.1 - Complex Numbers/4.1 - Complex Numbers.md",
     "Computer Science/Unit 3 - Programming and SysDev/3.4 - Principles of Programming/3.4 - Principles of Programming.md",
-    "Further Maths/Unit 1 - Pure/1.3 - Matrices/1.3 - Matrices.md",
-    "Further Maths/Unit 1 - Pure/1.1 - Proof by Induction/1.1 - Proof by Induction.md",
-    "Computer Science/Unit 1 - CS Fundamentals/1.12 & 1.13 - Software engineering & Program construction/1.12 & 1.13 - Software engineering & Program construction.md",
     "Physics/Unit 4/4.1 - Capacitance",
     "z_Excerpts/Graph/desmos-graph-b7d1ab6c47c5d1744c587e222862b2167f00911d282319b016019d43f041acbb.svg",
     "z_Excerpts/Graph/desmos-graph-1568dadd401ccb01e1713a109de211f92b45b484362aee0ee1c4e56f0a071b26.svg",
