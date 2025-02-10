@@ -4838,6 +4838,8 @@ Test
 Thorough
 Thoroughness
 True
+Teslas
+Theta
 revision
 rule
 rotational
@@ -5693,6 +5695,7 @@ release
 rolled
 roll
 recursion
+reacts
 bank
 be
 but
@@ -10862,6 +10865,8 @@ surge
 shapes
 sectors
 sparks
+stronger
+solenoid
 It
 Identities
 Information
@@ -12772,6 +12777,9 @@ conceptually
 conclusion
 circuits
 capacitors
+carries
+coil
+coils
 doesn
 determined
 data
@@ -14589,6 +14597,7 @@ moivers
 matrixes
 manufacturer
 minus
+metre
 plans
 python
 press
@@ -15524,6 +15533,10 @@ propellers
 plates
 pooling
 proportion
+pulls
+packed
+permeability
+practise
 expand
 even
 each
@@ -16420,6 +16433,7 @@ exponentially
 eclipsing
 evaluated
 electronics
+experiences
 uk
 using
 unified
@@ -17992,6 +18006,7 @@ Pooling
 Portability
 Polar
 Poisson
+Pole
 Sine
 Stands
 Standard
@@ -18835,6 +18850,8 @@ Semantic
 Special
 Swiss
 Stored
+Straight
+Solenoid
 Rule
 Real
 Routes
@@ -21719,6 +21736,9 @@ functional
 flagged
 fdbfbb
 follow
+flux
+feel
+fairly
 Graph
 Good
 Graphics
@@ -24004,6 +24024,7 @@ Encloses
 Expand
 Epsilon
 Estimate
+Electricity
 key
 know
 keyboard
@@ -28541,6 +28562,7 @@ Menu
 Mark
 Merge
 Minimum
+Magnetism
 give
 generally
 get
@@ -30000,6 +30022,7 @@ FYvl
 Freedom
 Functional
 Farad
+Flux
 Long
 Layer
 LTE
@@ -30743,6 +30766,7 @@ Limiting
 Lexical
 Lima
 Lemniscates
+Longer
 You
 Yottabyte
 Young
@@ -34364,6 +34388,7 @@ WoXW
 Write
 Way
 Will
+Wrapping
 Half
 HTTP
 HTTPS
@@ -37206,6 +37231,7 @@ JzH
 JnD
 JtN
 JGD
+Just
 Zettabyte
 Zettabytes
 Zero

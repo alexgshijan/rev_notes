@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Unit 1/1.1 - Physics Basics/1.1 - Physics Basics.md",
+                "file": "Maths/Unit 3 - PURE/3.8 - Numerical Methods/Intermediate Value Theorem.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.1 - Physics Basics"
+              "title": "Intermediate Value Theorem"
             }
           }
         ]
@@ -98,7 +98,7 @@
         }
       }
     ],
-    "currentTab": 3
+    "currentTab": 0
   },
   "right": {
     "id": "787956d7213d1a65",
@@ -173,8 +173,15 @@
       "chronology:Open Chronology": false
     }
   },
-  "active": "0803b91cff32b432",
+  "active": "05c65eeab4b56967",
   "lastOpenFiles": [
+    "Maths/Unit 3 - PURE/3.8 - Numerical Methods/Fixed Point Iteration.md",
+    "Maths/Unit 3 - PURE/3.3 - Coordinate Geometry/Parametric Equations.md",
+    "Maths/Unit 3 - PURE/3.3 - Coordinate Geometry/3.3 - Coordinate Geometry.md",
+    "Maths/Unit 3 - PURE/Unit 3 - PURE.md",
+    "Maths/Unit 2 - APPLIED/Unit 2 - APPLIED.md",
+    "Maths/Unit 4 - APPLIED/Unit 4 - APPLIED.md",
+    "Physics/Unit 1/1.1 - Physics Basics/1.1 - Physics Basics.md",
     "Physics/Physics.md",
     "Further Maths/Unit 4 - Further Pure/4.1 - Complex Numbers/7Jan2025.md",
     "Further Maths/Further Maths.md",
@@ -194,13 +201,6 @@
     "Further Maths/Unit 4 - Further Pure/4.2 - Further Trigonometry/Half Angle Identities (little t).md",
     "Further Maths/Unit 2 - Further Statistics/2.1 - DRVs & Poisson Process/Probability Density Functions.md",
     "Further Maths/Unit 2 - Further Statistics/2.1 - DRVs & Poisson Process/Exponential Distribution.md",
-    "Further Maths/Unit 2 - Further Statistics/2.1 - DRVs & Poisson Process/Cumulative Distribution Function.md",
-    "Further Maths/Unit 2 - Further Statistics/2.1 - DRVs & Poisson Process/2.1 - DRVs & Poisson Process.md",
-    "Further Maths/Unit 1 - Pure/1.5 - Further Vectors/Vector Form to Cartesian Form.md",
-    "Further Maths/Unit 1 - Pure/1.5 - Further Vectors/Shortest distances.md",
-    "Further Maths/Unit 1 - Pure/1.5 - Further Vectors/Intersection of two lines.md",
-    "Further Maths/Unit 1 - Pure/1.5 - Further Vectors/Intersection of a Line and a Plane.md",
-    "Further Maths/Unit 1 - Pure/1.5 - Further Vectors/Equation of a Plane - Intersection of two planes.md",
     "Further Maths/Unit 1 - Pure/1.1 - Proof by Induction/Proof of the binomial theorem by induction.pdf"
   ]
 }

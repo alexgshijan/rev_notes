@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Unit 4/4.1 - Capacitance/4.1 - Capacitance.md",
+                "file": "Further Maths/Unit 4 - Further Pure/4.7 - Hyperbolic Functions/4.7 - Hyperbolic Functions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.1 - Capacitance"
-            }
-          },
-          {
-            "id": "d39ac02087b4a07b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Further Maths/Unit 2 - Further Statistics/2.1 - DRVs & Poisson Process/Probability Density Functions.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Probability Density Functions"
+              "title": "4.7 - Hyperbolic Functions"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bnf",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -220,34 +205,37 @@
       "chronology:Open Chronology": false
     }
   },
-  "active": "d39ac02087b4a07b",
+  "active": "2f1aa1da6cf1c23e",
   "lastOpenFiles": [
-    "Further Maths/Unit 2 - Further Statistics/2.1 - DRVs & Poisson Process/Distribution Functions.md",
-    "Further Maths/Unit 2 - Further Statistics/2.1 - DRVs & Poisson Process/2.1 - DRVs & Poisson Process.md",
-    "Further Maths/Unit 2 - Further Statistics/2.1 - DRVs & Poisson Process/Probability Density Functions.md",
-    "Further Maths/Unit 2 - Further Statistics/2.2 - Relation of Fit & Variable of Models/Chi-Squared Two-Way Tables.md",
-    "Further Maths/Unit 2 - Further Statistics/2.2 - Relation of Fit & Variable of Models/Goodness of Fit with Chi-Squared.md",
-    "Physics/Unit 4/4.1 - Capacitance/4.1 - Capacitance.md",
-    "Physics/Physics.md",
-    "Further Maths/Unit 2 - Further Statistics/2.2 - Relation of Fit & Variable of Models/2.2 - Relation of Fit & Variable of Models.md",
-    "Computer Science/Unit 3 - Programming and SysDev/3.4 - Principles of Programming/Syntax Analysis.md",
+    "Physics/Unit 4/4.4 - Magnetic Fields/4.4 - Magnetic Fields.md",
+    "Further Maths/Unit 4 - Further Pure/4.7 - Hyperbolic Functions/4.7 - Hyperbolic Functions.md",
+    "Further Maths/Unit 4 - Further Pure/Unit 4 - Further Pure.md",
+    "Further Maths/Unit 4 - Further Pure/4.7 - Hyperbolic Functions",
     "Further Maths/Further Maths.md",
-    "Computer Science/Computer Science.md",
-    "Computer Science/Unit 3 - Programming and SysDev/Unit 3 - Programming and SysDev.md",
-    "Computer Science/Unit 4 - Theory/4.4 - Organisation and structure of data/4.4 - Organisation and structure of data.md",
-    "Computer Science/Unit 4 - Theory/4.5 - Databases and distributed systems/4.5 - Databases and distributed systems.md",
-    "Computer Science/Unit 4 - Theory/Unit 4 - Theory.md",
-    "Further Maths/Unit 2 - Further Statistics/Unit 2 - Further Statistics.md",
-    "Maths/Maths.md",
-    "Physics/Unit 4/Unit 4.md",
-    "Further Maths/Unit 4 - Further Pure/4.1 - Complex Numbers/De Moivre's Theorem.md",
-    "Further Maths/Unit 4 - Further Pure/4.6 - Polar Coordinates/Calculus of Polar Curves.md",
-    "Further Maths/Unit 4 - Further Pure/4.6 - Polar Coordinates/4.6 - Polar Coordinates.md",
-    "Further Maths/Unit 3 - Further Mechanics/3.4 - Calculus With Vectors/3.4 - Calculus With Vectors.md",
-    "Further Maths/Unit 1 - Pure/1.4 - Further Algebra and Functions/Summation - Standard Results.md",
-    "Further Maths/Unit 4 - Further Pure/4.1 - Complex Numbers/Proof by Induction of De Moivre's Theorem.md",
-    "Further Maths/Unit 4 - Further Pure/4.1 - Complex Numbers/4.1 - Complex Numbers.md",
-    "Computer Science/Unit 3 - Programming and SysDev/3.4 - Principles of Programming/3.4 - Principles of Programming.md",
+    "Physics/Physics.md",
+    "Physics/Unit 4/4.1 - Capacitance/4.1 - Capacitance.md",
+    "Physics/Unit 1/Unit 1.md",
+    "Physics/Unit 1/1.6 - Using Radiation to Investigate Stars/1.6 - Using Radiation to Investigate Stars.md",
+    "Physics/Unit 1/1.7 - Particles and Nuclear Structure/1.7 - Particles and Nuclear Structure.md",
+    "Physics/Unit 1/1.7 - Particles and Nuclear Structure/Annihilation.md",
+    "Physics/Unit 1/1.7 - Particles and Nuclear Structure/Particle Composition.md",
+    "Physics/Unit 2/Unit 2.md",
+    "Physics/Unit 2/2.1 - Conduction of Electricity/2.1 - Conduction of Electricity.md",
+    "Physics/Unit 2/2.3 - DC Circuits/2.3 - DC Circuits.md",
+    "Physics/Unit 2/2.4 - The Nature of Waves/2.4 - The Nature of Waves.md",
+    "Physics/Unit 2/2.4 - The Nature of Waves/Phase difference.md",
+    "Physics/Unit 2/2.5 - Wave Properties/2.5 - Wave Properties.md",
+    "Physics/Unit 2/2.5 - Wave Properties/Superposition.md",
+    "Physics/Unit 2/2.5 - Wave Properties/Diffraction Grating.md",
+    "Physics/Unit 2/2.5 - Wave Properties/Stationary Waves.md",
+    "Physics/Unit 2/2.7 - Photons/2.7 - Photons.md",
+    "Physics/Unit 2/2.7 - Photons/Momentum of Light.md",
+    "Physics/Unit 2/2.7 - Photons/Atomic Energy Level.md",
+    "Physics/Unit 2/2.7 - Photons/Photoelectric Effect.md",
+    "Physics/Unit 2/2.8 - Lasers/2.8 - Lasers.md",
+    "Physics/Unit 2/2.8 - Lasers/Stimulated Emission.md",
+    "z_Excerpts/Image/Pasted image 20250210092003.png",
+    "Physics/Unit 4/4.4 - Magnetic Fields",
     "Physics/Unit 4/4.1 - Capacitance",
     "z_Excerpts/Graph/desmos-graph-b7d1ab6c47c5d1744c587e222862b2167f00911d282319b016019d43f041acbb.svg",
     "z_Excerpts/Graph/desmos-graph-1568dadd401ccb01e1713a109de211f92b45b484362aee0ee1c4e56f0a071b26.svg",
@@ -264,12 +252,9 @@
     "Physics/Unit 4/4.3 - The Empty Universe/Kepler's Laws.html",
     "Untitled.canvas",
     "Untitled 1.canvas",
-    "z_Excerpts/Image/Pasted image 20250122092650.png",
     "Further Maths/Unit 4 - Further Pure/4.4 - Further Algebra and Functions",
     "Physics/Unit 4/4.2 - Gravitational Fields",
     "Further Maths/Unit 2 - Further Statistics/2.2 - Relation of Fit & Variable of Models",
-    "Further Maths/Unit 4 - Further Pure/4.1 - Complex Numbers",
-    "Physics/Unit 4/4.3 - The Empty Universe",
     "Physics/Unit 1/1.6 - Using Radiation to Investigate Stars/Using Radiation to Investigate Stars recap.canvas",
     "Physics/1.6 - Using Radiation to Investigate Stars/Using Radiation to Investigate Stars recap.canvas",
     "Computer Science/2.A - Practical/Practical revision.canvas",
