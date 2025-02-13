@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Unit 3 - PURE/3.8 - Numerical Methods/Intermediate Value Theorem.md",
+                "file": "Maths/Unit 3 - PURE/3.7 - Integration/Reverse Chain Rule.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Intermediate Value Theorem"
+              "title": "Reverse Chain Rule"
             }
           }
         ]
@@ -175,6 +175,8 @@
   },
   "active": "05c65eeab4b56967",
   "lastOpenFiles": [
+    "Maths/Unit 3 - PURE/3.7 - Integration/3.7 - Integration.md",
+    "Maths/Unit 3 - PURE/3.8 - Numerical Methods/Intermediate Value Theorem.md",
     "Maths/Unit 3 - PURE/3.8 - Numerical Methods/Fixed Point Iteration.md",
     "Maths/Unit 3 - PURE/3.3 - Coordinate Geometry/Parametric Equations.md",
     "Maths/Unit 3 - PURE/3.3 - Coordinate Geometry/3.3 - Coordinate Geometry.md",
@@ -199,8 +201,6 @@
     "Further Maths/Unit 2 - Further Statistics/Unit 2 - Further Statistics.md",
     "Further Maths/Unit 1 - Pure/Unit 1 - Pure.md",
     "Further Maths/Unit 4 - Further Pure/4.2 - Further Trigonometry/Half Angle Identities (little t).md",
-    "Further Maths/Unit 2 - Further Statistics/2.1 - DRVs & Poisson Process/Probability Density Functions.md",
-    "Further Maths/Unit 2 - Further Statistics/2.1 - DRVs & Poisson Process/Exponential Distribution.md",
     "Further Maths/Unit 1 - Pure/1.1 - Proof by Induction/Proof of the binomial theorem by induction.pdf"
   ]
 }
