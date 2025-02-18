@@ -2423,6 +2423,11 @@ indicate
 inherently
 individuals
 infinitely
+integrals
+inform
+iterative
+iterations
+incorporated
 app
 adding
 are
@@ -3353,6 +3358,7 @@ accepted
 adequately
 ambiguities
 arrow
+agile
 only
 on
 odd
@@ -4140,6 +4146,7 @@ orbiting
 offset
 opinions
 ons
+opportunities
 This
 Tan
 These
@@ -5696,6 +5703,11 @@ rolled
 roll
 recursion
 reacts
+reliance
+restarted
+rigid
+rewritten
+releasable
 bank
 be
 but
@@ -6493,6 +6505,7 @@ binomially
 bivariate
 biased
 breaks
+belief
 that
 throughout
 the
@@ -7409,6 +7422,11 @@ title
 told
 tells
 tanh
+timeline
+tests
+theoretically
+technologies
+tinkered
 ll
 lot
 languages
@@ -9030,6 +9048,11 @@ wobble
 weighting
 weights
 wobbly
+waterfall
+week
+workers
+wanted
+weren
 year
 you
 years
@@ -10868,6 +10891,11 @@ sectors
 sparks
 stronger
 solenoid
+scrapped
+sprints
+sprint
+staff
+struggle
 It
 Identities
 Information
@@ -12781,6 +12809,9 @@ capacitors
 carries
 coil
 coils
+convenient
+carefully
+changed
 doesn
 determined
 data
@@ -13698,6 +13729,10 @@ discussed
 dielectric
 discharging
 discharged
+distinct
+deliverable
+deadlines
+didn
 many
 mailto
 main
@@ -14599,6 +14634,10 @@ matrixes
 manufacturer
 minus
 metre
+milestones
+month
+member
+midway
 plans
 python
 press
@@ -15538,6 +15577,9 @@ pulls
 packed
 permeability
 practise
+planned
+progresses
+paperwork
 expand
 even
 each
@@ -16435,6 +16477,9 @@ eclipsing
 evaluated
 electronics
 experiences
+extensively
+everyone
+emerge
 uk
 using
 unified
@@ -18008,6 +18053,7 @@ Portability
 Polar
 Poisson
 Pole
+Parts
 Sine
 Stands
 Standard
@@ -18853,6 +18899,7 @@ Swiss
 Stored
 Straight
 Solenoid
+Sprints
 Rule
 Real
 Routes
@@ -20930,6 +20977,7 @@ AErE
 Algorithms
 Alternatively
 AtoB
+Agile
 for
 finding
 function
@@ -21740,6 +21788,13 @@ follow
 flux
 feel
 fairly
+feasibility
+faults
+flaws
+fluidly
+fleshed
+feedback
+fly
 Graph
 Good
 Graphics
@@ -24763,6 +24818,7 @@ kGb
 kiL
 kXT
 knowledge
+knows
 Do
 Decimal
 Depends
@@ -25628,6 +25684,8 @@ Defines
 Determine
 Discharging
 Definitions
+Development
+Differential
 Unicode
 Used
 UCS
@@ -29345,6 +29403,7 @@ gravitational
 galaxy
 galactic
 graphical
+goals
 Floats
 Float
 Full
@@ -30027,6 +30086,7 @@ Freedom
 Functional
 Farad
 Flux
+Fewer
 Long
 Layer
 LTE
@@ -32859,6 +32919,7 @@ Orbital
 Organisation
 Oval
 Original
+Orders
 value
 very
 valued
@@ -33625,6 +33686,7 @@ vHF
 vfd
 valuable
 vertices
+visualising
 We
 When
 Where
@@ -34394,6 +34456,7 @@ Write
 Way
 Will
 Wrapping
+Waterfall
 Half
 HTTP
 HTTPS

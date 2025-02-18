@@ -13,30 +13,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Further Maths/Unit 4 - Further Pure/4.7 - Hyperbolic Functions/4.7 - Hyperbolic Functions.md",
+                "file": "Further Maths/Unit 4 - Further Pure/4.8 - Differential equations/4.8 - Differential equations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.7 - Hyperbolic Functions"
+              "title": "4.8 - Differential equations"
             }
           },
           {
-            "id": "40758c706957ef54",
+            "id": "a94b32313ce0153d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Unit 4/4.4 - Magnetic Fields/4.4 - Magnetic Fields.md",
+                "file": "Maths/Unit 3 - PURE/3.6 - Differentiation/Differential Equations - First Order.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.4 - Magnetic Fields"
+              "title": "Differential Equations - First Order"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "differential",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -220,37 +219,78 @@
       "chronology:Open Chronology": false
     }
   },
-  "active": "40758c706957ef54",
+  "floating": {
+    "id": "b314e71367b3fb0c",
+    "type": "floating",
+    "children": [
+      {
+        "id": "8a627ca181a7d851",
+        "type": "window",
+        "children": [
+          {
+            "id": "3c9b2468dd94ddb9",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "21aa4f7549a57391",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Physics/Unit 4/4.4 - Magnetic Fields/4.4 - Magnetic Fields.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "4.4 - Magnetic Fields"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 24,
+        "width": 1680,
+        "height": 1026,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "2f1aa1da6cf1c23e",
   "lastOpenFiles": [
-    "Further Maths/Unit 4 - Further Pure/4.7 - Hyperbolic Functions/4.7 - Hyperbolic Functions.md",
-    "Computer Science/Unit 3 - Programming and SysDev/3.4 - Principles of Programming/Syntax Analysis.md",
     "Physics/Unit 4/4.4 - Magnetic Fields/4.4 - Magnetic Fields.md",
-    "Physics/Unit 1/Unit 1.md",
-    "Computer Science/Computer Science.md",
-    "Computer Science/Unit 4 - Theory/Unit 4 - Theory.md",
-    "Computer Science/Unit 3 - Programming and SysDev/Unit 3 - Programming and SysDev.md",
-    "Physics/Physics.md",
-    "Physics/Unit 2/Unit 2.md",
-    "Physics/Unit 5 - Practical/Unit 5 - Practical.md",
-    "Maths/Maths.md",
+    "Further Maths/Unit 4 - Further Pure/4.8 - Differential equations/4.8 - Differential equations.md",
+    "Computer Science/Unit 3 - Programming and SysDev/3.5 & 3.6 Systems Analysis & System design/3.5 & 3.6 Systems Analysis & System design.md",
+    "Maths/Unit 3 - PURE/3.6 - Differentiation/Differential Equations - First Order.md",
+    "Maths/Unit 3 - PURE/3.6 - Differentiation/Quotient Rule.md",
+    "Maths/Unit 3 - PURE/3.6 - Differentiation/Implicit Differentiation.md",
+    "Maths/Unit 3 - PURE/3.6 - Differentiation/Parametric Differentiation.md",
+    "Maths/Unit 3 - PURE/3.6 - Differentiation/Interpretation of Graphs.md",
+    "Maths/Unit 3 - PURE/3.6 - Differentiation/3.6 - Differentiation.md",
     "Further Maths/Further Maths.md",
-    "Further Maths/Unit 4 - Further Pure/4.7 - Hyperbolic Functions/Inverse Hyperbolic Functions.md",
-    "Computer Science/Unit 4 - Theory/4.4 - Organisation and structure of data/4.4 - Organisation and structure of data.md",
-    "Computer Science/Unit 3 - Programming and SysDev/3.4 - Principles of Programming/3.4 - Principles of Programming.md",
-    "Computer Science/Unit 4 - Theory/4.4 - Organisation and structure of data/Hashing Table.md",
-    "Computer Science/Unit 4 - Theory/4.5 - Databases and distributed systems/4.5 - Databases and distributed systems.md",
-    "Maths/Unit 3 - PURE/3.7 - Integration/Integration by parts.md",
-    "Maths/Unit 3 - PURE/3.7 - Integration/3.7 - Integration.md",
+    "Further Maths/Unit 4 - Further Pure/4.8 - Differential equations",
+    "Computer Science/Computer Science.md",
+    "Computer Science/Unit 3 - Programming and SysDev/Unit 3 - Programming and SysDev.md",
+    "Computer Science/Unit 1 - CS Fundamentals/1.11 - System Analysis/System Lifecycle.md",
+    "Computer Science/Unit 3 - Programming and SysDev/3.4 - Principles of Programming/Programming Standards.md",
+    "Computer Science/Unit 3 - Programming and SysDev/3.5 & 3.6 Systems Analysis & System design",
+    "index.md",
+    "Maths/Maths.md",
     "Maths/Unit 3 - PURE/Unit 3 - PURE.md",
+    "Maths/Unit 3 - PURE/3.7 - Integration/3.7 - Integration.md",
+    "Further Maths/Unit 2 - Further Statistics/Unit 2 - Further Statistics.md",
+    "Further Maths/Unit 4 - Further Pure/4.7 - Hyperbolic Functions/Calculus with Hyperbolic Function.md",
+    "Further Maths/Unit 4 - Further Pure/4.7 - Hyperbolic Functions/4.7 - Hyperbolic Functions.md",
+    "Further Maths/Unit 2 - Further Statistics/2.2 - Relation of Fit & Variable of Models/2.2 - Relation of Fit & Variable of Models.md",
+    "Further Maths/Unit 2 - Further Statistics/2.1 - DRVs & Poisson Process/2.1 - DRVs & Poisson Process.md",
+    "Maths/Unit 3 - PURE/3.7 - Integration/Integration by parts.md",
+    "Maths/Unit 3 - PURE/3.7 - Integration/Integration by substitution.md",
+    "Further Maths/Unit 4 - Further Pure/Unit 4 - Further Pure.md",
     "z_Excerpts/Image/Pasted image 20250210102922.png",
     "z_Excerpts/Image/Pasted image 20250210101647.png",
-    "Further Maths/Unit 4 - Further Pure/Unit 4 - Further Pure.md",
     "Further Maths/Unit 4 - Further Pure/4.7 - Hyperbolic Functions",
-    "Physics/Unit 4/4.1 - Capacitance/4.1 - Capacitance.md",
-    "Physics/Unit 1/1.6 - Using Radiation to Investigate Stars/1.6 - Using Radiation to Investigate Stars.md",
-    "Physics/Unit 1/1.7 - Particles and Nuclear Structure/1.7 - Particles and Nuclear Structure.md",
-    "Physics/Unit 1/1.7 - Particles and Nuclear Structure/Annihilation.md",
-    "Physics/Unit 1/1.7 - Particles and Nuclear Structure/Particle Composition.md",
     "z_Excerpts/Image/Pasted image 20250210092003.png",
     "Physics/Unit 4/4.4 - Magnetic Fields",
     "Physics/Unit 4/4.1 - Capacitance",
@@ -268,8 +308,6 @@
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Further Maths/Unit 4 - Further Pure/4.4 - Further Algebra and Functions",
-    "Physics/Unit 4/4.2 - Gravitational Fields",
-    "Further Maths/Unit 2 - Further Statistics/2.2 - Relation of Fit & Variable of Models",
     "Physics/Unit 1/1.6 - Using Radiation to Investigate Stars/Using Radiation to Investigate Stars recap.canvas",
     "Physics/1.6 - Using Radiation to Investigate Stars/Using Radiation to Investigate Stars recap.canvas",
     "Computer Science/2.A - Practical/Practical revision.canvas",
