@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Unit 3 - PURE/3.7 - Integration/Reverse Chain Rule.md",
+                "file": "Further Maths/Unit 4 - Further Pure/4.8 - Differential equations/Integrating Factors.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Reverse Chain Rule"
+              "title": "Integrating Factors"
             }
           }
         ]
@@ -175,6 +175,9 @@
   },
   "active": "05c65eeab4b56967",
   "lastOpenFiles": [
+    "Further Maths/Further Maths.md",
+    "Maths/Maths.md",
+    "Maths/Unit 3 - PURE/3.7 - Integration/Reverse Chain Rule.md",
     "Maths/Unit 3 - PURE/3.7 - Integration/3.7 - Integration.md",
     "Maths/Unit 3 - PURE/3.8 - Numerical Methods/Intermediate Value Theorem.md",
     "Maths/Unit 3 - PURE/3.8 - Numerical Methods/Fixed Point Iteration.md",
@@ -186,9 +189,7 @@
     "Physics/Unit 1/1.1 - Physics Basics/1.1 - Physics Basics.md",
     "Physics/Physics.md",
     "Further Maths/Unit 4 - Further Pure/4.1 - Complex Numbers/7Jan2025.md",
-    "Further Maths/Further Maths.md",
     "Maths/Unit 1 - PURE/1.7 - Differentiation/1.7 - Differentiation.md",
-    "Maths/Maths.md",
     "Further Maths/Unit 4 - Further Pure/4.2 - Further Trigonometry/4.2 - Further Trigonometry.md",
     "Further Maths/Unit 4 - Further Pure/4.1 - Complex Numbers/De Moivre's Theorem.md",
     "Further Maths/Unit 4 - Further Pure/4.1 - Complex Numbers/4.1 - Complex Numbers.md",
@@ -200,7 +201,6 @@
     "Physics/Unit 3/3.5 - Nuclear Decay/3.5 - Nuclear Decay.md",
     "Further Maths/Unit 2 - Further Statistics/Unit 2 - Further Statistics.md",
     "Further Maths/Unit 1 - Pure/Unit 1 - Pure.md",
-    "Further Maths/Unit 4 - Further Pure/4.2 - Further Trigonometry/Half Angle Identities (little t).md",
     "Further Maths/Unit 1 - Pure/1.1 - Proof by Induction/Proof of the binomial theorem by induction.pdf"
   ]
 }
