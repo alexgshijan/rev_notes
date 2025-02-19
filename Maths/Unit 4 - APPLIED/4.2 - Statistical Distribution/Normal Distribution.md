@@ -29,6 +29,6 @@ An optimal time to use normal distribution rather than binomial, is where you ha
 
 *We use the following calculations to go from Binomial to Normal*
 - $\micro=np$
-- $\sqrt{np(1-p)}$
+- $\sigma = \sqrt{np(1-p)}$
 
 However since binomial is discrete, we have to make continuity corrections. This means that we formulate new x values, considering bounds.
