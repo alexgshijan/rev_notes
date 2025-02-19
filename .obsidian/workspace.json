@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Further Maths/Unit 4 - Further Pure/4.8 - Differential equations/4.8 - Differential equations.md",
+                "file": "Computer Science/Unit 3 - Programming and SysDev/3.3 - Algorithms and Programs/3.3 - Algorithms and Programs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.8 - Differential equations"
+              "title": "3.3 - Algorithms and Programs"
             }
           },
           {
@@ -27,26 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Further Maths/Unit 4 - Further Pure/4.8 - Differential equations/Integrating Factors.md",
+                "file": "Computer Science/Unit 3 - Programming and SysDev/3.7 & 3.8 - Software Engineering & Program Construction/3.7 & 3.8 - Software Engineering & Program Construction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Integrating Factors"
+              "title": "3.7 & 3.8 - Software Engineering & Program Construction"
             }
           },
           {
-            "id": "a94b32313ce0153d",
+            "id": "c9d8fd1c4305fbcd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Unit 3 - PURE/3.6 - Differentiation/Differential Equations - First Order.md",
+                "file": "Computer Science/Unit 1 - CS Fundamentals/1.12 & 1.13 - Software engineering & Program construction/1.12 & 1.13 - Software engineering & Program construction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Differential Equations - First Order"
+              "title": "1.12 & 1.13 - Software engineering & Program construction"
             }
           }
         ],
@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "differential",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -236,34 +236,35 @@
   },
   "active": "f940b0033c49d3f4",
   "lastOpenFiles": [
-    "Further Maths/Unit 4 - Further Pure/4.8 - Differential equations/Integrating Factors.md",
-    "Maths/Unit 3 - PURE/3.6 - Differentiation/Differential Equations - First Order.md",
-    "Maths/Unit 3 - PURE/3.6 - Differentiation/Quotient Rule.md",
-    "Further Maths/Unit 4 - Further Pure/4.8 - Differential equations/4.8 - Differential equations.md",
-    "Physics/Unit 4/4.4 - Magnetic Fields/4.4 - Magnetic Fields.md",
-    "Computer Science/Unit 3 - Programming and SysDev/3.5 & 3.6 Systems Analysis & System design/3.5 & 3.6 Systems Analysis & System design.md",
-    "Maths/Unit 3 - PURE/3.6 - Differentiation/Implicit Differentiation.md",
-    "Maths/Unit 3 - PURE/3.6 - Differentiation/Parametric Differentiation.md",
-    "Maths/Unit 3 - PURE/3.6 - Differentiation/Interpretation of Graphs.md",
-    "Maths/Unit 3 - PURE/3.6 - Differentiation/3.6 - Differentiation.md",
-    "Further Maths/Further Maths.md",
+    "Computer Science/Unit 1 - CS Fundamentals/1.8 - Operating Systems/1.8 - Operating Systems.md",
+    "Computer Science/Unit 1 - CS Fundamentals/1.7 - Database Systems/1.7 - Database Systems.md",
+    "Computer Science/Unit 1 - CS Fundamentals/1.6 - Organisation of data/Master and Transaction Files.md",
+    "Computer Science/Unit 1 - CS Fundamentals/1.6 - Organisation of data/Field Length.md",
+    "Computer Science/Unit 1 - CS Fundamentals/1.6 - Organisation of data/1.6 - Organisation of data.md",
+    "Computer Science/Unit 1 - CS Fundamentals/1.6 - Organisation of data/File Types/Serial.md",
+    "Computer Science/Unit 1 - CS Fundamentals/1.6 - Organisation of data/File Types/Sequential.md",
+    "Computer Science/Unit 1 - CS Fundamentals/1.6 - Organisation of data/File Types/Indexed Sequential.md",
+    "Computer Science/Unit 1 - CS Fundamentals/1.6 - Organisation of data/File Types/File Types.md",
+    "Computer Science/Unit 1 - CS Fundamentals/1.4 - Data representation and data types/Data Types.md",
+    "Computer Science/Unit 1 - CS Fundamentals/1.4 - Data representation and data types/1.4 - Data representation and data types.md",
+    "Computer Science/Unit 1 - CS Fundamentals/1.4 - Data representation and data types/Fixed & Floating Point Numbers/Floating Point Representation.md",
+    "Computer Science/Unit 1 - CS Fundamentals/1.4 - Data representation and data types/Fixed & Floating Point Numbers/Fixed Point representation.md",
+    "Computer Science/Unit 1 - CS Fundamentals/1.4 - Data representation and data types/Fixed & Floating Point Numbers/Fixed & Floating Point Numbers.md",
+    "Computer Science/Unit 1 - CS Fundamentals/1.4 - Data representation and data types/Fixed & Floating Point Numbers/Converting a positive real number to floating point.md",
+    "Computer Science/Unit 1 - CS Fundamentals/1.3 - Data Transmission/Transmission.md",
+    "Computer Science/Unit 1 - CS Fundamentals/1.2 - Logical Operators/1.2 - Logical Operators.md",
+    "Computer Science/Unit 1 - CS Fundamentals/1.1 - Hardware and communication/Topic Keywords.md",
+    "Computer Science/Unit 1 - CS Fundamentals/1.1 - Hardware and communication/1.1 - Hardware and communication.md",
+    "Computer Science/Unit 1 - CS Fundamentals/1.1 - Hardware and communication/Secondary storage & IO/Units of Storage.md",
+    "Computer Science/Unit 1 - CS Fundamentals/1.1 - Hardware and communication/Secondary storage & IO/Secondary Storage Examples.md",
+    "Computer Science/Unit 1 - CS Fundamentals/1.1 - Hardware and communication/Secondary storage & IO/Secondary storage & IO.md",
+    "Computer Science/Unit 1 - CS Fundamentals/1.1 - Hardware and communication/Secondary storage & IO/Primary Vs Secondary Storge.md",
+    "Computer Science/Unit 1 - CS Fundamentals/1.1 - Hardware and communication/Secondary storage & IO/Fragmentation.md",
+    "Computer Science/Unit 1 - CS Fundamentals/1.1 - Hardware and communication/RAM, cache, Von Neumann/Von Neumann Vs Harvard Architecture.md",
+    "Computer Science/Unit 1 - CS Fundamentals/1.1 - Hardware and communication/RAM, cache, Von Neumann/RAM, cache, Von Neumann.md",
+    "Computer Science/Unit 3 - Programming and SysDev/3.7 & 3.8 - Software Engineering & Program Construction",
     "Further Maths/Unit 4 - Further Pure/4.8 - Differential equations",
-    "Computer Science/Computer Science.md",
-    "Computer Science/Unit 3 - Programming and SysDev/Unit 3 - Programming and SysDev.md",
-    "Computer Science/Unit 1 - CS Fundamentals/1.11 - System Analysis/System Lifecycle.md",
-    "Computer Science/Unit 3 - Programming and SysDev/3.4 - Principles of Programming/Programming Standards.md",
-    "Computer Science/Unit 3 - Programming and SysDev/3.5 & 3.6 Systems Analysis & System design",
-    "index.md",
-    "Maths/Maths.md",
-    "Maths/Unit 3 - PURE/Unit 3 - PURE.md",
-    "Maths/Unit 3 - PURE/3.7 - Integration/3.7 - Integration.md",
-    "Further Maths/Unit 2 - Further Statistics/Unit 2 - Further Statistics.md",
-    "Further Maths/Unit 4 - Further Pure/4.7 - Hyperbolic Functions/Calculus with Hyperbolic Function.md",
-    "Further Maths/Unit 4 - Further Pure/4.7 - Hyperbolic Functions/4.7 - Hyperbolic Functions.md",
-    "Further Maths/Unit 2 - Further Statistics/2.2 - Relation of Fit & Variable of Models/2.2 - Relation of Fit & Variable of Models.md",
-    "Further Maths/Unit 2 - Further Statistics/2.1 - DRVs & Poisson Process/2.1 - DRVs & Poisson Process.md",
-    "Maths/Unit 3 - PURE/3.7 - Integration/Integration by parts.md",
-    "Maths/Unit 3 - PURE/3.7 - Integration/Integration by substitution.md",
+    "Computer Science/Unit 3 - Programming and SysDev/3.5 & 3.6 - Systems Analysis & System design",
     "z_Excerpts/Image/Pasted image 20250210102922.png",
     "z_Excerpts/Image/Pasted image 20250210101647.png",
     "Further Maths/Unit 4 - Further Pure/4.7 - Hyperbolic Functions",
@@ -283,7 +284,6 @@
     "Physics/Unit 4/4.3 - The Empty Universe/Kepler's Laws.html",
     "Untitled.canvas",
     "Untitled 1.canvas",
-    "Further Maths/Unit 4 - Further Pure/4.4 - Further Algebra and Functions",
     "Physics/Unit 1/1.6 - Using Radiation to Investigate Stars/Using Radiation to Investigate Stars recap.canvas",
     "Physics/1.6 - Using Radiation to Investigate Stars/Using Radiation to Investigate Stars recap.canvas",
     "Computer Science/2.A - Practical/Practical revision.canvas",
