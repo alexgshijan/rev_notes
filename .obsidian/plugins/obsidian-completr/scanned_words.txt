@@ -783,6 +783,7 @@ Capacitance
 Charging
 Connect
 Combine
+CASE
 View
 VOIP
 Voice
@@ -3363,6 +3364,7 @@ arrow
 agile
 alternate
 assist
+assignment
 only
 on
 odd
@@ -5714,6 +5716,7 @@ rewritten
 releasable
 referenced
 remain
+reminders
 bank
 be
 but
@@ -7433,6 +7436,7 @@ tests
 theoretically
 technologies
 tinkered
+trackers
 ll
 lot
 languages
@@ -8281,6 +8285,7 @@ letter
 lima
 lightining
 lightning
+lowercase
 working
 when
 wip
@@ -17249,6 +17254,7 @@ utilising
 understanding
 unsorted
 unity
+uppercase
 Page
 Please
 Preferred
@@ -18068,6 +18074,8 @@ Polar
 Poisson
 Pole
 Parts
+Production
+Prototyping
 Sine
 Stands
 Standard
@@ -19604,6 +19612,8 @@ Represent
 Represents
 Rate
 Runtime
+Repositories
+Report
 Note
 Negatives
 Normalising
@@ -25703,6 +25713,7 @@ Discharging
 Definitions
 Development
 Differential
+Dictionary
 Unicode
 Used
 UCS
@@ -29421,6 +29432,7 @@ galaxy
 galactic
 graphical
 goals
+generation
 Floats
 Float
 Full
@@ -30850,6 +30862,7 @@ Lemniscates
 Longer
 Logical
 Linking
+Libraries
 You
 Yottabyte
 Young

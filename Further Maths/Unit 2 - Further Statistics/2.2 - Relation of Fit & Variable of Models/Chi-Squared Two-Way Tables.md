@@ -13,3 +13,5 @@ On the calculator, using the Statistics, Test, Chi, Two Way and plotting your va
 
 **Pooling**
 If the expected frequencies of a category is less than 5 then it is recommended you pool them together with other frequencies.
+
+Refer to [WJEC's Topic Guide](https://resource.download.wjec.co.uk/vtc/2018-19/wjec18-19_1.3/eng/chi-square-tests-unit-2.pdf)
