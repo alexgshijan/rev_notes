@@ -784,6 +784,8 @@ Charging
 Connect
 Combine
 CASE
+Converts
+Cofactor
 View
 VOIP
 Voice
@@ -3365,6 +3367,7 @@ agile
 alternate
 assist
 assignment
+assembling
 only
 on
 odd
@@ -12827,6 +12830,10 @@ carefully
 changed
 crashed
 copies
+containing
+crossed
+cofactor
+cofactors
 doesn
 determined
 data
@@ -19614,6 +19621,7 @@ Rate
 Runtime
 Repositories
 Report
+Row
 Note
 Negatives
 Normalising
@@ -24109,6 +24117,7 @@ Epsilon
 Estimate
 Electricity
 Engineering
+Expanding
 key
 know
 keyboard
@@ -25714,6 +25723,7 @@ Definitions
 Development
 Differential
 Dictionary
+Determinant
 Unicode
 Used
 UCS
@@ -28653,6 +28663,7 @@ Merge
 Minimum
 Magnetism
 Math
+Minors
 give
 generally
 get

@@ -8,49 +8,34 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2f1aa1da6cf1c23e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Unit 3 - Programming and SysDev/3.3 - Algorithms and Programs/3.3 - Algorithms and Programs.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3.3 - Algorithms and Programs"
-            }
-          },
-          {
-            "id": "f940b0033c49d3f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Unit 3 - Programming and SysDev/3.7 & 3.8 - Software Engineering & Program Construction/3.7 & 3.8 - Software Engineering & Program Construction.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3.7 & 3.8 - Software Engineering & Program Construction"
-            }
-          },
-          {
             "id": "c9d8fd1c4305fbcd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Unit 1 - CS Fundamentals/1.12 & 1.13 - Software engineering & Program construction/1.12 & 1.13 - Software engineering & Program construction.md",
+                "file": "Further Maths/Unit 4 - Further Pure/4.3 - Matricies/4.3 - Matricies.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.12 & 1.13 - Software engineering & Program construction"
+              "title": "4.3 - Matricies"
+            }
+          },
+          {
+            "id": "bfba4ffe5ed05f08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Further Maths/Unit 1 - Pure/1.3 - Matrices/1.3 - Matrices.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.3 - Matrices"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -70,7 +55,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "byCreatedTime",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -82,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "normal ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -219,7 +204,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -234,13 +219,19 @@
       "chronology:Open Chronology": false
     }
   },
-  "active": "f940b0033c49d3f4",
+  "active": "c9d8fd1c4305fbcd",
   "lastOpenFiles": [
     "Computer Science/Unit 3 - Programming and SysDev/3.7 & 3.8 - Software Engineering & Program Construction/3.7 & 3.8 - Software Engineering & Program Construction.md",
-    "Computer Science/Unit 3 - Programming and SysDev/Unit 3 - Programming and SysDev.md",
-    "Computer Science/Unit 1 - CS Fundamentals/1.12 & 1.13 - Software engineering & Program construction/1.12 & 1.13 - Software engineering & Program construction.md",
-    "Computer Science/Computer Science.md",
+    "Further Maths/Unit 4 - Further Pure/4.3 - Matricies/4.3 - Matricies.md",
+    "Further Maths/Unit 1 - Pure/1.3 - Matrices/1.3 - Matrices.md",
     "Further Maths/Further Maths.md",
+    "Further Maths/Unit 4 - Further Pure/4.3 - Matricies",
+    "Computer Science/Computer Science.md",
+    "Computer Science/Unit 1 - CS Fundamentals/Unit 1 - CS Fundamentals.md",
+    "Computer Science/Unit 1 - CS Fundamentals/1.12 & 1.13 - Software engineering & Program construction/1.12 & 1.13 - Software engineering & Program construction.md",
+    "index.md",
+    "Computer Science/Unit 3 - Programming and SysDev/3.3 - Algorithms and Programs/3.3 - Algorithms and Programs.md",
+    "Computer Science/Unit 3 - Programming and SysDev/Unit 3 - Programming and SysDev.md",
     "Further Maths/Unit 2 - Further Statistics/2.1 - DRVs & Poisson Process/Distribution Functions.md",
     "Further Maths/Unit 2 - Further Statistics/2.1 - DRVs & Poisson Process/Probability Density Functions.md",
     "Further Maths/Unit 2 - Further Statistics/2.1 - DRVs & Poisson Process/2.1 - DRVs & Poisson Process.md",
@@ -257,11 +248,6 @@
     "Maths/Unit 4 - APPLIED/4.2 - Statistical Distribution/4.2 - Statistical Distribution.md",
     "Maths/Unit 4 - APPLIED/4.2 - Statistical Distribution/Normal Distribution.md",
     "Maths/Unit 2 - APPLIED/2.4 - Statistical Distribution/2.4 - Statistical Distribution.md",
-    "Physics/Physics.md",
-    "Further Maths/Unit 2 - Further Statistics/Unit 2 - Further Statistics.md",
-    "Physics/Unit 1/Unit 1.md",
-    "Physics/Unit 1/1.7 - Particles and Nuclear Structure/1.7 - Particles and Nuclear Structure.md",
-    "Maths/Unit 4 - APPLIED/4.2 - Statistical Distribution/Continuous Uniform Distribution.md",
     "Computer Science/Unit 3 - Programming and SysDev/3.7 & 3.8 - Software Engineering & Program Construction",
     "Further Maths/Unit 4 - Further Pure/4.8 - Differential equations",
     "Computer Science/Unit 3 - Programming and SysDev/3.5 & 3.6 - Systems Analysis & System design",
@@ -281,7 +267,6 @@
     "Computer Science/Unit 3 - Programming and SysDev/3.4 - Principles of Programming",
     "Further Maths/Unit 4 - Further Pure/4.6 - Polar Coordinates",
     "InvioDocs",
-    "Physics/Unit 4/4.3 - The Empty Universe/Kepler's Laws.html",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Physics/Unit 1/1.6 - Using Radiation to Investigate Stars/Using Radiation to Investigate Stars recap.canvas",
