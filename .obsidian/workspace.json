@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Further Maths/Unit 4 - Further Pure/4.3 - Matricies/4.3 - Matricies.md",
+                "file": "Further Maths/Unit 1 - Pure/1.3 - Matrices/1.3 - Matrices.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.3 - Matricies"
+              "title": "1.3 - Matrices"
             }
           },
           {
@@ -27,15 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Further Maths/Unit 1 - Pure/1.3 - Matrices/1.3 - Matrices.md",
+                "file": "Further Maths/Unit 4 - Further Pure/4.3 - Matricies/4.3 - Matrices.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.3 - Matrices"
+              "title": "4.3 - Matrices"
+            }
+          },
+          {
+            "id": "7ead43c18c903691",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Further Maths/Unit 4 - Further Pure/4.3 - Matricies/Solving Simultaneous Equations.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Solving Simultaneous Equations"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -55,7 +70,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "byCreatedTime",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -204,7 +219,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -219,35 +234,35 @@
       "chronology:Open Chronology": false
     }
   },
-  "active": "c9d8fd1c4305fbcd",
+  "active": "7ead43c18c903691",
   "lastOpenFiles": [
-    "Computer Science/Unit 3 - Programming and SysDev/3.7 & 3.8 - Software Engineering & Program Construction/3.7 & 3.8 - Software Engineering & Program Construction.md",
-    "Further Maths/Unit 4 - Further Pure/4.3 - Matricies/4.3 - Matricies.md",
+    "Further Maths/Unit 4 - Further Pure/4.3 - Matricies/4.3 - Matrices.md",
+    "Further Maths/Unit 4 - Further Pure/4.3 - Matricies/Solving Simultaneous Equations.md",
     "Further Maths/Unit 1 - Pure/1.3 - Matrices/1.3 - Matrices.md",
-    "Further Maths/Further Maths.md",
-    "Further Maths/Unit 4 - Further Pure/4.3 - Matricies",
+    "Maths/Unit 2 - APPLIED/2.4 - Statistical Distribution/Binomial Distribution.md",
+    "Further Maths/Unit 4 - Further Pure/4.8 - Differential equations/Integrating Factors.md",
+    "Maths/Unit 4 - APPLIED/4.2 - Statistical Distribution/Normal Distribution.md",
+    "Maths/Unit 2 - APPLIED/2.5 - Hypothesis Testing/2.5 - Hypothesis Testing.md",
+    "Maths/Unit 4 - APPLIED/4.2 - Statistical Distribution/Continuous Uniform Distribution.md",
+    "Maths/Unit 2 - APPLIED/2.4 - Statistical Distribution/Discrete Uniform Distribution.md",
+    "Further Maths/Unit 2 - Further Statistics/2.1 - DRVs & Poisson Process/2.1 - DRVs & Poisson Process.md",
+    "Maths/Unit 2 - APPLIED/2.4 - Statistical Distribution/2.4 - Statistical Distribution.md",
+    "Maths/Unit 2 - APPLIED/2.4 - Statistical Distribution/Poisson Distribution.md",
+    "Maths/Unit 2 - APPLIED/Unit 2 - APPLIED.md",
+    "Maths/Unit 4 - APPLIED/4.2 - Statistical Distribution/4.2 - Statistical Distribution.md",
+    "Maths/Unit 4 - APPLIED/Unit 4 - APPLIED.md",
+    "Maths/Maths.md",
+    "Physics/Physics.md",
     "Computer Science/Computer Science.md",
+    "Further Maths/Further Maths.md",
+    "Computer Science/Unit 3 - Programming and SysDev/3.7 & 3.8 - Software Engineering & Program Construction/3.7 & 3.8 - Software Engineering & Program Construction.md",
+    "Further Maths/Unit 4 - Further Pure/4.3 - Matricies",
     "Computer Science/Unit 1 - CS Fundamentals/Unit 1 - CS Fundamentals.md",
     "Computer Science/Unit 1 - CS Fundamentals/1.12 & 1.13 - Software engineering & Program construction/1.12 & 1.13 - Software engineering & Program construction.md",
     "index.md",
     "Computer Science/Unit 3 - Programming and SysDev/3.3 - Algorithms and Programs/3.3 - Algorithms and Programs.md",
     "Computer Science/Unit 3 - Programming and SysDev/Unit 3 - Programming and SysDev.md",
     "Further Maths/Unit 2 - Further Statistics/2.1 - DRVs & Poisson Process/Distribution Functions.md",
-    "Further Maths/Unit 2 - Further Statistics/2.1 - DRVs & Poisson Process/Probability Density Functions.md",
-    "Further Maths/Unit 2 - Further Statistics/2.1 - DRVs & Poisson Process/2.1 - DRVs & Poisson Process.md",
-    "Further Maths/Unit 2 - Further Statistics/2.2 - Relation of Fit & Variable of Models/2.2 - Relation of Fit & Variable of Models.md",
-    "Further Maths/Unit 2 - Further Statistics/2.2 - Relation of Fit & Variable of Models/Pearson's PMCC.md",
-    "Further Maths/Unit 2 - Further Statistics/2.2 - Relation of Fit & Variable of Models/Spearman's Rank Correlation.md",
-    "Further Maths/Unit 2 - Further Statistics/2.2 - Relation of Fit & Variable of Models/Linear Regression.md",
-    "Further Maths/Unit 2 - Further Statistics/2.2 - Relation of Fit & Variable of Models/Chi-Squared Two-Way Tables.md",
-    "Further Maths/Unit 2 - Further Statistics/2.2 - Relation of Fit & Variable of Models/Goodness of Fit with Chi-Squared.md",
-    "Further Maths/Unit 4 - Further Pure/4.7 - Hyperbolic Functions/Calculus with Hyperbolic Function.md",
-    "Maths/Maths.md",
-    "Maths/Unit 2 - APPLIED/Unit 2 - APPLIED.md",
-    "Maths/Unit 4 - APPLIED/Unit 4 - APPLIED.md",
-    "Maths/Unit 4 - APPLIED/4.2 - Statistical Distribution/4.2 - Statistical Distribution.md",
-    "Maths/Unit 4 - APPLIED/4.2 - Statistical Distribution/Normal Distribution.md",
-    "Maths/Unit 2 - APPLIED/2.4 - Statistical Distribution/2.4 - Statistical Distribution.md",
     "Computer Science/Unit 3 - Programming and SysDev/3.7 & 3.8 - Software Engineering & Program Construction",
     "Further Maths/Unit 4 - Further Pure/4.8 - Differential equations",
     "Computer Science/Unit 3 - Programming and SysDev/3.5 & 3.6 - Systems Analysis & System design",
