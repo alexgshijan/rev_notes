@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Further Maths/Unit 4 - Further Pure/4.3 - Matricies/4.3 - Matrices.md",
+                "file": "Physics/Unit 4/4.4 - Magnetic Fields/4.4 - Magnetic Fields.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.3 - Matrices"
+              "title": "4.4 - Magnetic Fields"
             }
           },
           {
@@ -41,16 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Further Maths/Unit 4 - Further Pure/4.3 - Matricies/Solving Simultaneous Equations.md",
+                "file": "Further Maths/Unit 4 - Further Pure/4.8 - Differential equations/Integrating Factors.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Solving Simultaneous Equations"
+              "title": "Integrating Factors"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "wip",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -234,35 +234,35 @@
       "chronology:Open Chronology": false
     }
   },
-  "active": "7ead43c18c903691",
+  "active": "de7d5c11a53ffbd9",
   "lastOpenFiles": [
-    "Further Maths/Unit 4 - Further Pure/4.3 - Matricies/4.3 - Matrices.md",
-    "Further Maths/Unit 4 - Further Pure/4.3 - Matricies/Solving Simultaneous Equations.md",
-    "Further Maths/Unit 1 - Pure/1.3 - Matrices/1.3 - Matrices.md",
-    "Maths/Unit 2 - APPLIED/2.4 - Statistical Distribution/Binomial Distribution.md",
-    "Further Maths/Unit 4 - Further Pure/4.8 - Differential equations/Integrating Factors.md",
-    "Maths/Unit 4 - APPLIED/4.2 - Statistical Distribution/Normal Distribution.md",
-    "Maths/Unit 2 - APPLIED/2.5 - Hypothesis Testing/2.5 - Hypothesis Testing.md",
-    "Maths/Unit 4 - APPLIED/4.2 - Statistical Distribution/Continuous Uniform Distribution.md",
-    "Maths/Unit 2 - APPLIED/2.4 - Statistical Distribution/Discrete Uniform Distribution.md",
-    "Further Maths/Unit 2 - Further Statistics/2.1 - DRVs & Poisson Process/2.1 - DRVs & Poisson Process.md",
-    "Maths/Unit 2 - APPLIED/2.4 - Statistical Distribution/2.4 - Statistical Distribution.md",
-    "Maths/Unit 2 - APPLIED/2.4 - Statistical Distribution/Poisson Distribution.md",
-    "Maths/Unit 2 - APPLIED/Unit 2 - APPLIED.md",
-    "Maths/Unit 4 - APPLIED/4.2 - Statistical Distribution/4.2 - Statistical Distribution.md",
-    "Maths/Unit 4 - APPLIED/Unit 4 - APPLIED.md",
-    "Maths/Maths.md",
+    "Physics/Unit 4/4.1 - Capacitance/4.1 - Capacitance.md",
+    "Physics/Unit 4/4.2 - Electrostatic Fields/4.2 - Electrostatic Fields.md",
+    "Physics/Unit 4/4.2 - Gravitational Fields/4.2 - Gravitational Fields.md",
+    "Physics/Unit 4/Unit 4.md",
     "Physics/Physics.md",
-    "Computer Science/Computer Science.md",
+    "Further Maths/Unit 2 - Further Statistics/2.1 - DRVs & Poisson Process/2.1 - DRVs & Poisson Process.md",
+    "Further Maths/Unit 4 - Further Pure/4.8 - Differential equations/Integrating Factors.md",
+    "Further Maths/Unit 4 - Further Pure/4.8 - Differential equations/4.8 - Differential equations.md",
+    "Further Maths/Unit 4 - Further Pure/4.7 - Hyperbolic Functions/4.7 - Hyperbolic Functions.md",
+    "Further Maths/Unit 4 - Further Pure/4.4 - Further Algebra and Functions/Maclaurin Series.md",
+    "Further Maths/Unit 4 - Further Pure/4.3 - Matricies/4.3 - Matrices.md",
+    "Further Maths/Unit 4 - Further Pure/4.4 - Further Algebra and Functions/4.4 - Further Algebra and Functions.md",
+    "Further Maths/Unit 4 - Further Pure/4.3 - Matricies/4.3 - Matricies.md",
+    "Further Maths/Unit 4 - Further Pure/4.2 - Further Trigonometry/4.2 - Further Trigonometry.md",
+    "Further Maths/Unit 4 - Further Pure/4.3 - Matricies/Solving Simultaneous Equations.md",
+    "Further Maths/Unit 4 - Further Pure/4.2 - Further Trigonometry/Half Angle Identities (little t).md",
+    "Further Maths/Unit 4 - Further Pure/4.1 - Complex Numbers/4.1 - Complex Numbers.md",
+    "Further Maths/Unit 4 - Further Pure/4.1 - Complex Numbers/De Moivre's Theorem.md",
+    "Further Maths/Unit 4 - Further Pure/4.1 - Complex Numbers/7Jan2025.md",
+    "Further Maths/Unit 4 - Further Pure/4.1 - Complex Numbers/17Jan2025.md",
+    "Further Maths/Unit 4 - Further Pure/4.1 - Complex Numbers/Proof by Induction of De Moivre's Theorem.md",
+    "Further Maths/Unit 2 - Further Statistics/Unit 2 - Further Statistics.md",
+    "Further Maths/Unit 4 - Further Pure/Unit 4 - Further Pure.md",
     "Further Maths/Further Maths.md",
-    "Computer Science/Unit 3 - Programming and SysDev/3.7 & 3.8 - Software Engineering & Program Construction/3.7 & 3.8 - Software Engineering & Program Construction.md",
+    "Computer Science/Computer Science.md",
+    "Computer Science/Unit 4 - Theory/Unit 4 - Theory.md",
     "Further Maths/Unit 4 - Further Pure/4.3 - Matricies",
-    "Computer Science/Unit 1 - CS Fundamentals/Unit 1 - CS Fundamentals.md",
-    "Computer Science/Unit 1 - CS Fundamentals/1.12 & 1.13 - Software engineering & Program construction/1.12 & 1.13 - Software engineering & Program construction.md",
-    "index.md",
-    "Computer Science/Unit 3 - Programming and SysDev/3.3 - Algorithms and Programs/3.3 - Algorithms and Programs.md",
-    "Computer Science/Unit 3 - Programming and SysDev/Unit 3 - Programming and SysDev.md",
-    "Further Maths/Unit 2 - Further Statistics/2.1 - DRVs & Poisson Process/Distribution Functions.md",
     "Computer Science/Unit 3 - Programming and SysDev/3.7 & 3.8 - Software Engineering & Program Construction",
     "Further Maths/Unit 4 - Further Pure/4.8 - Differential equations",
     "Computer Science/Unit 3 - Programming and SysDev/3.5 & 3.6 - Systems Analysis & System design",
