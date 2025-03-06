@@ -788,6 +788,7 @@ Converts
 Cofactor
 Conventional
 Complimentary
+Charged
 View
 VOIP
 Voice
@@ -11745,6 +11746,7 @@ Insertion
 Inserting
 Inversely
 Inhomogeneous
+Integral
 currently
 contain
 co
@@ -12850,6 +12852,7 @@ cofactor
 cofactors
 contradictory
 consistent
+complimentary
 doesn
 determined
 data
@@ -13776,6 +13779,7 @@ designing
 doped
 differentials
 differentiated
+duplicated
 many
 mailto
 main
@@ -15625,6 +15629,7 @@ practise
 planned
 progresses
 paperwork
+parallelised
 expand
 even
 each
@@ -18107,6 +18112,7 @@ Prototyping
 Probe
 Pure
 Particular
+Problem
 Sine
 Stands
 Standard
@@ -18953,6 +18959,7 @@ Stored
 Straight
 Solenoid
 Sprints
+Substitutions
 Rule
 Real
 Routes
@@ -21037,6 +21044,7 @@ AtoB
 Agile
 Aided
 Auxiliary
+Amdahl
 for
 finding
 function
@@ -25751,6 +25759,7 @@ Development
 Differential
 Dictionary
 Determinant
+Drawbacks
 Unicode
 Used
 UCS
@@ -35338,6 +35347,7 @@ Hubble
 Hyperbolic
 Hall
 Homogenous
+Homogeneous
 KB
 Keyboard
 Kilobyte
