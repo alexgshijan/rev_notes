@@ -1,6 +1,6 @@
 First we'll find the complimentary function using the method laid out in [[2nd Order Differential Equations]] as though it is homogeneous, and then find the particular function
 
-In the Form : $$A\frac{d^{2}x}{dt^{2}}+ B\frac{dy}{dx}+Cx=F(t)$$
+In the Form : $$A\frac{d^{2}x}{dt^{2}}+ B\frac{dx}{dt}+Cx=F(t)$$
 
 **Finding the particular integral**
 Make a trial substitution into the LHS. Then compare coefficients with the RHS to find values of C and D.
