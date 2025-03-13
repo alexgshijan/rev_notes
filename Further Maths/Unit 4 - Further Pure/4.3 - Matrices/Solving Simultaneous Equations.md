@@ -9,7 +9,7 @@ The Method can also be expanded to work with $x,y,z$
 
 Note this method can only work if all planes meet at a single point
 
-**Method 2 : Echelon Row Form**
+**Method 2 : Echelon Row Form (where det is 0)**
 Equations can be arranged into an augmented matrix. Here's an example with random numbers
 $$\begin{pmatrix}
     2 & 3 & 5  &\bigm| & 5 \\
@@ -29,4 +29,24 @@ You can reduce an augmented matrix to row-echelon form by carrying out a combina
 - ﻿﻿Add or subtract a multiple of one of the rows to another row
 Repeat these steps in any order in order to get row echelon form, the idea is to first get the leading 0 by subtracting/ adding another row, then to divide by a constant to get the leading 1.
 
-**A reduced echelon form that is consistent will have a row of zeros that is equal to zero, an inconsistent will form a row of zeros that is not equal to zero.**
+**Where the det is not 0, a reduced echelon form that is consistent will have a row of zeros that is equal to zero, an inconsistent will form a row of zeros that is not equal to zero.**
+
+**For this matrix :**
+$$\begin{pmatrix}
+    1 & a & b  &\bigm| & d \\
+    0 & 1 & c &\bigm| & e \\
+    0 & 0 & 0 &\bigm| & 0 \\ 
+\end{pmatrix}$$
+Form the two equations in terms of x, y, z :
+$$x+ay+bz=d\hspace{1cm}y+cz=e$$
+And represent either x, y, z as a variable. Then rewrite the different equations in terms of this variable. 
+
+**For this matrix :**
+$$\begin{pmatrix}
+    1 & a & b  &\bigm| & d \\
+    0 & 1 & c &\bigm| & e \\
+    0 & 0 & 0 &\bigm| & f \\ 
+\end{pmatrix}$$
+The last line insinuates :
+$$0x +0y+0z=f$$
+This shows that the equations are inconsistent and thus there are no sols.

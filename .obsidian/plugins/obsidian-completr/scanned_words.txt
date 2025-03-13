@@ -793,6 +793,7 @@ Calls
 Commercial
 Contemporary
 Cyclotron
+Changing
 View
 VOIP
 Voice
@@ -3387,6 +3388,7 @@ accelerating
 alternating
 accelerator
 accelerate
+anode
 only
 on
 odd
@@ -4875,6 +4877,10 @@ Thoroughness
 True
 Teslas
 Theta
+TBWc
+Tbf
+TFy
+TEY
 revision
 rule
 rotational
@@ -5743,6 +5749,7 @@ reason
 rearranged
 recognition
 relativistic
+rays
 bank
 be
 but
@@ -6543,6 +6550,7 @@ breaks
 belief
 balance
 brings
+boils
 that
 throughout
 the
@@ -7469,6 +7477,8 @@ transposition
 typers
 tubes
 tube
+tungsten
+thermionic
 ll
 lot
 languages
@@ -8318,6 +8328,7 @@ lima
 lightining
 lightning
 lowercase
+liberate
 working
 when
 wip
@@ -9097,6 +9108,8 @@ workers
 wanted
 weren
 worth
+wFT
+window
 year
 you
 years
@@ -10949,6 +10962,9 @@ simplifying
 subtract
 speech
 synch
+sjWT
+spikes
+striking
 It
 Identities
 Information
@@ -12879,6 +12895,11 @@ contradictory
 consistent
 complimentary
 cyclotron
+care
+cooling
+collimated
+copper
+cathode
 doesn
 determined
 data
@@ -13810,6 +13831,10 @@ directing
 department
 disabilities
 detected
+djB
+dYXY
+deceleration
+decelerated
 many
 mailto
 main
@@ -15663,6 +15688,8 @@ progresses
 paperwork
 parallelised
 phone
+pSk
+plank
 expand
 even
 each
@@ -16569,6 +16596,9 @@ echelon
 elementary
 easy
 education
+expressing
+evacuated
+embedded
 uk
 using
 unified
@@ -19692,6 +19722,7 @@ Repositories
 Report
 Row
 Reduction
+Rxvz
 Note
 Negatives
 Normalising
@@ -20375,6 +20406,7 @@ NfR
 NWR
 Nested
 Null
+NVV
 And
 ASCII
 American
@@ -21903,6 +21935,9 @@ fleshed
 feedback
 fly
 forced
+fqA
+fiU
+focussing
 Graph
 Good
 Graphics
@@ -22662,6 +22697,7 @@ Gin
 Gjg
 Gravitation
 Generation
+Gö
 has
 have
 how
@@ -23460,6 +23496,8 @@ hypotheses
 hyperbolic
 homogeneous
 hands
+heater
+housing
 Every
 EBCDIC
 Each
@@ -28744,6 +28782,7 @@ Minimum
 Magnetism
 Math
 Minors
+Manipulating
 give
 generally
 get
@@ -29524,6 +29563,8 @@ galactic
 graphical
 goals
 generation
+gAMA
+gDh
 Floats
 Float
 Full
@@ -30955,6 +30996,7 @@ Longer
 Logical
 Linking
 Libraries
+Lhcusss
 You
 Yottabyte
 Young
@@ -33813,6 +33855,7 @@ valuable
 vertices
 visualising
 verify
+vDw
 We
 When
 Where
@@ -36775,6 +36818,7 @@ qPj
 qiG
 qRrs
 quartile
+qXQ
 John
 Joystick
 JP
@@ -37431,6 +37475,7 @@ JnD
 JtN
 JGD
 Just
+JzW
 Zettabyte
 Zettabytes
 Zero
@@ -38071,6 +38116,7 @@ ZNl
 ZgmF
 ZBG
 Zssi
+ZAp
 XOR
 XUVAT
 XUVATS
