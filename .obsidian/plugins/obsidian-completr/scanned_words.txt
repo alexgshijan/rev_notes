@@ -2445,6 +2445,11 @@ inconsistent
 inhomogeneous
 insinuates
 incase
+incoming
+incident
+impacts
+impact
+induced
 app
 adding
 are
@@ -3389,6 +3394,8 @@ alternating
 accelerator
 accelerate
 anode
+attenuated
+attenuation
 only
 on
 odd
@@ -4881,6 +4888,8 @@ TBWc
 Tbf
 TFy
 TEY
+Thickness
+Therapeutic
 revision
 rule
 rotational
@@ -7479,6 +7488,10 @@ tubes
 tube
 tungsten
 thermionic
+thickness
+therapy
+tumors
+tissue
 ll
 lot
 languages
@@ -8329,6 +8342,7 @@ lightining
 lightning
 lowercase
 liberate
+linkage
 working
 when
 wip
@@ -10965,6 +10979,12 @@ synch
 sjWT
 spikes
 striking
+shells
+shifted
+shrink
+soft
+slices
+sols
 It
 Identities
 Information
@@ -11788,6 +11808,7 @@ Inversely
 Inhomogeneous
 Integral
 Intuitive
+Impacts
 currently
 contain
 co
@@ -12900,6 +12921,10 @@ cooling
 collimated
 copper
 cathode
+cancer
+contrast
+collects
+covered
 doesn
 determined
 data
@@ -13835,6 +13860,8 @@ djB
 dYXY
 deceleration
 decelerated
+depth
+det
 many
 mailto
 main
@@ -15690,6 +15717,7 @@ parallelised
 phone
 pSk
 plank
+picture
 expand
 even
 each
@@ -18180,6 +18208,7 @@ Probe
 Pure
 Particular
 Problem
+Phi
 Sine
 Stands
 Standard
@@ -19028,6 +19057,8 @@ Solenoid
 Sprints
 Substitutions
 Steering
+Scanners
+Solenoids
 Rule
 Real
 Routes
@@ -21117,6 +21148,7 @@ Aided
 Auxiliary
 Amdahl
 Accelerator
+Attenuation
 for
 finding
 function
@@ -24970,6 +25002,7 @@ kiL
 kXT
 knowledge
 knows
+kill
 Do
 Decimal
 Depends
@@ -25840,6 +25873,7 @@ Differential
 Dictionary
 Determinant
 Drawbacks
+Diagnostic
 Unicode
 Used
 UCS
@@ -28783,6 +28817,7 @@ Magnetism
 Math
 Minors
 Manipulating
+Materials
 give
 generally
 get
@@ -30249,6 +30284,7 @@ Farad
 Flux
 Fewer
 FLH
+Faraday
 Long
 Layer
 LTE
@@ -30997,6 +31033,9 @@ Logical
 Linking
 Libraries
 Lhcusss
+Linkage
+Len
+Lenz
 You
 Yottabyte
 Young
@@ -33087,6 +33126,7 @@ Oval
 Original
 Orders
 ODE
+Oblique
 value
 very
 valued
