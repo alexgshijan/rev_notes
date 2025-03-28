@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Further Maths/Unit 4 - Further Pure/4.8 - Differential equations/Integrating Factors.md",
+                "file": "Further Maths/Further Maths.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Integrating Factors"
+              "title": "Further Maths"
             }
           }
         ]
@@ -175,6 +175,10 @@
   },
   "active": "05c65eeab4b56967",
   "lastOpenFiles": [
+    "index.md",
+    "Further Maths/Unit 1 - Pure/1.1 - Proof by Induction/Proof of the binomial theorem by induction.pdf",
+    "Further Maths/Unit 1 - Pure/1.1 - Proof by Induction/1.1 - Proof by Induction.md",
+    "Further Maths/Unit 4 - Further Pure/4.8 - Differential equations/Integrating Factors.md",
     "Further Maths/Further Maths.md",
     "Maths/Maths.md",
     "Maths/Unit 3 - PURE/3.7 - Integration/Reverse Chain Rule.md",
@@ -196,11 +200,6 @@
     "Further Maths/Unit 3 - Further Mechanics/Unit 3 - Further Mechanics.md",
     "Further Maths/Unit 3 - Further Mechanics/3.3 - Circular Motion/3.3 - Circular Motion.md",
     "Further Maths/Unit 3 - Further Mechanics/3.2 - Hooke's Law, Work, Energy and Power/3.2 - Hooke's Law, Work, Energy and Power.md",
-    "Further Maths/Unit 3 - Further Mechanics/3.1 - Momentum and Impulse/3.1 - Momentum and Impulse.md",
-    "index.md",
-    "Physics/Unit 3/3.5 - Nuclear Decay/3.5 - Nuclear Decay.md",
-    "Further Maths/Unit 2 - Further Statistics/Unit 2 - Further Statistics.md",
-    "Further Maths/Unit 1 - Pure/Unit 1 - Pure.md",
-    "Further Maths/Unit 1 - Pure/1.1 - Proof by Induction/Proof of the binomial theorem by induction.pdf"
+    "Further Maths/Unit 3 - Further Mechanics/3.1 - Momentum and Impulse/3.1 - Momentum and Impulse.md"
   ]
 }

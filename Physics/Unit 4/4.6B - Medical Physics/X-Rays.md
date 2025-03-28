@@ -48,5 +48,3 @@ X-ray therapy is where high-energy radiation from x-rays is used to kill cancer 
 **Diagnostic use of X-Ray**
 You can look for soft tissue by using a contrast medium to change the density of the soft tissue
 
-**CT Scanners**
-This device collects data on X-ray transmission at different angle through slices of a body to form a 3D picture.

@@ -1,0 +1,1 @@
+**For a rotation about the x axis the volume of the disc is $\pi y^{2}\delta x$ and it's moment is $\pi y^{2}\delta x\cdot x$. The volume of the whole solid is given by $V\bar{x}$ so $\int{\pi y^{2}x\delta x}$**. For a rotation about the y axis, switch the x for y.
