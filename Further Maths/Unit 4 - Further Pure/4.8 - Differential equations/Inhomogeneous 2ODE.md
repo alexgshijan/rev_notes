@@ -9,8 +9,8 @@ Make a trial substitution into the LHS. Then compare coefficients with the RHS t
 - When LHS is constant : $x=C$
 - When LHS is linear function : $x = Ct + D$
 - When LHS is linear function and RHS no terms of $x$ : $x=Ct^{2}+Dt$
-- When LHS is Quadratic function : $x=Cx^{2}+Dx+E$
-- When LHS is exponential contain $e^{px}$ : $x=Ce^{px}$
-- When LHS involves $\sin px$ or $\cos px$ : $x=C\cos px+D\sin px$
+- When LHS is Quadratic function : $x=Ct^{2}+Dt+E$
+- When LHS is exponential contain $e^{pt}$ : $x=Ce^{pt}$
+- When LHS involves $\sin pt$ or $\cos pt$ : $x=C\cos pt+D\sin pt$
 
 General solution is the Complimentary Function + Particular Integral Function.

@@ -5,7 +5,7 @@ For second order differentials we can make the substitution $x=Ae^{mt}$ as it's 
 *Homogeneous Equation* - Where RHS is = 0
 *Inhomogeneous Equation* - Where RHS is $\neq$ 0
 *Complimentary Function* - The solution of a homogeneous 2nd ODE 
-*Particular Function* - The solution of an inhomogeneous 2nd ODE
+*Particular Function* - The solution with specific boundary conditions.
 
 **Homogeneous Worked Example** - $\frac{d^{2}x}{dt^{2}}+2 \frac{dx}{dt}-8x=0$
 $$\text{Let }x=Ae^{mt}\implies \frac{dx}{dt}=mAe^{mt}\implies \frac{d^{2}x}{dt^{2}}=m^{2}Ae^{mt}$$
