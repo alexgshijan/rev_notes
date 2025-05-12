@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Unit 2/2.2 - Resistance/2.2 - Resistance.md",
+                "file": "Further Maths/Unit 6 - Further Mechanics/6.5 - Simple Harmonic Motion/6.5 - Simple Harmonic Motion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.2 - Resistance"
+              "title": "6.5 - Simple Harmonic Motion"
             }
           }
         ]
@@ -49,7 +49,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "Resonance",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -173,8 +173,11 @@
       "chronology:Open Chronology": false
     }
   },
-  "active": "05c65eeab4b56967",
+  "active": "e8ee80324535fb14",
   "lastOpenFiles": [
+    "Physics/Unit 4/4.3 - The Empty Universe/4.3 - The Empty Universe.md",
+    "Physics/Unit 4/4.2 - Gravitational Fields/4.2 - Gravitational Fields.md",
+    "Physics/Unit 2/2.2 - Resistance/2.2 - Resistance.md",
     "Physics/Unit 2/Unit 2.md",
     "Physics/Unit 3/3.3 - Kinetic Theory/3.3 - Kinetic Theory.md",
     "Physics/Unit 3/3.4 - Thermal Physics - Thermodynamics/Specific Heat Capacity.md",
@@ -198,9 +201,6 @@
     "Maths/Unit 4 - APPLIED/Unit 4 - APPLIED.md",
     "Physics/Unit 1/1.1 - Physics Basics/1.1 - Physics Basics.md",
     "Further Maths/Unit 4 - Further Pure/4.1 - Complex Numbers/7Jan2025.md",
-    "Maths/Unit 1 - PURE/1.7 - Differentiation/1.7 - Differentiation.md",
-    "Further Maths/Unit 4 - Further Pure/4.2 - Further Trigonometry/4.2 - Further Trigonometry.md",
-    "Further Maths/Unit 4 - Further Pure/4.1 - Complex Numbers/De Moivre's Theorem.md",
-    "Further Maths/Unit 4 - Further Pure/4.1 - Complex Numbers/4.1 - Complex Numbers.md"
+    "Maths/Unit 1 - PURE/1.7 - Differentiation/1.7 - Differentiation.md"
   ]
 }

@@ -1,4 +1,4 @@
-\The CPU and main memory are valuable resources. There is a limit on what can be done in a given amount of time - When we design algorithms we want to be as efficient as possible. Big O Notation measures and compares the time & space complexity and performance of algorithms - It looks at how long an algorithm takes in the worst-case scenario. 
+The CPU and main memory are valuable resources. There is a limit on what can be done in a given amount of time - When we design algorithms we want to be as efficient as possible. Big O Notation measures and compares the time & space complexity and performance of algorithms - It looks at how long an algorithm takes in the worst-case scenario. 
 
 *An “O” is used as a prefix for all expressions written in big O notation. An “n” is used to refer to the number of items. This is the algorithms “growth rate”, it can apply to both the time and space complexities.*
 

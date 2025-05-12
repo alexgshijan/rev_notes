@@ -41,16 +41,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Unit 4 - Theory/4.3 - Data Representation/4.3 - Data Representation.md",
+                "file": "Further Maths/Unit 4 - Further Pure/4.5 - Further Calculus/4.5 - Further Calculus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.3 - Data Representation"
+              "title": "4.5 - Further Calculus"
+            }
+          },
+          {
+            "id": "5b27dc1ab6becc89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Further Maths/Unit 2 - Further Statistics/2.2 - Relation of Fit & Variable of Models/Chi-Squared Two-Way Tables.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chi-Squared Two-Way Tables"
+            }
+          },
+          {
+            "id": "f5904aaf5a3bc7f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Further Maths/Unit 1 - Pure/1.4 - Further Algebra and Functions/1.4 - Further Algebra and Functions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.4 - Further Algebra and Functions"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -82,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "damp",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -234,34 +262,74 @@
       "chronology:Open Chronology": false
     }
   },
-  "active": "8a118c03b1b8862b",
+  "floating": {
+    "id": "7a8155e682f12895",
+    "type": "floating",
+    "children": [
+      {
+        "id": "dd13c6ae8692f666",
+        "type": "window",
+        "children": [
+          {
+            "id": "32ed05f5bb75ffca",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a3c41200cb33cebf",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "index.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "index"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 24,
+        "width": 1680,
+        "height": 1026,
+        "maximize": false,
+        "zoom": 0.5
+      }
+    ]
+  },
+  "active": "f5904aaf5a3bc7f4",
   "lastOpenFiles": [
-    "Computer Science/Unit 4 - Theory/4.2 - Data Transmission/4.2 - Data Transmission.md",
-    "Computer Science/Unit 4 - Theory/4.3 - Data Representation/4.3 - Data Representation.md",
-    "Computer Science/Unit 3 - Programming and SysDev/3.7 & 3.8 - Software Engineering & Program Construction/3.7 & 3.8 - Software Engineering & Program Construction.md",
-    "Computer Science/Unit 3 - Programming and SysDev/3.5 & 3.6 - Systems Analysis & System design/3.5 & 3.6 - Systems Analysis & System design.md",
-    "Computer Science/Unit 4 - Theory/4.8 - Data security/Cyber Security.md",
-    "index.md",
-    "z_Excerpts/z_Excerpts.md",
-    "z_Excerpts/Image/Image.md",
-    "z_Excerpts/Graph/Graph.md",
-    "Physics/Physics.md",
-    "Physics/Unit 5 - Practical/Unit 5 - Practical.md",
-    "Physics/Unit 5 - Practical/Tables and Graphs.md",
-    "Physics/Unit 5 - Practical/Planning Experiments.md",
-    "Physics/Unit 4/4.6B - Medical Physics/X-Rays.md",
-    "Physics/Unit 4/4.6B - Medical Physics/Ultrasound.md",
-    "Physics/Unit 4/4.6B - Medical Physics/Magnetic Resonance Imaging.md",
-    "Physics/Unit 4/4.6B - Medical Physics/CT Scanners.md",
-    "Physics/Unit 4/4.5 - Electromagnetic Induction/4.5 - Electromagnetic Induction.md",
-    "Physics/Unit 4/4.4 - Magnetic Fields/4.4 - Magnetic Fields.md",
-    "Physics/Unit 4/4.3 - The Empty Universe/Kepler's Laws.md",
-    "Physics/Unit 4/4.3 - The Empty Universe/Doppler Effect.md",
-    "Physics/Unit 4/4.3 - The Empty Universe/4.3 - The Empty Universe.md",
-    "Physics/Unit 4/4.2 - Gravitational Fields/4.2 - Gravitational Fields.md",
-    "Physics/Unit 4/4.2 - Electrostatic Fields/4.2 - Electrostatic Fields.md",
-    "Physics/Unit 4/4.1 - Capacitance/4.1 - Capacitance.md",
-    "Physics/Unit 3/3.6 - Nuclear Energy/3.6 - Nuclear Energy.md",
+    "Physics/Unit 2/2.7 - Photons/Atomic Energy Level.md",
+    "Physics/Unit 2/2.7 - Photons/2.7 - Photons.md",
+    "Physics/Unit 2/2.6 - Refraction/TIR - Optical Fibres.md",
+    "Physics/Unit 2/2.6 - Refraction/2.6 - Refraction.md",
+    "Physics/Unit 2/2.5 - Wave Properties/Stationary Waves.md",
+    "Physics/Unit 2/2.5 - Wave Properties/Diffraction Grating.md",
+    "Physics/Unit 2/2.5 - Wave Properties/2.5 - Wave Properties.md",
+    "Further Maths/Unit 1 - Pure/1.4 - Further Algebra and Functions/1.4 - Further Algebra and Functions.md",
+    "Computer Science/Unit 1 - CS Fundamentals/1.1 - Hardware and communication/Networking/Contemporary Protocols.md",
+    "Further Maths/Unit 1 - Pure/1.4 - Further Algebra and Functions/Summation - Standard Results.md",
+    "Further Maths/Unit 1 - Pure/1.3 - Matrices/1.3 - Matrices.md",
+    "Further Maths/Unit 1 - Pure/1.2 - Complex Numbers/1.2 - Complex Numbers.md",
+    "Further Maths/Unit 1 - Pure/1.2 - Complex Numbers/Argand Diagram.md",
+    "Further Maths/Unit 1 - Pure/1.2 - Complex Numbers/Multiplying complex numbers.md",
+    "Further Maths/Unit 1 - Pure/1.1 - Proof by Induction/1.1 - Proof by Induction.md",
+    "Further Maths/Unit 2 - Further Statistics/2.2 - Relation of Fit & Variable of Models/Chi-Squared Two-Way Tables.md",
+    "Further Maths/Unit 2 - Further Statistics/2.2 - Relation of Fit & Variable of Models/Goodness of Fit with Chi-Squared.md",
+    "Further Maths/Unit 2 - Further Statistics/2.1 - DRVs & Poisson Process/2.1 - DRVs & Poisson Process.md",
+    "Further Maths/Unit 2 - Further Statistics/2.2 - Relation of Fit & Variable of Models/2.2 - Relation of Fit & Variable of Models.md",
+    "Further Maths/Unit 2 - Further Statistics/2.1 - DRVs & Poisson Process/Probability Density Functions.md",
+    "Further Maths/Unit 2 - Further Statistics/2.1 - DRVs & Poisson Process/Distribution Functions.md",
+    "Further Maths/Unit 2 - Further Statistics/Unit 2 - Further Statistics.md",
+    "Further Maths/Unit 1 - Pure/Unit 1 - Pure.md",
+    "Further Maths/Unit 3 - Mechanics/Unit 3 - Mechanics.md",
+    "Further Maths/Unit 3 - Mechanics/3.4 - Calculus With Vectors/3.4 - Calculus With Vectors.md",
+    "Further Maths/Unit 3 - Mechanics/3.3 - Circular Motion/3.3 - Circular Motion.md",
+    "Computer Science/Unit 3 - Programming and SysDev/3.2 - Logical Operations",
     "Further Maths/Unit 4 - Further Pure/4.5 - Further Calculus",
     "z_Excerpts/Image/WhatsApp Image 2025-04-07 at 10.46.29.jpeg",
     "Further Maths/Unit 6 - Further Mechanics/6.5 - Simple Harmonic Motion",
@@ -273,7 +341,6 @@
     "Further Maths/Unit 6 - Further Mechanics/6.3 - Moments and Centre of Mass",
     "Further Maths/Unit 6 - Further Mechanics/6.2 - Momentum and Impulse",
     "Further Maths/Unit 3 - Mechanics/3.1 - Momentum and Impulse 1",
-    "Physics/Unit 4/4.5 - Electromagnetic Induction",
     "z_Excerpts/Image/1.png",
     "z_Excerpts/Image/Pasted image 20250210102922.png",
     "z_Excerpts/Image/Pasted image 20250210101647.png",
