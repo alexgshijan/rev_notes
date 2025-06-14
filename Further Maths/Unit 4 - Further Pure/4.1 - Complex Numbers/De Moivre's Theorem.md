@@ -15,11 +15,11 @@ $$\cos \theta=\frac{Z^{1}+Z^{-1}}{2}\to\cos^{5} \theta=\frac{(Z^{1}+Z^{-1})^{5}}
 *Use [[Binomial Theorem - Expansion]] to expand this term.*
 $$(Z^{1}+Z^{-1})^{5}=Z^{5}+5Z^{3}+10Z+10Z^{-1}+5Z^{-3}+Z^{-5}$$
 *Use the inverse of the original identity $\cos n \theta=\frac{Z^{n}+Z^{-n}}{2}\implies 2\cos n \theta=Z^{n}+Z^{-n}$*
-$$(Z^{1}+Z^{-1})^{5}= 2\cos 5\theta+10\cos 3\theta + 20\cos\theta\implies\frac{(Z^{1}+Z^{-1})^{5}}{32}=\frac{1}{32}(2\cos 5\theta+10\cos 3\theta + 20\cos\theta)$$
+$$(Z^{1}+Z^{-1})^{5}= 2\cos 5\theta+10\cos 3\theta + 20\cos\theta\implies\frac{(Z^{1}+Z^{-1})^{5}}{32}=\frac{2\cos 5\theta+10\cos 3\theta + 20\cos\theta}{32}$$
 *Finally we tidy our results and conclude.*
-$$\therefore\cos^{5}\theta=\frac{1}{32}(2\cos 5\theta+10\cos 3\theta + 20\cos\theta)$$
+$$\therefore\cos^{5}\theta=\frac{2\cos 5\theta+10\cos 3\theta + 20\cos\theta}{32}$$
 
-**We can consider the imaginary and real separately to suit our use case**
+We can consider the imaginary and real separately to suit our use case
 
 **Roots of Unity Example : Solve $x^{3}=1$**
 *Method 1*

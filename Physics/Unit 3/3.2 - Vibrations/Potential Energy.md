@@ -1,2 +1,2 @@
-$$E_{p}=\frac{1}{2}kx^{2}\text{ and }\omega^{2}=\frac{k}{m}\to E_{p}\frac{m\omega^{2}x^{2}}{2}$$
+$$E_{p}=\frac{1}{2}kx^{2}\text{ and }\omega^{2}=\frac{k}{m}\to E_{p}=\frac{m\omega^{2}x^{2}}{2}$$
 *We can sub in amplitude instead of x, allowing us to find total energy. In a pendulum system, total energy - potential energy = kinetic energy, allowing us to find total energy*

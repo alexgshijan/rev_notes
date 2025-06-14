@@ -55,30 +55,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Further Maths/Unit 2 - Further Statistics/2.2 - Relation of Fit & Variable of Models/Chi-Squared Two-Way Tables.md",
+                "file": "Further Maths/Further Maths.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chi-Squared Two-Way Tables"
+              "title": "Further Maths"
             }
           },
           {
-            "id": "f5904aaf5a3bc7f4",
+            "id": "3874e35e6a3b864b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "webviewer",
               "state": {
-                "file": "Further Maths/Unit 1 - Pure/1.4 - Further Algebra and Functions/1.4 - Further Algebra and Functions.md",
-                "mode": "source",
-                "source": false
+                "url": "https://cdn1.byjus.com/wp-content/uploads/2020/01/Fleming%E2%80%99s-Left-Hand-Rule.png",
+                "title": "Fleming’s-Left-Hand-Rule.png (750×415)",
+                "mode": "webview"
               },
-              "icon": "lucide-file",
-              "title": "1.4 - Further Algebra and Functions"
+              "icon": "globe-2",
+              "title": "Fleming’s-Left-Hand-Rule.png (750×415)"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "emf",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -262,76 +262,37 @@
       "chronology:Open Chronology": false
     }
   },
-  "floating": {
-    "id": "7a8155e682f12895",
-    "type": "floating",
-    "children": [
-      {
-        "id": "dd13c6ae8692f666",
-        "type": "window",
-        "children": [
-          {
-            "id": "32ed05f5bb75ffca",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "a3c41200cb33cebf",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "index.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "index"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 24,
-        "width": 1680,
-        "height": 1026,
-        "maximize": false,
-        "zoom": 0.5
-      }
-    ]
-  },
-  "active": "f5904aaf5a3bc7f4",
+  "active": "de7d5c11a53ffbd9",
   "lastOpenFiles": [
-    "Physics/Unit 2/2.7 - Photons/Atomic Energy Level.md",
-    "Physics/Unit 2/2.7 - Photons/2.7 - Photons.md",
-    "Physics/Unit 2/2.6 - Refraction/TIR - Optical Fibres.md",
-    "Physics/Unit 2/2.6 - Refraction/2.6 - Refraction.md",
-    "Physics/Unit 2/2.5 - Wave Properties/Stationary Waves.md",
-    "Physics/Unit 2/2.5 - Wave Properties/Diffraction Grating.md",
-    "Physics/Unit 2/2.5 - Wave Properties/2.5 - Wave Properties.md",
-    "Further Maths/Unit 1 - Pure/1.4 - Further Algebra and Functions/1.4 - Further Algebra and Functions.md",
-    "Computer Science/Unit 1 - CS Fundamentals/1.1 - Hardware and communication/Networking/Contemporary Protocols.md",
-    "Further Maths/Unit 1 - Pure/1.4 - Further Algebra and Functions/Summation - Standard Results.md",
-    "Further Maths/Unit 1 - Pure/1.3 - Matrices/1.3 - Matrices.md",
-    "Further Maths/Unit 1 - Pure/1.2 - Complex Numbers/1.2 - Complex Numbers.md",
-    "Further Maths/Unit 1 - Pure/1.2 - Complex Numbers/Argand Diagram.md",
-    "Further Maths/Unit 1 - Pure/1.2 - Complex Numbers/Multiplying complex numbers.md",
-    "Further Maths/Unit 1 - Pure/1.1 - Proof by Induction/1.1 - Proof by Induction.md",
-    "Further Maths/Unit 2 - Further Statistics/2.2 - Relation of Fit & Variable of Models/Chi-Squared Two-Way Tables.md",
-    "Further Maths/Unit 2 - Further Statistics/2.2 - Relation of Fit & Variable of Models/Goodness of Fit with Chi-Squared.md",
-    "Further Maths/Unit 2 - Further Statistics/2.1 - DRVs & Poisson Process/2.1 - DRVs & Poisson Process.md",
-    "Further Maths/Unit 2 - Further Statistics/2.2 - Relation of Fit & Variable of Models/2.2 - Relation of Fit & Variable of Models.md",
-    "Further Maths/Unit 2 - Further Statistics/2.1 - DRVs & Poisson Process/Probability Density Functions.md",
-    "Further Maths/Unit 2 - Further Statistics/2.1 - DRVs & Poisson Process/Distribution Functions.md",
-    "Further Maths/Unit 2 - Further Statistics/Unit 2 - Further Statistics.md",
-    "Further Maths/Unit 1 - Pure/Unit 1 - Pure.md",
-    "Further Maths/Unit 3 - Mechanics/Unit 3 - Mechanics.md",
-    "Further Maths/Unit 3 - Mechanics/3.4 - Calculus With Vectors/3.4 - Calculus With Vectors.md",
-    "Further Maths/Unit 3 - Mechanics/3.3 - Circular Motion/3.3 - Circular Motion.md",
+    "Further Maths/Unit 6 - Further Mechanics/6.1 - Rectilinear Motion/6.1 - Rectilinear Motion.md",
+    "Further Maths/Unit 6 - Further Mechanics/6.2 - Momentum and Impulse/6.2 - Momentum and Impulse.md",
+    "Further Maths/Unit 6 - Further Mechanics/6.3 - Moments and Centre of Mass/6.3 - Moments and Centre of Mass.md",
+    "Further Maths/Unit 6 - Further Mechanics/6.5 - Simple Harmonic Motion/6.5 - Simple Harmonic Motion.md",
+    "Computer Science/Unit 1 - CS Fundamentals/1.10 - Principles of programming/Object Oriented Programming.md",
+    "Computer Science/Unit 1 - CS Fundamentals/1.10 - Principles of programming/Levels of Languages.md",
+    "Computer Science/Unit 1 - CS Fundamentals/1.10 - Principles of programming/1.10 - Principles of programming.md",
+    "Computer Science/Unit 1 - CS Fundamentals/1.8 - Operating Systems/Utility Software.md",
+    "Computer Science/Unit 1 - CS Fundamentals/1.8 - Operating Systems/Resource Management.md",
+    "Computer Science/Unit 1 - CS Fundamentals/1.8 - Operating Systems/Backing Store.md",
+    "Computer Science/Unit 1 - CS Fundamentals/1.8 - Operating Systems/1.8 - Operating Systems.md",
+    "Computer Science/Unit 1 - CS Fundamentals/1.7 - Database Systems/1.7 - Database Systems.md",
+    "Computer Science/Unit 1 - CS Fundamentals/1.6 - Organisation of data/Master and Transaction Files.md",
+    "Computer Science/Unit 1 - CS Fundamentals/1.6 - Organisation of data/Field Length.md",
+    "Computer Science/Unit 1 - CS Fundamentals/1.6 - Organisation of data/1.6 - Organisation of data.md",
+    "Computer Science/Unit 1 - CS Fundamentals/1.6 - Organisation of data/File Types/Serial.md",
+    "Computer Science/Unit 1 - CS Fundamentals/1.6 - Organisation of data/File Types/Sequential.md",
+    "Computer Science/Unit 1 - CS Fundamentals/1.6 - Organisation of data/File Types/Indexed Sequential.md",
+    "Computer Science/Unit 1 - CS Fundamentals/1.6 - Organisation of data/File Types/File Types.md",
+    "Computer Science/Unit 1 - CS Fundamentals/1.4 - Data representation and data types/Data Types.md",
+    "Computer Science/Unit 1 - CS Fundamentals/1.4 - Data representation and data types/1.4 - Data representation and data types.md",
+    "Computer Science/Unit 1 - CS Fundamentals/1.4 - Data representation and data types/Fixed & Floating Point Numbers/Floating Point Representation.md",
+    "Computer Science/Unit 1 - CS Fundamentals/1.4 - Data representation and data types/Fixed & Floating Point Numbers/Fixed Point representation.md",
+    "Computer Science/Unit 1 - CS Fundamentals/1.4 - Data representation and data types/Fixed & Floating Point Numbers/Fixed & Floating Point Numbers.md",
+    "Computer Science/Unit 1 - CS Fundamentals/1.4 - Data representation and data types/Fixed & Floating Point Numbers/Converting a positive real number to floating point.md",
+    "Computer Science/Unit 1 - CS Fundamentals/1.3 - Data Transmission/Transmission.md",
+    "z_Excerpts/Image/WhatsApp Image 2025-04-07 at 10.46.29.jpeg",
     "Computer Science/Unit 3 - Programming and SysDev/3.2 - Logical Operations",
     "Further Maths/Unit 4 - Further Pure/4.5 - Further Calculus",
-    "z_Excerpts/Image/WhatsApp Image 2025-04-07 at 10.46.29.jpeg",
     "Further Maths/Unit 6 - Further Mechanics/6.5 - Simple Harmonic Motion",
     "Computer Science/Unit 4 - Theory/4.8 - Data security",
     "Further Maths/Unit 6 - Further Mechanics/6.4 - Equilibrium of Rigid Bodies",

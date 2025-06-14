@@ -1,4 +1,4 @@
-**Method 1**
+**Method 1 (unusable where det is 0)**
 Where $A=\pmatrix{a&b\\c&d}$ from the simultaneous equations $ax+by=e$ and $cx+dy=f$
 $$A\pmatrix{x\\y}=\pmatrix{e\\f}\implies A^{-1}A\pmatrix{x\\y}=A^{-1}\pmatrix{e\\f}$$
 By multiplying the A inverse with $e,f$ we get values for $x,y$
@@ -9,7 +9,7 @@ The Method can also be expanded to work with $x,y,z$
 
 Note this method can only work if all planes meet at a single point
 
-**Method 2 : Echelon Row Form (where det is 0)**
+**Method 2 : Echelon Row Form (usable where det is 0)**
 Equations can be arranged into an augmented matrix. Here's an example with random numbers
 $$\begin{pmatrix}
     2 & 3 & 5  &\bigm| & 5 \\

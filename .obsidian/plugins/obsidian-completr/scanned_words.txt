@@ -5027,6 +5027,7 @@ Tqk
 Thm
 Techniques
 Targeted
+Truth
 revision
 rule
 rotational
@@ -7726,6 +7727,7 @@ tlG
 todo
 trojan
 tasked
+transposed
 ll
 lot
 languages
@@ -21040,6 +21042,8 @@ NBQ
 Nxb
 NvZV
 NDr
+NAND
+NOR
 And
 ASCII
 American
@@ -21772,6 +21776,7 @@ Adt
 AtU
 Attack
 Ambiguity
+Adjugate
 for
 finding
 function
@@ -29651,6 +29656,8 @@ MRF
 Mec
 Malvertising
 Malware
+Matrix
+Morgan
 give
 generally
 get
